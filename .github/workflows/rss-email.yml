@@ -1,0 +1,31 @@
+name: RSS Email
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "rss/**/*.md"
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Send RSS email
+        env:
+          BASE_SHA: ${{ github.event.before }}
+          HEAD_SHA: ${{ github.sha }}
+          MAIL_HOST: smtp.qq.com
+          MAIL_PORT: "465"
+          MAIL_USER: ${{ secrets.MAIL_USER }}
+          MAIL_PASS: ${{ secrets.MAIL_PASS }}
+          RECEIVER: ${{ secrets.RECEIVER }}
+        run: python notify_rss.py
