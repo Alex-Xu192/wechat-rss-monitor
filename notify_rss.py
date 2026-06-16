@@ -1,4 +1,4 @@
-import os
+﻿import os
 import smtplib
 import subprocess
 from email.mime.text import MIMEText
@@ -10,8 +10,8 @@ MAIL_PASS = os.environ.get("MAIL_PASS")
 RECEIVER = os.environ.get("RECEIVER")
 
 
-def send_email(title, content):
-    msg = MIMEText(content, "plain", "utf-8")
+def send_email(title, html):
+    msg = MIMEText(html, "html", "utf-8")
     msg["From"] = MAIL_USER
     msg["To"] = RECEIVER
     msg["Subject"] = title
@@ -36,16 +36,15 @@ def changed_files():
 
 files = [
     path for path in changed_files()
-    if path.startswith("rss/") and path.endswith(".md") and os.path.exists(path)
+    if path.startswith("rss/") and path.endswith(".html") and os.path.exists(path)
 ]
 
 if not files:
-    print("No RSS markdown files changed.")
+    print("No RSS HTML files changed.")
     raise SystemExit(0)
 
-parts = []
-for path in files:
-    with open(path, "r", encoding="utf-8") as f:
-        parts.append(f"文件：{path}\n\n{f.read()}")
+with open(files[0], "r", encoding="utf-8") as f:
+    html = f.read()
 
-send_email(f"RSS 更新：{len(files)} 篇新文章", "\n\n" + "\n\n---\n\n".join(parts))
+send_email(f"RSS 更新：{len(files)} 个 HTML 汇总文件", html)
+print(f"HTML email sent to {RECEIVER}, files: {len(files)}")
