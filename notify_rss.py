@@ -10,8 +10,8 @@ MAIL_PASS = os.environ.get("MAIL_PASS")
 RECEIVER = os.environ.get("RECEIVER")
 
 
-def send_email(title, html):
-    msg = MIMEText(html, "html", "utf-8")
+def send_email(title, content):
+    msg = MIMEText(content, "plain", "utf-8")
     msg["From"] = MAIL_USER
     msg["To"] = RECEIVER
     msg["Subject"] = title
@@ -36,15 +36,18 @@ def changed_files():
 
 files = [
     path for path in changed_files()
-    if path.startswith("rss/") and path.endswith(".html") and os.path.exists(path)
+    if path.startswith("rss/") and path.endswith(".txt") and os.path.exists(path)
 ]
 
 if not files:
-    print("No RSS HTML files changed.")
+    print("No RSS TXT files changed.")
     raise SystemExit(0)
 
-with open(files[0], "r", encoding="utf-8") as f:
-    html = f.read()
+parts = []
+for path in files:
+    with open(path, "r", encoding="utf-8") as f:
+        parts.append(f"文件：{path}\n\n{f.read()}")
 
-send_email(f"RSS 更新：{len(files)} 个 HTML 汇总文件", html)
-print(f"HTML email sent to {RECEIVER}, files: {len(files)}")
+content = "\n\n==============================\n\n".join(parts)
+send_email(f"RSS 更新：{len(files)} 个 TXT 汇总文件", content)
+print(f"Plain text email sent to {RECEIVER}, files: {len(files)}")

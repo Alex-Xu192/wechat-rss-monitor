@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "rss/**/*.html"
+      - "rss/**/*.txt"
 
 jobs:
   send-email:
@@ -19,7 +19,7 @@ jobs:
         with:
           fetch-depth: 2
 
-      - name: Send RSS HTML email
+      - name: Send RSS plain text email
         env:
           BASE_SHA: ${{ github.event.before }}
           HEAD_SHA: ${{ github.sha }}
