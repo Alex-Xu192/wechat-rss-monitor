@@ -1,0 +1,63 @@
+NYTimes Business 新闻摘要 2026-06-18
+
+【来源】NYTimes Business
+【时间】2026-06-18T18:11:54.727Z - 2026-06-18T20:11:54.727Z
+【数量】5
+
+1. 教育部将学生贷款利率下调两年
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】教育部指出高违约率，将联邦学生贷款的利率在两年内下调，降幅最高一个百分点。
+【依据】该新闻聚焦政府对联邦学生贷款利率的政策调整，属于政府财政与教育领域的政策新闻，未明确涉及上市公司、行业龙头、商品价格或区域性政策对特定股票的直接影响，因此无法判断相关股票的利好或利空。
+【原标题】Education Department Lowers Student Loan Interest Rates for Two Years
+【发布时间】2026-06-18T20:07:52.000Z
+【链接】https://www.nytimes.com/2026/06/18/business/student-loans-interest-rate.html
+
+------------------------------
+
+2. 联邦能源监管委员会寻求限制数据中心与电网之间的冲突
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】联邦能源监管委员会指示电网管理者进行调整，以保护个人消费者免受电费上涨，同时让数据中心更快获得电力。
+【依据】新闻聚焦联邦能源监管委员会对数据中心用电及定价冲突的监管变动，未指明具体上市公司，因此无法判断对任何股票的利好或利空。
+【原标题】Federal Energy Regulator Seeks to Limit Conflicts Over Data Centers
+【发布时间】2026-06-18T19:53:55.000Z
+【链接】https://www.nytimes.com/2026/06/18/business/data-centers-power-regulation.html
+
+------------------------------
+
+3. Penske Media 将收购 Vox Media 的剩余资产
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】交易将使 Popsugar、Eater 等在线刊物与 Rolling Stone、Variety 等媒体同处旗下。
+【依据】报道涉及媒体行业并购信息，但未指明任何具体上市公司或股票代码，因此无法判断对相关股票的利好或利空。
+【原标题】Penske Media Is Buying What’s Left of Vox Media
+【发布时间】2026-06-18T18:38:25.000Z
+【链接】https://www.nytimes.com/2026/06/18/business/media/penske-vox-media.html
+
+------------------------------
+
+4. 沃什希望美联储发出更少的信号，但由此带来风险
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】在凯文·沃什首次以美联储主席身份出席的会议中未提供政策指引后，投资者继续押注更高的借款成本。
+【依据】新闻讨论美联储政策指引及利率路径对市场的潜在影响，未明确提及具体公司或股票，因此无法判断对哪个股票可能构成利好或利空。
+【原标题】Warsh Wants the Fed to Send Fewer Signals. That Comes With Risks.
+【发布时间】2026-06-18T18:28:00.000Z
+【链接】https://www.nytimes.com/2026/06/18/business/federal-reserve-warsh-interest-rates.html
+
+------------------------------
+
+5. 尽管美伊协议，通胀仍将持续，英国官员警告
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】英格兰银行决策者维持利率不变，认为伊朗战争的影响仍是经济前景不确定性的主要来源。
+【依据】新闻涉及英国央行及通胀前景的宏观经济新闻，未指向具体上市公司或行业股票，因此无法判断相关股票的利好或利空。
+【原标题】Inflation Will Linger Despite U.S.-Iran Deal, British Officials Warn
+【发布时间】2026-06-18T18:16:13.000Z
+【链接】https://www.nytimes.com/2026/06/18/business/uk-inflation-bank-of-england.html
