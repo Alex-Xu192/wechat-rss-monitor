@@ -1,0 +1,27 @@
+NYTimes Business 摘要
+
+【来源】NYTimes Business
+【时间】2026-06-18T14:12:54.908Z - 2026-06-18T16:12:54.908Z
+【数量】2
+
+1. 油价在美伊重新开启霍尔木兹海峡协议生效后下跌
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】油价下跌，股市上涨，因为巴基斯坦宣布重新开启霍尔木兹海峡的协议将立即生效。
+【依据】本条新闻未明确涉及任何具体公司、行业、商品以外的政策或地区对单一股票的影响，仅描述油价与股市的宏观反应，因此无法判断相关股票的利好或利空。
+【原标题】Oil Prices Fall as U.S.-Iran Deal to Reopen Hormuz Takes Effect
+【发布时间】2026-06-18T15:38:38.000Z
+【链接】https://www.nytimes.com/2026/06/18/business/oil-gas-prices-iran.html
+
+------------------------------
+
+2. 沃什希望美联储发出更少的信号，这会带来风险。
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】在Kevin Warsh首次担任美联储主席的会议上未提供政策指引，投资者因此押注更高的借款成本。
+【依据】本条新闻未明确涉及任何具体公司、行业、商品以外的政策或地区对单一股票的影响，未指向可交易的具体股票，因此无法判断相关股票的利好或利空。
+【原标题】Warsh Wants the Fed to Send Fewer Signals. That Comes With Risks.
+【发布时间】2026-06-18T15:26:43.000Z
+【链接】https://www.nytimes.com/2026/06/18/business/federal-reserve-warsh-interest-rates.html
