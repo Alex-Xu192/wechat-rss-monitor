@@ -1,0 +1,15 @@
+NYTimes Business 新闻摘要
+
+【来源】NYTimes Business
+【时间】2026-06-18T22:12:29.942Z - 2026-06-19T00:12:29.942Z
+【数量】1
+
+1. 联邦能源监管委员会寻求限制数据中心的利益冲突
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】联邦能源监管委员会指示电网管理者进行调整，以保护个人避免更高的电费，同时让数据中心更快获得电力接入。
+【依据】本文报道的主题是联邦能源监管委员会对数据中心电力接入及成本的监管举措，未点名具体公司，因此无法给出特定股票的利好/利空判断。该新闻更偏向行业/政策层面的影响评估。
+【原标题】Federal Energy Regulator Seeks to Limit Conflicts Over Data Centers
+【发布时间】2026-06-18T22:43:57.000Z
+【链接】https://www.nytimes.com/2026/06/18/business/data-centers-power-regulation.html
