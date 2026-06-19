@@ -1,0 +1,75 @@
+NYTimes Business 摘要（6 条新闻）
+
+【来源】NYTimes Business
+【时间】2026-06-19T08:12:17.069Z - 2026-06-19T10:12:17.069Z
+【数量】6
+
+1. 油价走强，美伊协议面临考验
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】油价仍有望连续第二周下跌，但关于结束战争的协议出现裂缝迹象让交易员谨慎。
+【依据】判断依据：新闻聚焦油价及美伊协议进展对能源市场的潜在影响，若协议推进或受挫，可能影响原油需求与价格走向，从而影响能源相关股票的情绪。
+【原标题】Oil Prices Firm Up as U.S.-Iran Deal Faces Tests
+【发布时间】2026-06-19T09:58:00.000Z
+【链接】https://www.nytimes.com/2026/06/19/business/oil-gas-prices-iran.html
+
+------------------------------
+
+2. 霍尔木兹海峡重开后，船舶谨慎起航
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】希望让被困船只解困的航运公司正面临如水雷和缺乏明确协调等障碍，货物运输将更加谨慎。
+【依据】判断依据：报道聚焦海运与物流风险，这可能影响航运相关行业的股价情绪。
+【原标题】After Deal to Reopen Strait of Hormuz, Ships Begin to Move Cautiously
+【发布时间】2026-06-19T09:52:00.000Z
+【链接】https://www.nytimes.com/2026/06/19/business/iran-us-hormuz-shipping.html
+
+------------------------------
+
+3. 美方协议或将使伊朗重新接入全球经济
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】该国长期承受全球最严厉的制裁，放宽限制有望为贸易和金融准入开启新前景。
+【依据】判断依据：涉及国际制裁与宏观经济，潜在影响包括能源、金融等相关行业，需关注政策变化对相关资产的影响。
+【原标题】How Deal With U.S. Could Reconnect Iran to the Global Economy
+【发布时间】2026-06-19T09:04:03.000Z
+【链接】https://www.nytimes.com/2026/06/19/business/economy/iran-sanctions-oil.html
+
+------------------------------
+
+4. 国会在美加墨贸易谈判升级时感到焦虑
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】随着期中大选临近、谈判升温，一些立法者对谈判走向表示担忧。
+【依据】判断依据：涉及跨境贸易政策与市场预期，可能影响相关行业（制造、运输、供应链等）的股票情绪。
+【原标题】Congress Is Anxious as U.S.-Canada-Mexico Trade Talks Intensify
+【发布时间】2026-06-19T09:02:56.000Z
+【链接】https://www.nytimes.com/2026/06/19/business/usmca-trade-talks-us-canada-mexico.html
+
+------------------------------
+
+5. SpaceX 的真实估值是多少？
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】SpaceX 对火星殖民的深度承诺以及埃隆·马斯克几乎全权控制，使 SpaceX 的股票成为极具投机性的赌注，专栏作者表示。
+【依据】判断依据：文章强调 SpaceX 仍未上市的高度投机性及控制权因素，涉及科技股和风险投资领域的投资风险提醒。
+【原标题】How Much Is SpaceX Really Worth?
+【发布时间】2026-06-19T09:02:03.000Z
+【链接】https://www.nytimes.com/2026/06/19/business/spacex-stock-price.html
+
+------------------------------
+
+6. 科尔比学院介入挽救缅因州濒临灾难的小镇
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】新救世主——科尔比学院在一位建筑巨头资助下，将不仅改变缅因州 Port Clyde 的经济，还将改变其文化与城市面貌。
+【依据】判断依据：新闻聚焦教育机构介入与地方经济影响，尚未给出明确的股票相关性，因此无法判断相关股票表现。
+【原标题】Colby College Is Stepping In to Save a Maine Town on the Brink of Disaster
+【发布时间】2026-06-19T09:00:59.000Z
+【链接】https://www.nytimes.com/2026/06/19/business/colby-college-port-clyde-maine-waterfront.html
