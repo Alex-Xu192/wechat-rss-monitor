@@ -1,0 +1,15 @@
+NYTimes Business 最近新闻摘要
+
+【来源】NYTimes Business
+【时间】2026-06-19T02:11:30.360Z - 2026-06-19T04:11:30.360Z
+【数量】1
+
+1. 你最近买过特斯拉吗？我们想听听你的意见。
+【相关股票】TSLA
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】尽管许多人对特斯拉首席执行官埃隆·马斯克持负面看法，特斯拉在欧洲的销量正在回升。我们想知道原因。
+【依据】新闻未给出直接的股票影响或交易建议，未披露业绩、股价信息、或政策因素，因此无法对相关股票的利好或利空作出明确判断。该报道涉及特斯拉及其在欧洲的销售状况，因此相关股票为 TSLA。
+【原标题】Have You Bought a Tesla Recently? We Want to Hear From You.
+【发布时间】2026-06-19T04:00:24.000Z
+【链接】https://www.nytimes.com/2026/06/19/business/energy-environment/tesla-elon-musk-europe.html
