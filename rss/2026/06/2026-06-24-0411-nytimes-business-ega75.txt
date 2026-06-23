@@ -1,0 +1,59 @@
+NYTimes 商业新闻摘要
+
+【来源】NYTimes Business
+【时间】2026-06-23T18:11:16.261Z - 2026-06-23T20:11:16.261Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 特朗普给卡车司机联合会一个机会，解除旨在抑制涉黑关系的监督
+2. CBS News 的独立监察员在《60 Minutes》风波中保持沉默
+3. 苹果关闭在美国的第一家有工会的门店
+4. 霍尔木兹海峡重新开启，伊朗原油运力仍在流动，但通道仍然复杂
+
+==============================
+
+1. 特朗普给卡车司机联合会一个机会，解除旨在抑制涉黑关系的监督
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】肖恩·M·奥布赖恩重新连任工会领导人，利用与特朗普总统的关系，结束了法院下令的腐败监督。
+【依据】无法确定对具体股票的影响，因为新闻未涉及具体上市公司、行业、商品、地区或政策的直接相关信息。
+【原标题】Trump Gives Teamsters a Chance to Shed Oversight Meant to Curb Mob Ties
+【发布时间】2026-06-23T19:29:07.000Z
+【链接】https://www.nytimes.com/2026/06/23/business/economy/teamsters-justice-sean-obrien.html
+
+------------------------------
+
+2. CBS News 的独立监察员在《60 Minutes》风波中保持沉默
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】在 CBS 新闻因争议陷入风波之际，一些观众转向网络监察员寻求公开回应，但至今仍未得到回应。
+【依据】无法判断对股票的影响，因为新闻未涉及具体股票相关事宜。
+【原标题】CBS News’s Independent Watchdog Stays Quiet Amid ‘60 Minutes’ Turmoil
+【发布时间】2026-06-23T18:54:46.000Z
+【链接】https://www.nytimes.com/2026/06/23/business/media/cbs-news-ombudsman.html
+
+------------------------------
+
+3. 苹果关闭在美国的第一家有工会的门店
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】公司表示因周边商场状况恶化而关闭位于马里兰州的门店；工会指控苹果进行报复。
+【依据】无法判断对股票影响，因为新闻未涉及股价或市场反应等信息。
+【原标题】Apple Just Closed Its First Unionized U.S. Store
+【发布时间】2026-06-23T18:53:22.000Z
+【链接】https://www.nytimes.com/2026/06/23/business/apple-union-store-closure.html
+
+------------------------------
+
+4. 霍尔木兹海峡重新开启，伊朗原油运力仍在流动，但通道仍然复杂
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】霍尔木兹海峡中线通道布满地雷后，船只要通过伊朗水域的北线航道或通过阿曼水域的南线航道，均存在风险。
+【依据】无法判断对股票影响，因为新闻未涉及具体股票、行业、商品或地区的直接股市影响信息。
+【原标题】Strait Reopens and Iranian Oil Flows, But the Path Through Is Complicated
+【发布时间】2026-06-23T18:43:33.000Z
+【链接】https://www.nytimes.com/2026/06/23/business/iran-strait-hormuz-oil-shipping-traffic.html
