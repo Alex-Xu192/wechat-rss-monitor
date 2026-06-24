@@ -1,0 +1,59 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-06-24T14:16:01.295Z - 2026-06-24T16:16:01.295Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Colombia's left-wing presidential candidate concedes defeat
+2. France confirms first Ebola case
+3. Congress passes war powers measure for first time, breaking with Trump over Iran
+4. Kenya to charge students with murder over deadly school fire
+
+==============================
+
+1. Colombia's left-wing presidential candidate concedes defeat
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Senator Iván Cepeda was beaten by right-wing businessman Abelardo de la Espriella by less than a percentage point.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Colombia's left-wing presidential candidate concedes defeat
+【发布时间】2026-06-24T15:50:22.000Z
+【链接】https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. France confirms first Ebola case
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The French doctor had been working in DR Congo, where more than 260 people are known to have died.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】France confirms first Ebola case
+【发布时间】2026-06-24T15:00:52.000Z
+【链接】https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. Congress passes war powers measure for first time, breaking with Trump over Iran
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Experts say Trump is likely to ignore it, but that even though it carries little power, it is politically significant.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Congress passes war powers measure for first time, breaking with Trump over Iran
+【发布时间】2026-06-24T14:57:21.000Z
+【链接】https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+4. Kenya to charge students with murder over deadly school fire
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Sixteen pupils, aged between 15 and 18, died when a fire broke out in a dormitory at Utumishi Girls' School last month.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Kenya to charge students with murder over deadly school fire
+【发布时间】2026-06-24T14:36:42.000Z
+【链接】https://www.bbc.co.uk/news/articles/cwykl517xk7o?at_medium=RSS&at_campaign=rss
