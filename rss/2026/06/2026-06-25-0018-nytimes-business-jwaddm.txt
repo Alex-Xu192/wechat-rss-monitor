@@ -1,0 +1,98 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-24T14:18:28.512Z - 2026-06-24T16:18:28.512Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. Apple Just Closed Its First Unionized U.S. Store
+2. What’s Behind Broadway’s New Musical Drought?
+3. U.S. World Cup Cities Are on a Counterdrone Spending Spree
+4. Norma Yaeger, Barrier-Breaking Stockbroker, Dies at 96
+5. Housing Package Passed by Congress Has Wide Appeal, but It’s No Quick Fix
+6. As Chinese Tech Pulls Ahead, U.S. Fears It Will Become Dependent
+7. Airbus Is Ordered to Inspect 16 Jets After Cracks Are Found in Wings
+
+==============================
+
+1. Apple Just Closed Its First Unionized U.S. Store
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The company said it had shuttered a Maryland location because of “declining conditions” in a surrounding mall. The union accuses Apple of retaliation.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Apple Just Closed Its First Unionized U.S. Store
+【发布时间】2026-06-24T16:15:41.000Z
+【链接】https://www.nytimes.com/2026/06/23/business/apple-union-store-closure.html
+
+------------------------------
+
+2. What’s Behind Broadway’s New Musical Drought?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Hollywood actors in starry plays, skittish investors and gate-keeping theater owners have all contributed to an unusually tough climate for song-and-dance shows.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】What’s Behind Broadway’s New Musical Drought?
+【发布时间】2026-06-24T16:08:22.000Z
+【链接】https://www.nytimes.com/2026/06/24/theater/broadway-new-musical-theater.html
+
+------------------------------
+
+3. U.S. World Cup Cities Are on a Counterdrone Spending Spree
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】FEMA has given cities and states $250 million to protect the World Cup from airborne threats. That equipment will remain in place after the tournament.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】U.S. World Cup Cities Are on a Counterdrone Spending Spree
+【发布时间】2026-06-24T16:07:18.000Z
+【链接】https://www.nytimes.com/2026/06/24/business/us-world-cup-cities-are-on-a-counterdrone-spending-spree.html
+
+------------------------------
+
+4. Norma Yaeger, Barrier-Breaking Stockbroker, Dies at 96
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Over her husband’s objections, she became a Wall Street broker in the 1960s. She later started two securities firms in the overwhelmingly male financial world.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Norma Yaeger, Barrier-Breaking Stockbroker, Dies at 96
+【发布时间】2026-06-24T15:45:22.000Z
+【链接】https://www.nytimes.com/2026/06/24/business/norma-yaeger-dead.html
+
+------------------------------
+
+5. Housing Package Passed by Congress Has Wide Appeal, but It’s No Quick Fix
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The first housing package in decades will take time to put into effect, testing the patience of families rankled by high prices.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Housing Package Passed by Congress Has Wide Appeal, but It’s No Quick Fix
+【发布时间】2026-06-24T15:17:35.000Z
+【链接】https://www.nytimes.com/2026/06/24/business/housing-package-congress-midterms.html
+
+------------------------------
+
+6. As Chinese Tech Pulls Ahead, U.S. Fears It Will Become Dependent
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Chinese firms have some of the world’s most advanced technology. But U.S. officials say relying on it could come with a downside.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】As Chinese Tech Pulls Ahead, U.S. Fears It Will Become Dependent
+【发布时间】2026-06-24T14:42:07.000Z
+【链接】https://www.nytimes.com/2026/06/23/business/economy/china-megafactory-us-tech-race.html
+
+------------------------------
+
+7. Airbus Is Ordered to Inspect 16 Jets After Cracks Are Found in Wings
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The European Union’s chief aviation regulator ordered five A380 superjumbo jets to be grounded immediately.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Airbus Is Ordered to Inspect 16 Jets After Cracks Are Found in Wings
+【发布时间】2026-06-24T14:38:38.000Z
+【链接】https://www.nytimes.com/2026/06/24/business/airbus-a380-wing-cracks-inspection.html
