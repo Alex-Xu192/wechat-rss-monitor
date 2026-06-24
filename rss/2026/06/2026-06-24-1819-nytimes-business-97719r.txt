@@ -1,0 +1,111 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-24T08:19:13.625Z - 2026-06-24T10:19:13.625Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. Welcome to the Luxury City Built by Taiwan’s A.I. Boom
+2. A.I. Riches Fuel Economic Divide in Asia’s Chip Powerhouses
+3. Housing Package Passed by Congress Has Wide Appeal, but It’s No Quick Fix
+4. Your Home Could Help Solve AI’s Growing Power Demand
+5. Another Spirit of ’76: George Washington’s Whiskey
+6. U.S. World Cup Cities Are on a Counterdrone Spending Spree
+7. What’s Behind Broadway’s New Musical Drought?
+8. Asia Tech Shares Swing Wildly as A.I. Jitters Persist
+
+==============================
+
+1. Welcome to the Luxury City Built by Taiwan’s A.I. Boom
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Fortunes, luxury buildings and birthrates are rising in the city at the center of Taiwan’s chip supply chain.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 4300 (line 86 column 35)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Welcome to the Luxury City Built by Taiwan’s A.I. Boom
+【发布时间】2026-06-24T09:47:41.000Z
+【链接】https://www.nytimes.com/2026/06/24/business/taiwan-chips-boom.html
+
+------------------------------
+
+2. A.I. Riches Fuel Economic Divide in Asia’s Chip Powerhouses
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A.I. demand is driving stock market gains and booming exports in South Korea and Taiwan. But the rest of the economy is being left behind.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 4300 (line 86 column 35)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】A.I. Riches Fuel Economic Divide in Asia’s Chip Powerhouses
+【发布时间】2026-06-24T09:47:24.000Z
+【链接】https://www.nytimes.com/2026/06/24/business/taiwan-korea-ai-chips.html
+
+------------------------------
+
+3. Housing Package Passed by Congress Has Wide Appeal, but It’s No Quick Fix
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The first housing package in decades will take time to put into effect, testing the patience of families rankled by high prices.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 4300 (line 86 column 35)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Housing Package Passed by Congress Has Wide Appeal, but It’s No Quick Fix
+【发布时间】2026-06-24T09:02:19.000Z
+【链接】https://www.nytimes.com/2026/06/24/business/housing-package-congress-midterms.html
+
+------------------------------
+
+4. Your Home Could Help Solve AI’s Growing Power Demand
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Tesla, Sunrun and Renew Home plan to tap solar panels, batteries, thermostats and other devices installed in millions of homes to meet the energy demands of artificial intelligence.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 4300 (line 86 column 35)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Your Home Could Help Solve AI’s Growing Power Demand
+【发布时间】2026-06-24T09:02:13.000Z
+【链接】https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html
+
+------------------------------
+
+5. Another Spirit of ’76: George Washington’s Whiskey
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A lesser-known legacy of the first president is his Mount Vernon distillery, whose return has helped revive an interest in American whiskey.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 4300 (line 86 column 35)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Another Spirit of ’76: George Washington’s Whiskey
+【发布时间】2026-06-24T09:02:02.000Z
+【链接】https://www.nytimes.com/2026/06/24/dining/drinks/george-washington-rye-whiskey.html
+
+------------------------------
+
+6. U.S. World Cup Cities Are on a Counterdrone Spending Spree
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】FEMA has given cities and states $250 million to protect the World Cup from airborne threats. That equipment will remain in place after the tournament.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 4300 (line 86 column 35)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】U.S. World Cup Cities Are on a Counterdrone Spending Spree
+【发布时间】2026-06-24T09:00:58.000Z
+【链接】https://www.nytimes.com/2026/06/24/business/us-world-cup-cities-are-on-a-counterdrone-spending-spree.html
+
+------------------------------
+
+7. What’s Behind Broadway’s New Musical Drought?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Hollywood actors in starry plays, skittish investors and gate-keeping theater owners have all contributed to an unusually tough climate for song-and-dance shows.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 4300 (line 86 column 35)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】What’s Behind Broadway’s New Musical Drought?
+【发布时间】2026-06-24T09:00:25.000Z
+【链接】https://www.nytimes.com/2026/06/24/theater/broadway-new-musical-theater.html
+
+------------------------------
+
+8. Asia Tech Shares Swing Wildly as A.I. Jitters Persist
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The turbulence in Asia’s chip-dominated stock markets highlighted how heavily global equities have come to depend on enthusiasm for artificial intelligence.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 4300 (line 86 column 35)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Asia Tech Shares Swing Wildly as A.I. Jitters Persist
+【发布时间】2026-06-24T08:37:13.000Z
+【链接】https://www.nytimes.com/2026/06/24/business/stocks-oil-gas-prices.html
