@@ -1,0 +1,72 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-24T10:18:24.690Z - 2026-06-24T12:18:24.690Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Burnham计划将十号办公室部分operations搬至曼彻斯特
+2. 中国以涉嫌稀土走私为由逮捕两名日本公民
+3. 随着气温升高，英国电网运营商呼吁增加电力供应
+4. 达索公司在欧盟法律诉讼中获胜，主张私人飞机可实现环保可持续性
+5. 欧盟将批准派万尼斯收购华纳兄弟的1110亿美元交易
+
+==============================
+
+1. Burnham计划将十号办公室部分operations搬至曼彻斯特
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】计划标志着尝试将权力中心从威斯敏斯特城转移的激进举措
+【依据】文章讨论英国政府部门的 relocate 计划，未提及具体公司或股票。
+【原标题】Burnham looks to move part of Number 10 operations to Manchester
+【发布时间】2026-06-24T11:43:38.000Z
+【链接】https://www.ft.com/content/f3044cb3-081b-49e3-a79a-dbff0a4e7163
+
+------------------------------
+
+2. 中国以涉嫌稀土走私为由逮捕两名日本公民
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】此次与东京的争端升级， coinciding with 北京为打击critical mineral 出口违规行为而开通举报热线
+【依据】文章描述中英关系紧张，涉及稀土行业但未提及具体公司股票。
+【原标题】China detains two Japanese nationals over alleged rare earth smuggling
+【发布时间】2026-06-24T11:42:48.000Z
+【链接】https://www.ft.com/content/8ee73655-7386-4ee9-9b2f-fca3de7fefed
+
+------------------------------
+
+3. 随着气温升高，英国电网运营商呼吁增加电力供应
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】极端热浪增加了对电力的需求，同时降低了太阳能板的效率
+【依据】文章讨论能源需求，未明确提及特定公司或股票代号。
+【原标题】Britain's grid operator calls for more electricity as temperatures soar
+【发布时间】2026-06-24T10:52:39.000Z
+【链接】https://www.ft.com/content/e06a95bb-f592-4abe-a58e-e314075b9db9
+
+------------------------------
+
+4. 达索公司在欧盟法律诉讼中获胜，主张私人飞机可实现环保可持续性
+【相关股票】DSY.PA
+【利好股票】DSY.PA
+【利空股票】无法判断
+【摘要】欧洲法院裁定，反对布鲁塞尔为新的绿色规定排除商务飞机的做法
+【依据】文章明确提及 Dassault 公司（法股DSY.PA），有关私人飞机环保政策的裁决对其具有积极影响。
+【原标题】Dassault wins EU legal claim that private jets can be environmentally sustainable
+【发布时间】2026-06-24T10:44:15.000Z
+【链接】https://www.ft.com/content/d8c576ea-4e50-4e46-9e8e-ae7d467c6a4c
+
+------------------------------
+
+5. 欧盟将批准派万尼斯收购华纳兄弟的1110亿美元交易
+【相关股票】PAR
+【利好股票】PAR
+【利空股票】无法判断
+【摘要】戴维·埃利森的传媒集团正与布鲁塞尔商讨解决方案，以顺利通过关键监管障碍
+【依据】文章提及派万尼斯（Paramount Global股价简称PAR）收购华纳兄弟，监管获批有利于收购方。
+【原标题】EU set to clear Paramount's $111bn takeover of Warner Bros
+【发布时间】2026-06-24T10:29:30.000Z
+【链接】https://www.ft.com/content/cc492e06-0272-4ffa-a025-990b513048dd
