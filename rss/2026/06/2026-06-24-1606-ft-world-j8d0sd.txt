@@ -1,0 +1,59 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-24T06:06:09.732Z - 2026-06-24T08:06:09.732Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Segro rejects £12.6bn takeover bid from US rival Prologis
+2. Bank of Japan’s summary of opinions shows support for further rate rises
+3. South Korea stock volatility hits record high amid AI doubts
+4. Darren Jones says Burnham understands fiscal rules as he rules out leadership bid
+
+==============================
+
+1. Segro rejects £12.6bn takeover bid from US rival Prologis
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UK landlord’s shares jump almost a fifth after its suitor urges shareholders to pressure the board to engage
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Segro rejects £12.6bn takeover bid from US rival Prologis
+【发布时间】2026-06-24T07:53:54.000Z
+【链接】https://www.ft.com/content/9281a3dc-c3c5-4f31-b82e-15440954e9e3
+
+------------------------------
+
+2. Bank of Japan’s summary of opinions shows support for further rate rises
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Policymakers worried about upside risks to inflation but most did not see a case to accelerate tightening
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Bank of Japan’s summary of opinions shows support for further rate rises
+【发布时间】2026-06-24T07:14:24.000Z
+【链接】https://www.ft.com/content/997703be-4d36-4089-9c23-b12c9817d1f8
+
+------------------------------
+
+3. South Korea stock volatility hits record high amid AI doubts
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Shares of chipmakers Samsung and SK Hynix gyrate in choppy trading
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】South Korea stock volatility hits record high amid AI doubts
+【发布时间】2026-06-24T06:45:55.000Z
+【链接】https://www.ft.com/content/f17f318c-ec77-433c-be79-fce191bd78d5
+
+------------------------------
+
+4. Darren Jones says Burnham understands fiscal rules as he rules out leadership bid
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Former Treasury minister says prospective prime minister has reassured him over economic plans
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Darren Jones says Burnham understands fiscal rules as he rules out leadership bid
+【发布时间】2026-06-24T06:38:02.000Z
+【链接】https://www.ft.com/content/7eb32c5d-6473-439d-8846-6b341fc6775e
