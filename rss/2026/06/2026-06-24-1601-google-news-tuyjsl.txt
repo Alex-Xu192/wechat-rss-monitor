@@ -1,0 +1,98 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-24T06:01:30.060Z - 2026-06-24T08:01:30.060Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. Live Updates: Trump says Iran "completely agreed" to nuclear inspections, but Tehran denies any such plans - CBS News
+2. Jesse James' Wife Bonnie Rotten Charged in Domestic Violence Case - TMZ
+3. China takes US crown on ranking of world’s fastest supercomputers - Al Jazeera
+4. Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech
+5. 2026 NBA draft: Round 1 winners, surprise picks, questions - ESPN
+6. Senate votes to block Trump from resuming Iran war - The Washington Post
+7. New York primaries: three Mamdani allies clinch Democratic nominations and Kennedy heir loses to self-confessed ‘nerd’ – as it happened - The Guardian
+
+==============================
+
+1. Live Updates: Trump says Iran "completely agreed" to nuclear inspections, but Tehran denies any such plans - CBS News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Live Updates: Trump says Iran "completely agreed" to nuclear inspections, but Tehran denies any such plans  CBS News
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Live Updates: Trump says Iran "completely agreed" to nuclear inspections, but Tehran denies any such plans - CBS News
+【发布时间】2026-06-24T07:20:00.000Z
+【链接】https://news.google.com/rss/articles/CBMijwFBVV95cUxNN0dINFdQeTZ4QmpjV3I3UVB4ejlkdHRvNVdSeGZFNHRjNEhMYURFdi11dFhtLU1PbDk0M2lTeWxBdjE2MnY3b09Kd2tnR1dZZTJaZlNJOWRRLWN5RDZTdWlvb2ZzR2xGZHBXblgtQmtqN0doYzBsRWo3UzF2dWZQX2N4dkRCbzVTX2VDRkNkQQ?oc=5
+
+------------------------------
+
+2. Jesse James' Wife Bonnie Rotten Charged in Domestic Violence Case - TMZ
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Jesse James' Wife Bonnie Rotten Charged in Domestic Violence Case  TMZ
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Jesse James' Wife Bonnie Rotten Charged in Domestic Violence Case - TMZ
+【发布时间】2026-06-24T07:00:41.000Z
+【链接】https://news.google.com/rss/articles/CBMikAFBVV95cUxPZUlxTDI4WHJjc2dMcDNMdDhOd0kzVzdLcnZUTnRQbVE3QlptTFloM1U1cDhYaVpMbnk4ZmRiSzF1ajlMWXlKOWItTTJ4NXUxSXlNVERQcnVNNHRXRGRseXRsaVh5QXVCR1B2Wnh1bWZQMkdTNUxzUWY5Qjd1dXVmdzhsMUlZWDNkZHV6UUtiYmc?oc=5
+
+------------------------------
+
+3. China takes US crown on ranking of world’s fastest supercomputers - Al Jazeera
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】China takes US crown on ranking of world’s fastest supercomputers  Al Jazeera
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】China takes US crown on ranking of world’s fastest supercomputers - Al Jazeera
+【发布时间】2026-06-24T06:39:02.000Z
+【链接】https://news.google.com/rss/articles/CBMingFBVV95cUxQblpQckMtb0NpcXVJcjMwWWhPN1huRFlGa3VOamdNVDBldUc0UlJjZi1qUDFJVnI4eEh4LWYwZFNwUGpfYWIxeVoxLTJVNE9zZ3dpX3hUSFVRbG9wdFFQZklyY2RGbnh5MlJDbFhORXJUTDNfMkJzODliaC1pQXM4Ynd5bjh2aEZaaUZhTVEzNDNkdTlPMXZVcUdicXBDUdIBowFBVV95cUxNQTllZG5YUHNRVHZ1VHNCNzVSbzdaZTV1eXYzTjRSLUZKSkdQMklXNjROUHZ2ZFdQMHJDUF9OWldfc0p6ZUoxNGNGTFN2YmpqXzRHZ3NHUVc1eUN5STJyUG41Qjg3NElpekIzeDM3M1dWaW0zMHVlRnBJeFpFLWlON2trNDlBNDZlVE51d0lkT3VIOHIwV1o4MUdwNkFPOUxJLUdB?oc=5
+
+------------------------------
+
+4. Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now  Yahoo Tech
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech
+【发布时间】2026-06-24T06:30:00.000Z
+【链接】https://news.google.com/rss/articles/CBMilwJBVV95cUxQX25wc1g5cUxWYVhweFQzY19Za1VSbFEwb2tqQ0I3U0pZaElncTZVb0NueTBrVDRCUDdxSzhpUEs3Vm5hcjFPSmx1S3JTNmUxRV9jQ25SUDNGemhiY1pUd01hLWlNMGZNOTZXcXZzTVBRWVZWakg4eHY3cjhQY21BRHpIODJ0OGUtX0tWMDl4R1BIaUpHa0hJQ21GZlhKeldsbWt4N0pKZFRUNi03bVJoUVktNzFxM0xsOHdLUl9SdEh5MzRPSWgzUFVYbkRHS1pudHpZSGZ4UEpvdV9WYVY0NFpXZ0x6NDhCYnhNZ3BvckVKSnVaR1hDS0o4SFhzaWxKdUJ1RVkxenZFUGk1cElaOHhqV21GR2M?oc=5
+
+------------------------------
+
+5. 2026 NBA draft: Round 1 winners, surprise picks, questions - ESPN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】2026 NBA draft: Round 1 winners, surprise picks, questions  ESPN
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】2026 NBA draft: Round 1 winners, surprise picks, questions - ESPN
+【发布时间】2026-06-24T06:30:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiywFBVV95cUxPbVh3emFGSDRhamhoWExJUWx6R0xHYXo4NTJfVnFoUjYtMnZQQ25SOEtFOWgtM3FSTVFOM0tuaG1BYVFvaDFxclNqTjVyLTRZTldCU041Z29kMkVOUnJFbTJkOS1TYjBlaW5kb1Y3VUxtdU5XNkN2MTVtR0FVcHlnenRQSE5EQkZMZkVfVDkwWnZ4bzhRZXB1TDBiR2xIMk9na2VHY0I5eHd3QklMTVpyck04TWpnd3ZBeWQzUXdlZVZNRk5EcEJOYmQ1RQ?oc=5
+
+------------------------------
+
+6. Senate votes to block Trump from resuming Iran war - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Senate votes to block Trump from resuming Iran war  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Senate votes to block Trump from resuming Iran war - The Washington Post
+【发布时间】2026-06-24T06:24:44.000Z
+【链接】https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVNqMkhUZVEwbG5EdFpXVm5WLWVtMHZJeW1lZFZhUmJYMTBiM2VCY0lGTnR4UjQ2ZEc1djlHVS1uQ1VVaUlQQVFTNVoySC1OamNVM0FZUnRhOFpQNXBJaWZCc1BLUHRueEplalE1ZmNCbllEZzZNQ2k0NmdQYkZsRUhvVDl6bUMwZ29IdUlVdElxcXpITVVaQklR?oc=5
+
+------------------------------
+
+7. New York primaries: three Mamdani allies clinch Democratic nominations and Kennedy heir loses to self-confessed ‘nerd’ – as it happened - The Guardian
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】New York primaries: three Mamdani allies clinch Democratic nominations and Kennedy heir loses to self-confessed ‘nerd’ – as it happened  The Guardian
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】New York primaries: three Mamdani allies clinch Democratic nominations and Kennedy heir loses to self-confessed ‘nerd’ – as it happened - The Guardian
+【发布时间】2026-06-24T06:23:08.000Z
+【链接】https://news.google.com/rss/articles/CBMizAFBVV95cUxOTVZlejVkdm91SVJwbllyOUVaRzJqQ3M1WEY3WDFiMEhPQzBVTGxHd2F6d3ZDNHBGM1RNQ0dQdk5BSlRoTk9KSXg4RkhDNWE4MnJ2WnRnSmRGMVZBcVNjNkJ2ZTdIZFJrZHQ2LTRWWllFdnlQUkJORmJMdkJPQnoyQzhSZmRDZ2JuVThJbnhnRDB2V1BIbG4zTVJJOUd1NV9Pc3Z5NU1qZnNiNUNaNmhXUERZU0lQaGZ3bnRLWEdxN2swaFM0NHBQdEd1cU4?oc=5
