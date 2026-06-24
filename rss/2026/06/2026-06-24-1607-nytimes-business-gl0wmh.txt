@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-24T06:07:06.578Z - 2026-06-24T08:07:06.578Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Alibaba Sues Pentagon Over China Military Label
+2. As Chinese Tech Pulls Ahead, U.S. Fears It Will Become Dependent
+3. Asia Tech Shares Swing Wildly as A.I. Jitters Persist
+
+==============================
+
+1. Alibaba Sues Pentagon Over China Military Label
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Chinese tech giant said it had no ties to China’s military and that the U.S. government had violated the law by making that claim.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Alibaba Sues Pentagon Over China Military Label
+【发布时间】2026-06-24T07:57:40.000Z
+【链接】https://www.nytimes.com/2026/06/24/business/alibaba-pentagon-lawsuit.html
+
+------------------------------
+
+2. As Chinese Tech Pulls Ahead, U.S. Fears It Will Become Dependent
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Chinese firms have some of the world’s most advanced technology. But U.S. officials say relying on it could come with a downside.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】As Chinese Tech Pulls Ahead, U.S. Fears It Will Become Dependent
+【发布时间】2026-06-24T07:07:13.000Z
+【链接】https://www.nytimes.com/2026/06/23/business/economy/china-megafactory-us-tech-race.html
+
+------------------------------
+
+3. Asia Tech Shares Swing Wildly as A.I. Jitters Persist
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The turbulence in Asia’s chip-dominated stock markets highlighted how heavily global equities have come to depend on enthusiasm for artificial intelligence.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Asia Tech Shares Swing Wildly as A.I. Jitters Persist
+【发布时间】2026-06-24T06:27:35.000Z
+【链接】https://www.nytimes.com/2026/06/24/business/stocks-oil-gas-prices.html
