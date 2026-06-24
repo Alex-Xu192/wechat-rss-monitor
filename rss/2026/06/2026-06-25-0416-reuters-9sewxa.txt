@@ -1,0 +1,46 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-06-24T18:16:48.356Z - 2026-06-24T20:16:48.356Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Journalism is rearranging the deckchairs. It needs to reinvent itself.
+2. My all-time favourite image: Mamenchisaurus hochuanensis
+3. Introducing the Bruce short
+
+==============================
+
+1. Journalism is rearranging the deckchairs. It needs to reinvent itself.
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Journalism is in crisis, but technology tweaks and business-model fixes won’t solve the deeper problem. The core question is what journalism is for: helping people make good decisions with practical, trustworthy information. That means shifting from an audience mindset to a community mindset, and building real two-way relationships instead of relying on old print-era assumptions. [werd.io]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Journalism is rearranging the deckchairs. It needs to reinvent itself.
+【发布时间】2026-06-24T19:20:09.000Z
+【链接】https://flipso.com/p/c9i6m2hcu?ref=rss
+
+------------------------------
+
+2. My all-time favourite image: Mamenchisaurus hochuanensis
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A high-resolution stitched image of the rearing cast skeleton of Mamenchisaurus hochuanensis from Wollaton Hall’s 2017 Dinosaurs of China exhibition. The post explains how the photos were assembled into a giant panorama and recommends viewing it full-screen for the full effect. [svpow.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】My all-time favourite image: Mamenchisaurus hochuanensis
+【发布时间】2026-06-24T19:00:08.000Z
+【链接】https://flipso.com/p/cpti5rg2s?ref=rss
+
+------------------------------
+
+3. Introducing the Bruce short
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Permanent Style launches the Bruce short, a continuation of its Bruce chinos, with the same sizing and fabric feel in beige, khaki, and navy. The post explains the fit, inseam, leg opening, sizing guidance, and styling examples, plus a product summary and size chart. [permanentstyle.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Introducing the Bruce short
+【发布时间】2026-06-24T18:40:32.000Z
+【链接】https://flipso.com/p/ns53hljco?ref=rss
