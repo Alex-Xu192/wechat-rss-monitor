@@ -1,0 +1,98 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-24T14:17:54.388Z - 2026-06-24T16:17:54.388Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. Britain’s grid operator called for more electricity as temperatures soar
+2. Trump scraps signing of US housing affordability bill
+3. The emigrants Israel can’t afford to lose
+4. Red alerts across UK and Europe as heatwave takes a grip
+5. Colombia’s ‘El Tigre’ aims to mimic rightwing firebrands Milei and Bukele
+6. 1776 and all that — the making and remaking of the Declaration of Independence
+7. Train in fatal UK crash passed red signal, investigators say
+
+==============================
+
+1. Britain’s grid operator called for more electricity as temperatures soar
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Extreme heat increases demand for power and reduces efficiency of solar panels
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Britain’s grid operator called for more electricity as temperatures soar
+【发布时间】2026-06-24T16:04:25.000Z
+【链接】https://www.ft.com/content/e06a95bb-f592-4abe-a58e-e314075b9db9
+
+------------------------------
+
+2. Trump scraps signing of US housing affordability bill
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Bipartisan legislation is designed to boost supply and curb institutional investors’ role in property market
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump scraps signing of US housing affordability bill
+【发布时间】2026-06-24T15:55:59.000Z
+【链接】https://www.ft.com/content/771adcdd-03e9-4c59-9bf1-49b3a52cc2bd
+
+------------------------------
+
+3. The emigrants Israel can’t afford to lose
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Those inclined to leave are the ones sustaining what’s left of the country’s liberal democracy
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The emigrants Israel can’t afford to lose
+【发布时间】2026-06-24T15:49:54.000Z
+【链接】https://www.ft.com/content/ad7e267e-1878-423d-ae21-731e1dfafe45
+
+------------------------------
+
+4. Red alerts across UK and Europe as heatwave takes a grip
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】‘London is cooking’, says UN secretary-general, as temperatures reach a new record for June
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Red alerts across UK and Europe as heatwave takes a grip
+【发布时间】2026-06-24T15:33:27.000Z
+【链接】https://www.ft.com/content/ceca43a1-a514-416c-a75e-e069afe58071
+
+------------------------------
+
+5. Colombia’s ‘El Tigre’ aims to mimic rightwing firebrands Milei and Bukele
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】President-elect Abelardo de la Espriella wants to take a chainsaw to the state and build mega-prisons in the Amazon
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Colombia’s ‘El Tigre’ aims to mimic rightwing firebrands Milei and Bukele
+【发布时间】2026-06-24T15:31:26.000Z
+【链接】https://www.ft.com/content/d4742b43-0bc3-4d01-824f-c6e6760e53f2
+
+------------------------------
+
+6. 1776 and all that — the making and remaking of the Declaration of Independence
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ahead of its 250th anniversary, four new books examine how America’s founding document has been repurposed over time — and why it remains contested today
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】1776 and all that — the making and remaking of the Declaration of Independence
+【发布时间】2026-06-24T15:03:20.000Z
+【链接】https://www.ft.com/content/67549d42-5dc0-4e28-9ae7-77657f107504
+
+------------------------------
+
+7. Train in fatal UK crash passed red signal, investigators say
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Brakes were applied nine seconds before the impact but it slowed only from 75mph to 49mph
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Train in fatal UK crash passed red signal, investigators say
+【发布时间】2026-06-24T14:45:32.000Z
+【链接】https://www.ft.com/content/04d263e6-65ac-4414-a17b-771571704b0f
