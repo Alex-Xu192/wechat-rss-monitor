@@ -1,0 +1,85 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-24T10:16:29.233Z - 2026-06-24T12:16:29.233Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. Prime Day is here: We found 65+ deals to shop from Apple, Lego, Sony, and more - Mashable
+2. Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech
+3. Stock market today: S&P 500, Nasdaq eye rebound from tech rout with Micron in focus - Yahoo Finance
+4. As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo - Unicef
+5. More heat records expected as deadly 'Omega' heatwave grips Europe - Reuters
+6. Congress passes big housing bill with bipartisan support - Axios
+
+==============================
+
+1. Prime Day is here: We found 65+ deals to shop from Apple, Lego, Sony, and more - Mashable
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Prime Day is here: We found 65+ deals to shop from Apple, Lego, Sony, and more  Mashable
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Prime Day is here: We found 65+ deals to shop from Apple, Lego, Sony, and more - Mashable
+【发布时间】2026-06-24T12:09:10.000Z
+【链接】https://news.google.com/rss/articles/CBMicEFVX3lxTE9sNEJCMENYTG1ZQ0J0MnBZRHBuOEpfTkdGenplWGRBaC0zMTF2SmNlZDRFN1BoX2hYMzQ1ZDNJTnJkV19ScnBBZFgyU08wUUdWeFo4ckY5U1J0QmFJVDVsXzl4cDRZclMxY1JCa1NnakE?oc=5
+
+------------------------------
+
+2. Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now  Yahoo Tech
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech
+【发布时间】2026-06-24T11:59:05.000Z
+【链接】https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYW1GQnZINFR6MUVPY2xyUlEwSVVNMzJkRGU4XzJybS1VS1dhT2taTHk1T3RkX0FkbWpWRVpnNGUtZGpvMmlfNmFwVmtQVUp0VHFCbFl3cDdHX1JfY1BmOEFYakxmYUh5ckhyZnN0c3NwcWhKWFpVZ0hYUDR4amVUVFdKbnlSNVpzWF9IcGp1UHY0NFJQWEw0XzRWQXVTaU5VcUV6cEpnTVdYTURYSmVUY3pKYklmUWk3VDlhbkFxbVdfdTdSV1Nidi1fenVYTHNhaDk2LWhxTjBFaXMzV1lSX2tGYlNEdTM0?oc=5
+
+------------------------------
+
+3. Stock market today: S&P 500, Nasdaq eye rebound from tech rout with Micron in focus - Yahoo Finance
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock market today: S&P 500, Nasdaq eye rebound from tech rout with Micron in focus  Yahoo Finance
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Stock market today: S&P 500, Nasdaq eye rebound from tech rout with Micron in focus - Yahoo Finance
+【发布时间】2026-06-24T11:53:01.000Z
+【链接】https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUlTS3FxMWw0MWpkbW9ZMHlFTERzN1VqTmRTY1Q3dmY3UElsZzFybEtJdmhBalJ0ZkVKUm9uOVQ2TXRGdzAyWUNnR09lRmwxNXphZWp5V2I0TVpMaFlmMHh2NjdoVGJLZy1maEZ4ckZESnZzaWVvZW9HVmRQV04tQ2pHdVRRWnNjOTBPT2JpNnFzb3dfUWt1d0tXelI2Z0NiUFowYy1nMGE5VGZYMncxbmY5TDBWMlhtWDcxd1ZKVTBUWFpoMGZ4dy1sVnBENHM?oc=5
+
+------------------------------
+
+4. As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo - Unicef
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo  Unicef
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】As Ebola cases hit 1,000, almost 3 million children and adolescents face rising risks in eastern DR Congo - Unicef
+【发布时间】2026-06-24T11:24:43.000Z
+【链接】https://news.google.com/rss/articles/CBMiugFBVV95cUxPS1VWOFBpakxjY1NDaWhlUWZhdFBZeVNxdnpsTFlxR2NfLWczZkwtOVNES3hUTHM0ay1HTG41U1NRdk92YXVJNDM3NlkyOG9OdTIxQWpTYldsanQ1R2V0UnU5dFVuSS13MjVtajJscFdvTHZNcnF1RzloWTUyYjY2NUlIWkdRa2dUNjAwNlZCQXJrVXVZUHNudmFMUXNXOFk3ODU0SVdlWUJxMmFnalBMV2hEM0c2Yk9sRGc?oc=5
+
+------------------------------
+
+5. More heat records expected as deadly 'Omega' heatwave grips Europe - Reuters
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】More heat records expected as deadly 'Omega' heatwave grips Europe  Reuters
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】More heat records expected as deadly 'Omega' heatwave grips Europe - Reuters
+【发布时间】2026-06-24T11:04:30.000Z
+【链接】https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTERrbjlFVzNORXBHVmlhbHQxTkxaaVBPZUNuRGZVa2FmRGozVk9YZzVvb25NVXJqd0JnZ3pxSlhhQ2xZUElQLW5OeWRpQUFOWHJBNEpjMC00MnR4YlFXVUp3TVVva0g4VG9yWF9iNlVqMDRyeDJjVFJOTmNWNDh4ZGV1Y01xa3ZseWZaWEtQWXlpR3hSeHFHTENjQ09hb1lKRXhEQ3hac2RUbW5fRE9qWnRmUXBGR25yTDhtZGZodk5fRFU?oc=5
+
+------------------------------
+
+6. Congress passes big housing bill with bipartisan support - Axios
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Congress passes big housing bill with bipartisan support  Axios
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Congress passes big housing bill with bipartisan support - Axios
+【发布时间】2026-06-24T10:57:51.000Z
+【链接】https://news.google.com/rss/articles/CBMidkFVX3lxTE5ueXNNbnFaUjBBSVl1amFlQ3FvSFZqbHR1S096X25qc0IwS2RQQ2QtakVTUDVxYVU4Wk9xTzB5cWs3YlRPcGJ4V0NpOTVmWW1SQlpLYTlDVkpoZm93cnRFN1c5aXl2Smw4cmhtOXlKdGNSRTAzdHc?oc=5
