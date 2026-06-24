@@ -1,0 +1,46 @@
+BBC World RSS 摘要
+
+【来源】BBC World
+【时间】2026-06-23T22:10:22.284Z - 2026-06-24T00:10:22.284Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 德国铁路网因IT故障在全国范围内暂停运行
+2. 阿里巴巴就美国防务黑名单起诉政府
+3. 斯坦福是他们的黄金票——AI 能帮助还是阻碍？
+
+==============================
+
+1. 德国铁路网因IT故障在全国范围内暂停运行
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】德国铁路公司 Deutsche Bahn 不得不在全国范围内暂停列车运营超过两个半小时。
+【依据】理由：新闻仅涉及德国铁路行业及国有企业运营，未明确涉及上市公司、商品价格、地区或相关政策的直接股票影响，因此相关股票无法判断。
+【原标题】Germany rail network halted nationwide due to IT malfunction
+【发布时间】2026-06-23T23:46:01.000Z
+【链接】https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 阿里巴巴就美国防务黑名单起诉政府
+【相关股票】Alibaba
+【利好股票】无法判断
+【利空股票】Alibaba
+【摘要】阿里巴巴在被列入与中国军方有联系的企业名单后，正在起诉美国国防部。
+【依据】理由：新闻明确涉及阿里巴巴及美国防务黑名单的法律诉讼事件，可能影响阿里巴巴及相关科技股的市场情绪，故相关股票为 ['Alibaba']，负面股票为 ['Alibaba']，正面股票为 ['无法判断']。
+【原标题】Chinese e-commerce giant Alibaba sues US government over defence blacklist
+【发布时间】2026-06-23T23:25:07.000Z
+【链接】https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. 斯坦福是他们的黄金票——AI 能帮助还是阻碍？
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】BBC 采访了斯坦福大学毕业生，了解他们对人工智能的真实看法。
+【依据】理由：新闻没有涉及具体上市公司、行业龙头、商品、地区或政策，因此相关股票无法判断。
+【原标题】Stanford was their golden ticket - could AI help or hinder that?
+【发布时间】2026-06-23T23:16:37.000Z
+【链接】https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss
