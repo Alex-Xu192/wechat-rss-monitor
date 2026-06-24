@@ -1,0 +1,111 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-24T06:15:08.005Z - 2026-06-24T08:15:08.005Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. 股市今日：标准普尔500指数、纳斯达克在科技股抛售后回稳，聚焦美光科技
+2. Prime Day 折扣现已上线：苹果、索尼、Bose、Anker 等品牌的科技产品最高可享54%折扣
+3. 法国大规模停电让数千人处在酷暑之中苦苦忍受
+4. 现场更新：特朗普称伊朗在核检查方面“完全同意”，但德黑兰否认此类计划
+5. 杰西·詹姆斯的妻子邦妮·罗滕因家庭暴力案被起诉
+6. 2026 年 NBA 选秀首轮赢家、惊喜选秀与疑问
+7. 参议院投票阻止特朗普重启对伊朗战争
+8. 纽约初选：三位马姆达尼阵营盟友锁定民主党提名，肯尼迪继承人输给自称‘书呆子’者——现场报道
+
+==============================
+
+1. 股市今日：标准普尔500指数、纳斯达克在科技股抛售后回稳，聚焦美光科技
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】股市今日在科技股抛压后回稳，标普500与纳斯达克持续观望，聚焦美光科技。
+【依据】本条新闻属于宏观股市报道，未指向具体公司或行业政策的直接影响，无法给出特定股票推荐。
+【原标题】Stock market today: S&P 500, Nasdaq hit pause after tech rout with Micron in focus - Yahoo Finance
+【发布时间】2026-06-24T08:04:20.000Z
+【链接】https://news.google.com/rss/articles/CBMizgFBVV95cUxQSE1hTk1lblp1czcyZlFZd29ua3pZeldCbTRmbWNWcDNfbFFJLVU3YkRqVGprVmVoNDRyOXF6QzROZkQ3UU5aZERKczhqMjMtSy1zMnJlbUlOcktkekRGbUgzVlMtOUxfblZQOXd6T0pUazhhbEU4WGJNT1YzMF9uRU9TUnVDamVKMlVKYkV4R25NVUpoWUNZY2RfQTM5SHc4c25yZk1jUE9DNmVSZHFkVVF5aU45eDRMSEVMSGVjZDZBcVZIM2tSeF91b0s0Zw?oc=5
+
+------------------------------
+
+2. Prime Day 折扣现已上线：苹果、索尼、Bose、Anker 等品牌的科技产品最高可享54%折扣
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Prime Day 折扣现已上线，苹果、索尼、Bose、Anker 等品牌的科技产品正在促销，最高折扣可达54%。
+【依据】本条新闻属于宏观/消费科技促销报道，未指向具体公司或行业政策的直接影响，无法给出特定股票推荐。
+【原标题】Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech
+【发布时间】2026-06-24T08:00:36.000Z
+【链接】https://news.google.com/rss/articles/CBMilwJBVV95cUxQX25wc1g5cUxWYVhweFQzY19Za1VSbFEwb2tqQ0I3U0pZaElncTZVb0NueTBrVDRCUDdxSzhpUEs3Vm5hcjFPSmx1S3JTNmUxRV9jQ25SUDNGemhiY1pUd01hLWlNMGZNOTZXcXZzTVBRWVZWakg4eHY3cjhQY21BRHpIODJ0OGUtX0tWMDl4R1BIaUpHa0hJQ21GZlhKeldsbWt4N0pKZFRUNi03bVJoUVktNzFxM0xsOHdLUl9SdEh5MzRPSWgzUFVYbkRHS1pudHpZSGZ4UEpvdV9WYVY0NFpXZ0x6NDhCYnhNZ3BvckVKSnVaR1hDS0o4SFhzaWxKdUJ1RVkxenZFUGk1cElaOHhqV21GR2M?oc=5
+
+------------------------------
+
+3. 法国大规模停电让数千人处在酷暑之中苦苦忍受
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】法国大规模停电使数千人处在酷暑之中苦苦忍受。
+【依据】本条新闻属于宏观能源/基础设施新闻，未指向具体公司或行业政策的直接影响，无法给出特定股票推荐。
+【原标题】Power cuts in France leave thousands sweltering amid scorching heatwave - Reuters
+【发布时间】2026-06-24T07:21:35.000Z
+【链接】https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTERrbjlFVzNORXBHVmlhbHQxTkxaaVBPZUNuRGZVa2FmRGozVk9YZzVvb25NVXJqd0JnZ3pxSlhhQ2xZUElQLW5OeWRpQUFOWHJBNEpjMC00MnR4YlFXVUp3TVVva0g4VG9yWF9iNlVqMDRyeDJjVFJOTmNWNDh4ZGV1Y01xa3ZseWZaWEtQWXlpR3hSeHFHTENjQ09hb1lKRXhEQ3hac2RUbW5fRE9qWnRmUXBGR25yTDhtZGZodk5fRFU?oc=5
+
+------------------------------
+
+4. 现场更新：特朗普称伊朗在核检查方面“完全同意”，但德黑兰否认此类计划
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】现场更新：特朗普称伊朗在核检查方面“完全同意”，但德黑兰否认有此计划。
+【依据】本条新闻属于地缘政治/国际关系新闻，尚未给出具体公司相关信息，股票影响难以直接判断。
+【原标题】Live Updates: Trump says Iran "completely agreed" to nuclear inspections, but Tehran denies any such plans - CBS News
+【发布时间】2026-06-24T07:20:00.000Z
+【链接】https://news.google.com/rss/articles/CBMijwFBVV95cUxNN0dINFdQeTZ4QmpjV3I3UVB4ejlkdHRvNVdSeGZFNHRjNEhMYURFdi11dFhtLU1PbDk0M2lTeWxBdjE2MnY3b09Kd2tnR1dZZTJaZlNJOWRRLWN5RDZTdWlvb2ZzR2xGZHBXblgtQmtqN0doYzBsRWo3UzF2dWZQX2N4dkRCbzVTX2VDRkNkQQ?oc=5
+
+------------------------------
+
+5. 杰西·詹姆斯的妻子邦妮·罗滕因家庭暴力案被起诉
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】杰西·詹姆斯的妻子邦妮·罗滕因家庭暴力案被起诉。
+【依据】本条新闻属于娱乐类新闻，与直接股票相关性不高，股票影响难以判断。
+【原标题】Jesse James' Wife Bonnie Rotten Charged in Domestic Violence Case  TMZ
+【发布时间】2026-06-24T07:00:41.000Z
+【链接】https://news.google.com/rss/articles/CBMikAFBVV95cUxPZUlxTDI4WHJjc2dMcDNMdDhOd0kzVzdLcnZUTnRQbVE3QlptTFloM1U1cDhYaVpMbnk4ZmRiSzF1ajlMWXlKOWItTTJ4NXUxSXlNVERQcnVNNHRXRGRseXRsaVh5QXVCR1B2Wnh1bWZQMkdTNUxzUWY5Qjd1dXVmdzhsMUlZWDNkZHV6UUtiYmc?oc=5
+
+------------------------------
+
+6. 2026 年 NBA 选秀首轮赢家、惊喜选秀与疑问
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】2026 年 NBA 选秀首轮赢家、惊喜选秀与相关问题。
+【依据】本条新闻属于体育/娱乐新闻，与股票直接相关性较低，股票影响难以判断。
+【原标题】2026 NBA draft: Round 1 winners, surprise picks, questions - ESPN
+【发布时间】2026-06-24T06:30:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiywFBVV95cUxPbVh3emFGSDRhamhoWExJUWx6R0xHYXo4NTJfVnFoUjYtMnZQQ25SOEtFOWgtM3FSTVFOM0tuaG1BYVFvaDFxclNqTjVyLTRZTldCU041Z29kMkVOUnJFbTJkOS1TYjBlaW5kb1Y3VUxtdU5XNkN2MTVtR0FVcHlnenRQSE5EQkZMZkVfVDkwWnZ4bzhRZXB1TDBiR2xIMk9na2VHY0I5eHd3QklMTVpyck04TWpnd3ZBeWQzUXdlZVZNRk5EcEJOYmQ1RQ?oc=5
+
+------------------------------
+
+7. 参议院投票阻止特朗普重启对伊朗战争
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】参院投票阻止特朗普恢复对伊朗的战争行动。
+【依据】本条新闻属于政治/国际关系新闻，尚未给出具体公司相关信息，股票影响难以直接判断。
+【原标题】Senate votes to block Trump from resuming Iran war - The Washington Post
+【发布时间】2026-06-24T06:24:44.000Z
+【链接】https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVNqMkhUZVEwbG5EdFpXVm5WLWVtMHZJeW1lZFZhUmJYMTBiM2VCY0lGTnR4UjQ2ZEc1djlHVS1uQ1VVaUlQQVFTNVoySC1OamNVM0FZUnRhOFpQNXBJaWZCc1BLUHRueEplalE1ZmNCbllEZzZNQ2k0NmdQYkZsRUhvVDl6bUMwZ29IdUlVdElxcXpITVVaQklR?oc=5
+
+------------------------------
+
+8. 纽约初选：三位马姆达尼阵营盟友锁定民主党提名，肯尼迪继承人输给自称‘书呆子’者——现场报道
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】纽约初选追踪报道：马姆达尼阵营的三名盟友获得民主党提名，肯尼迪继承人输给自称‘书呆子’的对手——现场报道。
+【依据】本条新闻属于政治/选举新闻，与股票直接相关性较低，股票影响难以判断。
+【原标题】New York primaries: three Mamdani allies clinch Democratic nominations and Kennedy heir loses to self-confessed ‘nerd’ – as it happened - The Guardian
+【发布时间】2026-06-24T06:23:08.000Z
+【链接】https://news.google.com/rss/articles/CBMizAFBVV95cUxOTVZlejVkdm91SVJwbllyOUVaRzJqQ3M1WEY3WDFiMEhPQzBVTGxHd2F6d3ZDNHBGM1RNQ0dQdk5BSlRoTk9KSXg4RkhDNWE4MnJ2WnRnSmRGMVZBcVNjNkJ2ZTdIZFJrZHQ2LTRWWllFdnlQUkJORmJMdkJPQnoyQzhSZmRDZ2JuVThJbnhnRDB2V1BIbG4zTVJJOUd1NV9Pc3Z5NU1qZnNiNUNaNmhXUERZU0lQaGZ3bnRLWEdxN2swaFM0NHBQdEd1cU4?oc=5
