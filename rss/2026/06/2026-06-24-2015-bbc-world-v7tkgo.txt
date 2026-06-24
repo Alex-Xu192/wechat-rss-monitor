@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-06-24T10:15:39.577Z - 2026-06-24T12:15:39.577Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Power outages hit France as record heatwave set to peak
+2. France confirms first Ebola case
+
+==============================
+
+1. Power outages hit France as record heatwave set to peak
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The heatwave is expected to spread to other parts of western Europe on Wednesday, before extending eastwards over the weekend.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Power outages hit France as record heatwave set to peak
+【发布时间】2026-06-24T11:20:58.000Z
+【链接】https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. France confirms first Ebola case
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】More than 260 people in the Democratic Republic of Congo are known to have died during the current outbreak.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】France confirms first Ebola case
+【发布时间】2026-06-24T10:40:57.000Z
+【链接】https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss
