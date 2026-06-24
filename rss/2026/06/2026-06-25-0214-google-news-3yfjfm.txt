@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-24T16:14:19.587Z - 2026-06-24T18:14:19.587Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Amazon Prime Day’s day 2 deals are here — I found 241+ actually worth buying up to 70% off - NBC News
+2. Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+3. Live updates: Europe hit by brutal, record-breaking temperatures as heat wave intensifies - CNN
+
+==============================
+
+1. Amazon Prime Day’s day 2 deals are here — I found 241+ actually worth buying up to 70% off - NBC News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Amazon Prime Day’s day 2 deals are here — I found 241+ actually worth buying up to 70% off  NBC News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Amazon Prime Day’s day 2 deals are here — I found 241+ actually worth buying up to 70% off - NBC News
+【发布时间】2026-06-24T18:02:57.000Z
+【链接】https://news.google.com/rss/articles/CBMikwFBVV95cUxNZEtXYXFnbzZVOVh4dE56MEhUQjI1SC1wcVV0ZG9rNnROZHN4eGhBbDk2ZEluWnBBSTl5V1pTZERnUjBvNWlnVHItWDVRdnl6c2dKSUl1VGEtMzN0MG1tZmVycVpDNC1wUTlRMnF0RHRlNzByNDNCbS1IalFESWdkd3U1Ql9vWUVXQ296dF9kOTc4R0E?oc=5
+
+------------------------------
+
+2. Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others  Yahoo Tech
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+【发布时间】2026-06-24T18:00:45.000Z
+【链接】https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYW1GQnZINFR6MUVPY2xyUlEwSVVNMzJkRGU4XzJybS1VS1dhT2taTHk1T3RkX0FkbWpWRVpnNGUtZGpvMmlfNmFwVmtQVUp0VHFCbFl3cDdHX1JfY1BmOEFYakxmYUh5ckhyZnN0c3NwcWhKWFpVZ0hYUDR4amVUVFdKbnlSNVpzWF9IcGp1UHY0NFJQWEw0XzRWQXVTaU5VcUV6cEpnTVdYTURYSmVUY3pKYklmUWk3VDlhbkFxbVdfdTdSV1Nidi1fenVYTHNhaDk2LWhxTjBFaXMzV1lSX2tGYlNEdTM0?oc=5
+
+------------------------------
+
+3. Live updates: Europe hit by brutal, record-breaking temperatures as heat wave intensifies - CNN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Live updates: Europe hit by brutal, record-breaking temperatures as heat wave intensifies  CNN
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Live updates: Europe hit by brutal, record-breaking temperatures as heat wave intensifies - CNN
+【发布时间】2026-06-24T17:40:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiigFBVV95cUxPaFQ3ZGx6V0lKd3lWUjJtTjRnalVzd3gwVjFKYVpxQ1pkSTlUcnJ5RDF4Y1pFSDhDalRQNjRhdHhJVTdsY3BNMEdIR1B5LWpVWmJJMlpCV2JBdW9IeFVrdDYzdGlUNWdlbmZvNjNnSm9WWGhWTUFJU2ZCbzlhTlFTUi1NbF9yel9ZbHc?oc=5
