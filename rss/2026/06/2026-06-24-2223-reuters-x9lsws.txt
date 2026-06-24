@@ -1,0 +1,59 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-06-24T12:23:50.618Z - 2026-06-24T14:23:50.618Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Mediterranean Sperm Whales Have Distinct Dialects
+2. A deadly cat fungus is spreading through South America
+3. New CRAN Packages: signal or noise?
+4. Cointegration and Long-Horizon Forecasting
+
+==============================
+
+1. Mediterranean Sperm Whales Have Distinct Dialects
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A new study of 20 years of recordings suggests isolated sperm whales in the eastern Mediterranean developed a faster version of the species’ click pattern, while whales near the Balearic Islands kept the older form. Researchers say the dialects reflect a west-to-east colonization of the Mediterranean and ongoing vocal evolution in different whale clans. [e360.yale.edu]
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Mediterranean Sperm Whales Have Distinct Dialects
+【发布时间】2026-06-24T14:00:23.000Z
+【链接】https://flipso.com/p/3o6rk9aez?ref=rss
+
+------------------------------
+
+2. A deadly cat fungus is spreading through South America
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A Sporothrix brasiliensis outbreak that began in Brazil has sickened thousands of cats and infected more than 11,000 people across South America. The fungus can spread through bites, scratches, and grooming, and a CDC expert says it may eventually reach the U.S. [sciencenews.org]
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】A deadly cat fungus is spreading through South America
+【发布时间】2026-06-24T13:20:09.000Z
+【链接】https://flipso.com/p/plr8w40wz?ref=rss
+
+------------------------------
+
+3. New CRAN Packages: signal or noise?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A reflection on the rapid growth of new CRAN packages and whether the surge is actually benefiting the R community, with documentation quality and usefulness as key concerns. [rworks.dev]
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】New CRAN Packages: signal or noise?
+【发布时间】2026-06-24T13:00:08.000Z
+【链接】https://flipso.com/p/jpf3q76go?ref=rss
+
+------------------------------
+
+4. Cointegration and Long-Horizon Forecasting
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】WP 97-14 examines whether imposing cointegration actually improves long-horizon forecasts. The authors find that, by standard multivariate forecast accuracy measures, ignoring cointegration loses nothing at long horizons, and simple univariate Box-Jenkins forecasts perform just as well. [philadelphiafed.org]
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Cointegration and Long-Horizon Forecasting
+【发布时间】2026-06-24T12:40:10.000Z
+【链接】https://flipso.com/p/65br403ws?ref=rss
