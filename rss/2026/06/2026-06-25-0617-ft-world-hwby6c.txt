@@ -1,0 +1,46 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-24T20:17:49.160Z - 2026-06-24T22:17:49.160Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Qualcomm reveals Meta as first Big Tech customer for data centre chips
+2. Micron profits soar nearly 1,400% amid global memory chip shortage
+3. US banks would lose $700bn in economic crash, Fed stress tests find
+
+==============================
+
+1. Qualcomm reveals Meta as first Big Tech customer for data centre chips
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Announcement of deal along with higher revenue outlook boost shares as much as 15%
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Qualcomm reveals Meta as first Big Tech customer for data centre chips
+【发布时间】2026-06-24T21:23:04.000Z
+【链接】https://www.ft.com/content/e9c2ef9c-856c-48cf-a47e-48a807519a2b
+
+------------------------------
+
+2. Micron profits soar nearly 1,400% amid global memory chip shortage
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Shares surge in after-hours trading after chipmaker reports strong third-quarter earnings on AI boost
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Micron profits soar nearly 1,400% amid global memory chip shortage
+【发布时间】2026-06-24T20:41:22.000Z
+【链接】https://www.ft.com/content/9b739203-3274-43f1-b61e-c1905061d32a
+
+------------------------------
+
+3. US banks would lose $700bn in economic crash, Fed stress tests find
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Several Wall Street lenders boost investor payouts after receiving pass grades
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US banks would lose $700bn in economic crash, Fed stress tests find
+【发布时间】2026-06-24T20:35:49.000Z
+【链接】https://www.ft.com/content/7f33dfda-bc49-4645-8e71-422ba7cc4d17
