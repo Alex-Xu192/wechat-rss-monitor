@@ -1,0 +1,85 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-25T02:13:33.282Z - 2026-06-25T04:13:33.282Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. Strong earthquakes hit Venezuela as buildings collapse in Caracas - follow live - BBC
+2. Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+3. Live Updates: Trump Pushes Congress to Pass SAVE Act; President Meets With NATO Leader Amid Iran War Tensions - The New York Times
+4. Top aide to former NYC mayor Eric Adams indicted on bribery charges - The Washington Post
+5. Trump turns America 250 kickoff into a campaign-style rally on the National Mall - AP News
+6. 2026 NBA Draft grades: Analysis on every pick from AJ Dybantsa, Darryn Peterson, Cameron Boozer through No. 60 - CBS Sports
+
+==============================
+
+1. Strong earthquakes hit Venezuela as buildings collapse in Caracas - follow live - BBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Strong earthquakes hit Venezuela as buildings collapse in Caracas - follow live  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Strong earthquakes hit Venezuela as buildings collapse in Caracas - follow live - BBC
+【发布时间】2026-06-25T04:03:35.000Z
+【链接】https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDY3daT2dQaEFUMTctdHg0RDU4c3NEZFloc1hydHVVa2FOdG1VWm9RQjM1NHFBRTJ1amhGSnlGTnhhMFpma3Bja0FjMmZlemF2SnZTcg?oc=5
+
+------------------------------
+
+2. Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others  Yahoo Tech
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+【发布时间】2026-06-25T04:00:00.000Z
+【链接】https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYW1GQnZINFR6MUVPY2xyUlEwSVVNMzJkRGU4XzJybS1VS1dhT2taTHk1T3RkX0FkbWpWRVpnNGUtZGpvMmlfNmFwVmtQVUp0VHFCbFl3cDdHX1JfY1BmOEFYakxmYUh5ckhyZnN0c3NwcWhKWFpVZ0hYUDR4amVUVFdKbnlSNVpzWF9IcGp1UHY0NFJQWEw0XzRWQXVTaU5VcUV6cEpnTVdYTURYSmVUY3pKYklmUWk3VDlhbkFxbVdfdTdSV1Nidi1fenVYTHNhaDk2LWhxTjBFaXMzV1lSX2tGYlNEdTM0?oc=5
+
+------------------------------
+
+3. Live Updates: Trump Pushes Congress to Pass SAVE Act; President Meets With NATO Leader Amid Iran War Tensions - The New York Times
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Live Updates: Trump Pushes Congress to Pass SAVE Act; President Meets With NATO Leader Amid Iran War Tensions  The New York Times
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Live Updates: Trump Pushes Congress to Pass SAVE Act; President Meets With NATO Leader Amid Iran War Tensions - The New York Times
+【发布时间】2026-06-25T03:43:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aVldfd1hlWUJ6djB5MGFFal80TkphUUxLRWZJR3MxcmRJcmNVZjRjUGZvMXJGUG1hMWNrWDNfX3FSQjFORnZtUm1idl9NRElEWkRvMmhEem1KZ0ZKNnNpRlR4MA?oc=5
+
+------------------------------
+
+4. Top aide to former NYC mayor Eric Adams indicted on bribery charges - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Top aide to former NYC mayor Eric Adams indicted on bribery charges  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Top aide to former NYC mayor Eric Adams indicted on bribery charges - The Washington Post
+【发布时间】2026-06-25T03:39:01.000Z
+【链接】https://news.google.com/rss/articles/CBMisAFBVV95cUxQM256TmlqcjdtUk1RZnpIQjMwVVkzR2lrS3RxeV9LUl8wOFZZMGhybUxDdTdvS041Y0xBaFFwclV3RmtHMVI2ODdDUTJ0RktFc3BZTGZ4YXNZdS1ZVm5LZ21qMmlib2lRXzFrSUdKQmsySWo1UHJ4WEdNQlFfM1ljVk02dWduQWllMXhaTElldmxWTF9Ea3R6V2I4UEIxcjg1RTNJWkV5SVp6NzNaOU82Nw?oc=5
+
+------------------------------
+
+5. Trump turns America 250 kickoff into a campaign-style rally on the National Mall - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump turns America 250 kickoff into a campaign-style rally on the National Mall  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Trump turns America 250 kickoff into a campaign-style rally on the National Mall - AP News
+【发布时间】2026-06-25T03:08:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWhGaUNMUnFpRThMUGpWbi1LZk5EWkhNWG9JZVVPOUZyODB3TE1PNnp1TWhXV3ZUcnFCVkRtbUYta2RwUVV2WWNDWmV6SGdFSmwwSC1aNkxrMEszTlVyV0lpYnlydVhrZUdLLUVheHlmUXZob29LVWpManVfa2hnQUY0WFRuS3NhZ1RN?oc=5
+
+------------------------------
+
+6. 2026 NBA Draft grades: Analysis on every pick from AJ Dybantsa, Darryn Peterson, Cameron Boozer through No. 60 - CBS Sports
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】2026 NBA Draft grades: Analysis on every pick from AJ Dybantsa, Darryn Peterson, Cameron Boozer through No. 60  CBS Sports
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】2026 NBA Draft grades: Analysis on every pick from AJ Dybantsa, Darryn Peterson, Cameron Boozer through No. 60 - CBS Sports
+【发布时间】2026-06-25T02:57:00.000Z
+【链接】https://news.google.com/rss/articles/CBMikAFBVV95cUxQZjhiN0lQX2Q3V3pnZVNtLUlLbnBaRHAyajM0VGMtVU1peDVSb3dQbHBSMEpVa2phUzhOXzJXa2MtVlhTbzlYLU1iRWVDY0RRbjVTVHBXRzVTa1NiTGlpdmFmZEFOQ01kelRUbVJRTHVPcFRvNFEzd2pWcHZJbDhYWUF4WUpNcDRjX3Y1X2R1YlQ?oc=5
