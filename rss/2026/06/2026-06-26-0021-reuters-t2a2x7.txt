@@ -1,0 +1,46 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-06-25T14:21:53.508Z - 2026-06-25T16:21:53.508Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. America’s Last Bookie Goes Down
+2. Getting Crowded in Brooklyn
+3. How Ambergris Became a Staple of Perfumes
+
+==============================
+
+1. America’s Last Bookie Goes Down
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Tim Pughsley built Red44 into a massive offshore sports-betting operation with thousands of bettors and hundreds of bookies, until tax problems and federal investigators brought it down. The story traces how an old-school bookie scaled gambling online, then ran into the legal gray area between illegal bookmaking and the modern sports-betting boom. [newyorker.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】America’s Last Bookie Goes Down
+【发布时间】2026-06-25T15:40:09.000Z
+【链接】https://flipso.com/p/22o7dpkft?ref=rss
+
+------------------------------
+
+2. Getting Crowded in Brooklyn
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A 1951 view of Flatbush Avenue shows the Williamsburg Bank tower standing alone before Brooklyn’s downtown spread caught up. A modern view from the same angle shows the area far denser, with multiple high-rises nearby and continued growth in office and apartment development. [oldstructures.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Getting Crowded in Brooklyn
+【发布时间】2026-06-25T15:20:32.000Z
+【链接】https://flipso.com/p/bs1morkhj?ref=rss
+
+------------------------------
+
+3. How Ambergris Became a Staple of Perfumes
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ambergris is a rare substance produced by sperm whales after they digest squid. Though it starts with a foul smell, it develops a prized fragrance as it ages at sea. The article traces ambergris from its mysterious origins and early medicinal uses to its role in perfumes, incense, rituals, and elite cuisine across different cultures. [thecollector.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】How Ambergris Became a Staple of Perfumes
+【发布时间】2026-06-25T14:40:38.000Z
+【链接】https://flipso.com/p/8v7qqgpaa?ref=rss
