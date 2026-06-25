@@ -1,0 +1,59 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-25T06:14:47.949Z - 2026-06-25T08:14:47.949Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Live updates: Back-to-back earthquakes in Venezuela kill dozens and injure hundreds - CNN
+2. S&P 500 futures rise as Micron surges after earnings; Wall Street awaits key inflation reading: Live updates - CNBC
+3. Fever coach blasts officials after Caitlin Clark exits game with injury: ‘Utterly disrespectful’ - The New York Times
+4. Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+
+==============================
+
+1. Live updates: Back-to-back earthquakes in Venezuela kill dozens and injure hundreds - CNN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Live updates: Back-to-back earthquakes in Venezuela kill dozens and injure hundreds  CNN
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Live updates: Back-to-back earthquakes in Venezuela kill dozens and injure hundreds - CNN
+【发布时间】2026-06-25T08:11:00.000Z
+【链接】https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3liWjNhcnpvNXlqdFFrMlREVG1iel9fUEpSb1hFMFVUWks2Zm1aYTZfUkFPYl81Q082MlViNnRkbUxkS09UX1BQQ0NJX0lneUdXMllxbl81ajJfY012YXVJWEE0M2trbHRCd1JKdHltd05zOUdpeVVCVjRPRU9TaXBlZmFWZ1dDeWZsU1NrVmNpaUE?oc=5
+
+------------------------------
+
+2. S&P 500 futures rise as Micron surges after earnings; Wall Street awaits key inflation reading: Live updates - CNBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】S&P 500 futures rise as Micron surges after earnings; Wall Street awaits key inflation reading: Live updates  CNBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】S&P 500 futures rise as Micron surges after earnings; Wall Street awaits key inflation reading: Live updates - CNBC
+【发布时间】2026-06-25T07:30:00.000Z
+【链接】https://news.google.com/rss/articles/CBMid0FVX3lxTFBybXVXek5NVzgzZUpoRWliLXJTN2FqTElKVWczTV9qa25BZlVVZE5pcFRCbzBKVjFfU0pKc2pkOE43S0R4UFJScFB3MVYwSHN4Y1dKbkRpTWRKc1ZXVFFza1hPbzlCSEZqWG4xRXdYVnlIVzBDRDhZ0gF8QVVfeXFMTzE1RmZFSno3UWtmTF9LU0ZsajUtSUFfWjRVSmVFa3J4VEZpc0VCNDhOUk5hQVhYT2tVNzU2dVFzdVhiQ1dkQlJ3OTJsSjlGRnFSd2x1clNQYzBVZWFwa1Z0X1VLWVJTTzFnSXlRQS1zcnFXNE9vYjZfM2ZrWA?oc=5
+
+------------------------------
+
+3. Fever coach blasts officials after Caitlin Clark exits game with injury: ‘Utterly disrespectful’ - The New York Times
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Fever coach blasts officials after Caitlin Clark exits game with injury: ‘Utterly disrespectful’  The New York Times
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Fever coach blasts officials after Caitlin Clark exits game with injury: ‘Utterly disrespectful’ - The New York Times
+【发布时间】2026-06-25T07:18:00.000Z
+【链接】https://news.google.com/rss/articles/CBMilwFBVV95cUxOV1FzWml0WkktYjB6ZDlCcFBWbzYySF82UVFYOTNZN0NJNmUzLTJLV2YwZ1NhcF9ESUF0Z09EWU9WSHU2VXdnYzVXeW5iWG5EQm8xSVRxUmltM0ZDOFFWV1lhNTdzSFFZTTMwSzZvNTJGeWhmb1JSV1NsM1ZWOVZ0TGRfMzBKYWlnX2lldkFkNDJ6ZzhlOGVB?oc=5
+
+------------------------------
+
+4. Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others  Yahoo Tech
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+【发布时间】2026-06-25T07:00:16.000Z
+【链接】https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYW1GQnZINFR6MUVPY2xyUlEwSVVNMzJkRGU4XzJybS1VS1dhT2taTHk1T3RkX0FkbWpWRVpnNGUtZGpvMmlfNmFwVmtQVUp0VHFCbFl3cDdHX1JfY1BmOEFYakxmYUh5ckhyZnN0c3NwcWhKWFpVZ0hYUDR4amVUVFdKbnlSNVpzWF9IcGp1UHY0NFJQWEw0XzRWQXVTaU5VcUV6cEpnTVdYTURYSmVUY3pKYklmUWk3VDlhbkFxbVdfdTdSV1Nidi1fenVYTHNhaDk2LWhxTjBFaXMzV1lSX2tGYlNEdTM0?oc=5
