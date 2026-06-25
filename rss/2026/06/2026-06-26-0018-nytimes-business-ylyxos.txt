@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-25T14:18:49.142Z - 2026-06-25T16:18:49.142Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Oil Prices Fluctuate as Gulf Shipping Advances
+2. Chemours to Pay $450M in First Federal PFAS Settlement
+3. She Stole a Knicks Trash Can Off the Street and Lost Her Job at JPMorgan
+4. Apple Raises Prices on Macs and iPads Amid the A.I. Boom
+5. Supreme Court Rejects Lawsuit Against Bayer Alleging Roundup Weedkiller Caused Cancer
+
+==============================
+
+1. Oil Prices Fluctuate as Gulf Shipping Advances
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Oil prices fell, moving closer to levels not seen since the war in Iran began in February.
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Oil Prices Fluctuate as Gulf Shipping Advances
+【发布时间】2026-06-25T16:07:15.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/oil-prices-gas-iran.html
+
+------------------------------
+
+2. Chemours to Pay $450M in First Federal PFAS Settlement
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The settlement addresses the dumping of PFAS “forever chemicals,” which have been linked to cancer and other risks, by Chemours in several states.
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Chemours to Pay $450M in First Federal PFAS Settlement
+【发布时间】2026-06-25T15:40:05.000Z
+【链接】https://www.nytimes.com/2026/06/25/climate/trump-pfas-forever-chemical-settlement-chemours.html
+
+------------------------------
+
+3. She Stole a Knicks Trash Can Off the Street and Lost Her Job at JPMorgan
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】After a video of Angie Baez taking a Knicks-themed trash can went viral, a JPMorgan Chase spokeswoman said she was no longer with the company.
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】She Stole a Knicks Trash Can Off the Street and Lost Her Job at JPMorgan
+【发布时间】2026-06-25T15:25:28.000Z
+【链接】https://www.nytimes.com/2026/06/24/nyregion/knicks-trash-can-jpmorgan-chase.html
+
+------------------------------
+
+4. Apple Raises Prices on Macs and iPads Amid the A.I. Boom
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The tech giant cited the soaring costs of memory and storage chips as it increased prices more than $200 on some devices.
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Apple Raises Prices on Macs and iPads Amid the A.I. Boom
+【发布时间】2026-06-25T14:58:48.000Z
+【链接】https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html
+
+------------------------------
+
+5. Supreme Court Rejects Lawsuit Against Bayer Alleging Roundup Weedkiller Caused Cancer
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The court’s decision is likely to determine the future of thousands of lawsuits against Bayer, which manufactures the weedkiller, over similar claims.
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Supreme Court Rejects Lawsuit Against Bayer Alleging Roundup Weedkiller Caused Cancer
+【发布时间】2026-06-25T14:50:57.000Z
+【链接】https://www.nytimes.com/2026/06/25/us/politics/supreme-court-weedkiller-roundup-bayer.html
