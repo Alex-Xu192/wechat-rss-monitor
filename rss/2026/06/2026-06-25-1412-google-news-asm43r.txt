@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-25T04:12:43.705Z - 2026-06-25T06:12:43.705Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+2. Live updates: Deadly back-to-back earthquakes strike Venezuela - CNN
+3. Lions CB Terrion Arnold arrested, faces life in prison on kidnapping, robbery charges - USA Today
+
+==============================
+
+1. Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others  Yahoo Tech
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+【发布时间】2026-06-25T06:00:13.000Z
+【链接】https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYW1GQnZINFR6MUVPY2xyUlEwSVVNMzJkRGU4XzJybS1VS1dhT2taTHk1T3RkX0FkbWpWRVpnNGUtZGpvMmlfNmFwVmtQVUp0VHFCbFl3cDdHX1JfY1BmOEFYakxmYUh5ckhyZnN0c3NwcWhKWFpVZ0hYUDR4amVUVFdKbnlSNVpzWF9IcGp1UHY0NFJQWEw0XzRWQXVTaU5VcUV6cEpnTVdYTURYSmVUY3pKYklmUWk3VDlhbkFxbVdfdTdSV1Nidi1fenVYTHNhaDk2LWhxTjBFaXMzV1lSX2tGYlNEdTM0?oc=5
+
+------------------------------
+
+2. Live updates: Deadly back-to-back earthquakes strike Venezuela - CNN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Live updates: Deadly back-to-back earthquakes strike Venezuela  CNN
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Live updates: Deadly back-to-back earthquakes strike Venezuela - CNN
+【发布时间】2026-06-25T06:00:00.000Z
+【链接】https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3liWjNhcnpvNXlqdFFrMlREVG1iel9fUEpSb1hFMFVUWks2Zm1aYTZfUkFPYl81Q082MlViNnRkbUxkS09UX1BQQ0NJX0lneUdXMllxbl81ajJfY012YXVJWEE0M2trbHRCd1JKdHltd05zOUdpeVVCVjRPRU9TaXBlZmFWZ1dDeWZsU1NrVmNpaUE?oc=5
+
+------------------------------
+
+3. Lions CB Terrion Arnold arrested, faces life in prison on kidnapping, robbery charges - USA Today
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Lions CB Terrion Arnold arrested, faces life in prison on kidnapping, robbery charges  USA Today
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Lions CB Terrion Arnold arrested, faces life in prison on kidnapping, robbery charges - USA Today
+【发布时间】2026-06-25T04:49:00.000Z
+【链接】https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0hWa3FCRDRRQjNpR1VZa2FSa3U5bDR4enRsQnk5ZzZZendpU244bXJpblpuWmFQXzBscF9WblY3VTV3V1pEdE1xYk0ydklQNUFITm5YUk12d0dLMjdLeUJJTFpxVTlfbTkySUpvT0FVOThBRG81dWpILTRXbmViVmhWZ25NcEJnWUV5Z3FjRW9ic1pRaGszTS1qVUVlZktBWmt1MWllUUVPT01zRzNaQ1hsN0lUVWNjcThQSXdR?oc=5
