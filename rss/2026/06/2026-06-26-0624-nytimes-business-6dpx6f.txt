@@ -1,0 +1,85 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-25T20:24:35.081Z - 2026-06-25T22:24:35.081Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. Iran Strikes Ship in Strait of Hormuz, Undermining Efforts to Restore Traffic
+2. Movement Through Strait of Hormuz Is Halted After Attack on Cargo Ship
+3. Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning
+4. OpenAI Leans Toward Holding Up I.P.O. Until Next Year
+5. Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site
+6. Oil Prices Jump After Attack Halts Shipping in Strait of Hormuz
+
+==============================
+
+1. Iran Strikes Ship in Strait of Hormuz, Undermining Efforts to Restore Traffic
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The attack, confirmed by U.S. and Iranian officials, came after Tehran threatened to disrupt shipping in the waterway and as Washington sought regional support for its peace agreement.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Iran Strikes Ship in Strait of Hormuz, Undermining Efforts to Restore Traffic
+【发布时间】2026-06-25T22:14:54.000Z
+【链接】https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html
+
+------------------------------
+
+2. Movement Through Strait of Hormuz Is Halted After Attack on Cargo Ship
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The strike on a vessel near the coast of Oman prompted a U.N. agency to pause an evacuation of ships from the Persian Gulf.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Movement Through Strait of Hormuz Is Halted After Attack on Cargo Ship
+【发布时间】2026-06-25T21:13:13.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/hormuz-ship-attack-iran.html
+
+------------------------------
+
+3. Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】In a notice flagging a series of problems with a clinical trial, the journal Nature Medicine said its editors “no longer have confidence in the integrity of the results.”
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning
+【发布时间】2026-06-25T21:09:04.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/china-cancer-treatment-research-retraction.html
+
+------------------------------
+
+4. OpenAI Leans Toward Holding Up I.P.O. Until Next Year
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The A.I. company’s advisers are pushing its chief executive, Sam Altman, to move slowly after SpaceX’s stock has been volatile and as the start-up grapples with financial challenges.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】OpenAI Leans Toward Holding Up I.P.O. Until Next Year
+【发布时间】2026-06-25T20:58:38.000Z
+【链接】https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html
+
+------------------------------
+
+5. Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A vote to bar Larry Sanger indefinitely from the volunteer community of Wikipedia came days after he submitted a proposal on “intellectual diversity.”
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site
+【发布时间】2026-06-25T20:57:21.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/media/wikipedia-larry-sanger-barred.html
+
+------------------------------
+
+6. Oil Prices Jump After Attack Halts Shipping in Strait of Hormuz
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Oil prices fell, moving closer to levels not seen since the war in Iran began in February.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Oil Prices Jump After Attack Halts Shipping in Strait of Hormuz
+【发布时间】2026-06-25T20:27:32.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/oil-prices-gas-iran.html
