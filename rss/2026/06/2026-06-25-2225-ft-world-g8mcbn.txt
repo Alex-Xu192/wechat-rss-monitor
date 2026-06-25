@@ -1,0 +1,85 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-25T12:25:50.854Z - 2026-06-25T14:25:50.854Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 全球科技股在美光利润激增后反弹
+2. 摩根大通提拔两名潜在继任者
+3. venture capital的世界越来越奇怪
+4. 特朗普与愤怒的共和党党团对峙
+5. 债券市场希望Burnham采取什么策略
+6. 苹果公司将MacBook和iPad价格上调20%
+
+==============================
+
+1. 全球科技股在美光利润激增后反弹
+【相关股票】Technology、Semiconductors、MU、JPM
+【利好股票】MU
+【利空股票】无法判断
+【摘要】美国芯片制造商美光意外迎来利润大增，缓解了投资者此前对市场抛售的担忧
+【依据】文章提及美光（Micron）利润激增，算是对该公司表现的肯定；但市场整体处于反弹状态，利润增是积极因素
+【原标题】Global tech stocks rebound after Micron’s profit surge
+【发布时间】2026-06-25T13:32:23.000Z
+【链接】https://www.ft.com/content/b3ad976b-9967-4952-92ff-822a8e253fb1
+
+------------------------------
+
+2. 摩根大通提拔两名潜在继任者
+【相关股票】JPM
+【利好股票】JPM
+【利空股票】无法判断
+【摘要】梅里安娜·莱克离职，道格·佩特诺和托伊罗哈鲁克被授予银行两大最重要部门之一
+【依据】文章讲述的是摩根大通（JPMorgan）的组织架构调整，提拔继任者显示公司内部稳定性，对于股价是正面信号
+【原标题】Jamie Dimon promotes two potential successors at JPMorgan
+【发布时间】2026-06-25T13:29:49.000Z
+【链接】https://www.ft.com/content/4f191eea-2486-4c43-9e17-0f8dcd340b23
+
+------------------------------
+
+3. venture capital的世界越来越奇怪
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】功率法则如何成为高风险、高回报VC游戏的指导原则
+【依据】这是关于风险投资行业的分析性文章，没有提及具体公司或股票代码，无法判断特定股票影响
+【原标题】The ever weirder world of venture capital
+【发布时间】2026-06-25T13:08:12.000Z
+【链接】https://www.ft.com/content/f56b8b59-930b-40f5-b4ad-99e34144afb2
+
+------------------------------
+
+4. 特朗普与愤怒的共和党党团对峙
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】今日通讯中：社会主义者Zohran Mamdani以自己的形象重塑纽约市政治
+【依据】政治新闻，涉及美国总统和共和党，没有提及具体股票或公司，无法判断股票影响
+【原标题】Trump faces off with angry Republican caucus
+【发布时间】2026-06-25T13:00:06.000Z
+【链接】https://www.ft.com/content/760e5582-9803-4b21-a92b-58acfee71d93
+
+------------------------------
+
+5. 债券市场希望Burnham采取什么策略
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】credible strategy would focus on reducing the deficit over the next two years
+【依据】这是关于英国政治人物Burnham的政策建议，涉及财政政策，没有提及具体股票或公司
+【原标题】What bond markets want from Burnham
+【发布时间】2026-06-25T12:42:16.000Z
+【链接】https://www.ft.com/content/08d94eaf-b5dd-4801-bb40-525ca4f41a5d
+
+------------------------------
+
+6. 苹果公司将MacBook和iPad价格上调20%
+【相关股票】AAPL
+【利好股票】无法判断
+【利空股票】AAPL
+【摘要】iPhone制造商将成本上涨归因于AI热潮造成的存储器芯片短缺
+【依据】文章提及苹果公司（AAPL）提高价格，是由存储器芯片短缺造成的成本压力，这是对公司股价的一个Negative信号
+【原标题】Apple increases MacBook and iPad prices by 20%
+【发布时间】2026-06-25T12:41:11.000Z
+【链接】https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c
