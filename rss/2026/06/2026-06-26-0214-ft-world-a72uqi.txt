@@ -1,0 +1,59 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-25T16:14:15.326Z - 2026-06-25T18:14:15.326Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Head of UK’s biggest union backs Ed Miliband for chancellor
+2. Tesco’s return to broadband should be a profitable side hustle
+3. Andy Burnham will have to make tough choices
+4. Venezuelan earthquakes leave hundreds dead and injured
+
+==============================
+
+1. Head of UK’s biggest union backs Ed Miliband for chancellor
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Endorsement of Unison chief opens up split with other big unions opposed to current energy secretary being appointed to Treasury
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Head of UK’s biggest union backs Ed Miliband for chancellor
+【发布时间】2026-06-25T17:14:56.000Z
+【链接】https://www.ft.com/content/27f10e40-9e9f-43aa-b1b8-a432d69d79cd
+
+------------------------------
+
+2. Tesco’s return to broadband should be a profitable side hustle
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Retailer has a good chance of snagging market share thanks to its brand recognition and captive customer base
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Tesco’s return to broadband should be a profitable side hustle
+【发布时间】2026-06-25T16:53:33.000Z
+【链接】https://www.ft.com/content/060238c7-3d48-46d7-9c8d-f4d8e27e762c
+
+------------------------------
+
+3. Andy Burnham will have to make tough choices
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Britain’s next leader must be ready to take unpopular decisions on spending and growth
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Andy Burnham will have to make tough choices
+【发布时间】2026-06-25T16:50:38.000Z
+【链接】https://www.ft.com/content/efe3ff38-c4a3-4733-917b-33ba0de5a2f7
+
+------------------------------
+
+4. Venezuelan earthquakes leave hundreds dead and injured
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Acting president Delcy Rodríguez says 164 confirmed dead but toll is likely to rise sharply
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Venezuelan earthquakes leave hundreds dead and injured
+【发布时间】2026-06-25T16:23:45.000Z
+【链接】https://www.ft.com/content/4eb25cfb-1b1e-4f9d-9562-3f8a3b9078c1
