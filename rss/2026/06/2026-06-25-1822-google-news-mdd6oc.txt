@@ -1,0 +1,85 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-25T08:22:48.543Z - 2026-06-25T10:22:48.543Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. Live updates: Back-to-back earthquakes in Venezuela kill dozens and injure hundreds - CNN
+2. Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+3. 'GTA VI' preorders are live for PS5 and Xbox, starting at $80 with a $100 Ultimate Edition - Mashable
+4. Stock Market Today: Micron Earnings Spark Tech Rebound - WSJ
+5. US Senate approves Iran war powers resolution: What that means for Trump - Al Jazeera
+6. Brent Oil Erases Wartime Gains as Hormuz Reopening Boosts Supply - Bloomberg
+
+==============================
+
+1. Live updates: Back-to-back earthquakes in Venezuela kill dozens and injure hundreds - CNN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Live updates: Back-to-back earthquakes in Venezuela kill dozens and injure hundreds  CNN
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Live updates: Back-to-back earthquakes in Venezuela kill dozens and injure hundreds - CNN
+【发布时间】2026-06-25T10:04:00.000Z
+【链接】https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3liWjNhcnpvNXlqdFFrMlREVG1iel9fUEpSb1hFMFVUWks2Zm1aYTZfUkFPYl81Q082MlViNnRkbUxkS09UX1BQQ0NJX0lneUdXMllxbl81ajJfY012YXVJWEE0M2trbHRCd1JKdHltd05zOUdpeVVCVjRPRU9TaXBlZmFWZ1dDeWZsU1NrVmNpaUE?oc=5
+
+------------------------------
+
+2. Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others  Yahoo Tech
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+【发布时间】2026-06-25T10:00:29.000Z
+【链接】https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYW1GQnZINFR6MUVPY2xyUlEwSVVNMzJkRGU4XzJybS1VS1dhT2taTHk1T3RkX0FkbWpWRVpnNGUtZGpvMmlfNmFwVmtQVUp0VHFCbFl3cDdHX1JfY1BmOEFYakxmYUh5ckhyZnN0c3NwcWhKWFpVZ0hYUDR4amVUVFdKbnlSNVpzWF9IcGp1UHY0NFJQWEw0XzRWQXVTaU5VcUV6cEpnTVdYTURYSmVUY3pKYklmUWk3VDlhbkFxbVdfdTdSV1Nidi1fenVYTHNhaDk2LWhxTjBFaXMzV1lSX2tGYlNEdTM0?oc=5
+
+------------------------------
+
+3. 'GTA VI' preorders are live for PS5 and Xbox, starting at $80 with a $100 Ultimate Edition - Mashable
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】'GTA VI' preorders are live for PS5 and Xbox, starting at $80 with a $100 Ultimate Edition  Mashable
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】'GTA VI' preorders are live for PS5 and Xbox, starting at $80 with a $100 Ultimate Edition - Mashable
+【发布时间】2026-06-25T09:30:30.000Z
+【链接】https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHpvQjhsYV80RmpsTzRaTGpkZUlCR2Z0Nzhib3FUNnJ0cGNGM0Y4SkNlQk1BWVMwTE5CYnV5LWozeXFYM25SVkFURU82YWpmbDJ4QWg4c2pnLUZqVmYzZ2VXd0tnZnhkME05NTFwV2RmRzVVZndWRFpUSXRGU3ZKbWFmQThCcEtTQTFqSy1yY1V1ZjAtNFZNeGc0TQ?oc=5
+
+------------------------------
+
+4. Stock Market Today: Micron Earnings Spark Tech Rebound - WSJ
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock Market Today: Micron Earnings Spark Tech Rebound  WSJ
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Stock Market Today: Micron Earnings Spark Tech Rebound - WSJ
+【发布时间】2026-06-25T09:12:00.000Z
+【链接】https://news.google.com/rss/articles/CBMihwFBVV95cUxPU2VfV1dnSkNzSUdfSVk0R2JKMm9KVTFWX0Y3aDNoWERZeXFsbWFEUWxmN3BPQ19hSm9SQ2tRNEo4NVo3SmVCVGpWTUhad2JfNk83UkdKVERjNWczV1NxcnU1OEh0cmFCZkJDb3hTU1JSUnVibUlCOVh4dTk5WGdLMnB0eWN0ak0?oc=5
+
+------------------------------
+
+5. US Senate approves Iran war powers resolution: What that means for Trump - Al Jazeera
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】US Senate approves Iran war powers resolution: What that means for Trump  Al Jazeera
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US Senate approves Iran war powers resolution: What that means for Trump - Al Jazeera
+【发布时间】2026-06-25T08:46:38.000Z
+【链接】https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXlSUUhWTlFrMzRuand3cjZTNXA3MGZBY3NtUVBzNnBDTGg0SG15b1FWMVY4STRNdzhsaVNjV1Y4a1J6T2VUNUlvZ3ZuN251ZF92U05TRU5Tbk50bnpVOHRjdk9uS191ck5peDJScHpXUGt4b0JfXzkwc3VHYzlaV2ZlRU92RXJHODlfRzJmYTdVa0RLM1dVVWVKeFlremJxeWNlamgxejUwZW5fV2FmM09B0gG3AUFVX3lxTE5RMHpGWEMxWFJnekpKcUREMkpJX1dqczFTUkxyOXRKc2lXOVBkTEwySFFvMUxXTE9aRUZadHhTcjVBbHNZV3lwRXlMcE51SGJQS0ZvcFVZQ3h3U09yc29xZFp1b0dUb0RGdFBYMDJWRU1XX0VKR3NQQ0V5WjhMQXJYZkFja0NxOVRZWkMwRld1UWdmUzZrOEk5X2VrZm9mbFNOZnJRSEZFTHVRdWZsZ2ZJU0Nwb0o2dw?oc=5
+
+------------------------------
+
+6. Brent Oil Erases Wartime Gains as Hormuz Reopening Boosts Supply - Bloomberg
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Brent Oil Erases Wartime Gains as Hormuz Reopening Boosts Supply  Bloomberg
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Brent Oil Erases Wartime Gains as Hormuz Reopening Boosts Supply - Bloomberg
+【发布时间】2026-06-25T08:30:38.000Z
+【链接】https://news.google.com/rss/articles/CBMinwFBVV95cUxPVlVnZWwteTh6c29uZlVNWnh4akJnOUdaenVnYlVwRTFzMEFQNW9zbnk3ZWUydm9QdnRLNnJocTV6NzNoYlJfLUlaRnhXM3MtNXo2N3I3X01EN3NpLS1ZcXdDVjFOaGdzdkVabmVYdU1Cd0Q5aXJvV04ySzJXX0RTNW40cTdCS1A5ZDBKYnAwN1A4b3dFTVIzN1VUZWRiRDA?oc=5
