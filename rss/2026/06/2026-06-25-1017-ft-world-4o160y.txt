@@ -1,0 +1,33 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-25T00:17:01.796Z - 2026-06-25T02:17:01.796Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Venezuela rocked by two big earthquakes
+2. Robot nation: China’s bid to beat its demographic decline
+
+==============================
+
+1. Venezuela rocked by two big earthquakes
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Local officials warn of fatalities as people left trapped under rubble
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Venezuela rocked by two big earthquakes
+【发布时间】2026-06-25T02:05:04.000Z
+【链接】https://www.ft.com/content/4eb25cfb-1b1e-4f9d-9562-3f8a3b9078c1
+
+------------------------------
+
+2. Robot nation: China’s bid to beat its demographic decline
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The country’s workforce is set to fall to 300mn by the end of the century. Beijing wants humanoids to narrow the labour gap
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Robot nation: China’s bid to beat its demographic decline
+【发布时间】2026-06-25T00:51:05.000Z
+【链接】https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68
