@@ -1,0 +1,46 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-06-25T12:30:42.475Z - 2026-06-25T14:30:42.475Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. How the Athenian General Miltiades Beat the Superior Persians at Marathon
+2. Nén Authentic Vietnamese Cuisine
+3. Words, words, words
+
+==============================
+
+1. How the Athenian General Miltiades Beat the Superior Persians at Marathon
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Athenian general Miltiades exploited his knowledge of enemy tactics to win an unexpected and famous victory over the Persians at Marathon. [thecollector.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】How the Athenian General Miltiades Beat the Superior Persians at Marathon
+【发布时间】2026-06-25T13:40:28.000Z
+【链接】https://flipso.com/p/icrstf8gr?ref=rss
+
+------------------------------
+
+2. Nén Authentic Vietnamese Cuisine
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Sherman reviews Nén, a Central Vietnamese restaurant in Burnaby’s Edmonds/Canada Way area. Highlights include silky bánh bèo with minced pork sauce, crispy garlic-butter wings, and a generous special platter with grilled meats, noodles, herbs, and pickles. [shermansfoodadventures.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Nén Authentic Vietnamese Cuisine
+【发布时间】2026-06-25T13:21:01.000Z
+【链接】https://flipso.com/p/tflozvf71?ref=rss
+
+------------------------------
+
+3. Words, words, words
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Strong resistance to AI among writers is understandable, but it can obscure a deeper question: what language is, and how humans and machines now share it. [aeon.co]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Words, words, words
+【发布时间】2026-06-25T13:00:08.000Z
+【链接】https://flipso.com/p/esthug3jo?ref=rss
