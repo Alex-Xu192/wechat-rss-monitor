@@ -1,0 +1,59 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-25T10:23:10.322Z - 2026-06-25T12:23:10.322Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Lesson Learned From Iran War: Reduce Reliance on Strait of Hormuz
+2. The Taylor Swift Wedding and a Hot New York Summer
+3. Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site
+4. Oil Prices Hover Around Prewar Levels as Gulf Shipping Jumps
+
+==============================
+
+1. Lesson Learned From Iran War: Reduce Reliance on Strait of Hormuz
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Increased stockpiles, more pipelines and other tactics could loosen the waterway’s stranglehold on the global economy.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 1112 (line 1 column 1113)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Lesson Learned From Iran War: Reduce Reliance on Strait of Hormuz
+【发布时间】2026-06-25T12:06:05.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/strait-of-hormuz-iran-war.html
+
+------------------------------
+
+2. The Taylor Swift Wedding and a Hot New York Summer
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Should Taylor Swift and Travis Kelce tie the knot in New York City, their nuptials would be another economic event for the Big Apple.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 1112 (line 1 column 1113)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】The Taylor Swift Wedding and a Hot New York Summer
+【发布时间】2026-06-25T11:55:07.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/dealbook/taylor-travis-wedding-new-york.html
+
+------------------------------
+
+3. Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A vote to bar Larry Sanger indefinitely from the volunteer community of Wikipedia came days after he submitted a proposal on “intellectual diversity.”
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 1112 (line 1 column 1113)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site
+【发布时间】2026-06-25T11:48:06.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/media/wikipedia-larry-sanger-barred.html
+
+------------------------------
+
+4. Oil Prices Hover Around Prewar Levels as Gulf Shipping Jumps
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Oil prices fell, moving closer to levels not seen since the war in Iran began in February.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 1112 (line 1 column 1113)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Oil Prices Hover Around Prewar Levels as Gulf Shipping Jumps
+【发布时间】2026-06-25T11:12:05.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/oil-prices-gas-iran.html
