@@ -1,0 +1,59 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-25T18:17:14.647Z - 2026-06-25T20:17:14.647Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Attack in Strait of Hormuz halts evacuation plan for stranded ships
+2. Micron shares jump as blockbuster results spark Wall Street tech shake-up
+3. Apple increases MacBook and iPad prices by 20%
+4. Micron posts 15-fold profit surge in boost for global AI stocks
+
+==============================
+
+1. Attack in Strait of Hormuz halts evacuation plan for stranded ships
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】International Maritime Organization announces pause after container ship was hit by ‘unknown projectile’
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Attack in Strait of Hormuz halts evacuation plan for stranded ships
+【发布时间】2026-06-25T19:41:48.000Z
+【链接】https://www.ft.com/content/5abcb3c1-8ce8-470f-8a37-f47af58b2f7c
+
+------------------------------
+
+2. Micron shares jump as blockbuster results spark Wall Street tech shake-up
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Apple’s stock slides after company unveils price rises linked to ‘unprecedented’ cost of memory chips
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Micron shares jump as blockbuster results spark Wall Street tech shake-up
+【发布时间】2026-06-25T19:39:55.000Z
+【链接】https://www.ft.com/content/b3ad976b-9967-4952-92ff-822a8e253fb1
+
+------------------------------
+
+3. Apple increases MacBook and iPad prices by 20%
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】iPhone maker blamed cost rises on memory chip shortages caused by AI boom
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Apple increases MacBook and iPad prices by 20%
+【发布时间】2026-06-25T18:42:51.000Z
+【链接】https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c
+
+------------------------------
+
+4. Micron posts 15-fold profit surge in boost for global AI stocks
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Chipmaker forecasts sustained demand for computer memory, boosting its shares and Asian markets
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Micron posts 15-fold profit surge in boost for global AI stocks
+【发布时间】2026-06-25T18:40:22.000Z
+【链接】https://www.ft.com/content/9b739203-3274-43f1-b61e-c1905061d32a
