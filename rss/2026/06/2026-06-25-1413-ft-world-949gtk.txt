@@ -1,0 +1,85 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-25T04:13:42.783Z - 2026-06-25T06:13:42.783Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. Back-to-back earthquakes leave 32 dead in Venezuela
+2. Anthropic accuses Alibaba of obtaining ‘illicit’ access to Claude
+3. Brussels picks up pace on Draghi economic reform agenda
+4. Micron posts 15-fold profit surge in boost for global AI stocks
+5. FirstFT: Trump demands ‘loyalty’ from Nato allies
+6. Bank of England to keep steady all year amid ‘second-round’ worries
+
+==============================
+
+1. Back-to-back earthquakes leave 32 dead in Venezuela
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Hundreds injured as buildings toppled in capital Caracas
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Back-to-back earthquakes leave 32 dead in Venezuela
+【发布时间】2026-06-25T05:32:39.000Z
+【链接】https://www.ft.com/content/4eb25cfb-1b1e-4f9d-9562-3f8a3b9078c1
+
+------------------------------
+
+2. Anthropic accuses Alibaba of obtaining ‘illicit’ access to Claude
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】AI company says the Chinese ecommerce giant used fake accounts to ‘extract’ chatbot’s capabilities
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Anthropic accuses Alibaba of obtaining ‘illicit’ access to Claude
+【发布时间】2026-06-25T05:22:43.000Z
+【链接】https://www.ft.com/content/8496c940-fdc7-4554-bc8d-7bcc93e7d75c
+
+------------------------------
+
+3. Brussels picks up pace on Draghi economic reform agenda
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in this newsletter: Czech court says president and prime minister can both attend Nato summit
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Brussels picks up pace on Draghi economic reform agenda
+【发布时间】2026-06-25T05:00:07.000Z
+【链接】https://www.ft.com/content/f272d6ab-8702-4153-9933-946b07f72a88
+
+------------------------------
+
+4. Micron posts 15-fold profit surge in boost for global AI stocks
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Chipmaker forecasts sustained demand for computer memory, boosting its shares and Asian markets
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Micron posts 15-fold profit surge in boost for global AI stocks
+【发布时间】2026-06-25T04:54:50.000Z
+【链接】https://www.ft.com/content/9b739203-3274-43f1-b61e-c1905061d32a
+
+------------------------------
+
+5. FirstFT: Trump demands ‘loyalty’ from Nato allies
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in today’s newsletter, Venezuela earthquakes and oil price back at prewar levels
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】FirstFT: Trump demands ‘loyalty’ from Nato allies
+【发布时间】2026-06-25T04:43:56.000Z
+【链接】https://www.ft.com/content/6bfebe7a-33a6-4836-87d1-5e103ff577f3
+
+------------------------------
+
+6. Bank of England to keep steady all year amid ‘second-round’ worries
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Read the June forecast from the FT’s Monetary Policy Radar team
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Bank of England to keep steady all year amid ‘second-round’ worries
+【发布时间】2026-06-25T04:30:07.000Z
+【链接】https://www.ft.com/content/5e62308a-6890-4c77-b86a-d688156a152d
