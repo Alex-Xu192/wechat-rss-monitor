@@ -1,0 +1,111 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-25T16:14:51.477Z - 2026-06-25T18:14:51.477Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. U.S. Inflation Problems Are Far From Over
+2. Inflation Accelerated in May as Iran War Pushed Up Prices
+3. Apple Raises Prices on Macs and iPads Amid the A.I. Boom
+4. Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site
+5. Lesson Learned From Iran War: Reduce Reliance on Strait of Hormuz
+6. Supreme Court Rejects Lawsuit Against Bayer Alleging Roundup Weedkiller Caused Cancer
+7. Chemours to Pay $450M in First Federal PFAS Settlement
+8. SpaceX IPO Shows How Investors in Public Companies Are Losing Power
+
+==============================
+
+1. U.S. Inflation Problems Are Far From Over
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】美国联邦储备委员会新主席誓言实现价格稳定，但官员们对是否需要提高借贷成本意见不一。
+【依据】文章讨论联邦储备委员会的通胀问题和潜在利率政策变化，但没有具体提到任何公司或股票。
+【原标题】U.S. Inflation Problems Are Far From Over
+【发布时间】2026-06-25T18:03:12.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/federal-reserve-inflation-pce.html
+
+------------------------------
+
+2. Inflation Accelerated in May as Iran War Pushed Up Prices
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】受中东冲突推高的能源价格影响，一个备受关注的通胀指标出现上涨。
+【依据】文章关注通胀数据和地缘政治冲突对能源价格的影响，没有具体提到任何公司股票。
+【原标题】Inflation Accelerated in May as Iran War Pushed Up Prices
+【发布时间】2026-06-25T17:59:55.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/inflation-iran-war-prices.html
+
+------------------------------
+
+3. Apple Raises Prices on Macs and iPads Amid the A.I. Boom
+【相关股票】AAPL
+【利好股票】AAPL
+【利空股票】无法判断
+【摘要】这家科技巨头将部分设备价格提升了200多美元，并将其归咎于内存和存储芯片成本的上升。
+【依据】文章直接提到苹果公司（AAPL）因内存和存储芯片成本上升而提高Mac和iPad价格。
+【原标题】Apple Raises Prices on Macs and iPads Amid the A.I. Boom
+【发布时间】2026-06-25T17:54:30.000Z
+【链接】https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html
+
+------------------------------
+
+4. Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】在提交关于“知识分子多样性”的提案几天后，投票决定将维基百科的志愿者社区永久禁止拉里·桑格尔。
+【依据】文章关注维基百科的内容管理政策和创始人拉里·桑格尔，但没有直接涉及任何公司股票。
+【原标题】Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site
+【发布时间】2026-06-25T17:39:56.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/media/wikipedia-larry-sanger-barred.html
+
+------------------------------
+
+5. Lesson Learned From Iran War: Reduce Reliance on Strait of Hormuz
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】增加库存、建设更多管道和其他策略可以缓解这条水道对全球经济的束缚作用。
+【依据】文章讨论地缘政治冲突对全球能源运输的影响，但没有具体提到任何股票。
+【原标题】Lesson Learned From Iran War: Reduce Reliance on Strait of Hormuz
+【发布时间】2026-06-25T17:35:47.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/strait-of-hormuz-iran-war.html
+
+------------------------------
+
+6. Supreme Court Rejects Lawsuit Against Bayer Alleging Roundup Weedkiller Caused Cancer
+【相关股票】BAYN
+【利好股票】无法判断
+【利空股票】BAYN
+【摘要】法院的裁决可能会决定对杀虫剂制造商拜耳数千起类似索赔诉讼的未来。
+【依据】文章提到拜耳公司（BAYN）制造杀虫剂Roundup，面临关于其致癌性的法律诉讼。
+【原标题】Supreme Court Rejects Lawsuit Against Bayer Alleging Roundup Weedkiller Caused Cancer
+【发布时间】2026-06-25T16:55:49.000Z
+【链接】https://www.nytimes.com/2026/06/25/us/politics/supreme-court-weedkiller-roundup-bayer.html
+
+------------------------------
+
+7. Chemours to Pay $450M in First Federal PFAS Settlement
+【相关股票】CHMT
+【利好股票】无法判断
+【利空股票】CHMT
+【摘要】该和解涉及Chemours在几个州倾倒PFAS“永久化学品”的问题，这些化学品与癌症和其他风险有关。
+【依据】文章提到Chemours公司（CHMT）关于PFAS（永久化学品）的和解，涉及环境污染和健康风险。
+【原标题】Chemours to Pay $450M in First Federal PFAS Settlement
+【发布时间】2026-06-25T16:45:48.000Z
+【链接】https://www.nytimes.com/2026/06/25/climate/trump-pfas-forever-chemical-settlement-chemours.html
+
+------------------------------
+
+8. SpaceX IPO Shows How Investors in Public Companies Are Losing Power
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】SpaceX 加入了一类使用双重股权结构来确保许多股东在公司治理中发言权较小的公司的队伍。
+【依据】文章关注SpaceX的IPO结构和股东权利问题，但没有具体提到任何已上市公司的股票代码。
+【原标题】SpaceX IPO Shows How Investors in Public Companies Are Losing Power
+【发布时间】2026-06-25T16:33:40.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/spacex-shares-ipo.html
