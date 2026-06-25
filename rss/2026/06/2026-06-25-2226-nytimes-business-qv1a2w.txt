@@ -1,0 +1,85 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-25T12:26:57.730Z - 2026-06-25T14:26:57.730Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. Marianne Lake, a Potential Dimon Successor, Leaves JPMorgan
+2. Inflation Accelerated in May as Iran War Pushed Up Prices
+3. Oil Prices Hover Around Prewar Levels as Gulf Shipping Advances
+4. Big Companies Aim to Ease A.I. Transition for American Workers
+5. The Taylor Swift Wedding and a Hot New York Summer
+6. U.S. Inflation Problems Are Far From Over
+
+==============================
+
+1. Marianne Lake, a Potential Dimon Successor, Leaves JPMorgan
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Another potential successor, Marianne Lake, is leaving JPMorgan, as the longstanding chief executive enters his third decade atop the bank.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Marianne Lake, a Potential Dimon Successor, Leaves JPMorgan
+【发布时间】2026-06-25T14:04:19.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/jamie-dimon-jpmorgan-succession-petno-rohrbaugh.html
+
+------------------------------
+
+2. Inflation Accelerated in May as Iran War Pushed Up Prices
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A closely watched measure of inflation ticked up as the conflict in the Middle East inflated energy prices.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Inflation Accelerated in May as Iran War Pushed Up Prices
+【发布时间】2026-06-25T13:45:50.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/inflation-iran-war-prices.html
+
+------------------------------
+
+3. Oil Prices Hover Around Prewar Levels as Gulf Shipping Advances
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Oil prices fell, moving closer to levels not seen since the war in Iran began in February.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Oil Prices Hover Around Prewar Levels as Gulf Shipping Advances
+【发布时间】2026-06-25T13:40:54.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/oil-prices-gas-iran.html
+
+------------------------------
+
+4. Big Companies Aim to Ease A.I. Transition for American Workers
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】OpenAI, Anthropic, Amazon and Microsoft have signed on to an effort led by Gina Raimondo, a former commerce secretary.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Big Companies Aim to Ease A.I. Transition for American Workers
+【发布时间】2026-06-25T12:57:34.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/economy/ai-work-force-training-job-losses.html
+
+------------------------------
+
+5. The Taylor Swift Wedding and a Hot New York Summer
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Should Taylor Swift and Travis Kelce tie the knot in New York City, their nuptials would be another economic event for the Big Apple.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The Taylor Swift Wedding and a Hot New York Summer
+【发布时间】2026-06-25T12:54:55.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/dealbook/taylor-travis-wedding-new-york.html
+
+------------------------------
+
+6. U.S. Inflation Problems Are Far From Over
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Federal Reserve’s new chairman has vowed to deliver price stability, but officials are at odds over whether that will require higher borrowing costs.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】U.S. Inflation Problems Are Far From Over
+【发布时间】2026-06-25T12:36:42.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/federal-reserve-inflation-pce.html
