@@ -1,0 +1,59 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-06-25T14:14:13.208Z - 2026-06-25T16:14:13.208Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Oil price falls back to pre-Iran war levels
+2. Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests
+3. Europe's heatwave shifts east as France raises health alert to highest level
+4. 'I thought I was going to die' - Venezuelans describe earthquake panic
+
+==============================
+
+1. Oil price falls back to pre-Iran war levels
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Oil price falls back to pre-Iran war levels
+【发布时间】2026-06-25T15:32:04.000Z
+【链接】https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Protesters demand justice for the dozens killed during the 2024 demonstrations and last year's anniversary protests.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Families lay flowers on barbed wire barricade on anniversary of deadly Kenya protests
+【发布时间】2026-06-25T15:31:23.000Z
+【链接】https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. Europe's heatwave shifts east as France raises health alert to highest level
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Europe's heatwave shifts east as France raises health alert to highest level
+【发布时间】2026-06-25T15:15:45.000Z
+【链接】https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+4. 'I thought I was going to die' - Venezuelans describe earthquake panic
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】'I thought I was going to die' - Venezuelans describe earthquake panic
+【发布时间】2026-06-25T15:04:21.000Z
+【链接】https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss
