@@ -1,0 +1,59 @@
+Yahoo Japan - 中文结构化新闻汇总
+
+【来源】Yahoo Japan
+【时间】2026-06-25T20:14:07.631Z - 2026-06-25T22:14:07.631Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 森保J スウェーデン戦のスタメン
+2. ベネズエラ地震 数千人死亡の恐れ
+3. 毒物カレー事件 林死刑囚の夫死去
+4. 台風7号 沖縄は暴風と大雨に警戒
+
+==============================
+
+1. 森保J スウェーデン戦のスタメン
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】森保J スウェーデン戦のスタメン
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】森保J スウェーデン戦のスタメン
+【发布时间】2026-06-25T21:54:33.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585678?source=rss
+
+------------------------------
+
+2. ベネズエラ地震 数千人死亡の恐れ
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】ベネズエラ地震 数千人死亡の恐れ
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】ベネズエラ地震 数千人死亡の恐れ
+【发布时间】2026-06-25T21:29:51.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585677?source=rss
+
+------------------------------
+
+3. 毒物カレー事件 林死刑囚の夫死去
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】毒物カレー事件 林死刑囚の夫死去
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】毒物カレー事件 林死刑囚の夫死去
+【发布时间】2026-06-25T21:16:36.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585676?source=rss
+
+------------------------------
+
+4. 台風7号 沖縄は暴風と大雨に警戒
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】台風7号 沖縄は暴風と大雨に警戒
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】台風7号 沖縄は暴風と大雨に警戒
+【发布时间】2026-06-25T21:08:20.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585675?source=rss
