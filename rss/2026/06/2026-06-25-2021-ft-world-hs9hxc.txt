@@ -1,0 +1,124 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-25T10:21:43.427Z - 2026-06-25T12:21:43.427Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. France warns against weaker climate targets for cars as EV sales surge
+2. Hospitals cancel operations because of lack of air conditioning
+3. SpaceX bond sale signals markets are in ‘bubble territory’, warns Allianz CIO
+4. Andy Burnham’s Ed Miliband test
+5. Venezuelan earthquakes leave ‘devastating number of deaths’
+6. Donald Trump — EV salesman extraordinaire
+7. Robots are coming to the oil patch
+8. Market gloom reduces number of homes facing ‘mansion tax’ in England
+9. Takaichi sets out Japan’s largest-ever investment roadmap
+
+==============================
+
+1. France warns against weaker climate targets for cars as EV sales surge
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Minister says watering down European engine rules would send ‘terrible signal’ after Hormuz energy crisis
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】France warns against weaker climate targets for cars as EV sales surge
+【发布时间】2026-06-25T12:06:04.000Z
+【链接】https://www.ft.com/content/9da56967-62a4-4ee8-bab3-384a66b9868a
+
+------------------------------
+
+2. Hospitals cancel operations because of lack of air conditioning
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Record June temperatures put up to 4,000 surgeries at risk
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Hospitals cancel operations because of lack of air conditioning
+【发布时间】2026-06-25T11:38:39.000Z
+【链接】https://www.ft.com/content/fb187483-f496-4432-976e-0aaa9d0506fd
+
+------------------------------
+
+3. SpaceX bond sale signals markets are in ‘bubble territory’, warns Allianz CIO
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Debt investors will scrutinise Musk’s rocket company more closely than equity markets, says Ludovic Subran
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】SpaceX bond sale signals markets are in ‘bubble territory’, warns Allianz CIO
+【发布时间】2026-06-25T11:29:34.000Z
+【链接】https://www.ft.com/content/40b0666b-8214-4162-a82b-d74ba464eabc
+
+------------------------------
+
+4. Andy Burnham’s Ed Miliband test
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The choice of chancellor will reveal the likely character of the government and the extent of any new radicalism
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Andy Burnham’s Ed Miliband test
+【发布时间】2026-06-25T11:23:47.000Z
+【链接】https://www.ft.com/content/b8468ccb-8acf-436f-819f-4d560c193151
+
+------------------------------
+
+5. Venezuelan earthquakes leave ‘devastating number of deaths’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Acting president Delcy Rodríguez says 164 already confirmed dead but toll likely to rise sharply
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Venezuelan earthquakes leave ‘devastating number of deaths’
+【发布时间】2026-06-25T11:16:57.000Z
+【链接】https://www.ft.com/content/4eb25cfb-1b1e-4f9d-9562-3f8a3b9078c1
+
+------------------------------
+
+6. Donald Trump — EV salesman extraordinaire
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Electric cars go vrooom
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Donald Trump — EV salesman extraordinaire
+【发布时间】2026-06-25T11:05:51.000Z
+【链接】https://www.ft.com/content/60d81e0e-64bd-40fe-bbf4-e8ecc38a418d
+
+------------------------------
+
+7. Robots are coming to the oil patch
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in today’s newsletter, Russia receives an oil windfall amid Iran war
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Robots are coming to the oil patch
+【发布时间】2026-06-25T11:00:07.000Z
+【链接】https://www.ft.com/content/01a72e2e-8620-44a3-85ce-7aa3b22495b3
+
+------------------------------
+
+8. Market gloom reduces number of homes facing ‘mansion tax’ in England
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Receipts would be nearly £30mn lower today than when the policy was announced, estate agency data shows
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Market gloom reduces number of homes facing ‘mansion tax’ in England
+【发布时间】2026-06-25T11:00:07.000Z
+【链接】https://www.ft.com/content/dfac46da-91b3-45e2-8209-997071de6aae
+
+------------------------------
+
+9. Takaichi sets out Japan’s largest-ever investment roadmap
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】$2.3tn plan combining public and private funds over 14 years implies fiscal expansion by heavily indebted government
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Takaichi sets out Japan’s largest-ever investment roadmap
+【发布时间】2026-06-25T10:48:47.000Z
+【链接】https://www.ft.com/content/2acfbdf5-d86b-46be-89d4-6d0cc5756ed3
