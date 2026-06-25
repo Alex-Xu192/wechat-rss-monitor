@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-25T18:17:56.526Z - 2026-06-25T20:17:56.526Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. U.S. Inflation Problems Are Far From Over
+2. Movement Through Strait of Hormuz Is Halted After Attack on Cargo Ship
+3. Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning
+4. Supreme Court Rejects Lawsuit Against Bayer Alleging Roundup Weedkiller Caused Cancer
+5. Apple Raises Prices on Macs and iPads Amid the A.I. Boom
+
+==============================
+
+1. U.S. Inflation Problems Are Far From Over
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Federal Reserve’s new chairman has vowed to deliver price stability, but officials are at odds over whether that will require higher borrowing costs.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】U.S. Inflation Problems Are Far From Over
+【发布时间】2026-06-25T19:40:12.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/federal-reserve-inflation-pce.html
+
+------------------------------
+
+2. Movement Through Strait of Hormuz Is Halted After Attack on Cargo Ship
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The strike on a vessel near the coast of Oman prompted a U.N. agency to pause an evacuation of ships from the Persian Gulf.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Movement Through Strait of Hormuz Is Halted After Attack on Cargo Ship
+【发布时间】2026-06-25T19:38:10.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/hormuz-ship-attack-iran.html
+
+------------------------------
+
+3. Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】In a notice flagging a series of problems with a clinical trial, the journal Nature Medicine said its editors “no longer have confidence in the integrity of the results.”
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning
+【发布时间】2026-06-25T19:29:29.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/china-cancer-treatment-research-retraction.html
+
+------------------------------
+
+4. Supreme Court Rejects Lawsuit Against Bayer Alleging Roundup Weedkiller Caused Cancer
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The court’s decision is likely to determine the future of thousands of lawsuits against Bayer, which manufactures the weedkiller, over similar claims.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Supreme Court Rejects Lawsuit Against Bayer Alleging Roundup Weedkiller Caused Cancer
+【发布时间】2026-06-25T18:59:18.000Z
+【链接】https://www.nytimes.com/2026/06/25/us/politics/supreme-court-weedkiller-roundup-bayer.html
+
+------------------------------
+
+5. Apple Raises Prices on Macs and iPads Amid the A.I. Boom
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The tech giant cited the soaring costs of memory and storage chips as it increased prices more than $200 on some devices.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Apple Raises Prices on Macs and iPads Amid the A.I. Boom
+【发布时间】2026-06-25T18:52:29.000Z
+【链接】https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html
