@@ -1,0 +1,33 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-25T20:24:10.007Z - 2026-06-25T22:24:10.007Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. India’s indigenous drone makers see orders surge for weaponised UAVs
+2. Apple increases MacBook and iPad prices by 20%
+
+==============================
+
+1. India’s indigenous drone makers see orders surge for weaponised UAVs
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Conflict in Iran pushes New Delhi to focus on domestic defence supply chains
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】India’s indigenous drone makers see orders surge for weaponised UAVs
+【发布时间】2026-06-25T21:00:04.000Z
+【链接】https://www.ft.com/content/7a9fbeca-3bf9-4e5f-a863-d71df35d2133
+
+------------------------------
+
+2. Apple increases MacBook and iPad prices by 20%
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】iPhone maker loses $263bn in market capitalisation, blames costs on AI-driven memory shortage
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Apple increases MacBook and iPad prices by 20%
+【发布时间】2026-06-25T20:36:09.000Z
+【链接】https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c
