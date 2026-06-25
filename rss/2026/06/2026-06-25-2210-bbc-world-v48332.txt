@@ -1,0 +1,59 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-06-25T12:10:51.987Z - 2026-06-25T14:10:51.987Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Europe's heatwave shifts east as France raises health alert to highest level
+2. Earthquake is devastating blow to Venezuela at time of uncertainty
+3. Key figure in South Africa police corruption scandal pleads guilty
+4. Oil price falls back to pre-Iran war levels
+
+==============================
+
+1. Europe's heatwave shifts east as France raises health alert to highest level
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Europe's heatwave shifts east as France raises health alert to highest level
+【发布时间】2026-06-25T13:16:39.000Z
+【链接】https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Earthquake is devastating blow to Venezuela at time of uncertainty
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Earthquake is devastating blow to Venezuela at time of uncertainty
+【发布时间】2026-06-25T13:09:58.000Z
+【链接】https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. Key figure in South Africa police corruption scandal pleads guilty
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Prosecutors say Vusimusi "Cat" Matlala could provide evidence against "high-ranking officials".
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Key figure in South Africa police corruption scandal pleads guilty
+【发布时间】2026-06-25T12:49:18.000Z
+【链接】https://www.bbc.co.uk/news/articles/cx2j4g5k52jo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+4. Oil price falls back to pre-Iran war levels
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Oil price falls back to pre-Iran war levels
+【发布时间】2026-06-25T12:37:12.000Z
+【链接】https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss
