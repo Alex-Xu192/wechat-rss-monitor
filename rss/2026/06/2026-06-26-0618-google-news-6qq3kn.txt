@@ -1,0 +1,111 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-25T20:18:24.257Z - 2026-06-25T22:18:24.257Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. Responding to Venezuela Earthquakes - U.S. Department of State (.gov)
+2. Supreme Court strikes down Hawaii limits on carrying guns in public - The Washington Post
+3. The Supreme Court lets the Trump administration end legal protections for Haitians and Syrians - AP News
+4. Jury reaches a verdict in trial over deadly, destructive Pacific Palisades fire - NBC News
+5. Apple shares plunge after it hikes prices on iPads and laptops - NBC News
+6. Dolly Parton, 80, Leaves Fans Concerned After Latest Public Appearance - Yahoo
+7. Tom Sandoval's girlfriend Victoria Robinson arrested for alleged attack that left Bravo star bloody, bruised - Page Six
+8. Prime Day ends soon: We found 120+ deals from Apple, Lego, Sony, and more - Mashable
+
+==============================
+
+1. Responding to Venezuela Earthquakes - U.S. Department of State (.gov)
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Responding to Venezuela Earthquakes  U.S. Department of State (.gov)
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Responding to Venezuela Earthquakes - U.S. Department of State (.gov)
+【发布时间】2026-06-25T21:56:15.000Z
+【链接】https://news.google.com/rss/articles/CBMiaEFVX3lxTE02cjFlSzkxZF9QVnpISUJ4dWhLa1NFR3dkYmFMSzFNQkxNckY4MWlMTUJ2cGF5UEZ2WVEwdkhaQmJGUHRudFZXYUo0QmVBS1pESTdzTk8tQmV2VEJneE93RUxEU1cxQTBE?oc=5
+
+------------------------------
+
+2. Supreme Court strikes down Hawaii limits on carrying guns in public - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Supreme Court strikes down Hawaii limits on carrying guns in public  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Supreme Court strikes down Hawaii limits on carrying guns in public - The Washington Post
+【发布时间】2026-06-25T21:50:38.000Z
+【链接】https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzNoWVlpVFpOSFhJUU8wUEIxYmVDMWlrTkFiWGdMQlNHVThtbzlqWjlFNXR4QWp0ODA0SExmMElBNy1wVzdmaVNPbHlEOWwwcWxYSjBPNkFFck9lQWVwTWdnZDF3Mmo1bzhXemNmRDh3bmNWckNZVkVMQ3cwaGZKTkxPY3hCR0tOeXBYdHNBd3dPR29kb3o4M21fSkR4bVlHbTBUTmdJci05UUJDNEp5U0Rjaw?oc=5
+
+------------------------------
+
+3. The Supreme Court lets the Trump administration end legal protections for Haitians and Syrians - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Supreme Court lets the Trump administration end legal protections for Haitians and Syrians  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】The Supreme Court lets the Trump administration end legal protections for Haitians and Syrians - AP News
+【发布时间】2026-06-25T21:39:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiowFBVV95cUxPTFZFZDU5c1hnMWFhOTcxa196M1NaZ09RU3lNOWxOQm56ekRKNkhYX19OSDhuNWxoejI0TDV1eWtuWlR5Z3JYZHRRWU9pcENHTlRrajdYSDZvNkNtMVZnc1E1TXNkbk10UUZIUWM4THBfd3pRNlBoUUVCRTZxVDlfaW45RmxrVUtLb0w3NG9IVEQwSEZLQVBubEZ6LXRnWnNUTjZF?oc=5
+
+------------------------------
+
+4. Jury reaches a verdict in trial over deadly, destructive Pacific Palisades fire - NBC News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Jury reaches a verdict in trial over deadly, destructive Pacific Palisades fire  NBC News
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Jury reaches a verdict in trial over deadly, destructive Pacific Palisades fire - NBC News
+【发布时间】2026-06-25T21:24:43.000Z
+【链接】https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRHVDS1pUZEtyUklWWnd5Ymt3N2ItX0p5UzhpWUw4Wl9ZUjFiYlB6RTBOS1h4SUtEaUk1aDU1N3hLSmhfVm1BcDRrODRkSUZwMFVjUjJYRDJwWW9JN1FUYkVNYTc0allJNHBweV9Qd2drVlFOWFZRQTZQaGRmOE9Ua1o5cnNCeXZ2S2Vn?oc=5
+
+------------------------------
+
+5. Apple shares plunge after it hikes prices on iPads and laptops - NBC News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Apple shares plunge after it hikes prices on iPads and laptops  NBC News
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Apple shares plunge after it hikes prices on iPads and laptops - NBC News
+【发布时间】2026-06-25T20:59:20.000Z
+【链接】https://news.google.com/rss/articles/CBMikwFBVV95cUxOT1dJazA1cVBJV0FKay03YnFMUFcwWE4xenVYMG94dkk0SUx4TE1mN28wcmtJaWJtNjh1cERIU20zSkZrbXRwVTFPWkxuNWU1a29WVXVsSEUtaFlOU2xLckdJeXhFai1Va3NtamJLMVlKeXQxRnRhNW5MLU84bmh6elgxSVd4M21DeWhZTzktOGlrTmc?oc=5
+
+------------------------------
+
+6. Dolly Parton, 80, Leaves Fans Concerned After Latest Public Appearance - Yahoo
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Dolly Parton, 80, Leaves Fans Concerned After Latest Public Appearance  Yahoo
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Dolly Parton, 80, Leaves Fans Concerned After Latest Public Appearance - Yahoo
+【发布时间】2026-06-25T20:52:07.000Z
+【链接】https://news.google.com/rss/articles/CBMingFBVV95cUxNb3E4MzVaVkpNYll3eFdhSXZMNTdiQ1NHZ0x0RERBVmF4X3dqN0VDUGUydFRjeWNTdW5pTnFBeThaS0xfMFlBYlNEYUZIYXp0ZWtqVFJDcGRQWmF0RHNvREFsMFdwb251RmlVNU1JQVBPLWc3QXRvN0NLRjVpRkoxak44ZVdyaVl5V3VhZmVvV1daNkVaSzFHZ0Z4VGdBdw?oc=5
+
+------------------------------
+
+7. Tom Sandoval's girlfriend Victoria Robinson arrested for alleged attack that left Bravo star bloody, bruised - Page Six
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Tom Sandoval's girlfriend Victoria Robinson arrested for alleged attack that left Bravo star bloody, bruised  Page Six
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Tom Sandoval's girlfriend Victoria Robinson arrested for alleged attack that left Bravo star bloody, bruised - Page Six
+【发布时间】2026-06-25T20:51:00.000Z
+【链接】https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ3cyVnc3dy1kYWpia0hHYWliX2dxU2t2dDZVR3h2LWZNVWVxVG01VUtySHN1MEFiVndSQWJWQXJaLWt1bmM3V25NMGpOaU9ETTg0cGFON0c2T2lOdk9BTm02a2hsMkZTYm1yd3NCMDgzckVQS1FBMmF4aUVIcENDM2pHQjBkRFYxdlB2YUNuYjY0a3hQb2ZSWk1LM1BWS0VNNTJlMUFZM29HUFZNY2paNGxLVEdxTU1kZXR3Ry03QnV6anVrUUxzU05xUGNVbGl4Y1hTTm9TZXhLMWdVMDVMc2ViTHZIRzJi?oc=5
+
+------------------------------
+
+8. Prime Day ends soon: We found 120+ deals from Apple, Lego, Sony, and more - Mashable
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Prime Day ends soon: We found 120+ deals from Apple, Lego, Sony, and more  Mashable
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Prime Day ends soon: We found 120+ deals from Apple, Lego, Sony, and more - Mashable
+【发布时间】2026-06-25T20:32:02.000Z
+【链接】https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ha2d6UHJDRE1faWJDSnQ5YWtIRXlDRmRlUHg4QTM1S3J4UnJ0SDJ4N3FGWjNIUVR0elZQbmJrUFgtQUxJTmI5S3NpZUFRZTRlbTByTUJqMk9QRUl2WjhHdGtxRThSb3R2QTZjMEpudUY?oc=5
