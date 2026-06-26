@@ -1,0 +1,59 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-26T00:23:35.308Z - 2026-06-26T02:23:35.308Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Live updates: Massive search and rescue effort underway after Venezuela quakes kill at least 188 people - CNN
+2. Jonathan Rinderknecht: Jurors deadlocked in arson trial of Palisades Fire suspect - ABC7 Los Angeles
+3. Iran strikes cargo ship on U.N.-backed route in Strait of Hormuz - The Washington Post
+4. Starting XI & Lineup Notes: USMNT vs. Türkiye - U.S. Soccer
+
+==============================
+
+1. Live updates: Massive search and rescue effort underway after Venezuela quakes kill at least 188 people - CNN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Live updates: Massive search and rescue effort underway after Venezuela quakes kill at least 188 people  CNN
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Live updates: Massive search and rescue effort underway after Venezuela quakes kill at least 188 people - CNN
+【发布时间】2026-06-26T02:13:00.000Z
+【链接】https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3liWjNhcnpvNXlqdFFrMlREVG1iel9fUEpSb1hFMFVUWks2Zm1aYTZfUkFPYl81Q082MlViNnRkbUxkS09UX1BQQ0NJX0lneUdXMllxbl81ajJfY012YXVJWEE0M2trbHRCd1JKdHltd05zOUdpeVVCVjRPRU9TaXBlZmFWZ1dDeWZsU1NrVmNpaUE?oc=5
+
+------------------------------
+
+2. Jonathan Rinderknecht: Jurors deadlocked in arson trial of Palisades Fire suspect - ABC7 Los Angeles
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Jonathan Rinderknecht: Jurors deadlocked in arson trial of Palisades Fire suspect  ABC7 Los Angeles
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Jonathan Rinderknecht: Jurors deadlocked in arson trial of Palisades Fire suspect - ABC7 Los Angeles
+【发布时间】2026-06-26T01:52:30.000Z
+【链接】https://news.google.com/rss/articles/CBMisgFBVV95cUxOUEZOMERrcGZERUMzVC0yQmNqMVRfamhCX1FnZmJFZ1VjanFsSzFRaV9kenNYckxDYUZiLTV3dkJhZzl0dXVPbmRzbkVzU3Z2WkoyNGphQU5ZTG44WXFqU25nMnNnd3FxZ1hTYzNjOG9SSlA0MWJUX3RNZm1IM25Mc05NNTM0blpjRXQ2TW0wWGdKdXJHRmcxNmJteGJkTGhkaHpsYlBmeE9hdDFsVzdGZFhn0gG3AUFVX3lxTFBETWJYeFFPWVdKSTlCMGdWc2x4QWhFc1NHR1pVUDJoNUQtbVQtNDlPSWo2ek43QjZ4U04wNTlKRE9kaGFSZUJzN0ZKazJqSV9EWExVbEVab0FVMThLbkkxTlVYMWFiQkt2RlZxazdYNXNfcHlqN3VkOVN1M1pBajRLUnRqMnE0cjVsYTl3QjNuX2d2VGlseUFYQnJVUnM1TTZQZmFJakZtalRqampVUF9kelg5X2VNbw?oc=5
+
+------------------------------
+
+3. Iran strikes cargo ship on U.N.-backed route in Strait of Hormuz - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Iran strikes cargo ship on U.N.-backed route in Strait of Hormuz  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Iran strikes cargo ship on U.N.-backed route in Strait of Hormuz - The Washington Post
+【发布时间】2026-06-26T01:09:02.000Z
+【链接】https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2hvUU8ta3ZNNEpHLXViODlSdk1odzlhUUtPLUtLWkV3ZWtaVi02RmxKbTdjbnNGUjk2SVhxQWVwVjdDbURXdUMyWW9vX2R2Y1V2bWZKLVpnLWc4eWJsUDd0RW5sZWxYTFMzZ1RKNE5vSTFMUkUtOG50LTVJM3NRaW5ERXdnUmhwNHhjYWo2enhOWENiQWJTWHdzNnhfTXEyNWNYbEVobzh1a2Z2RjdZ?oc=5
+
+------------------------------
+
+4. Starting XI & Lineup Notes: USMNT vs. Türkiye - U.S. Soccer
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Starting XI & Lineup Notes: USMNT vs. Türkiye  U.S. Soccer
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Starting XI & Lineup Notes: USMNT vs. Türkiye - U.S. Soccer
+【发布时间】2026-06-26T00:37:29.000Z
+【链接】https://news.google.com/rss/articles/CBMilwFBVV95cUxNNzJjWjBDc09WaHRCVnpCbW9jMVhxMV93bW5QZjVLTDF3QXJCLXRNYk1wY2RTbnp3YjZJQVphZnFHM3FDeUIwSDNnV0k0ZHFFZXctMnp0cjd0b3NDdlhEbWdQZjJNTzVNVUFFU3otU3FTYnQtNGQzOHoyQmg2WUE0NmJQZTlKMm9tc0dSVmhnM3I3dkJYdVhZ?oc=5
