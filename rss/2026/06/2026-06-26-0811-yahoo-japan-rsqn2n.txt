@@ -1,0 +1,85 @@
+Yahoo Japan - 中文结构化新闻汇总
+
+【来源】Yahoo Japan
+【时间】2026-06-25T22:11:53.666Z - 2026-06-26T00:11:53.666Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. W杯速報 オランダが2点リード
+2. 速報W杯 日本vs.スウェーデン
+3. 本田圭佑のW杯解説 SNSの反応
+4. 台風遠い地域も大雨 土砂災害警戒
+5. 村上虹郎さん 傷害疑いで書類送検
+6. 寝屋川流域 レベル4氾濫危険警報
+
+==============================
+
+1. W杯速報 オランダが2点リード
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】W杯速報 オランダが2点リード
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】W杯速報 オランダが2点リード
+【发布时间】2026-06-26T00:09:48.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585700?source=rss
+
+------------------------------
+
+2. 速報W杯 日本vs.スウェーデン
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】速報W杯 日本vs.スウェーデン
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】速報W杯 日本vs.スウェーデン
+【发布时间】2026-06-26T00:07:14.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585699?source=rss
+
+------------------------------
+
+3. 本田圭佑のW杯解説 SNSの反応
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】本田圭佑のW杯解説 SNSの反応
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】本田圭佑のW杯解説 SNSの反応
+【发布时间】2026-06-25T23:56:44.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585694?source=rss
+
+------------------------------
+
+4. 台風遠い地域も大雨 土砂災害警戒
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】台風遠い地域も大雨 土砂災害警戒
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】台風遠い地域も大雨 土砂災害警戒
+【发布时间】2026-06-25T23:49:44.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585693?source=rss
+
+------------------------------
+
+5. 村上虹郎さん 傷害疑いで書類送検
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】村上虹郎さん 傷害疑いで書類送検
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】村上虹郎さん 傷害疑いで書類送検
+【发布时间】2026-06-25T23:20:22.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585687?source=rss
+
+------------------------------
+
+6. 寝屋川流域 レベル4氾濫危険警報
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】寝屋川流域 レベル4氾濫危険警報
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】寝屋川流域 レベル4氾濫危険警報
+【发布时间】2026-06-25T22:38:31.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585683?source=rss
