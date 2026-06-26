@@ -1,0 +1,59 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-26T20:17:34.514Z - 2026-06-26T22:17:34.514Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 人工智能不确定性冲击科技股，亚洲股市下跌
+2. 四个月后，油价回归至战前水平
+3. Saks 以新计划和公司名称走出破产困境
+4. 小型飞机撞入北京最高建筑
+
+==============================
+
+1. 人工智能不确定性冲击科技股，亚洲股市下跌
+【相关股票】科技股
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】原油价格在战前水平附近波动，交易依然剧烈。
+【依据】标题提到人工智能的不确定性导致亚洲科技股下跌，但摘要讨论的是原油价格波动，两者内容不一致。基于标题，科技板块受负面影响。
+【原标题】Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares
+【发布时间】2026-06-26T21:43:40.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/oil-price-gas-iran.html
+
+------------------------------
+
+2. 四个月后，油价回归至战前水平
+【相关股票】原油
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】原油成本已成为伊朗战争对全球经济影响的实时晴雨表。
+【依据】报道讨论原油价格回归战前水平，反映了伊朗战争对全球经济的影响，属于能源市场动态。
+【原标题】Oil Prices Return to Prewar Levels After Four Months
+【发布时间】2026-06-26T21:23:32.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html
+
+------------------------------
+
+3. Saks 以新计划和公司名称走出破产困境
+【相关股票】Exemplar Luxury Group
+【利好股票】Exemplar Luxury Group
+【利空股票】无法判断
+【摘要】这家零售商更名为 Exemplar Luxury Group，将放弃所有非高端百货购物的业务。
+【依据】Saks通过破产重组重新命名为Exemplar Luxury Group并专注于高端百货，这是公司结构性的正面重组。
+【原标题】Saks Emerges From Bankruptcy With a New Plan and Corporate Name
+【发布时间】2026-06-26T20:46:56.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/saks-bankruptcy-exemplar-luxury-group.html
+
+------------------------------
+
+4. 小型飞机撞入北京最高建筑
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】一架小型飞机撞入北京最高建筑，碎片掉落在下方街道，导致首都中心商业区人群四散逃离。
+【依据】该新闻描述的是一起航空意外事故，不涉及具体的股票交易或公司财务表现。
+【原标题】Small Plane Crashes Into Tallest Building in Beijing
+【发布时间】2026-06-26T20:32:01.000Z
+【链接】https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html
