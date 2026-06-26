@@ -1,0 +1,98 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-26T04:16:27.203Z - 2026-06-26T06:16:27.203Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. The leadership change in US stocks
+2. DeepSeek plans hiring spree in escalation of China’s AI talent war
+3. EU ministers set to curb Brussels’ powers over cross-border electricity grids
+4. Brexit has made the UK more European, says Goldman Sachs
+5. Global markets fall as investors fret about AI demand
+6. FirstFT: UK higher-earners in crosshairs for job cuts
+7. Outlook for Fed interest rates shifts in a hawkish direction
+
+==============================
+
+1. The leadership change in US stocks
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A market seeking direction
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The leadership change in US stocks
+【发布时间】2026-06-26T05:30:09.000Z
+【链接】https://www.ft.com/content/42420d57-f466-4b01-bc4a-4d68f9e0b6c0
+
+------------------------------
+
+2. DeepSeek plans hiring spree in escalation of China’s AI talent war
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Advertised roles suggest company focused on commercialising frontier research
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】DeepSeek plans hiring spree in escalation of China’s AI talent war
+【发布时间】2026-06-26T05:12:30.000Z
+【链接】https://www.ft.com/content/e0b071ad-d3ea-4b9d-834e-84b23b48b385
+
+------------------------------
+
+3. EU ministers set to curb Brussels’ powers over cross-border electricity grids
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in this newsletter: Europe’s top criminal networks hide behind legal businesses and carbon costs split member states
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】EU ministers set to curb Brussels’ powers over cross-border electricity grids
+【发布时间】2026-06-26T05:00:10.000Z
+【链接】https://www.ft.com/content/ea63e6b4-074c-40ef-ba87-2a27ac97eb01
+
+------------------------------
+
+4. Brexit has made the UK more European, says Goldman Sachs
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】In the ‘lacklustre GDP growth and weak inward investment’ sense, not the ‘café culture and egalitarian social values’ sense
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Brexit has made the UK more European, says Goldman Sachs
+【发布时间】2026-06-26T05:00:09.000Z
+【链接】https://www.ft.com/content/ad4a3d3e-5e2d-4a81-bd93-6cf4a2593f0d
+
+------------------------------
+
+5. Global markets fall as investors fret about AI demand
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Apple’s price rises and fears over delay to OpenAI’s IPO send Asian bourses sharply lower
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Global markets fall as investors fret about AI demand
+【发布时间】2026-06-26T04:36:49.000Z
+【链接】https://www.ft.com/content/bb70e272-5b09-4806-8b19-7c03c350f580
+
+------------------------------
+
+6. FirstFT: UK higher-earners in crosshairs for job cuts
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in today’s newsletter: Burnham’s foreign policy and Italy’s election rules
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】FirstFT: UK higher-earners in crosshairs for job cuts
+【发布时间】2026-06-26T04:31:27.000Z
+【链接】https://www.ft.com/content/6452087f-a6ef-4a24-ae67-92bd3817d613
+
+------------------------------
+
+7. Outlook for Fed interest rates shifts in a hawkish direction
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Read the June forecast from the FT’s Monetary Policy Radar team
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Outlook for Fed interest rates shifts in a hawkish direction
+【发布时间】2026-06-26T04:30:09.000Z
+【链接】https://www.ft.com/content/0bc1dc4c-5c10-4da4-96e6-eb401d978aa2
