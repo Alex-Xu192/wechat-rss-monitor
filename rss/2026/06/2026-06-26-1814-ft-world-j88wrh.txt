@@ -1,0 +1,98 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-26T08:14:21.980Z - 2026-06-26T10:14:21.980Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. German financial regulator probes Zalando over €1.1bn deal disclosure
+2. Atlanta Fed struggles to find new chief after Raphael Bostic’s departure
+3. Why poor countries won’t restructure
+4. Britain backs electricity storage projects as heatwave strains grid
+5. Volkswagen to axe up to 100,000 jobs in sweeping cost-cutting drive
+6. The Manchester project encapsulating Burnham’s growth vision
+7. Heathrow warns on global travel demand in wake of Iran conflict
+
+==============================
+
+1. German financial regulator probes Zalando over €1.1bn deal disclosure
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】BaFin says fashion retailer may have failed to provide information on a transaction linked to About You acquisition
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】German financial regulator probes Zalando over €1.1bn deal disclosure
+【发布时间】2026-06-26T10:05:48.000Z
+【链接】https://www.ft.com/content/8b44a2ca-ec15-4aa5-a8dc-8fd02342d57b
+
+------------------------------
+
+2. Atlanta Fed struggles to find new chief after Raphael Bostic’s departure
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Search committee has not identified a candidate to pitch to central bank’s Washington board of governors
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Atlanta Fed struggles to find new chief after Raphael Bostic’s departure
+【发布时间】2026-06-26T10:00:00.000Z
+【链接】https://www.ft.com/content/f82925c2-a5d4-44f1-95dc-ebdaec322acf
+
+------------------------------
+
+3. Why poor countries won’t restructure
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Low-income countries are facing deeper shocks, but are refusing to restructure. Why?
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Why poor countries won’t restructure
+【发布时间】2026-06-26T09:30:00.000Z
+【链接】https://www.ft.com/content/784c43af-7a68-4ca5-aa24-49704c567ebb
+
+------------------------------
+
+4. Britain backs electricity storage projects as heatwave strains grid
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Provisional approval of battery and hydropower projects comes after high temperatures reduce gas and solar generation
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Britain backs electricity storage projects as heatwave strains grid
+【发布时间】2026-06-26T09:03:36.000Z
+【链接】https://www.ft.com/content/6046abc9-2ae8-47ec-a94c-5f98cb772cff
+
+------------------------------
+
+5. Volkswagen to axe up to 100,000 jobs in sweeping cost-cutting drive
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Restructuring follows blockbuster sale of marine engines unit to US private equity firm Bain
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Volkswagen to axe up to 100,000 jobs in sweeping cost-cutting drive
+【发布时间】2026-06-26T08:49:30.000Z
+【链接】https://www.ft.com/content/d0760eaf-d345-4964-b2ae-f55f6dfd9a4a
+
+------------------------------
+
+6. The Manchester project encapsulating Burnham’s growth vision
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Piccadilly underground station under negotiations would show the vote-winning fruits of fiscal devolution
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】The Manchester project encapsulating Burnham’s growth vision
+【发布时间】2026-06-26T08:30:02.000Z
+【链接】https://www.ft.com/content/ec41dfb4-ed2a-4131-9b40-6f85bd942e90
+
+------------------------------
+
+7. Heathrow warns on global travel demand in wake of Iran conflict
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UK airport lowers passenger outlook as Middle East volatility weighs on traffic volumes
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Heathrow warns on global travel demand in wake of Iran conflict
+【发布时间】2026-06-26T08:24:01.000Z
+【链接】https://www.ft.com/content/15f620e9-d428-409a-b2d3-cdb9e2f61758
