@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-26T08:15:09.445Z - 2026-06-26T10:15:09.445Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 亚洲股市下跌，AI不确定性冲击科技股
+2. 如何应对伊朗战争石油冲击后的Jet Fuel Refinery
+3. 英特尔芯片业务经过多年努力后的复苏迹象
+
+==============================
+
+1. 亚洲股市下跌，AI不确定性冲击科技股
+【相关股票】AI科技股、原油
+【利好股票】无法判断
+【利空股票】AI科技股、原油
+【摘要】� crude prices are again approaching prewar levels, as trading remains volatile.
+【依据】文章讨论了亚洲股市因AI不确定性下跌，以及原油价格接近战前水平，显示出投资风险
+【原标题】Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares
+【发布时间】2026-06-26T09:54:49.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/oil-price-gas-iran.html
+
+------------------------------
+
+2. 如何应对伊朗战争石油冲击后的Jet Fuel Refinery
+【相关股票】石油精炼公司、韩国
+【利好股票】无法判断
+【利空股票】石油精炼公司
+【摘要】For a mega-refinery in Ulsan, South Korea, a top exporter of jet fuel to the West Coast of the United States and other places, weaning off Middle Eastern oil is no small feat.
+【依据】文章讨论了韩国大型炼油厂面临的挑战，需摆脱对中东石油的依赖
+【原标题】How a Jet Fuel Refinery Is Scrambling After the Iran War Oil Shock
+【发布时间】2026-06-26T09:40:09.000Z
+【链接】https://www.nytimes.com/2026/06/26/world/asia/iran-war-korea-jet-fuel.html
+
+------------------------------
+
+3. 英特尔芯片业务经过多年努力后的复苏迹象
+【相关股票】Intel、INTC
+【利好股票】Intel
+【利空股票】无法判断
+【摘要】It is the centerpiece of President Trump's drive to make more chips in the United States, but the company still has a long way to go before it can be called a complete turnaround.
+【依据】文章讨论英特尔芯片业务的复苏，但还需要更多努力才能实现完全转型
+【原标题】Intel's Chip Business Shows Signs of Life After Years of Struggle
+【发布时间】2026-06-26T08:54:16.000Z
+【链接】https://www.nytimes.com/2026/technology/intel-turnaround.html
