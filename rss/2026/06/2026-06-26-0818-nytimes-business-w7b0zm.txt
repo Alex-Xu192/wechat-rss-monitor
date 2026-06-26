@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-25T22:18:10.086Z - 2026-06-26T00:18:10.086Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Movement Through Strait of Hormuz Is Halted After Attack on Cargo Ship
+2. Iran Strikes Ship in Strait of Hormuz, Undermining Efforts to Restore Traffic
+
+==============================
+
+1. Movement Through Strait of Hormuz Is Halted After Attack on Cargo Ship
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The strike on a vessel near the coast of Oman prompted a U.N. agency to pause an evacuation of ships from the Persian Gulf.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Movement Through Strait of Hormuz Is Halted After Attack on Cargo Ship
+【发布时间】2026-06-25T23:13:11.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/hormuz-ship-attack-iran.html
+
+------------------------------
+
+2. Iran Strikes Ship in Strait of Hormuz, Undermining Efforts to Restore Traffic
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The attack, confirmed by U.S. and Iranian officials, came after Tehran threatened to disrupt shipping in the waterway and as Washington sought regional support for its peace agreement.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Iran Strikes Ship in Strait of Hormuz, Undermining Efforts to Restore Traffic
+【发布时间】2026-06-25T22:25:18.000Z
+【链接】https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html
