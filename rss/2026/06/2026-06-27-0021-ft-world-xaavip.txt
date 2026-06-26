@@ -1,0 +1,98 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-26T14:21:22.981Z - 2026-06-26T16:21:22.981Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. Small plane crashes into Beijing’s tallest building
+2. The downsides of making $13tn of profit
+3. Walmart’s ad deal smartly puts its customers in the shopping basket
+4. John Bolton pleads guilty to mishandling classified material
+5. Volkswagen’s mass lay-offs are a call to action for a sleepy EU
+6. Deal or no deal
+7. Apollo co-founder Leon Black faces US lawmakers over Epstein links
+
+==============================
+
+1. Small plane crashes into Beijing’s tallest building
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Debris seen falling from Citic Tower after propeller aircraft hit skyscraper in Chinese capital’s central business district
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Small plane crashes into Beijing’s tallest building
+【发布时间】2026-06-26T16:17:01.000Z
+【链接】https://www.ft.com/content/133f3e9d-dacc-4e5a-9928-64b28a10a15a
+
+------------------------------
+
+2. The downsides of making $13tn of profit
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Betting on US equity has been staggeringly lucrative for the rest of the world, but it is now far more exposed to a market crash
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The downsides of making $13tn of profit
+【发布时间】2026-06-26T16:00:03.000Z
+【链接】https://www.ft.com/content/f37904c9-be75-479d-9fab-8c93b6480ec0
+
+------------------------------
+
+3. Walmart’s ad deal smartly puts its customers in the shopping basket
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Retailer looks to monetise its deep well of consumer data and insights
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Walmart’s ad deal smartly puts its customers in the shopping basket
+【发布时间】2026-06-26T16:00:03.000Z
+【链接】https://www.ft.com/content/bc95ca91-0d97-4025-97cf-781f1964904e
+
+------------------------------
+
+4. John Bolton pleads guilty to mishandling classified material
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Plea by former US national security adviser marks first victory in Donald Trump’s legal campaign against his political foes
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】John Bolton pleads guilty to mishandling classified material
+【发布时间】2026-06-26T15:54:32.000Z
+【链接】https://www.ft.com/content/c97fd9e9-4b3b-4333-a898-54243ef317d7
+
+------------------------------
+
+5. Volkswagen’s mass lay-offs are a call to action for a sleepy EU
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Carmaker’s move will ratchet up the pressure on European policymakers to slap restrictions and trade barriers on China
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Volkswagen’s mass lay-offs are a call to action for a sleepy EU
+【发布时间】2026-06-26T15:31:41.000Z
+【链接】https://www.ft.com/content/ccea8285-11f9-45c0-b642-1efe9ef0c1da
+
+------------------------------
+
+6. Deal or no deal
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】In a quiet week for central banks, we updated our monthly forecasts
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Deal or no deal
+【发布时间】2026-06-26T15:20:03.000Z
+【链接】https://www.ft.com/content/8b3019de-8889-499f-b75f-2294ced7d958
+
+------------------------------
+
+7. Apollo co-founder Leon Black faces US lawmakers over Epstein links
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Billionaire tells House oversight committee he had no involvement in late sex offender’s crimes
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Apollo co-founder Leon Black faces US lawmakers over Epstein links
+【发布时间】2026-06-26T14:42:05.000Z
+【链接】https://www.ft.com/content/1648f372-eb08-4c69-8511-eea08c4dcaf2
