@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-26T06:17:54.987Z - 2026-06-26T08:17:54.987Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Intel’s Chip Business Shows Signs of Life After Years of Struggle
+2. The High School Pipeline to South Korea’s Chip-Making Fortunes
+3. Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares
+
+==============================
+
+1. Intel’s Chip Business Shows Signs of Life After Years of Struggle
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】It is the centerpiece of President Trump’s drive to make more chips in the United States, but the company still has a long way to go before it can be called a complete turnaround.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Intel’s Chip Business Shows Signs of Life After Years of Struggle
+【发布时间】2026-06-26T07:36:17.000Z
+【链接】https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html
+
+------------------------------
+
+2. The High School Pipeline to South Korea’s Chip-Making Fortunes
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Huge memory-chip profits from the global A.I. boom have increased interest in semiconductor factory work. But behind the hype are uncertain job prospects.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】The High School Pipeline to South Korea’s Chip-Making Fortunes
+【发布时间】2026-06-26T07:34:37.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/korea-chip-high-school.html
+
+------------------------------
+
+3. Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock markets across Asia tumbled, as investors continue to wrestle with whether the boom in artificial intelligence spending is overdone or just beginning.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares
+【发布时间】2026-06-26T07:22:43.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/oil-price-gas-iran.html
