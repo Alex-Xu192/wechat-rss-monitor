@@ -1,0 +1,20 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-26T04:17:23.232Z - 2026-06-26T06:17:23.232Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. 亚洲股市因人工智能不确定性波动而下跌
+
+==============================
+
+1. 亚洲股市因人工智能不确定性波动而下跌
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】亚洲股市
+【摘要】亚洲股市因人工智能不确定性波动而下跌，投资者继续在权衡人工智能支出是否过度或仅是开始。
+【依据】The article reports that Asian stock markets tumbled due to uncertainty around artificial intelligence spending, but it does not specify which companies or sectors are affected, so the impact on individual stocks cannot be determined.
+【原标题】Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares
+【发布时间】2026-06-26T06:02:49.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/oil-price-gas-iran.html
