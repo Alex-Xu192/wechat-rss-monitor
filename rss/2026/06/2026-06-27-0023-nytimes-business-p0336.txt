@@ -1,0 +1,85 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-26T14:23:43.603Z - 2026-06-26T16:23:43.603Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. Oil Prices Return to Prewar Levels After Four Months
+2. Leon Black Decries ‘Vicious Narratives’ About His Relationship With Epstein
+3. In Europe, Tesla Sales Are Rising Despite Views on Elon Musk
+4. Best Investments Over the Last 100 Years? Almost All Are Tech Companies.
+5. Americans Are Feeling Better About the Economy, Consumer Survey Shows
+6. Small Plane Crashes Into Tallest Building in Beijing
+
+==============================
+
+1. Oil Prices Return to Prewar Levels After Four Months
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The cost of crude has become a real-time barometer of the Iran war’s toll on the global economy.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Oil Prices Return to Prewar Levels After Four Months
+【发布时间】2026-06-26T15:39:29.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html
+
+------------------------------
+
+2. Leon Black Decries ‘Vicious Narratives’ About His Relationship With Epstein
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】In prepared testimony before a House committee, Mr. Black said he had never sexually abused women and defended the hefty fees he had paid Jeffrey Epstein for tax and estate advice.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Leon Black Decries ‘Vicious Narratives’ About His Relationship With Epstein
+【发布时间】2026-06-26T15:28:33.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/leon-black-jeffrey-epstein-hearing.html
+
+------------------------------
+
+3. In Europe, Tesla Sales Are Rising Despite Views on Elon Musk
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Price cuts and low-interest-rate loans are luring buyers, including people offended by the company’s chief executive.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】In Europe, Tesla Sales Are Rising Despite Views on Elon Musk
+【发布时间】2026-06-26T15:24:36.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html
+
+------------------------------
+
+4. Best Investments Over the Last 100 Years? Almost All Are Tech Companies.
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】What’s most surprising is that Tesla and SpaceX have entered that elite group. A vast majority of companies weren’t worth owning, a long-running study shows.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Best Investments Over the Last 100 Years? Almost All Are Tech Companies.
+【发布时间】2026-06-26T15:22:15.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/apple-nvidia-tesla-spacex-stock-market-winners.html
+
+------------------------------
+
+5. Americans Are Feeling Better About the Economy, Consumer Survey Shows
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Consumer sentiment rose in recent weeks after plummeting early this year as energy costs soared.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Americans Are Feeling Better About the Economy, Consumer Survey Shows
+【发布时间】2026-06-26T15:09:02.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/economy/consumer-sentiment.html
+
+------------------------------
+
+6. Small Plane Crashes Into Tallest Building in Beijing
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Crowds in the capital’s central business district fled as the crash sent debris falling into the streets below.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Small Plane Crashes Into Tallest Building in Beijing
+【发布时间】2026-06-26T14:57:50.000Z
+【链接】https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html
