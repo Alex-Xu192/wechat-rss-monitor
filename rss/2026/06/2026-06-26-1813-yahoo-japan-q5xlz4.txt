@@ -1,0 +1,98 @@
+Yahoo Japan - 中文结构化新闻汇总
+
+【来源】Yahoo Japan
+【时间】2026-06-26T08:13:22.308Z - 2026-06-26T10:13:22.308Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 長友 引退考えた自分ふざけんな
+2. 金沢大が教授解雇 1週間で2人目
+3. 地震続く関東・東北 土砂災害注意
+4. 関東-九州で災害級の大雨に警戒を
+5. 大学生を集団暴行の疑い 6人逮捕
+6. 欧州熱波 スペインで200人超死亡
+7. ゴディバジャパン不振 今夏再建へ
+
+==============================
+
+1. 長友 引退考えた自分ふざけんな
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】長友 引退考えた自分ふざけんな
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】長友 引退考えた自分ふざけんな
+【发布时间】2026-06-26T10:04:32.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585786?source=rss
+
+------------------------------
+
+2. 金沢大が教授解雇 1週間で2人目
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】金沢大が教授解雇 1週間で2人目
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】金沢大が教授解雇 1週間で2人目
+【发布时间】2026-06-26T09:42:12.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585782?source=rss
+
+------------------------------
+
+3. 地震続く関東・東北 土砂災害注意
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】地震続く関東・東北 土砂災害注意
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】地震続く関東・東北 土砂災害注意
+【发布时间】2026-06-26T09:37:01.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585781?source=rss
+
+------------------------------
+
+4. 関東-九州で災害級の大雨に警戒を
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】関東-九州で災害級の大雨に警戒を
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】関東-九州で災害級の大雨に警戒を
+【发布时间】2026-06-26T09:11:45.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585779?source=rss
+
+------------------------------
+
+5. 大学生を集団暴行の疑い 6人逮捕
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】大学生を集団暴行の疑い 6人逮捕
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】大学生を集団暴行の疑い 6人逮捕
+【发布时间】2026-06-26T09:04:31.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585775?source=rss
+
+------------------------------
+
+6. 欧州熱波 スペインで200人超死亡
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】欧州熱波 スペインで200人超死亡
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】欧州熱波 スペインで200人超死亡
+【发布时间】2026-06-26T08:40:25.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585767?source=rss
+
+------------------------------
+
+7. ゴディバジャパン不振 今夏再建へ
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】ゴディバジャパン不振 今夏再建へ
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】ゴディバジャパン不振 今夏再建へ
+【发布时间】2026-06-26T08:31:57.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585770?source=rss
