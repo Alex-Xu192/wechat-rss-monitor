@@ -1,0 +1,85 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-26T02:16:58.408Z - 2026-06-26T04:16:58.408Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+2. New York City passes rent freeze, in line with Mamdani campaign promise - The Washington Post
+3. King Charles won’t live in Buckingham Palace, reveals taxes - DW.com
+4. Stock market today: Dow, S&P 500, Nasdaq futures drop as tech struggles to find its footing - Yahoo Finance
+5. ‘The Bear’ Is Over: Here’s What Happens To Carmy, Sydney, Richie & More In Series Finale - Deadline
+6. Supreme Court allows Trump to end protected status for Haitian and Syrian migrants - BBC
+
+==============================
+
+1. Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others  Yahoo Tech
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Prime Day deals are live: Shop today's best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech
+【发布时间】2026-06-26T04:00:46.000Z
+【链接】https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYW1GQnZINFR6MUVPY2xyUlEwSVVNMzJkRGU4XzJybS1VS1dhT2taTHk1T3RkX0FkbWpWRVpnNGUtZGpvMmlfNmFwVmtQVUp0VHFCbFl3cDdHX1JfY1BmOEFYakxmYUh5ckhyZnN0c3NwcWhKWFpVZ0hYUDR4amVUVFdKbnlSNVpzWF9IcGp1UHY0NFJQWEw0XzRWQXVTaU5VcUV6cEpnTVdYTURYSmVUY3pKYklmUWk3VDlhbkFxbVdfdTdSV1Nidi1fenVYTHNhaDk2LWhxTjBFaXMzV1lSX2tGYlNEdTM0?oc=5
+
+------------------------------
+
+2. New York City passes rent freeze, in line with Mamdani campaign promise - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】New York City passes rent freeze, in line with Mamdani campaign promise  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】New York City passes rent freeze, in line with Mamdani campaign promise - The Washington Post
+【发布时间】2026-06-26T03:13:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSkQwajB4b193ZHpUaGVva0ZnSmtVY1Bfd29YQnNmZWY2UzlucWpua1c2SEZYSUNsVWd4M1paSHRuYWxTMkNjNlQ0cmoyMzYzRkdWeHBUMFQ3OXA5VFhfRWR2SG1CWFFxVlFFOE9ZdExXNVJBSkJsaG51ZHFBOFVMWUZUZElka09MTmpIT3p1RzQybnUwcnhxVUJGbkx4NldlMjFBM1FlWkd4Z2s?oc=5
+
+------------------------------
+
+3. King Charles won’t live in Buckingham Palace, reveals taxes - DW.com
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】King Charles won’t live in Buckingham Palace, reveals taxes  DW.com
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】King Charles won’t live in Buckingham Palace, reveals taxes - DW.com
+【发布时间】2026-06-26T03:06:28.000Z
+【链接】https://news.google.com/rss/articles/CBMilAFBVV95cUxQS0h6b3JIVWZ5LTlmYjVGQ2pjLXdYV0FSNnNQM0ZmbVlicHU5aEpzSHNBbm9sZWVGdkN4RWxFTl9XQ1Z5bTJlNEJ5bnNuMWtpSC1wSGFMMTNPSVJzXy03bE9wM2VvOXZYQl9EUkhqRWlQUXB5YzBmMDh1TDZYdWF0a25yRHp4UHB6Mms2VEZnTTNrZHhv0gGUAUFVX3lxTE45SEh1Q0RtVkJGNGFwQTl4bGpUWV9HdjRPbm9qbl96bG9qSDR5RlRyNC1CRFdLY1NqX3pFXzNIc3BIdXdOZkZqd3NzRXhaTS1SRnBIcVJuZHNZcGJNeVY5RlNXODdjdjBaVUdmbXRXRTQ5ODZlSkdNd2VDZk9KNktHRjZyRGRGOGZua0RJcTNscXE4X08?oc=5
+
+------------------------------
+
+4. Stock market today: Dow, S&P 500, Nasdaq futures drop as tech struggles to find its footing - Yahoo Finance
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock market today: Dow, S&P 500, Nasdaq futures drop as tech struggles to find its footing  Yahoo Finance
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Stock market today: Dow, S&P 500, Nasdaq futures drop as tech struggles to find its footing - Yahoo Finance
+【发布时间】2026-06-26T03:03:00.000Z
+【链接】https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcWNiM0JieWtIZTY2SGx0bko4Z1VPMEJnYS0wRjVqM2NwYlJ5RDlpT1VmZDBsVjRRU3VIX1BsQXR3aURyUHlXc3c1WnhhTmREYTJSUXoweG9fM0JLRHBielQ1dGY2czJIUGlsVl9WeDFrazZFWUhRbGJDRjdWQ2l1b000eEZ3em91MlhXZ095NmdjdS04ekN1U25RNzZLaXdySGxXbjY3WlZFb21SWVc2cmhaaW9wYU5wQTBhMlFSTnpXN2ZxQ3lVeHd5ZlRtM2RCbThKaTZMdzk?oc=5
+
+------------------------------
+
+5. ‘The Bear’ Is Over: Here’s What Happens To Carmy, Sydney, Richie & More In Series Finale - Deadline
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】‘The Bear’ Is Over: Here’s What Happens To Carmy, Sydney, Richie & More In Series Finale  Deadline
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】‘The Bear’ Is Over: Here’s What Happens To Carmy, Sydney, Richie & More In Series Finale - Deadline
+【发布时间】2026-06-26T02:24:00.000Z
+【链接】https://news.google.com/rss/articles/CBMigAFBVV95cUxNMjE0VEpRVHZFRHhuZURkS0pESmpTTEVpN3hRZmt3UWdTVTBDZWY0cGpKWXlTWTZvU3hoYnRpV203Vnc0RHp2N1pVejgxRVk3TGZMNzg0bmhfYVMwcHdXYmRJRzAzSk9KRmRaUFVlWV8xYlQyTE5tWHljdUs3cW5mNg?oc=5
+
+------------------------------
+
+6. Supreme Court allows Trump to end protected status for Haitian and Syrian migrants - BBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Supreme Court allows Trump to end protected status for Haitian and Syrian migrants  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Supreme Court allows Trump to end protected status for Haitian and Syrian migrants - BBC
+【发布时间】2026-06-26T02:18:04.000Z
+【链接】https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEemtaeFUxeVh3a21uU0hEei1NODJRVnYxeE5wMkFrYXVwLUlSbm40R1VPelNscmowVWRDOWlubTNYd3FNa2pxRVpELXpQcTJWNG01c2Mxanpzdw?oc=5
