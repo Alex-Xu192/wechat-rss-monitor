@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-26T10:19:53.054Z - 2026-06-26T12:19:53.054Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 苹果、迈克朗和 OpenAI 的坎坷夏天
+2. Kalshi 将成为世界杯合作伙伴以寻求更多增长
+
+==============================
+
+1. 苹果、迈克朗和 OpenAI 的坎坷夏天
+【相关股票】AAPL、MU、OpenAI
+【利好股票】AAPL
+【利空股票】MU、OpenAI
+【摘要】内存价格上涨、iPad 更贵以及 OpenAI 上市等待时间延长：推动市场大幅上涨的科技行业正在经历动荡。
+【依据】文章明确提及苹果公司（iPad）、迈克朗公司（内存价格）和 OpenAI 人工智能公司。
+【原标题】Apple, Micron, OpenAI and A.I.'s Rough Summer
+【发布时间】2026-06-26T11:57:55.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/dealbook/ai-openai-ipo-slump.html
+
+------------------------------
+
+2. Kalshi 将成为世界杯合作伙伴以寻求更多增长
+【相关股票】Kalshi
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】这家预测市场公司押注与这项足球赛事的合作将有助于提振交易量，因为该公司正寻求 IPO。
+【依据】无法判断与这家预测市场公司相关的具体股票。
+【原标题】Kalshi to Become a World Cup Partner as It Pursues More Growth
+【发布时间】2026-06-26T11:54:07.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/dealbook/kalshi-world-cup-fifa-partner.html
