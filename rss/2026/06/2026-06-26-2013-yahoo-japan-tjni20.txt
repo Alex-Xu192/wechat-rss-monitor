@@ -1,0 +1,85 @@
+Yahoo Japan - 中文结构化新闻汇总
+
+【来源】Yahoo Japan
+【时间】2026-06-26T10:13:42.587Z - 2026-06-26T12:13:42.587Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 日本-ブラジル 天敵はネイマール
+2. ダブル台風 交通機関への影響は
+3. 米テキサスでキリンが行方不明に
+4. 「発達障害児支援」詐欺疑い逮捕
+5. 米軍基地事故で脚切断 国を提訴
+6. 大雨ピークは2回 災害に厳重警戒
+
+==============================
+
+1. 日本-ブラジル 天敵はネイマール
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】日本-ブラジル 天敵はネイマール
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】日本-ブラジル 天敵はネイマール
+【发布时间】2026-06-26T12:04:16.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585796?source=rss
+
+------------------------------
+
+2. ダブル台風 交通機関への影響は
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】ダブル台風 交通機関への影響は
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】ダブル台風 交通機関への影響は
+【发布时间】2026-06-26T11:55:41.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585794?source=rss
+
+------------------------------
+
+3. 米テキサスでキリンが行方不明に
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】米テキサスでキリンが行方不明に
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】米テキサスでキリンが行方不明に
+【发布时间】2026-06-26T11:39:53.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585793?source=rss
+
+------------------------------
+
+4. 「発達障害児支援」詐欺疑い逮捕
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】「発達障害児支援」詐欺疑い逮捕
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】「発達障害児支援」詐欺疑い逮捕
+【发布时间】2026-06-26T11:24:35.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585792?source=rss
+
+------------------------------
+
+5. 米軍基地事故で脚切断 国を提訴
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】米軍基地事故で脚切断 国を提訴
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】米軍基地事故で脚切断 国を提訴
+【发布时间】2026-06-26T11:17:02.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585790?source=rss
+
+------------------------------
+
+6. 大雨ピークは2回 災害に厳重警戒
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】大雨ピークは2回 災害に厳重警戒
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】大雨ピークは2回 災害に厳重警戒
+【发布时间】2026-06-26T11:14:50.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585791?source=rss
