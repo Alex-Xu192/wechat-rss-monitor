@@ -1,0 +1,33 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-06-26T04:18:12.449Z - 2026-06-26T06:18:12.449Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. The Garbage Collection Handbook
+2. The ‘papers, please’ era of the internet
+
+==============================
+
+1. The Garbage Collection Handbook
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Second edition of a comprehensive handbook on automatic memory management, covering traditional, parallel, concurrent, incremental, and real-time garbage collection. Includes updates for modern hardware and software, plus an online bibliographic database of related research. [gchandbook.org]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The Garbage Collection Handbook
+【发布时间】2026-06-26T05:40:09.000Z
+【链接】https://flipso.com/p/rckutipqx?ref=rss
+
+------------------------------
+
+2. The ‘papers, please’ era of the internet
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Age verification is increasingly being used as a proxy for identity verification, with new rules in Australia, the UK, and U.S. states pushing platforms to collect more personal data and raising privacy, security, and free-speech concerns. [expression.fire.org]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The ‘papers, please’ era of the internet
+【发布时间】2026-06-26T04:20:08.000Z
+【链接】https://flipso.com/p/3e2iewt7c?ref=rss
