@@ -1,0 +1,163 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-26T16:16:59.710Z - 2026-06-26T18:16:59.710Z
+【数量】12
+
+【本邮件新闻标题汇总】
+1. Speed of Andy Burnham’s takeover unsettles Labour MPs
+2. Brutal nights and humidity mark Europe’s record June temperatures
+3. OpenAI releases GPT-5.6 to select users vetted by US government
+4. US lawmakers subpoena Apollo co-founder Leon Black over Epstein links
+5. Trump warns of 100% tariff on countries implementing digital services tax
+6. Stockpickers: Babcock International, Telecom Plus, Moonpig
+7. Ill-timed deregulation is weakening bank resilience
+8. What Kevin Warsh can learn from Alan Greenspan
+9. Britain backs electricity storage projects as heatwave strains grid
+10. US stocks on track to break losing streak despite falls in chipmakers
+11. Starmer commits at least £1bn more for defence
+12. Small plane crashes into Beijing’s tallest building
+
+==============================
+
+1. Speed of Andy Burnham’s takeover unsettles Labour MPs
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Supporters admit there is not much time for likely next prime minister to plan for power
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Speed of Andy Burnham’s takeover unsettles Labour MPs
+【发布时间】2026-06-26T18:02:30.000Z
+【链接】https://www.ft.com/content/824f0e2d-c104-4e94-8d65-cd5f8f849c53
+
+------------------------------
+
+2. Brutal nights and humidity mark Europe’s record June temperatures
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Daytime peaks on the continent rising three times as fast as the wider rate of global warming, scientists say
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Brutal nights and humidity mark Europe’s record June temperatures
+【发布时间】2026-06-26T17:59:23.000Z
+【链接】https://www.ft.com/content/a2ea8432-f871-40c9-89bf-a18ee091413f
+
+------------------------------
+
+3. OpenAI releases GPT-5.6 to select users vetted by US government
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】San Francisco-based company announces ‘limited preview’ of new models with powerful cyber security capabilities
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】OpenAI releases GPT-5.6 to select users vetted by US government
+【发布时间】2026-06-26T17:40:13.000Z
+【链接】https://www.ft.com/content/33a306c2-5aaa-45b1-9386-1716fa6a128e
+
+------------------------------
+
+4. US lawmakers subpoena Apollo co-founder Leon Black over Epstein links
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Congress issues orders to billionaire after accusing him of failing to answer questions regarding late sex offender
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】US lawmakers subpoena Apollo co-founder Leon Black over Epstein links
+【发布时间】2026-06-26T17:35:04.000Z
+【链接】https://www.ft.com/content/1648f372-eb08-4c69-8511-eea08c4dcaf2
+
+------------------------------
+
+5. Trump warns of 100% tariff on countries implementing digital services tax
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】US president says levy would supersede any trade deals Washington has with other capitals
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Trump warns of 100% tariff on countries implementing digital services tax
+【发布时间】2026-06-26T17:34:06.000Z
+【链接】https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e
+
+------------------------------
+
+6. Stockpickers: Babcock International, Telecom Plus, Moonpig
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Our experts discuss which companies to buy, sell or hold this week
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Stockpickers: Babcock International, Telecom Plus, Moonpig
+【发布时间】2026-06-26T17:00:04.000Z
+【链接】https://www.ft.com/content/95532a41-0bb8-460a-95fd-d6ccd8774e3b
+
+------------------------------
+
+7. Ill-timed deregulation is weakening bank resilience
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Thoughtful, fundamental reform is needed in finance, not an industry checklist
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Ill-timed deregulation is weakening bank resilience
+【发布时间】2026-06-26T17:00:04.000Z
+【链接】https://www.ft.com/content/1bcb64c4-4489-4dfc-964a-63c199735409
+
+------------------------------
+
+8. What Kevin Warsh can learn from Alan Greenspan
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The new Fed chair must learn from his late predecessor’s successes — and avoid his mistakes
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】What Kevin Warsh can learn from Alan Greenspan
+【发布时间】2026-06-26T16:54:34.000Z
+【链接】https://www.ft.com/content/f9710696-18a3-48aa-8192-bec7cea3203d
+
+------------------------------
+
+9. Britain backs electricity storage projects as heatwave strains grid
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Provisional approval of battery and hydropower projects comes after high temperatures reduce gas and solar generation
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Britain backs electricity storage projects as heatwave strains grid
+【发布时间】2026-06-26T16:52:00.000Z
+【链接】https://www.ft.com/content/6046abc9-2ae8-47ec-a94c-5f98cb772cff
+
+------------------------------
+
+10. US stocks on track to break losing streak despite falls in chipmakers
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Software stocks led a recovery in the Nasdaq Composite after early losses
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】US stocks on track to break losing streak despite falls in chipmakers
+【发布时间】2026-06-26T16:41:19.000Z
+【链接】https://www.ft.com/content/bb70e272-5b09-4806-8b19-7c03c350f580
+
+------------------------------
+
+11. Starmer commits at least £1bn more for defence
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Long-delayed plan set to be unveiled on Tuesday as prime minister tries to shore up his legacy
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Starmer commits at least £1bn more for defence
+【发布时间】2026-06-26T16:34:43.000Z
+【链接】https://www.ft.com/content/ebb3152b-1db3-491b-b85e-b51502b48ab0
+
+------------------------------
+
+12. Small plane crashes into Beijing’s tallest building
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Debris seen falling from Citic Tower after propeller aircraft hits skyscraper in Chinese capital’s central business district
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Small plane crashes into Beijing’s tallest building
+【发布时间】2026-06-26T16:17:01.000Z
+【链接】https://www.ft.com/content/133f3e9d-dacc-4e5a-9928-64b28a10a15a
