@@ -1,0 +1,85 @@
+Yahoo Japan - 中文结构化新闻汇总
+
+【来源】Yahoo Japan
+【时间】2026-06-26T00:19:52.425Z - 2026-06-26T02:19:52.425Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 中村敬斗のソックス問題 JFA言及
+2. 台風 27日にかけ九州-関東で大雨
+3. 父と兄の遺体か 遺棄疑いで男逮捕
+4. 森保J 決勝T進出もいばらの道
+5. 日経平均 一時2000円超の下げ幅
+6. 京都市で民家が浸水 男性を救助
+
+==============================
+
+1. 中村敬斗のソックス問題 JFA言及
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】中村敬斗のソックス問題 JFA言及
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】中村敬斗のソックス問題 JFA言及
+【发布时间】2026-06-26T02:00:37.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585721?source=rss
+
+------------------------------
+
+2. 台風 27日にかけ九州-関東で大雨
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】台風 27日にかけ九州-関東で大雨
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】台風 27日にかけ九州-関東で大雨
+【发布时间】2026-06-26T01:57:45.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585718?source=rss
+
+------------------------------
+
+3. 父と兄の遺体か 遺棄疑いで男逮捕
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】父と兄の遺体か 遺棄疑いで男逮捕
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】父と兄の遺体か 遺棄疑いで男逮捕
+【发布时间】2026-06-26T01:26:46.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585713?source=rss
+
+------------------------------
+
+4. 森保J 決勝T進出もいばらの道
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】森保J 決勝T進出もいばらの道
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】森保J 決勝T進出もいばらの道
+【发布时间】2026-06-26T01:23:52.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585712?source=rss
+
+------------------------------
+
+5. 日経平均 一時2000円超の下げ幅
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】日経平均 一時2000円超の下げ幅
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】日経平均 一時2000円超の下げ幅
+【发布时间】2026-06-26T01:14:23.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585706?source=rss
+
+------------------------------
+
+6. 京都市で民家が浸水 男性を救助
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】京都市で民家が浸水 男性を救助
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】京都市で民家が浸水 男性を救助
+【发布时间】2026-06-26T00:39:13.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585704?source=rss
