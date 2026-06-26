@@ -1,0 +1,59 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-26T00:23:58.778Z - 2026-06-26T02:23:58.778Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Venezuelans search for survivors after devastating earthquakes
+2. Noel Tata: How we made fashion one of our biggest businesses
+3. Attack in Strait of Hormuz halts evacuation plan for stranded ships
+4. Will strongman general’s push for US-Iran peace pay off for Pakistan?
+
+==============================
+
+1. Venezuelans search for survivors after devastating earthquakes
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Officials put death toll at 188 but expect it to climb as victims are dug out of the rubble
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Venezuelans search for survivors after devastating earthquakes
+【发布时间】2026-06-26T02:17:17.000Z
+【链接】https://www.ft.com/content/2cd60e15-2b30-48dd-9af1-faa68e4758c8
+
+------------------------------
+
+2. Noel Tata: How we made fashion one of our biggest businesses
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Noel Tata and P Venkatesalu on the fast-growing retail chain you have likely never heard of
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Noel Tata: How we made fashion one of our biggest businesses
+【发布时间】2026-06-26T01:30:07.000Z
+【链接】https://www.ft.com/content/6622a77c-2cbe-416a-9245-4ca565757bcb
+
+------------------------------
+
+3. Attack in Strait of Hormuz halts evacuation plan for stranded ships
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】International Maritime Organization announces pause after container ship was hit by ‘unknown projectile’
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Attack in Strait of Hormuz halts evacuation plan for stranded ships
+【发布时间】2026-06-26T01:21:41.000Z
+【链接】https://www.ft.com/content/5abcb3c1-8ce8-470f-8a37-f47af58b2f7c
+
+------------------------------
+
+4. Will strongman general’s push for US-Iran peace pay off for Pakistan?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Islamabad elites are pinning their hopes on an agreement that could unlock financial support
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Will strongman general’s push for US-Iran peace pay off for Pakistan?
+【发布时间】2026-06-26T00:40:10.000Z
+【链接】https://www.ft.com/content/c3cfce87-7632-44bc-acd0-e5c36a68aef2
