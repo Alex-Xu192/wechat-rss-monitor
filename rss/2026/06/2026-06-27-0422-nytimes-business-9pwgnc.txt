@@ -1,0 +1,98 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-26T18:22:41.543Z - 2026-06-26T20:22:41.543Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares
+2. Small Plane Crashes Into Tallest Building in Beijing
+3. Uber Enacts Stricter Background Checks for Drivers
+4. The Taylor Swift Wedding and a Hot New York Summer
+5. Trump Threatens to Impose 100% Tariff on European Countries Over Tech Taxes
+6. Oil Prices Return to Prewar Levels After Four Months
+7. Congressional Panel Investigating Epstein Subpoenas Leon Black in Unusual Escalation
+
+==============================
+
+1. Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Crude prices hover at prewar levels, as trading remains volatile.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares
+【发布时间】2026-06-26T20:12:47.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/oil-price-gas-iran.html
+
+------------------------------
+
+2. Small Plane Crashes Into Tallest Building in Beijing
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Crowds in the capital’s central business district fled as the crash sent debris falling into the streets below.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Small Plane Crashes Into Tallest Building in Beijing
+【发布时间】2026-06-26T19:45:05.000Z
+【链接】https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html
+
+------------------------------
+
+3. Uber Enacts Stricter Background Checks for Drivers
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The changes come after The New York Times revealed that the ride-hailing giant approved drivers with many types of criminal convictions, including violent felonies.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Uber Enacts Stricter Background Checks for Drivers
+【发布时间】2026-06-26T19:14:37.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/uber-background-checks.html
+
+------------------------------
+
+4. The Taylor Swift Wedding and a Hot New York Summer
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Should Taylor Swift and Travis Kelce tie the knot in New York City, their nuptials would be another economic event for the Big Apple.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The Taylor Swift Wedding and a Hot New York Summer
+【发布时间】2026-06-26T19:14:12.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/dealbook/taylor-travis-wedding-new-york.html
+
+------------------------------
+
+5. Trump Threatens to Impose 100% Tariff on European Countries Over Tech Taxes
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The president claimed the tariffs would override a trade deal with the European Union, which European officials finalized just days ago.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump Threatens to Impose 100% Tariff on European Countries Over Tech Taxes
+【发布时间】2026-06-26T19:09:30.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/economy/trump-tariffs-europe.html
+
+------------------------------
+
+6. Oil Prices Return to Prewar Levels After Four Months
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The cost of crude has become a real-time barometer of the Iran war’s toll on the global economy.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Oil Prices Return to Prewar Levels After Four Months
+【发布时间】2026-06-26T18:40:58.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html
+
+------------------------------
+
+7. Congressional Panel Investigating Epstein Subpoenas Leon Black in Unusual Escalation
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The panel’s Republican chairman said he was moved to act after the private equity mogul repeatedly declined to discuss nondisclosure agreements at a closed-door hearing.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Congressional Panel Investigating Epstein Subpoenas Leon Black in Unusual Escalation
+【发布时间】2026-06-26T18:37:24.000Z
+【链接】https://www.nytimes.com/2026/06/26/business/leon-black-jeffrey-epstein-hearing.html
