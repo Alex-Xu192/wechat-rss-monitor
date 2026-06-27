@@ -1,0 +1,20 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-06-27T06:25:12.513Z - 2026-06-27T08:25:12.513Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. A Writer's Word Processor
+
+==============================
+
+1. A Writer's Word Processor
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Robert J. Sawyer argues that WordStar remains ideal for creative writing because of its home-row control-key commands, flexible block editing, and manuscript-like workflow. [sfwriter.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】A Writer's Word Processor
+【发布时间】2026-06-27T07:20:09.000Z
+【链接】https://flipso.com/p/2jat25eyr?ref=rss
