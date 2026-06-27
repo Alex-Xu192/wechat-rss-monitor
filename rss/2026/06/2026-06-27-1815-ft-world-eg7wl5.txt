@@ -1,0 +1,59 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-27T08:15:06.485Z - 2026-06-27T10:15:06.485Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Thousands of foreign students made false qualification claims, says consultancy
+2. QuidelOrtho looks to sell testing unit as PE circles healthcare companies
+3. A shot in the arm for Merz
+4. Chipmakers are expensive globally
+
+==============================
+
+1. Thousands of foreign students made false qualification claims, says consultancy
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Qualification Check says many UK universities did not conduct detailed verification
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Thousands of foreign students made false qualification claims, says consultancy
+【发布时间】2026-06-27T10:13:07.000Z
+【链接】https://www.ft.com/content/766bf322-fcfd-445f-87ad-d50df372ef51
+
+------------------------------
+
+2. QuidelOrtho looks to sell testing unit as PE circles healthcare companies
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Diagnostic company’s shares are down 90% since its rapid antigen tests were the first to be approved for Covid-19
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】QuidelOrtho looks to sell testing unit as PE circles healthcare companies
+【发布时间】2026-06-27T10:00:00.000Z
+【链接】https://www.ft.com/content/404f832c-89cf-49f7-a546-b0e4eb965f15
+
+------------------------------
+
+3. A shot in the arm for Merz
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Pension reform plan shows coalition government making bold moves to confront Germany’s problems
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】A shot in the arm for Merz
+【发布时间】2026-06-27T10:00:00.000Z
+【链接】https://www.ft.com/content/67562299-29e8-4766-8822-aece9f088749
+
+------------------------------
+
+4. Chipmakers are expensive globally
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Valuations are high for AI-exposed markets
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Chipmakers are expensive globally
+【发布时间】2026-06-27T09:30:10.000Z
+【链接】https://www.ft.com/content/e5aa937c-bc52-4973-bf21-bfb6afd1d95d
