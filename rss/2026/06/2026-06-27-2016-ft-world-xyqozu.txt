@@ -1,0 +1,20 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-27T10:16:20.749Z - 2026-06-27T12:16:20.749Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Tower crash calls Beijing’s air security into question
+
+==============================
+
+1. Tower crash calls Beijing’s air security into question
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】FT research identifies owner of vehicle under investigation at flight school linked to impact
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Tower crash calls Beijing’s air security into question
+【发布时间】2026-06-27T10:53:49.000Z
+【链接】https://www.ft.com/content/190beede-1d8b-4a22-8437-ef8c48d01828
