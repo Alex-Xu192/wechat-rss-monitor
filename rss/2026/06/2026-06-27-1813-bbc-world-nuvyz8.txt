@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-06-27T08:13:34.655Z - 2026-06-27T10:13:34.655Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. US strikes Iran after attack on cargo ship
+2. Venezuela earthquakes kill 920 people as international rescue teams arrive
+
+==============================
+
+1. US strikes Iran after attack on cargo ship
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US strikes Iran after attack on cargo ship
+【发布时间】2026-06-27T10:06:32.000Z
+【链接】https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Venezuela earthquakes kill 920 people as international rescue teams arrive
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Hundreds are still feared trapped under the rubble, as families desperate for news.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Venezuela earthquakes kill 920 people as international rescue teams arrive
+【发布时间】2026-06-27T08:56:30.000Z
+【链接】https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss
