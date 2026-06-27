@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-27T18:13:10.536Z - 2026-06-27T20:13:10.536Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. UFC Baku results: Rafael Fiziev KOs Manuel Torres in spectacular fashion for emotional homecoming win - Yahoo Sports
+2. Venezuela earthquakes: Death toll tops 1,400 as rescuers race to pull out survivors - BBC
+3. Central Europe sizzles as heat records are smashed in Switzerland, Denmark and Czech Republic - AP News
+
+==============================
+
+1. UFC Baku results: Rafael Fiziev KOs Manuel Torres in spectacular fashion for emotional homecoming win - Yahoo Sports
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UFC Baku results: Rafael Fiziev KOs Manuel Torres in spectacular fashion for emotional homecoming win  Yahoo Sports
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】UFC Baku results: Rafael Fiziev KOs Manuel Torres in spectacular fashion for emotional homecoming win - Yahoo Sports
+【发布时间】2026-06-27T19:26:29.000Z
+【链接】https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLW9qbVQ0ZTdTRWdjWnFHMlB0V29RZUxtN3d2Ry1vRHBTb2x0OTgzcDFZVVdDeDFEbzBQV1FXN3Q5d0pnZVhvbFRTT2lCLTVGNElOZnQtVGhLOGIxUHVtY0hRUmY4X2J3VW9NUERBM2NCUE9fSmhmU0JVOXlEU19xc0ZTRjBGVzdMV0RCU1hnNjNacEk5THJ4R2hVajA3Q3JEYzRWYlBJcXdtLUhrUVU3T3lnVlBCckdxbGxjcDlkR25HVTFCM2lvdzN2Y2RsNU5iVHlPS0JCZ0ZYczJ2WlFpZg?oc=5
+
+------------------------------
+
+2. Venezuela earthquakes: Death toll tops 1,400 as rescuers race to pull out survivors - BBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Venezuela earthquakes: Death toll tops 1,400 as rescuers race to pull out survivors  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Venezuela earthquakes: Death toll tops 1,400 as rescuers race to pull out survivors - BBC
+【发布时间】2026-06-27T19:00:43.000Z
+【链接】https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UckZ2UktMQUZMNGNXeHNTelY4OFhiSDk2dHQtS3YtbE92eFFvMjFDUHB2U1pBcm1Nb3Q1S3pUR0Z5bzBFcHlybWp1S1NaMkY5N3hBRQ?oc=5
+
+------------------------------
+
+3. Central Europe sizzles as heat records are smashed in Switzerland, Denmark and Czech Republic - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Central Europe sizzles as heat records are smashed in Switzerland, Denmark and Czech Republic  AP NewsSee more headlines & perspectives on Google News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Central Europe sizzles as heat records are smashed in Switzerland, Denmark and Czech Republic - AP News
+【发布时间】2026-06-27T18:37:00.000Z
+【链接】https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXhMTDBEWmduWjRtQ19OMnNsRGtqNS1iT05HM29EOUpFeU5kX1d6ZGdyNVQ3S2NaTnpIemJUNElTX28yaGVydFhHd1dhV2NSUm5fV3B6SHRCWnkweEltRzU5ZHdYb3o2Sy13clJQQTI5RzRkczd0aC1NZllGUE5lNXF1eTIxNEszTkU1cmFvNlRrS2M?oc=5
