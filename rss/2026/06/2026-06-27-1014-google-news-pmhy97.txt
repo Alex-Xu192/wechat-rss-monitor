@@ -1,0 +1,85 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-27T00:14:54.091Z - 2026-06-27T02:14:54.091Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. CNN：委内瑞拉地震已造成900多人死亡，救援人员正在与时间赛跑寻找幸存者
+2. 卫报：犹他州州长下令禁止燃放烟花，因为野火在全州肆虐
+3. The Verge：Anthropic的Mythos 5已回归
+4. ESPN：2026年NHLDraft最新动态：7轮32支球队选秀追踪
+5. ESPN：上赛季排名最后的曼哈顿地铁队解雇了经理卡洛斯·门多萨，老板史蒂夫·科恩表示‘球迷应该得到更好的表现’
+6. 半岛电视台：美国为报复针对商船的无人机袭击而对伊朗发动打击
+
+==============================
+
+1. CNN：委内瑞拉地震已造成900多人死亡，救援人员正在与时间赛跑寻找幸存者
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】CNN：委内瑞拉地震已造成900多人死亡，救援人员正在与时间赛跑寻找幸存者
+【依据】报道涉及自然灾害和救援工作，难以识别具体相关股票公司。可能影响保险公司，但缺乏具体信息。
+【原标题】Live updates: Over 900 dead in Venezuela earthquakes as rescuers race to find victims - CNN
+【发布时间】2026-06-27T01:16:00.000Z
+【链接】https://news.google.com/rss/articles/CBMie0FVX3lxTE5CWEtaLTlDN21XblF5QmQ2NHBBZTQ1ZW9qR3lLYWY3QzVzQlJ6ejdMUDNIQXdMUDNCLTQ4ZkRPcVRTYV9FOV9ibUUyeFV3c29vdHFacWZtWE5PTkF0OUp2akJweURJQ0ZKQTJGclA4UnRZUTBkY18xTlBQpw?oc=5
+
+------------------------------
+
+2. 卫报：犹他州州长下令禁止燃放烟花，因为野火在全州肆虐
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】《卫报》报道称，由于野火在犹他州全境肆虐，该州州长下令禁止燃放烟花。
+【依据】火灾和烟花禁令影响当地公共安全，可能影响消防设备和旅游业公司，但缺乏具体信息。
+【原标题】Utah governor orders ban on fireworks as wildfires rage across state - The Guardian
+【发布时间】2026-06-27T00:46:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ3Z4ZV9oMzhFd0p2dDJSUDl0NGx2V2xZS3dzX3h0ZzMwcVRJZGFYSGVkemR0aHdOWXNlcWM5dS1QdjRKWDZhR1JqSG5VM0JJTVNiQjU4SzJQbDRuNDJKUFRUTWRtY2JIWElod0NDMlVmOUpnZGtFV2ZfYkNOYmV6bVM1VU50UVhT?oc=5
+
+------------------------------
+
+3. The Verge：Anthropic的Mythos 5已回归
+【相关股票】ANTH
+【利好股票】ANTH
+【利空股票】无法判断
+【摘要】《The Verge》报道称，Anthropic的Mythos 5已回归。
+【依据】Anthropic是AI科技公司，其产品发布通常对公司股票产生积极影响。
+【原标题】Anthropic's Mythos 5 is back - The Verge
+【发布时间】2026-06-27T00:33:00.000Z
+【链接】https://news.google.com/rss/articles/CBMipwFBVV95cUxOVGNBQ25IcW1KbF81ODhqWVI5T2RQT245N19JY21Ec0hzT3VnR0gwY0gzWElBZzlNOFMrM0cwSzZJSUU3SjVkZmFjRHdUdnJKdnptclJsdFdtaXRoOW5Jel8yNE1HTG5rMDI3Ulp5RlQzd2pxOGtDMzg1S0pZX3ZObHVzTjV1SDlJSVl1UTc0MzBMdjUyTkJDejltNDZTUWlXOTlEY3JoZw?oc=5
+
+------------------------------
+
+4. ESPN：2026年NHLDraft最新动态：7轮32支球队选秀追踪
+【相关股票】NHL
+【利好股票】NHL
+【利空股票】无法判断
+【摘要】ESPN报道了2026年NHL选秀大会的最新动态，包括7轮32支球队的选秀追踪。
+【依据】NHL选秀影响职业体育联盟及其相关球队/赞助公司的股票。
+【原标题】2026 NHL draft updates: 7-round, 32-team pick tracker - ESPN
+【发布时间】2026-06-27T00:30:00.000Z
+【链接】https://news.google.com/rss/articles/CBMixgFBVV95cUxNdXVHc1MxaDlFazRTRlUwNE1CMnZKdS03XzhHdDVMOHUtSzF5VkN4SkhGa0c4TlpaRVlLX19kZEJCdjhyVDZFUEExNGx1TGQyRmhCWU9CWWFZSlQtRmdkVGJYRzFJVFQ5Vnh3dmpkLWhuaVZ5Wk4wdmxHcXdnOThXS1RpbDRocTNyWXVSYVlKdnotRnRNYzdSRnRxT2hjU1RaOG9HLVFVQTVlOXlZt2VmpuU5VU2tOSklZV1czNDBMNTJOSkJtezltNDZTUWlXOTlEY3JoZQ?oc=5
+
+------------------------------
+
+5. ESPN：上赛季排名最后的曼哈顿地铁队解雇了经理卡洛斯·门多萨，老板史蒂夫·科恩表示‘球迷应该得到更好的表现’
+【相关股票】米 backtracking
+【利好股票】米 backtracking
+【利空股票】无法判断
+【摘要】ESPN报道称，上赛季排名最后的曼哈顿地铁队解雇了经理卡洛斯·门多萨，老板史蒂夫·科恩表示‘球迷应该得到更好的表现’。
+【依据】球队管理层变动通常影响球队股票价值及相关赞助商的股票。
+【原标题】Last-place Mets fire manager Carlos Mendoza. Owner Steve Cohen says 'fans deserve better' - AP News
+【发布时间】2026-06-27T00:19:00.000Z
+【链接】https://news.google.com/rss/articles/CBMigwFBVV95cUxOWkVLRWd6eGIxUFpZV1F5SldqcXhESzR5b2ZZanJlRkpsT3ExUjI2ZTIyN0NQaklHUUhvbG1mbFplSTBCRUJwSEtvUjdmUjRVem9nWWk4NWs5RXItZENISmVhemxPY1hUeVdzd0lkMTFwY0dfX01EVTZ6Z2lDWEs1YnpENDA?oc=5
+
+------------------------------
+
+6. 半岛电视台：美国为报复针对商船的无人机袭击而对伊朗发动打击
+【相关股票】石油、中东地区
+【利好股票】石油
+【利空股票】中东地区
+【摘要】半岛电视台报道称，美国为报复针对商船的无人机袭击而对伊朗发动了军事打击。
+【依据】军事冲突对石油供应和中东地区的安全局势构成直接影响。
+【原标题】US strikes Iran in response to drone strike on commercial ship - Al Jazeera
+【发布时间】2026-06-27T00:15:55.000Z
+【链接】https://news.google.com/rss/articles/CBMipgFBVV95cUxQbElSaDZiOENYRU9tbm5hTFpadjBZLUhyN1ROSC1pYXlHaWhDUmw5ak9Ua3FaWmZLZ0UyZTBuZmJRVTFNM21XMlFSM3plUmJqQUFyeEQyOUp0VVpld2FwcGdwN3k4S0dKLVhiZnNTMDI1QVJGWnYzV0hKdGIta3NtZ0pUUEp5cTQ0LTM2emd4cEc4NHZwVWR0M1g4dG13TGE0S3NPZE9n0gGrAUFVX3lxTE9BWDZuT1B0b240Smo5LVVxZlhwMU9vTWhaWThDejhyNHBLLWpXS2xFRmpwYzNLbmVvSFdtTGUwYjUwWTYzWUZCN3VQbTBlTHE0aE5TZElpTk16ek1STlpYQW9VOVNoTXJpLVlzTkplSDdzUno0UFplVXN0eHRyWXA1dGY5dzdmeVY5RmppSWRMQjEyMDMtaDg1OXhHUjhKTVR4N0w5dm5qSnhxUQ?oc=5
