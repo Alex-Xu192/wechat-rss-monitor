@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-06-26T22:20:48.224Z - 2026-06-27T00:20:48.224Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. US conducts strikes on Iran after attack on cargo ship
+2. Israel and Lebanon sign framework agreement after US-brokered talks
+
+==============================
+
+1. US conducts strikes on Iran after attack on cargo ship
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】US Central Command says it has struck missile and drone storage facilities and coastal radar positions.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US conducts strikes on Iran after attack on cargo ship
+【发布时间】2026-06-26T22:57:30.000Z
+【链接】https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Israel and Lebanon sign framework agreement after US-brokered talks
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Israel and Lebanon sign framework agreement after US-brokered talks
+【发布时间】2026-06-26T22:55:28.000Z
+【链接】https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss
