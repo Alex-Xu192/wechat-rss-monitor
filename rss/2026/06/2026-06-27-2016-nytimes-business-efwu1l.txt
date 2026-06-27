@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-27T10:16:46.433Z - 2026-06-27T12:16:46.433Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 广告商擅长吸引人类注意力，能否在 AI 面前脱颖而出？
+2. 霍尔木兹海峡航运复苏受新袭击威胁
+
+==============================
+
+1. 广告商擅长吸引人类注意力，能否在 AI 面前脱颖而出？
+【相关股票】GOOGL、META、MSFT、WPP、OMC、PUBGY、IPG
+【利好股票】GOOGL、META、MSFT
+【利空股票】WPP、OMC、PUBGY、IPG
+【摘要】在戛纳国际创意节上，营销人员正在探讨如何影响 AI 聊天机器人，以便在 AI 驱动的搜索和推荐中获得曝光。
+【依据】文章讨论广告行业面临 AI 聊天机器人成为新入口的挑战，利好拥有 AI 平台和广告生态的大型科技股（Google、Meta、微软），传统广告代理公司（WPP、Omnicom、Publicis、IPG）若无法适应新模式可能面临压力。
+【原标题】Advertisers Are Good at Getting Human Attention. Can They Stand Out to A.I.?
+【发布时间】2026-06-27T12:00:02.000Z
+【链接】https://www.nytimes.com/2026/06/27/business/dealbook/ai-visibility.html
+
+------------------------------
+
+2. 霍尔木兹海峡航运复苏受新袭击威胁
+【相关股票】MAERSK-B.CO、HLAG.DE、COSCO、FRO、EURN、DHT、XOM、CVX、BP、SHEL
+【利好股票】XOM、CVX、BP、SHEL
+【利空股票】MAERSK-B.CO、HLAG.DE、COSCO、FRO、EURN、DHT
+【摘要】伊朗附近海域发生新的袭击事件，威胁到自美伊冲突以来达到最高水平的霍尔木兹海峡航运恢复势头。
+【依据】霍尔木兹海峡是关键石油运输通道，袭击事件增加航运风险和保险成本，利空航运及油轮公司（马士基、赫伯罗特、中远海运、Frontline、Euronav、DHT），可能推高油价从而短期利好能源巨头（埃克森美孚、雪佛龙、英国石油、壳牌）。
+【原标题】Renewed Strikes Threaten Setback to Shipping Recovery in Persian Gulf
+【发布时间】2026-06-27T11:26:14.000Z
+【链接】https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html
