@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-06-27T14:13:12.382Z - 2026-06-27T16:13:12.382Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. In Caracas, this feels like the hardest moment in Venezuela's modern history
+2. Burkina Faso severs diplomatic ties with France
+
+==============================
+
+1. In Caracas, this feels like the hardest moment in Venezuela's modern history
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】In Caracas, this feels like the hardest moment in Venezuela's modern history
+【发布时间】2026-06-27T14:22:37.000Z
+【链接】https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Burkina Faso severs diplomatic ties with France
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The West African country's junta accused the former colonial power of undermining its national interests.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Burkina Faso severs diplomatic ties with France
+【发布时间】2026-06-27T14:21:31.000Z
+【链接】https://www.bbc.co.uk/news/articles/c7vymlgl5vgo?at_medium=RSS&at_campaign=rss
