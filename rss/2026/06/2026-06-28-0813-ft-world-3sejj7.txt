@@ -1,0 +1,33 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-27T22:13:50.853Z - 2026-06-28T00:13:50.853Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. US carries out second day of strikes against Iran
+2. Javier Milei’s top aide resigns over corruption scandal in Argentina
+
+==============================
+
+1. US carries out second day of strikes against Iran
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Military action in response to Iranian attacks on shipping is a further blow to hopes of sustained ceasefire
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】US carries out second day of strikes against Iran
+【发布时间】2026-06-27T23:48:28.000Z
+【链接】https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0
+
+------------------------------
+
+2. Javier Milei’s top aide resigns over corruption scandal in Argentina
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Allegations against cabinet chief Manuel Adorni have engulfed libertarian government for months
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Javier Milei’s top aide resigns over corruption scandal in Argentina
+【发布时间】2026-06-27T22:22:39.000Z
+【链接】https://www.ft.com/content/db091e41-ea8c-4aac-b76c-b303f799d191
