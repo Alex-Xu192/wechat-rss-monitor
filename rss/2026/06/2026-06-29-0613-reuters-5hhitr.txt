@@ -1,0 +1,20 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-06-28T20:13:35.730Z - 2026-06-28T22:13:35.730Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Examining circuit boards from the Space Shuttle I/O Processor
+
+==============================
+
+1. Examining circuit boards from the Space Shuttle I/O Processor
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A close look at two circuit cards from the Space Shuttle’s I/O Processor, including the network interface board and the microcode page. The article explains how the Shuttle’s data buses used Manchester encoding, hybrid modules, and custom Motorola chips, and how the IOP ran 25 virtual processors on one physical processor. [righto.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Examining circuit boards from the Space Shuttle I/O Processor
+【发布时间】2026-06-28T20:40:10.000Z
+【链接】https://flipso.com/p/7mfymi2nq?ref=rss
