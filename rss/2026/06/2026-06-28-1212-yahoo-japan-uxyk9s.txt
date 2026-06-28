@@ -1,0 +1,85 @@
+Yahoo Japan - 中文结构化新闻汇总
+
+【来源】Yahoo Japan
+【时间】2026-06-28T02:12:39.155Z - 2026-06-28T04:12:39.155Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 衝撃 メッシがW杯7戦連続ゴール
+2. タクシーと自転車が衝突 女性重体
+3. 案件激減 フリーランス41歳の現実
+4. ベネズエラ地震発生72h 懸命捜索
+5. 辺野古沖で生徒死亡 母と姉の心境
+6. サッカーW杯 韓国の敗退が決定
+
+==============================
+
+1. 衝撃 メッシがW杯7戦連続ゴール
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】衝撃 メッシがW杯7戦連続ゴール
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】衝撃 メッシがW杯7戦連続ゴール
+【发布时间】2026-06-28T04:10:12.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585986?source=rss
+
+------------------------------
+
+2. タクシーと自転車が衝突 女性重体
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】タクシーと自転車が衝突 女性重体
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】タクシーと自転車が衝突 女性重体
+【发布时间】2026-06-28T03:59:15.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585983?source=rss
+
+------------------------------
+
+3. 案件激減 フリーランス41歳の現実
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】案件激減 フリーランス41歳の現実
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】案件激減 フリーランス41歳の現実
+【发布时间】2026-06-28T03:45:42.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585981?source=rss
+
+------------------------------
+
+4. ベネズエラ地震発生72h 懸命捜索
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】ベネズエラ地震発生72h 懸命捜索
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】ベネズエラ地震発生72h 懸命捜索
+【发布时间】2026-06-28T02:57:49.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585977?source=rss
+
+------------------------------
+
+5. 辺野古沖で生徒死亡 母と姉の心境
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】辺野古沖で生徒死亡 母と姉の心境
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】辺野古沖で生徒死亡 母と姉の心境
+【发布时间】2026-06-28T02:29:13.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585972?source=rss
+
+------------------------------
+
+6. サッカーW杯 韓国の敗退が決定
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】サッカーW杯 韓国の敗退が決定
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】サッカーW杯 韓国の敗退が決定
+【发布时间】2026-06-28T02:24:12.000Z
+【链接】https://news.yahoo.co.jp/pickup/6585974?source=rss
