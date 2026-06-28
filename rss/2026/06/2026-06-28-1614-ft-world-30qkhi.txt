@@ -1,0 +1,20 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-28T06:14:27.990Z - 2026-06-28T08:14:27.990Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. US and Iran trade strikes as ceasefire falters
+
+==============================
+
+1. US and Iran trade strikes as ceasefire falters
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Truce under pressure as Tehran counters US attacks by targeting military installations in Bahrain and Kuwait
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US and Iran trade strikes as ceasefire falters
+【发布时间】2026-06-28T07:33:48.000Z
+【链接】https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0
