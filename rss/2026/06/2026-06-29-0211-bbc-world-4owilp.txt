@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-06-28T16:11:33.874Z - 2026-06-28T18:11:33.874Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C
+2. Three firefighters die battling huge wildfires on Colorado-Utah border
+
+==============================
+
+1. Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C
+【发布时间】2026-06-28T16:38:55.000Z
+【链接】https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Three firefighters die battling huge wildfires on Colorado-Utah border
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Three firefighters die battling huge wildfires on Colorado-Utah border
+【发布时间】2026-06-28T16:33:50.000Z
+【链接】https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss
