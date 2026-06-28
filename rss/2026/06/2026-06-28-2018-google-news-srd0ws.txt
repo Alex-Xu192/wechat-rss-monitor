@@ -1,0 +1,59 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-28T10:18:19.063Z - 2026-06-28T12:18:19.063Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Here are the at-home medical items nurses swear by - The Washington Post
+2. Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks to end the war - AP News
+3. A 'perfect storm' points to a much smaller U.S. auto market by 2040 - CNBC
+4. France records 1,000 excess deaths during record-breaking heatwave - Reuters
+
+==============================
+
+1. Here are the at-home medical items nurses swear by - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Here are the at-home medical items nurses swear by  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Here are the at-home medical items nurses swear by - The Washington Post
+【发布时间】2026-06-28T12:02:02.000Z
+【链接】https://news.google.com/rss/articles/CBMirAFBVV95cUxORmgyTE1sbkdnU0tlWG9PZ0lhdENTYS1oTXF5QWpEcFU1ZnhVTkFCNUFIVjd3aWMtdktLcFRfcW1Fc2N4QU8zbkNvbVprVzVocFh5c3EwSnpYb2hzZ2RFYWpOZGotSVNxODBQUGV6TlNtcnhONWxlMVp6Z3JVMGxTdk9fcEJDT0xlSDgtVjIwS2gtT0RGbUN2aV9fRE9PbTRWWUI0VTRKV1NSU2lw?oc=5
+
+------------------------------
+
+2. Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks to end the war - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks to end the war  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks to end the war - AP News
+【发布时间】2026-06-28T11:05:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDBTQkFEbzlzV3FGUXhBeks0Wm5CV2RIU0J4aFcwTl9jRFRNeHRNbkxzVEZNa3ZNSTcwS1FDZm5PM3RDbVJuMFc0bWRwR1hhSlZFVGlMSkdvOC1GcnlLUWpUbjQ0aFlMYWN3X0gtdVBUWHZYSHNKR3BKelJtdUZ1dUpnTWVubU1BOWowd1N3aE1kckE1Uklya1huN25iLUxYM2Q5N0JtcVY?oc=5
+
+------------------------------
+
+3. A 'perfect storm' points to a much smaller U.S. auto market by 2040 - CNBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A 'perfect storm' points to a much smaller U.S. auto market by 2040  CNBC
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】A 'perfect storm' points to a much smaller U.S. auto market by 2040 - CNBC
+【发布时间】2026-06-28T11:00:01.000Z
+【链接】https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BZkxkOUZ0eEY5V3FZVzMwRmRPZ3ZnVW9zS01ScUt2Z1NtS3BxSjZ6WF9OQ2hDYzdCNGJHT0V6WjgxY0pRdzdlX3duNGl2ZTJsSUoxb05aUWFYeTVOdjZ1a9IBZkFVX3lxTE1qXzJueFhpelFMVTBnSTJSZkN0UW43cUNWbEtrQ0lIMEhweG5LQ1ZIVGVuM2dXT1Q4YTc3VEJCTXl1SE9fTlJhaW1WOGJoa1NqYU50a1RVZnE5RkV3cjV4M0NYcXRxdw?oc=5
+
+------------------------------
+
+4. France records 1,000 excess deaths during record-breaking heatwave - Reuters
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】France records 1,000 excess deaths during record-breaking heatwave  Reuters
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】France records 1,000 excess deaths during record-breaking heatwave - Reuters
+【发布时间】2026-06-28T10:32:51.000Z
+【链接】https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDVEbTVfU2p5WkVGd1pQNno1SnhQZjViZHR2MmdvUmlRZlIwRFQyblpoc3dqSTNPckhaTFMtUXBoQWFKa3dEWDlxLWVyR1NNR3JyMFRXbC1IUDY4Q1FNY21PdVU3OXc1Y04tWlN0aE15dktTaGtrYmd6SWdibDJ2REpKRm9qaTNtMWxjS3BZb1UxbGN0ZlhhTUFEQzlaX09Rd3A2ZDZ5NXRlaUY3WC1lUV9COS1DSHRUWWR1V1RLOA?oc=5
