@@ -1,0 +1,33 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-29T02:22:26.018Z - 2026-06-29T04:22:26.018Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Japan IPOs fall to 15-year low with no rapid rebound in sight
+2. US says it has agreed deal with Iran to halt strikes and resume talks
+
+==============================
+
+1. Japan IPOs fall to 15-year low with no rapid rebound in sight
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Tokyo’s surging stocks fail to jump-start lacklustre listings market in first half of this year
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Japan IPOs fall to 15-year low with no rapid rebound in sight
+【发布时间】2026-06-29T02:44:23.000Z
+【链接】https://www.ft.com/content/5e016bbc-b09e-4423-a6fb-588abda72cf7
+
+------------------------------
+
+2. US says it has agreed deal with Iran to halt strikes and resume talks
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Tehran yet to confirm end of tit-for-tat attacks that threaten fragile truce in Strait of Hormuz
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US says it has agreed deal with Iran to halt strikes and resume talks
+【发布时间】2026-06-29T02:37:25.000Z
+【链接】https://www.ft.com/content/a1dc9209-ec77-415c-baae-e3ddab5c0eb1
