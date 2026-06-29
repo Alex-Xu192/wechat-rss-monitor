@@ -1,0 +1,20 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-06-29T10:14:06.499Z - 2026-06-29T12:14:06.499Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Fitness brand founder and Olympian Les Mills dies aged 91
+
+==============================
+
+1. Fitness brand founder and Olympian Les Mills dies aged 91
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Les Mills International brand is now known globally for choreographed workouts set to music, like Body Pump and Body Combat.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Fitness brand founder and Olympian Les Mills dies aged 91
+【发布时间】2026-06-29T10:55:41.000Z
+【链接】https://www.bbc.co.uk/news/articles/c5yzxpzy81vo?at_medium=RSS&at_campaign=rss
