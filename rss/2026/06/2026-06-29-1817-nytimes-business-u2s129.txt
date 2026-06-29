@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-29T08:17:37.707Z - 2026-06-29T10:17:37.707Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Oil Prices Rise on Possible Deal to Suspend Attacks in Gulf
+2. How Warsh Has Begun to Change the Fed
+3. China Emerges as a Relative Winner From Strait of Hormuz Crisis
+4. A.I. ‘Employees’ Might Disrupt Work in Unexpected Ways
+5. Bed-and-Breakfasts Vs. Airbnb
+
+==============================
+
+1. Oil Prices Rise on Possible Deal to Suspend Attacks in Gulf
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Oil prices edged higher after an American official said the U.S. and Iran had agreed to halt attacks in a key shipping lane, raising hopes that hostilities would not escalate.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Oil Prices Rise on Possible Deal to Suspend Attacks in Gulf
+【发布时间】2026-06-29T09:52:24.000Z
+【链接】https://www.nytimes.com/2026/06/29/business/oil-gas-price-iran.html
+
+------------------------------
+
+2. How Warsh Has Begun to Change the Fed
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Just weeks into his job as chairman of the Federal Reserve, Kevin M. Warsh has embraced some of the central bank’s conventions while signaling seismic shifts ahead.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】How Warsh Has Begun to Change the Fed
+【发布时间】2026-06-29T09:03:22.000Z
+【链接】https://www.nytimes.com/2026/06/29/business/kevin-warsh-federal-reserve-reforms.html
+
+------------------------------
+
+3. China Emerges as a Relative Winner From Strait of Hormuz Crisis
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A report examines how the war in Iran has weighed on Asian economies, but left China in a more advantageous position.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】China Emerges as a Relative Winner From Strait of Hormuz Crisis
+【发布时间】2026-06-29T09:03:09.000Z
+【链接】https://www.nytimes.com/2026/06/29/business/economy/china-iran-strait-of-hormuz.html
+
+------------------------------
+
+4. A.I. ‘Employees’ Might Disrupt Work in Unexpected Ways
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Scholars say the “unknown unknowns” of using artificial intelligence in the workplace may be undermining the technology’s advertised benefits.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】A.I. ‘Employees’ Might Disrupt Work in Unexpected Ways
+【发布时间】2026-06-29T09:00:52.000Z
+【链接】https://www.nytimes.com/2026/06/29/business/artificial-intelligence-workplace-consequences.html
+
+------------------------------
+
+5. Bed-and-Breakfasts Vs. Airbnb
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Traditional bed-and-breakfast inns are doubling down on unique décor, personalized service and flexible policies, as they seek to distinguish themselves from vacation rentals.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Bed-and-Breakfasts Vs. Airbnb
+【发布时间】2026-06-29T09:00:07.000Z
+【链接】https://www.nytimes.com/2026/06/29/travel/bed-and-breakfasts-versus-airbnbs.html
