@@ -1,0 +1,59 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-29T16:19:15.911Z - 2026-06-29T18:19:15.911Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 船只因美伊冲突风险加剧而撤退
+2. 在旧金山的人工智能时代，即使18万美元的技术薪资也不再足够
+3. 维基百科创始人拉里·桑格被禁止在该网站上编辑
+4. 特朗普在法院失利后重新威胁解雇美联储州长
+
+==============================
+
+1. 船只因美伊冲突风险加剧而撤退
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】双方四天的攻击导致通过霍尔muz海峡的船只数量大幅下降。
+【依据】新闻未提及具体上市公司、股票代码或明确可关联的股票，因此无法判断相关股票。
+【原标题】Ships Pull Back Amid Heightened Risk From U.S.-Iran Strikes
+【发布时间】2026-06-29T18:06:57.000Z
+【链接】https://www.nytimes.com/2026/06/29/business/iran-strait-hormuz-shipping-traffic.html
+
+------------------------------
+
+2. 在旧金山的人工智能时代，即使18万美元的技术薪资也不再足够
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】随着OpenAI和Anthropic准备上市，年薪六位数的科技员工抱怨他们无法与新的人工智能精英竞争。一些人怀疑他们是否能够负担得起继续留在这里。
+【依据】新闻未提及具体上市公司、股票代码或明确可关联的股票，因此无法判断相关股票。
+【原标题】In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough
+【发布时间】2026-06-29T16:27:45.000Z
+【链接】https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html
+
+------------------------------
+
+3. 维基百科创始人拉里·桑格被禁止在该网站上编辑
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】在拉里·桑格提交关于“知识多样性”的提案几天后，维基百科志愿者社区投票决定无限期禁止他编辑。
+【依据】新闻未提及具体上市公司、股票代码或明确可关联的股票，因此无法判断相关股票。
+【原标题】Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site
+【发布时间】2026-06-29T16:21:49.000Z
+【链接】https://www.nytimes.com/2026/06/25/business/media/wikipedia-larry-sanger-barred.html
+
+------------------------------
+
+4. 特朗普在法院失利后重新威胁解雇美联储州长
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】总统承诺将对美联储州长丽莎·D·库克“立即采取适当行动”。
+【依据】新闻未提及具体上市公司、股票代码或明确可关联的股票，因此无法判断相关股票。
+【原标题】Trump Renews Threat to Fire Fed Governor in Wake of Court Loss
+【发布时间】2026-06-29T16:19:32.000Z
+【链接】https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html
