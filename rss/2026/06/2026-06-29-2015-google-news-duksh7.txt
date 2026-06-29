@@ -1,0 +1,72 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-29T10:15:30.857Z - 2026-06-29T12:15:30.857Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Live updates: US and Iran will ‘stand down for now’ after strikes with talks ‘on track,’ US officials say - CNN
+2. Comcast to split into two companies, spin off NBCUniversal and Sky - NBC News
+3. Italy and Balkans hit by heatwave as wildfire fears rise - Reuters
+4. Column | What a gastroenterologist wants you to know about bidets - The Washington Post
+5. Iran’s president says $6B in frozen assets in Qatar to be released as US talks challenged - AP News
+
+==============================
+
+1. Live updates: US and Iran will ‘stand down for now’ after strikes with talks ‘on track,’ US officials say - CNN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Live updates: US and Iran will ‘stand down for now’ after strikes with talks ‘on track,’ US officials say  CNN
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Live updates: US and Iran will ‘stand down for now’ after strikes with talks ‘on track,’ US officials say - CNN
+【发布时间】2026-06-29T12:03:00.000Z
+【链接】https://news.google.com/rss/articles/CBMieEFVX3lxTE9MVi1NaU82STg3WmRydk9wSkcyR1BhTmNHQnRxR1lvcWNJVXdWMngtZlBmQXJrR0M5eW4tU28zd3ZvdFpobFNVYkF1Z29DNEVFQWFCaGZDb0NaSmp5RWVmZGdxX2xwalRUa0lhQVlqLWlZbEp3QjJLQg?oc=5
+
+------------------------------
+
+2. Comcast to split into two companies, spin off NBCUniversal and Sky - NBC News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Comcast to split into two companies, spin off NBCUniversal and Sky  NBC News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Comcast to split into two companies, spin off NBCUniversal and Sky - NBC News
+【发布时间】2026-06-29T11:49:04.000Z
+【链接】https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUZpdFFZNG1NbjNmLW5xY2hKVFQtNXFuYm9pbEl5SVJTdS1tS1pRV1lTOXE5WW41blVCVUtBSmdwUloyaThkVXI3N21zTWs3WFpfMkMwYkdPY3E4UHVYa1JTdzhVSURZSnYtOHN1Z2JlTmp3ekd2Q3FnMWJiNDVNaWtmVG5IYmJYS0R1NHZBVHczYVFuWjh2b2twcnJsQnVTaFpodHVXYkZOSHhSaHd3?oc=5
+
+------------------------------
+
+3. Italy and Balkans hit by heatwave as wildfire fears rise - Reuters
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Italy and Balkans hit by heatwave as wildfire fears rise  Reuters
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Italy and Balkans hit by heatwave as wildfire fears rise - Reuters
+【发布时间】2026-06-29T11:40:57.000Z
+【链接】https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdUdWNDdZSlk3My1oa1J2cXVWVUhTSktxbWFKdEppN05sV3VUSGRFSHZZYURua1FQeFNpZzVUb0RtRXd4OWdqdEZBcS1aQ2RHRmVSS1VSaW1vLXB6akZta2twUU85NFVvOG9PNHhYMDRnNjN3emIxdHJ4TGJLLXIwbDVuSFBsekJyVDJzV3RfMFMxcmoyd0FDUFd0RHVCZE9rVy1vR0l3dW9wck5CWGRDdC15bkhvSEo2WS1J?oc=5
+
+------------------------------
+
+4. Column | What a gastroenterologist wants you to know about bidets - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Column | What a gastroenterologist wants you to know about bidets  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Column | What a gastroenterologist wants you to know about bidets - The Washington Post
+【发布时间】2026-06-29T11:34:09.000Z
+【链接】https://news.google.com/rss/articles/CBMirwFBVV95cUxPMXE3YU5RT1V3RFFtWGFzc052RXo3UzJTcW52dEQ0ejlQeFBUOHlrTHYtZHg2MTYtRkpMcnk2X1ZwUVBfNklGR0EtMVJsZkNrbkh3VWZQdFJnZzFJNkFJVTlSWVIxdlJ6UElZQm1KSjAzVnRoSnAwVlEzMzU3c0d2Y18yM0psOUhnRVdQVkxmRVFzVGhHOEhMOTFEeGlqQmw0S3NEdmFSNEIzaFZOSGww?oc=5
+
+------------------------------
+
+5. Iran’s president says $6B in frozen assets in Qatar to be released as US talks challenged - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Iran’s president says $6B in frozen assets in Qatar to be released as US talks challenged  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Iran’s president says $6B in frozen assets in Qatar to be released as US talks challenged - AP News
+【发布时间】2026-06-29T10:49:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGllc29LZmZnSEdXeXdTZ0x1Sml0M2VVZVBWRVdvZG9DTEF4RnE2YjAwQzlITU9EcThTSjJBMjM1MUsxWjlWRkctVUdzalFkaE9KQUNnaHp6c3J1YThkOGxEWFprQkFTaThCczNmYWl0UTRNeFBWYS1uVUtaM0FhTVpTQXhSYVlEN08zR1F6ZFNiRE13YTJGTHppdmFCTS1SZlo4?oc=5
