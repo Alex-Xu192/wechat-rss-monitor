@@ -1,0 +1,59 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-29T14:14:57.512Z - 2026-06-29T16:14:57.512Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 在旧金山的人工智能时代，即使年薪18万美元也不再足够
+2. Comcast 将剥离 NBCUniversal，结束有线和媒体的长期联姻
+3. Les Mills，创立健身连锁的奥运冠军，享年91岁
+4. 在美国-伊朗紧张局势加剧的背景下，船只撤退
+
+==============================
+
+1. 在旧金山的人工智能时代，即使年薪18万美元也不再足够
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】随着OpenAI和Anthropic准备上市，六位数薪水的科技工作者抱怨他们无法与新的人工智能精英竞争。有些人怀疑他们是否负担得起继续留下。
+【依据】新闻讨论旧金山科技薪资与AI公司OpenAI和Anthropic潜在上市，但未明确点名任何具体上市公司，故无法确定相关股票。
+【原标题】In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough
+【发布时间】2026-06-29T16:00:07.000Z
+【链接】https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html
+
+------------------------------
+
+2. Comcast 将剥离 NBCUniversal，结束有线和媒体的长期联姻
+【相关股票】CMCSA
+【利好股票】CMCSA
+【利空股票】无法判断
+【摘要】拥有NBC新闻和环球影片的媒体业务将与康卡斯的有线和互联网业务分离，遵循媒体行业的趋势。
+【依据】新闻明确提到康卡斯（CMCSA）计划剥离NBCUniversal，这直接涉及上市公司康卡斯，因此相关股票为CMCSA。剥离通常被视为利好，故正面股票为CMCSA，暂无法判断负面影响。
+【原标题】Comcast to Spin Off NBCUniversal, Ending a Long Union of Cable and Media
+【发布时间】2026-06-29T15:44:24.000Z
+【链接】https://www.nytimes.com/2026/06/29/business/comcast-nbcuniversal-spinoff.html
+
+------------------------------
+
+3. Les Mills，创立健身连锁的奥运冠军，享年91岁
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】一位新西兰奥林匹克冠军，他在奥克兰的小型健身房发展成为全球连锁。
+【依据】新闻涉及Les Mills健身创始人逝世，Les Mills为私人健身公司，未涉及明确上市公司，故无法判断相关股票。
+【原标题】Les Mills, Olympian Who Founded Fitness Chain, Dies at 91
+【发布时间】2026-06-29T15:21:47.000Z
+【链接】https://www.nytimes.com/2026/06/29/world/les-mills-dead.html
+
+------------------------------
+
+4. 在美国-伊朗紧张局势加剧的背景下，船只撤退
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】两国四天的袭击迫使通过霍尔muz海峡的船舶数量急剧下降。
+【依据】新闻谈及美国-伊朗紧张局势导致霍尔muz海峡航运下降，牵连航运和能源行业，但未点名具体上市公司，故无法判断相关股票。
+【原标题】Ships Pull Back Amid Heightened Risk From U.S.-Iran Strikes
+【发布时间】2026-06-29T14:34:34.000Z
+【链接】https://www.nytimes.com/2026/06/29/business/iran-strait-hormuz-shipping-traffic.html
