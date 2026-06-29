@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-06-29T16:14:01.366Z - 2026-06-29T18:14:01.366Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook
+2. Sixth person dies after shooting at youth welfare centre in Germany
+
+==============================
+
+1. Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook
+【发布时间】2026-06-29T16:51:52.000Z
+【链接】https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Sixth person dies after shooting at youth welfare centre in Germany
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Four women and a man were shot dead at the scene while a sixth person died in hospital, police say.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Sixth person dies after shooting at youth welfare centre in Germany
+【发布时间】2026-06-29T16:24:07.000Z
+【链接】https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss
