@@ -1,0 +1,20 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-06-29T04:13:58.216Z - 2026-06-29T06:13:58.216Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Pakistan launches deadly strikes along Afghan border
+
+==============================
+
+1. Pakistan launches deadly strikes along Afghan border
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Pakistan says its strikes were a response to "recent terrorist attacks against innocent people".
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Pakistan launches deadly strikes along Afghan border
+【发布时间】2026-06-29T04:39:05.000Z
+【链接】https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss
