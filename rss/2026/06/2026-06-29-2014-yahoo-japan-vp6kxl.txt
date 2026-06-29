@@ -1,0 +1,98 @@
+Yahoo Japan - 中文结构化新闻汇总
+
+【来源】Yahoo Japan
+【时间】2026-06-29T10:14:39.620Z - 2026-06-29T12:14:39.620Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 近鉄の脱線車両 23時めどに移動へ
+2. 亀梨&みな実結婚 直筆署名に注目
+3. 小学校の「算数」名称を維持へ
+4. 5歳不明 母「連れて帰りたい」
+5. 八田容疑者を目撃 半数近くが関東
+6. 篠田麻里子 再婚発表後初の公の場
+7. 新卒に1400万円 少ないと採用担当
+
+==============================
+
+1. 近鉄の脱線車両 23時めどに移動へ
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】近鉄の脱線車両 23時めどに移動へ
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】近鉄の脱線車両 23時めどに移動へ
+【发布时间】2026-06-29T11:55:24.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586147?source=rss
+
+------------------------------
+
+2. 亀梨&みな実結婚 直筆署名に注目
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】亀梨&みな実結婚 直筆署名に注目
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】亀梨&みな実結婚 直筆署名に注目
+【发布时间】2026-06-29T11:45:51.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586145?source=rss
+
+------------------------------
+
+3. 小学校の「算数」名称を維持へ
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】小学校の「算数」名称を維持へ
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】小学校の「算数」名称を維持へ
+【发布时间】2026-06-29T11:34:57.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586143?source=rss
+
+------------------------------
+
+4. 5歳不明 母「連れて帰りたい」
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】5歳不明 母「連れて帰りたい」
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】5歳不明 母「連れて帰りたい」
+【发布时间】2026-06-29T10:57:08.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586139?source=rss
+
+------------------------------
+
+5. 八田容疑者を目撃 半数近くが関東
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】八田容疑者を目撃 半数近くが関東
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】八田容疑者を目撃 半数近くが関東
+【发布时间】2026-06-29T10:43:08.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586135?source=rss
+
+------------------------------
+
+6. 篠田麻里子 再婚発表後初の公の場
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】篠田麻里子 再婚発表後初の公の場
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】篠田麻里子 再婚発表後初の公の場
+【发布时间】2026-06-29T10:42:22.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586137?source=rss
+
+------------------------------
+
+7. 新卒に1400万円 少ないと採用担当
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】新卒に1400万円 少ないと採用担当
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】新卒に1400万円 少ないと採用担当
+【发布时间】2026-06-29T10:25:14.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586136?source=rss
