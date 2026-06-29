@@ -1,0 +1,46 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-06-29T12:13:45.388Z - 2026-06-29T14:13:45.388Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Five dead following shooting at youth centre in Stade, northern Germany
+2. US says it has agreed to 'stand down' after exchange of strikes with Iran
+3. Senior South African police officer survives assassination attempt
+
+==============================
+
+1. Five dead following shooting at youth centre in Stade, northern Germany
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Two people have been arrested, one of whom is a suspect, police say.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Five dead following shooting at youth centre in Stade, northern Germany
+【发布时间】2026-06-29T12:52:04.000Z
+【链接】https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. US says it has agreed to 'stand down' after exchange of strikes with Iran
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US says it has agreed to 'stand down' after exchange of strikes with Iran
+【发布时间】2026-06-29T12:51:58.000Z
+【链接】https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. Senior South African police officer survives assassination attempt
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Deputy crime intelligence boss Maj-Gen Feroz Khan was due to appear before an inquiry into police corruption this week.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Senior South African police officer survives assassination attempt
+【发布时间】2026-06-29T12:38:19.000Z
+【链接】https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss
