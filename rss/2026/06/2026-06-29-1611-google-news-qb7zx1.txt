@@ -1,0 +1,72 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-29T06:11:58.321Z - 2026-06-29T08:11:58.321Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak - Pittsburgh Post-Gazette
+2. Pakistan says its security forces killed 29 fighters along Afghan border - Al Jazeera
+3. Stock futures rise, but fragile U.S.-Iran truce keeps oil markets on edge: Live updates - CNBC
+4. Jamie King’s Estranged Husband Wants Out of Marriage ASAP - TMZ
+5. World Cup Round of 32: Which teams qualified or exited the tournament - Al Jazeera
+
+==============================
+
+1. Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak - Pittsburgh Post-Gazette
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak  Pittsburgh Post-Gazette
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Lingering distrust, low vaccine rates threaten containment of Lancaster measles outbreak - Pittsburgh Post-Gazette
+【发布时间】2026-06-29T08:05:39.000Z
+【链接】https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVVBzSTNMamNuX05nd3l6U09zQ2pudjZGcnE5MWppYjVld2x3MzdMVEUyR21iSmY0b05vaWlNSC1pelBJTlB2TjZpUFhpRWV3dTZaQzRPOEtwWlYxcXF4M1dwQ2ZNWjBBWFNXWFhDVWRQNGxhMlVxYjEzSGpiV09ucDBXZVlPSFg1Wm5QWEhXWFNEUV9QenZxWUtiTmJBZWRRNE5TX0RHcnB3VjE3cTNZSUxiT1RQSng4S0xmNkRmakJTeGphQ2hfcg?oc=5
+
+------------------------------
+
+2. Pakistan says its security forces killed 29 fighters along Afghan border - Al Jazeera
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Pakistan says its security forces killed 29 fighters along Afghan border  Al Jazeera
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Pakistan says its security forces killed 29 fighters along Afghan border - Al Jazeera
+【发布时间】2026-06-29T07:28:08.000Z
+【链接】https://news.google.com/rss/articles/CBMiswFBVV95cUxNR19Jc1poM0dWbnJLdjlyTmtYRk9HMUhaeDhILVdqQmNmWjF4RC1jMzNmZW51Sl85QVVmeTZlQl9qMnZUWVJzQlZHUkNqTWVXNFhLR2dMdU1jb0psN3g5dHppRHZCbjM2aE9ROWZQRGJBbkpHNDB4bGhKcWtsbG1ZVC1zc1dmVW1DZFVxMjNacDhlT29DdmRnemVEVnExMFFfUGtXeGxoOVZWOUthLS1aOE1hY9IBuAFBVV95cUxNUEhRTFg1SVJfeXk5bUxBTkhyUGxldTFoWk1TZU9QX21xWTBITHcxUENhaDQwZVpLM29KWE9LaC1VanBUdXhJanh6YnhJY2JfQ2NRdk5lTlBUVkVGRGR0dWFSR0ZFUXdjNWtmM09hdlpvaG9MODlpTWFyYVFvWlNlTWNyZ0kzN01WazMwTEdqTk80QS01MlVzaGk5N2Frdi1MNlI3V05oUUVseHVWSXkzTVozZlAtMXAt?oc=5
+
+------------------------------
+
+3. Stock futures rise, but fragile U.S.-Iran truce keeps oil markets on edge: Live updates - CNBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock futures rise, but fragile U.S.-Iran truce keeps oil markets on edge: Live updates  CNBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Stock futures rise, but fragile U.S.-Iran truce keeps oil markets on edge: Live updates - CNBC
+【发布时间】2026-06-29T07:06:00.000Z
+【链接】https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU0NGQ09YelllZHBxYzEtRTQwU1o5LXM1WEZ2VFNtd01hZXF6N3lMdDd3WVJmT1BBM0tNN2FjdG5vbU9VY2ZrUkRNemlFeDVsVlB3dEx3Nl9sM3BYbzQxaDRiNDBTenYzY0J0QUd5VW1mOEx1UjdHQdIBfkFVX3lxTE1yRFlHdnhwX2QydWJWbHFhY3ZXUXR0LTRHV1NJNmFLdG1laUU0Y3lCbi1rM3VQU2k2SllNV1FuLVkzUGVqa3UwcVpzampLWHZ4ZlM3d0FZUVhpMkY0OExQTkJaSGdNOHZXemdJOW0wTFpzQjN5NEFHTlh1ZmlYQQ?oc=5
+
+------------------------------
+
+4. Jamie King’s Estranged Husband Wants Out of Marriage ASAP - TMZ
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Jamie King’s Estranged Husband Wants Out of Marriage ASAP  TMZ
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Jamie King’s Estranged Husband Wants Out of Marriage ASAP - TMZ
+【发布时间】2026-06-29T07:00:26.000Z
+【链接】https://news.google.com/rss/articles/CBMif0FVX3lxTE56OEpOVnJDVzZKTVI0WXpyM2loZWkzTzV1cW1HS0Q1TzRoU21Lcl9CQ0xCTzFsVjBIOFA0Z2dDa3NmRE9BY0JReHB5R1hpTVUwTDRCRnRLTVpXTjUtU2w4eXNqOS1ONHd2SXptUjJMVnFSMlY1c252MU9BMkl5Rlk?oc=5
+
+------------------------------
+
+5. World Cup Round of 32: Which teams qualified or exited the tournament - Al Jazeera
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】World Cup Round of 32: Which teams qualified or exited the tournament  Al Jazeera
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】World Cup Round of 32: Which teams qualified or exited the tournament - Al Jazeera
+【发布时间】2026-06-29T06:34:44.000Z
+【链接】https://news.google.com/rss/articles/CBMitAFBVV95cUxPRlBjejdZSzZHTVJFcmJiRTBvazkwa0JOVjUyUTg1N1IwRnh5ejhmMV9vTEdOWHlxUUM1SWtfQy1zUzlHTjU5Q3dxZlVCQkZjZjBCWjY0VUZZUVlHU2dMQWFsZmZQcTIxSklIRElDZFVleXp6RUR6VEx3Yk85b0N5R3NWaGdmeV9RdTdONU5udkFUeWxBQXc1alJ2Q2NJeklFN0JmTGFOYkhxandZbzNCaTViTHrSAboBQVVfeXFMTmliUEN1eElveDNIMF9KM0Ywak5henpnNEJoVHBxZWJHNFNyY2tBYm5FMGF1THo0LWxtcWZ5Tjk1NFROZ1JqRVFCZmJiVzEwQV9sMVZndHBmeTBmSGpJOXFuREFDeUFRS0dyNkdRMXc2d0gtVjVYVk0wSTU3eXM0MzVXZnNmVlBSVGRKQWh2SUJNdHpPQ1V0cWZvUmliWUU5STlBNTVzVGtvLXhMNGRUeGQ1LTdwdWNVNC1R?oc=5
