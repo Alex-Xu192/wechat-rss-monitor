@@ -1,0 +1,59 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-29T12:17:26.502Z - 2026-06-29T14:17:26.502Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Lebanon’s deal with Israel sparks backlash
+2. Five things we learnt from Andy Burnham’s speech
+3. Burnham vows to ‘rewire’ British state
+4. AI money is going to swamp the midterms this year
+
+==============================
+
+1. Lebanon’s deal with Israel sparks backlash
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Hizbollah and allies say they will not adhere to US-backed agreement as Israeli troops continue to occupy territory
+【依据】AI 结构化失败，未做股票判断。{"error":"Request timed out."}
+【原标题】Lebanon’s deal with Israel sparks backlash
+【发布时间】2026-06-29T13:56:20.000Z
+【链接】https://www.ft.com/content/5e138e21-9e72-4e3d-b240-c5c3c39355da
+
+------------------------------
+
+2. Five things we learnt from Andy Burnham’s speech
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UK’s likely next prime minister gave the clearest indication yet of his policy priorities — but left many questions unanswered
+【依据】AI 结构化失败，未做股票判断。{"error":"Request timed out."}
+【原标题】Five things we learnt from Andy Burnham’s speech
+【发布时间】2026-06-29T13:46:37.000Z
+【链接】https://www.ft.com/content/abc26903-8463-42d3-9378-3cacefc30622
+
+------------------------------
+
+3. Burnham vows to ‘rewire’ British state
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UK’s prime minister-in-waiting takes aim at centralisation and promises voters help on living costs
+【依据】AI 结构化失败，未做股票判断。{"error":"Request timed out."}
+【原标题】Burnham vows to ‘rewire’ British state
+【发布时间】2026-06-29T13:14:39.000Z
+【链接】https://www.ft.com/content/10b1ec7e-a6f6-484b-81a9-214764797a3c
+
+------------------------------
+
+4. AI money is going to swamp the midterms this year
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Alex Bores’ defeat in a New York congressional primary was a taste of things to come
+【依据】AI 结构化失败，未做股票判断。{"error":"Request timed out."}
+【原标题】AI money is going to swamp the midterms this year
+【发布时间】2026-06-29T13:00:06.000Z
+【链接】https://www.ft.com/content/8f872761-76d9-43c7-bbcd-d313c4732e81
