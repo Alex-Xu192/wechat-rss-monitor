@@ -1,0 +1,20 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-29T00:16:35.093Z - 2026-06-29T02:16:35.093Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. In Strait of Hormuz, Renewed Strikes Threaten to Set Back Shipping Recovery
+
+==============================
+
+1. In Strait of Hormuz, Renewed Strikes Threaten to Set Back Shipping Recovery
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The attacks came after traffic through the Strait of Hormuz had reached the highest levels since the start of the U.S. war in Iran.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】In Strait of Hormuz, Renewed Strikes Threaten to Set Back Shipping Recovery
+【发布时间】2026-06-29T00:40:57.000Z
+【链接】https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html
