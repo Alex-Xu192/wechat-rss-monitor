@@ -1,0 +1,33 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-28T22:16:06.929Z - 2026-06-29T00:16:06.929Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Sovereign funds move from public markets to private to ride AI wave
+2. Putin says Russia faces fuel shortages as Ukrainian drones strike refineries
+
+==============================
+
+1. Sovereign funds move from public markets to private to ride AI wave
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】High concentration in stock markets and national security concerns send SWFs to private credit and infrastructure
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Sovereign funds move from public markets to private to ride AI wave
+【发布时间】2026-06-28T23:01:02.000Z
+【链接】https://www.ft.com/content/8ea5b49f-e115-4e18-8c14-c426fcac27ba
+
+------------------------------
+
+2. Putin says Russia faces fuel shortages as Ukrainian drones strike refineries
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】President’s comments are first admission that Kyiv’s long-range attacks have dented production
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Putin says Russia faces fuel shortages as Ukrainian drones strike refineries
+【发布时间】2026-06-28T22:28:40.000Z
+【链接】https://www.ft.com/content/b6a405a1-876d-4844-8ca9-8bc19b58a2b2
