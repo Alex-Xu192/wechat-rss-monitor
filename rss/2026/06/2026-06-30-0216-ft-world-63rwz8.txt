@@ -1,0 +1,85 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-29T16:16:47.907Z - 2026-06-29T18:16:47.907Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. Burnham keynote speech as it happened: plan unveiled for devolution of power
+2. Burnham’s radical localism alone won’t fix the UK economy
+3. Supreme Court protects the Federal Reserve, but what about everybody else?
+4. Supreme Court blocks Trump from sacking Fed governor Cook
+5. Burnham vows to ‘rewire’ British state
+6. Ethiopia makes deal to cut payments on $1bn bond
+
+==============================
+
+1. Burnham keynote speech as it happened: plan unveiled for devolution of power
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Britain’s prime minister-in-waiting says the country is in a ‘rut’ and needs a shift of decision-making away from Westminster
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Burnham keynote speech as it happened: plan unveiled for devolution of power
+【发布时间】2026-06-29T17:31:19.000Z
+【链接】https://www.ft.com/content/467b5332-2840-42eb-8d0b-0aae9c5c1107
+
+------------------------------
+
+2. Burnham’s radical localism alone won’t fix the UK economy
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】His speech hits the right political notes but fails to offer a clear roadmap for growth
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Burnham’s radical localism alone won’t fix the UK economy
+【发布时间】2026-06-29T17:17:46.000Z
+【链接】https://www.ft.com/content/4e749ab7-51e4-4acb-95a0-7e260f463b52
+
+------------------------------
+
+3. Supreme Court protects the Federal Reserve, but what about everybody else?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】While the central bank’s independence was upheld, other agencies were not so lucky
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Supreme Court protects the Federal Reserve, but what about everybody else?
+【发布时间】2026-06-29T17:07:55.000Z
+【链接】https://www.ft.com/content/b4c27cf9-f1f6-4709-b2b0-7c6df47531b1
+
+------------------------------
+
+4. Supreme Court blocks Trump from sacking Fed governor Cook
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Justices say president can fire top regulator in separate decision
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Supreme Court blocks Trump from sacking Fed governor Cook
+【发布时间】2026-06-29T16:27:24.000Z
+【链接】https://www.ft.com/content/84db4001-8c8c-4dfa-9c6f-b501c38bc2fb
+
+------------------------------
+
+5. Burnham vows to ‘rewire’ British state
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UK’s prime minister-in-waiting takes aim at centralisation and promises voters help on living costs
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Burnham vows to ‘rewire’ British state
+【发布时间】2026-06-29T16:24:00.000Z
+【链接】https://www.ft.com/content/10b1ec7e-a6f6-484b-81a9-214764797a3c
+
+------------------------------
+
+6. Ethiopia makes deal to cut payments on $1bn bond
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Bondholder agreement comes after $8bn of debt relief from official creditors in recent years
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Ethiopia makes deal to cut payments on $1bn bond
+【发布时间】2026-06-29T16:18:19.000Z
+【链接】https://www.ft.com/content/90770782-517e-4b23-aaae-4b5a20720878
