@@ -1,0 +1,20 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-29T20:18:45.931Z - 2026-06-29T22:18:45.931Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Trump Renews Threat to Fire Fed Governor Lisa Cook After Supreme Court Ruling
+
+==============================
+
+1. Trump Renews Threat to Fire Fed Governor Lisa Cook After Supreme Court Ruling
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】President Trump promised to “take appropriate action immediately” against Lisa Cook, the Fed governor he had tried to fire, even as the court affirmed that Fed officials can be fired only for cause.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump Renews Threat to Fire Fed Governor Lisa Cook After Supreme Court Ruling
+【发布时间】2026-06-29T21:21:08.000Z
+【链接】https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html
