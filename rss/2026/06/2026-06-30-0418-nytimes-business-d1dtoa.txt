@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-29T18:18:17.430Z - 2026-06-29T20:18:17.430Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Les Mills, Olympian Who Founded Fitness Chain, Dies at 91
+2. Comcast to Spin Off NBCUniversal, Ending a Long Union of Cable and Media
+
+==============================
+
+1. Les Mills, Olympian Who Founded Fitness Chain, Dies at 91
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A New Zealand Olympian, he started a small gym in Auckland that grew into a worldwide chain.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Les Mills, Olympian Who Founded Fitness Chain, Dies at 91
+【发布时间】2026-06-29T19:54:27.000Z
+【链接】https://www.nytimes.com/2026/06/29/world/les-mills-dead.html
+
+------------------------------
+
+2. Comcast to Spin Off NBCUniversal, Ending a Long Union of Cable and Media
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The media business, which owns NBC News and Universal Pictures, will be separated from Comcast’s cable and internet business, following a trend in the media industry.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Comcast to Spin Off NBCUniversal, Ending a Long Union of Cable and Media
+【发布时间】2026-06-29T18:19:53.000Z
+【链接】https://www.nytimes.com/2026/06/29/business/comcast-nbcuniversal-spinoff.html
