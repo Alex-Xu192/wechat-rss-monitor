@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-29T12:27:27.885Z - 2026-06-29T14:27:27.885Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 康威麦克斯计划将NBC环球spin off，结束了有线电视和媒体的长期合并
+2. 美国和伊朗讨论suspend Gulf Attacks的deal，石油价格上涨
+3. 康威麦克斯和NBC环球分手后可能进行的交易
+
+==============================
+
+1. 康威麦克斯计划将NBC环球spin off，结束了有线电视和媒体的长期合并
+【相关股票】Comcast、NBCUniversal
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】媒体业务（旗下拥有NBC新闻和环球影城）将从康威麦克斯的有线电视和互联网业务中分离出来，企图跟随媒体业的发展趋势。
+【依据】本文报道康威麦克斯正计划将NBC环球spin off，涉及媒体公司和有线电视业务的 restructure；NBC环球是康威麦克斯的子公司，没有单独的股票代码。
+【原标题】Comcast to Spin Off NBCUniversal, Ending a Long Union of Cable and Media
+【发布时间】2026-06-29T13:49:18.000Z
+【链接】https://www.nytimes.com/2026/06/29/business/comcast-nbcuniversal-spinoff.html
+
+------------------------------
+
+2. 美国和伊朗讨论suspend Gulf Attacks的deal，石油价格上涨
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】在美国官员表示美伊就停止在 Gulf shipping lane 的攻击达成协议后，石油价格上涨，人们希望局势不会 escalator。
+【依据】本文讨论石油价格和美伊政治关系，对具体公司或股票没有提及。
+【原标题】Oil Prices Rise as U.S. and Iran Discuss Deal to Suspend Gulf Attacks
+【发布时间】2026-06-29T13:45:15.000Z
+【链接】https://www.nytimes.com/2026/06/29/business/oil-gas-price-iran.html
+
+------------------------------
+
+3. 康威麦克斯和NBC环球分手后可能进行的交易
+【相关股票】Comcast、NBCUniversal
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】康威麦克斯表示计划将旗下大型媒体部门从核心宽带业务中分离，可能导致进行一些大型并购交易。
+【依据】继上一篇文章之后的分析，继续关注康威麦克斯和NBC环球的业务 restructure 及可能的交易活动。
+【原标题】Could Comcast and NBCUniversal Do Deals After They Break Up?
+【发布时间】2026-06-29T12:30:34.000Z
+【链接】https://www.nytimes.com/2026/06/29/business/dealbook/comcast-nbcuniversal-deals.html
