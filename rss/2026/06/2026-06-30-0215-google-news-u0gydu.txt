@@ -1,0 +1,72 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-29T16:15:49.414Z - 2026-06-29T18:15:49.414Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Supreme Court rules Trump cannot fire Fed member Lisa Cook; grants him more power over other independent agencies - NBC News
+2. Iran Latest: U.S. and Iranian officials to resume talks, Trump says, after clashes test ceasefire - CBS News
+3. JetBlue flight hits drone while landing at JFK: Officials - ABC News - Breaking News, Latest News and Videos
+4. Donald Trump hijacked America’s 250 and turned it into a ‘theatre of the absurd’ - The Guardian
+5. Senate Ethics panel dismisses misconduct complaint against Ruben Gallego - NBC News
+
+==============================
+
+1. Supreme Court rules Trump cannot fire Fed member Lisa Cook; grants him more power over other independent agencies - NBC News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Supreme Court rules Trump cannot fire Fed member Lisa Cook; grants him more power over other independent agencies  NBC News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Supreme Court rules Trump cannot fire Fed member Lisa Cook; grants him more power over other independent agencies - NBC News
+【发布时间】2026-06-29T17:25:29.000Z
+【链接】https://news.google.com/rss/articles/CBMixwFBVV95cUxOQW41WTNYTVhKaTFKREgtZHN2OUQ4WEhJaXctYWFaT3pma0E0clRULUtiMFQ0MEd6UFNzTFNnd0c2Qkkzd1dsRFBDWGM5S1hUcEZ2d3R2MXhsTWJaSG9Pc3llN04tNzVyc0pyLUEyOHdfT2JFZ1JjSk15NThuODRLbEsxanhIUGFRZ2V0cE9OSXJLdmpCODdmZWhlMzB5LU9Ob3RZZTBUNnRYNmJGamJmQzdDTjZSOExMdWJOM1oxSWNOTWFXMF9z?oc=5
+
+------------------------------
+
+2. Iran Latest: U.S. and Iranian officials to resume talks, Trump says, after clashes test ceasefire - CBS News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Iran Latest: U.S. and Iranian officials to resume talks, Trump says, after clashes test ceasefire  CBS News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Iran Latest: U.S. and Iranian officials to resume talks, Trump says, after clashes test ceasefire - CBS News
+【发布时间】2026-06-29T17:24:00.000Z
+【链接】https://news.google.com/rss/articles/CBMipwFBVV95cUxOVFNwUDZyaW5TYVZ1alBuV1FGWlcwUlZETlowb2czZ0RjdjJ1UHZ5UU5YRGszN1F3THlENG9KMkhTV2lVblU1Q2tUOVBnd0VjaUVrajZKQ3VoRzBaUnZlREZnd1hOZS1VOTVSd2JJQnBWT0x4Rm5HRjktRE9kRU5uWEx1OHR4eVRUWGxhOGpIZ1Vqa0lvR1U0dFFRUVVpUDBuRDJCTl9JQQ?oc=5
+
+------------------------------
+
+3. JetBlue flight hits drone while landing at JFK: Officials - ABC News - Breaking News, Latest News and Videos
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】JetBlue flight hits drone while landing at JFK: Officials  ABC News - Breaking News, Latest News and Videos
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】JetBlue flight hits drone while landing at JFK: Officials - ABC News - Breaking News, Latest News and Videos
+【发布时间】2026-06-29T16:43:44.000Z
+【链接】https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmM5cEFYeWNxb0RtQmIyMXcwTjQ2ZVdSWHdpZF9iYXdSQThyY3pQOTc5TTJNZ2tzRnNvT1drOUt1YmdlVzE0cXNQRU5fR3FsUmhYWGttZ29jSWFTZ0FVZE9SOEoycmtmQ2d3S09idE1CX3Y4cThZZ25WUDg3eEo0UGxKN0IxU0tiQ0RaWWJWdnQwNkXSAZgBQVVfeXFMTkFPRG1NLXNZM2NocHdrMzMydk5BRzhHM1JPbEZiWW04aHlSU2Y3OEY1dUJsUFhfeHNVdTRCMDZwQkhvR3NNemUzMllEWlE2UUdtaUVrSWZtR25aaUhKX1hES0hvOXFTNGVRNGg3aFFvdG1RUWE1emVfd3FYb2pDUXdOU1FlZjV5eVB1aVBOUEFvVzg3UThYUUo?oc=5
+
+------------------------------
+
+4. Donald Trump hijacked America’s 250 and turned it into a ‘theatre of the absurd’ - The Guardian
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Donald Trump hijacked America’s 250 and turned it into a ‘theatre of the absurd’  The Guardian
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Donald Trump hijacked America’s 250 and turned it into a ‘theatre of the absurd’ - The Guardian
+【发布时间】2026-06-29T16:38:00.000Z
+【链接】https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGI2bVBIOHI0NnJZczRFSUZnbGx4dlplaFRFNHhGTFZfeVVXclBYTWFxMnJjRkFHUnlldmNpZ3U2U3c1dGViTDVLVXpmS3lIVnFqd2lOQlhiU1FrSWV6X0JZRE0xbzB6U2pFN0IwT3FSWkpsR0VjTVNhZWowdE00XzczenFYVXY1cHFPVzNIR202XzJfTEp1ZWx3?oc=5
+
+------------------------------
+
+5. Senate Ethics panel dismisses misconduct complaint against Ruben Gallego - NBC News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Senate Ethics panel dismisses misconduct complaint against Ruben Gallego  NBC News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Senate Ethics panel dismisses misconduct complaint against Ruben Gallego - NBC News
+【发布时间】2026-06-29T16:30:12.000Z
+【链接】https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXJJTjE3RUd3QTQ0U0V6NWZ2ckdBMkVwV2xYbVBEaE8tTkd6azYwbWJTTDAzREw2cG9pZDhIUUVSOC1UYXBPYXdDTGU4bHkyWGJOWmY5OEYteDcwVFlVQ0gxWHlwQWVtQndGUHNhQkdfOTJWTEdqNC0temdXMUkxcHlEbEdTcW5GaloxcG1rSjFxZUl4THNlcmNRZ2hfeWVydmREVTE5dWUxVnU3N3FqRGZkNUZKV1U4?oc=5
