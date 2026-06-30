@@ -1,0 +1,85 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-30T04:14:49.260Z - 2026-06-30T06:14:49.260Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. Figuring out the Fed in the ‘say less’ era
+2. Scottish Power calls on regulator to securitise bad UK energy debts
+3. EU and China buy time to avoid trade fight as Brussels demands deficit cuts
+4. EU must choose which sectors to protect or face exodus, warns Covestro chief
+5. FirstFT: How Elliott spawned a new army of activists
+6. Analysts’ Views: hawkish Warsh fails to spur Fed rate rise predictions
+
+==============================
+
+1. Figuring out the Fed in the ‘say less’ era
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Plus, small-cap vulnerabilities
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Figuring out the Fed in the ‘say less’ era
+【发布时间】2026-06-30T05:30:05.000Z
+【链接】https://www.ft.com/content/3bf7ec7e-63e4-4fd6-b43c-15259c48f3ad
+
+------------------------------
+
+2. Scottish Power calls on regulator to securitise bad UK energy debts
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Household energy debts hit £4.8bn in the UK, adding more than £50 a year to the average bill
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Scottish Power calls on regulator to securitise bad UK energy debts
+【发布时间】2026-06-30T05:17:20.000Z
+【链接】https://www.ft.com/content/ae20ebe9-004b-40b2-8ab5-be985f3eae67
+
+------------------------------
+
+3. EU and China buy time to avoid trade fight as Brussels demands deficit cuts
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in this newsletter: Far-right petition pushes Meloni over mass deportation plan
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】EU and China buy time to avoid trade fight as Brussels demands deficit cuts
+【发布时间】2026-06-30T05:00:06.000Z
+【链接】https://www.ft.com/content/7a7aea1f-fbf8-4640-9a19-df545b00efb8
+
+------------------------------
+
+4. EU must choose which sectors to protect or face exodus, warns Covestro chief
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Comments come as Abu Dhabi-owned German group announces investments of up to €4bn in China and the UAE
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】EU must choose which sectors to protect or face exodus, warns Covestro chief
+【发布时间】2026-06-30T05:00:05.000Z
+【链接】https://www.ft.com/content/0b7f5f75-73aa-4330-906a-eb38e3ffca3f
+
+------------------------------
+
+5. FirstFT: How Elliott spawned a new army of activists
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in today’s newsletter: corporate AI users’ staff hires and Maersk raises profit guidance
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】FirstFT: How Elliott spawned a new army of activists
+【发布时间】2026-06-30T04:32:55.000Z
+【链接】https://www.ft.com/content/20cd94c4-9ffe-4068-84d4-c776e26cfcdc
+
+------------------------------
+
+6. Analysts’ Views: hawkish Warsh fails to spur Fed rate rise predictions
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Our June survey sees the Fed and Bank of England on hold with the ECB and Bank of Japan primed to raise again this year
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Analysts’ Views: hawkish Warsh fails to spur Fed rate rise predictions
+【发布时间】2026-06-30T04:30:05.000Z
+【链接】https://www.ft.com/content/e544b9d6-0d4a-46ae-a8bf-0d14ae6da9df
