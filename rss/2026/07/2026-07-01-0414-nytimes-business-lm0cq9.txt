@@ -1,0 +1,59 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-30T18:14:54.555Z - 2026-06-30T20:14:54.555Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. NPR 撤销错误声称Justice Alito将退休的报道
+2. 法院阻止五角大楼要求记者接受护送的规则
+3. 宝马将在南卡罗来纳州建造新型电动SUV
+4. 康卡斯特与 NBCUniversal 分拆激发并购猜测
+
+==============================
+
+1. NPR 撤销错误声称Justice Alito将退休的报道
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】该新闻机构迅速撤销了由 NPR 资深最高法院记者 Nina Totenberg 撰写的文章，并从其网站上删除。
+【依据】该新闻涉及媒体撤销错误报道，未提及任何上市公司或行业股票，无法判断股票影响。
+【原标题】NPR Retracts Article That Mistakenly Said Justice Alito Would Retire
+【发布时间】2026-06-30T19:33:54.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/media/npr-samuel-alito-nina-totenberg.html
+
+------------------------------
+
+2. 法院阻止五角大楼要求记者接受护送的规则
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】联邦法官临时阻止了一项新规，该规则限制记者进入五角大楼，此举由《纽约时报》发起的诉讼提出。
+【依据】该新闻涉及法院阻止五角大楼的记者护送规则，未提及任何公司或股票，无法判断股票影响。
+【原标题】Court Halts Pentagon Rule Requiring Escorts for Journalists
+【发布时间】2026-06-30T19:33:25.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/media/pentagon-journalists-escort-rule.html
+
+------------------------------
+
+3. 宝马将在南卡罗来纳州建造新型电动SUV
+【相关股票】BMW
+【利好股票】BMW
+【利空股票】无法判断
+【摘要】这家德国公司在其他汽车制造商因承认数十亿美元的损失而收缩之际，仍在加大对电动汽车的投入。
+【依据】新闻涉及宝马计划在南卡罗来纳州建造新型电动SUV，直接关联宝马股票，预计对其产生积极影响，但其他相关股票影响不明。
+【原标题】BMW Will Build a New Electric S.U.V. in South Carolina
+【发布时间】2026-06-30T18:39:03.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html
+
+------------------------------
+
+4. 康卡斯特与 NBCUniversal 分拆激发并购猜测
+【相关股票】CMCSA
+【利好股票】CMCSA
+【利空股票】无法判断
+【摘要】两家公司几乎同时宣布分拆后，分析师迅速考虑为每家公司寻找潜在的并购目标。
+【依据】新闻涉及康卡斯特与 NBCUniversal 分拆后的并购猜测，直接关联康卡斯特股票，预计可能产生积极影响，但具体负面影响不明。
+【原标题】Comcast, NBCUniversal Split Drives Deal-Making Speculation
+【发布时间】2026-06-30T18:18:51.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/media/comcast-nbcuniversal-merger-acquisition-charter-netflix.html
