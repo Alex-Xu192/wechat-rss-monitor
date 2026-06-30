@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-30T12:17:51.168Z - 2026-06-30T14:17:51.168Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Prominent Tech Founder in Indonesia Is Found Guilty in Corruption Case
+2. Oil Prices Tick Higher as Iran and U.S. Prepare for Talks
+3. Nursing Students and Others Get Higher Student Loan Limits
+
+==============================
+
+1. Prominent Tech Founder in Indonesia Is Found Guilty in Corruption Case
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The case against Nadiem Makarim, a co-founder of Gojek, has fueled concerns about judicial fairness in a nation where foreign investors were already growing wary.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Prominent Tech Founder in Indonesia Is Found Guilty in Corruption Case
+【发布时间】2026-06-30T14:14:09.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/indonesia-trial-nadiem-makarim.html
+
+------------------------------
+
+2. Oil Prices Tick Higher as Iran and U.S. Prepare for Talks
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Iran and the United States were set for further talks after a spurt of hostilities had underscored the uncertainty surrounding attempts to strike a lasting peace deal.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Oil Prices Tick Higher as Iran and U.S. Prepare for Talks
+【发布时间】2026-06-30T13:36:55.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html
+
+------------------------------
+
+3. Nursing Students and Others Get Higher Student Loan Limits
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A legal challenge to a law that takes effect this week has doubled the amount certain graduate students can borrow from the federal government to $50,000 per year.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Nursing Students and Others Get Higher Student Loan Limits
+【发布时间】2026-06-30T13:07:33.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/nursing-student-loan-caps.html
