@@ -1,0 +1,98 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-30T08:16:39.535Z - 2026-06-30T10:16:39.535Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. Tech founder gets 10-year prison sentence over Chromebook corruption case
+2. Comcast’s ‘amicable divorce’ is latest episode in Hollywood drama
+3. Keir Starmer unveils defence plan including £5bn for drones
+4. FirstFT: The great wealth transfer
+5. World Bank drops climate finance target under US pressure
+6. Local government is a mess. Here is what Andy Burnham must decide
+7. EU to increase steel tariffs on trading partners
+
+==============================
+
+1. Tech founder gets 10-year prison sentence over Chromebook corruption case
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Former Gojek chief Nadiem Makarim convicted in Indonesia in case closely watched by foreign investors
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Tech founder gets 10-year prison sentence over Chromebook corruption case
+【发布时间】2026-06-30T10:00:27.000Z
+【链接】https://www.ft.com/content/b002e0ec-5b05-4093-8bc7-3017693a1fc0
+
+------------------------------
+
+2. Comcast’s ‘amicable divorce’ is latest episode in Hollywood drama
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】NBCUniversal split sparks talk of future deals amid ongoing media and entertainment consolidation
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Comcast’s ‘amicable divorce’ is latest episode in Hollywood drama
+【发布时间】2026-06-30T10:00:05.000Z
+【链接】https://www.ft.com/content/b6c4e4db-b8f4-4ff3-bf85-71c8a8d032df
+
+------------------------------
+
+3. Keir Starmer unveils defence plan including £5bn for drones
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Long-delayed blueprint is unlikely to end military figures’ calls for more funding
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Keir Starmer unveils defence plan including £5bn for drones
+【发布时间】2026-06-30T09:58:40.000Z
+【链接】https://www.ft.com/content/95020bd5-a717-4fcf-97d4-c218e9f4d500
+
+------------------------------
+
+4. FirstFT: The great wealth transfer
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in today’s newsletter: corporate AI users’ staff hires and China’s ‘ghost cities’
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】FirstFT: The great wealth transfer
+【发布时间】2026-06-30T09:36:07.000Z
+【链接】https://www.ft.com/content/20cd94c4-9ffe-4068-84d4-c776e26cfcdc
+
+------------------------------
+
+5. World Bank drops climate finance target under US pressure
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Donor and client nations lobbied against concession to Trump administration’s ‘voodoo science’
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】World Bank drops climate finance target under US pressure
+【发布时间】2026-06-30T09:26:01.000Z
+【链接】https://www.ft.com/content/e025a4a1-7b24-4331-af03-70aa9a60e492
+
+------------------------------
+
+6. Local government is a mess. Here is what Andy Burnham must decide
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Prospective PM’s challenge will be getting his devolution proposals functioning by the next election
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Local government is a mess. Here is what Andy Burnham must decide
+【发布时间】2026-06-30T09:02:08.000Z
+【链接】https://www.ft.com/content/9caeda06-c042-4680-bbd0-20b91a9de104
+
+------------------------------
+
+7. EU to increase steel tariffs on trading partners
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Decision to slash duty-free quotas and double rate to 50% follows similar moves by the UK, US and Canada
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】EU to increase steel tariffs on trading partners
+【发布时间】2026-06-30T08:55:03.000Z
+【链接】https://www.ft.com/content/f7cc6193-7587-4ee1-8648-27ec0612cefa
