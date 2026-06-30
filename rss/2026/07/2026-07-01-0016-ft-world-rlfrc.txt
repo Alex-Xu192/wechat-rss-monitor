@@ -1,0 +1,111 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-30T14:16:42.468Z - 2026-06-30T16:16:42.468Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. US Supreme Court rejects Trump’s bid to end birthright citizenship
+2. Starmer’s £15bn defence plan leaves short-term gaps, say former officers
+3. Shetland Islands to be connected by tunnels to try to boost growth
+4. UK weighs intervention in Paramount’s $111bn Warner Bros takeover
+5. US labour demand remained firm in May
+6. German leftwing terrorism on the rise, spy agency warns
+7. Britain has an Oxbridge innovation problem
+8. Dressing for a warming world at Paris Men’s Fashion Week
+
+==============================
+
+1. US Supreme Court rejects Trump’s bid to end birthright citizenship
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ruling is major blow to president’s immigration agenda
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】US Supreme Court rejects Trump’s bid to end birthright citizenship
+【发布时间】2026-06-30T16:09:06.000Z
+【链接】https://www.ft.com/content/8ee00f84-762c-48a5-ac21-774e216977fa
+
+------------------------------
+
+2. Starmer’s £15bn defence plan leaves short-term gaps, say former officers
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UK’s large military investments are aimed at countering China, but questions remain about ability to withstand Russian threat
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Starmer’s £15bn defence plan leaves short-term gaps, say former officers
+【发布时间】2026-06-30T15:58:01.000Z
+【链接】https://www.ft.com/content/de59198a-767c-436c-a5af-48c3b3c0c1ec
+
+------------------------------
+
+3. Shetland Islands to be connected by tunnels to try to boost growth
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The four road links will eventually replace ageing ferry fleets
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Shetland Islands to be connected by tunnels to try to boost growth
+【发布时间】2026-06-30T15:40:08.000Z
+【链接】https://www.ft.com/content/fb72b806-b681-47fa-8432-b9e3ea178af2
+
+------------------------------
+
+4. UK weighs intervention in Paramount’s $111bn Warner Bros takeover
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Any regulatory referral on plurality grounds could delay or halt proceedings
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】UK weighs intervention in Paramount’s $111bn Warner Bros takeover
+【发布时间】2026-06-30T15:34:42.000Z
+【链接】https://www.ft.com/content/a3956609-e4e3-4734-a1b4-76b484656299
+
+------------------------------
+
+5. US labour demand remained firm in May
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Latest Jolts survey reinforces narratives of robust labour market
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】US labour demand remained firm in May
+【发布时间】2026-06-30T15:13:22.000Z
+【链接】https://www.ft.com/content/c0992852-b7f1-4f09-aef7-b630cd0dc61d
+
+------------------------------
+
+6. German leftwing terrorism on the rise, spy agency warns
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Increase in violent incidents comes in response to far-right extremism and Israeli actions in Middle East
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】German leftwing terrorism on the rise, spy agency warns
+【发布时间】2026-06-30T14:53:33.000Z
+【链接】https://www.ft.com/content/889dc40d-3a70-469e-a7f5-cacb43854eeb
+
+------------------------------
+
+7. Britain has an Oxbridge innovation problem
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Universities challenged
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Britain has an Oxbridge innovation problem
+【发布时间】2026-06-30T14:22:30.000Z
+【链接】https://www.ft.com/content/0180de36-7bae-4521-bcd4-aefb36cb882f
+
+------------------------------
+
+8. Dressing for a warming world at Paris Men’s Fashion Week
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】As a brutal heatwave broke French records, designers offered ideas on how to look cool — with mixed degrees of success
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Dressing for a warming world at Paris Men’s Fashion Week
+【发布时间】2026-06-30T14:21:47.000Z
+【链接】https://www.ft.com/content/8add6dce-b468-458b-a5c1-5287b16d354a
