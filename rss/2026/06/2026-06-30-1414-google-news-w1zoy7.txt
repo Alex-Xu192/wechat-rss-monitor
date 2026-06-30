@@ -1,0 +1,33 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-30T04:14:27.234Z - 2026-06-30T06:14:27.234Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Pope invites new Archbishops to be 'Good Shepherds' on Feast of Saints Peter and Paul - Vatican News
+2. Alaska Supreme Court allows namesake challenger to U.S. Sen. Dan Sullivan to appear on the ballot - Anchorage Daily News
+
+==============================
+
+1. Pope invites new Archbishops to be 'Good Shepherds' on Feast of Saints Peter and Paul - Vatican News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Pope invites new Archbishops to be 'Good Shepherds' on Feast of Saints Peter and Paul  Vatican News
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Pope invites new Archbishops to be 'Good Shepherds' on Feast of Saints Peter and Paul - Vatican News
+【发布时间】2026-06-30T06:05:36.000Z
+【链接】https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbEtZM254SjRoVzM2c2Rpd3oya09hMTVDQTU4eFo5TGtaVGl5b2hvck51cVhvSzN2SjFBdGVSRzVtSG1DWGZpa2xRRTZRdmNOVnZ4VlZOY0RKUnhpbER2Y2pkUXdBTFVoUzd4Mldvc3FqSGU2Tk4zTEtDcjlMZ1g5RFlpdHgtbUtvQjVOWVdqc1ZqUWZCU3RpZUF6UUpIN1gwR1k4dDRvWTZTb1NJaE1iYU9Lb2lmZEZZ?oc=5
+
+------------------------------
+
+2. Alaska Supreme Court allows namesake challenger to U.S. Sen. Dan Sullivan to appear on the ballot - Anchorage Daily News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Alaska Supreme Court allows namesake challenger to U.S. Sen. Dan Sullivan to appear on the ballot  Anchorage Daily News
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Alaska Supreme Court allows namesake challenger to U.S. Sen. Dan Sullivan to appear on the ballot - Anchorage Daily News
+【发布时间】2026-06-30T04:44:11.000Z
+【链接】https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbkNOTHdRM0pTN0xuNzBpNnh0Nm9jTWZ0RkFXOHEtN2x4TmxtREU4ODJnSk5QZDJhdkpiMDZLNnlxUEtyVnVmbURaVXdreGZGYkZrNDRrWWMxVHQ2TE1sVFBwREhXNXUyZXBYRkRacnRlNDRHSUJHWDZmOHozekRPR2ItTnNRNFVVQkE5OV9Zb2dodzRwZEZwR0paaUQ4X2ktRTE5NXZORU9fOXVudldzcHJmdkowLURRU0pHUk5ZejZMS1JSdEc1Wjg1TUdNM2JFQ2lz?oc=5
