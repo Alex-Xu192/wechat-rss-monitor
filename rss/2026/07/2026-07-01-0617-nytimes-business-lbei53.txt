@@ -1,0 +1,85 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-30T20:17:57.697Z - 2026-06-30T22:17:57.697Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. NPR Retracts Article That Mistakenly Said Justice Alito Would Retire
+2. BMW Will Build a New Electric S.U.V. in South Carolina
+3. Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It
+4. How Grindr’s C.E.O. Adopted A.I.: ‘I Just Imposed It’
+5. Stocks Notch Strongest Quarter Since 2020
+6. Court Halts Pentagon Rule Requiring Escorts for Journalists
+
+==============================
+
+1. NPR Retracts Article That Mistakenly Said Justice Alito Would Retire
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The news outlet quickly removed the article, which was written by NPR’s seasoned Supreme Court reporter, Nina Totenberg, from its website.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】NPR Retracts Article That Mistakenly Said Justice Alito Would Retire
+【发布时间】2026-06-30T22:10:23.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/media/npr-samuel-alito-nina-totenberg.html
+
+------------------------------
+
+2. BMW Will Build a New Electric S.U.V. in South Carolina
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The German company is doubling down on electric vehicles even as other automakers pull back after acknowledging billions of dollars in losses.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】BMW Will Build a New Electric S.U.V. in South Carolina
+【发布时间】2026-06-30T21:49:51.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html
+
+------------------------------
+
+3. Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Neon purchased “Artificial,” which focuses on OpenAI’s chief, Sam Altman, after Amazon walked away from it following an investment in the start-up.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It
+【发布时间】2026-06-30T21:48:29.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/media/openai-movie-artificial-neon-amazon.html
+
+------------------------------
+
+4. How Grindr’s C.E.O. Adopted A.I.: ‘I Just Imposed It’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】George Arison, the gay dating app’s chief executive, is aiming for all code to be eventually written by artificial intelligence, making the company “leaner.”
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】How Grindr’s C.E.O. Adopted A.I.: ‘I Just Imposed It’
+【发布时间】2026-06-30T21:32:55.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/grindr-ceo-george-arison-ai.html
+
+------------------------------
+
+5. Stocks Notch Strongest Quarter Since 2020
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The S&P 500 rose almost 15 percent for the three months through June, and many stock analysts remain optimistic that corporate earnings driven by artificial intelligence will keep growing.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Stocks Notch Strongest Quarter Since 2020
+【发布时间】2026-06-30T20:45:51.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html
+
+------------------------------
+
+6. Court Halts Pentagon Rule Requiring Escorts for Journalists
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A federal judge temporarily blocked a new rule that restricted reporters’ access to the Pentagon, in a lawsuit brought by The New York Times.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Court Halts Pentagon Rule Requiring Escorts for Journalists
+【发布时间】2026-06-30T20:33:45.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/media/pentagon-journalists-escort-rule.html
