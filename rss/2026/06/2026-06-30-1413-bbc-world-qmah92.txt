@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-06-30T04:13:59.652Z - 2026-06-30T06:13:59.652Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Three people injured after explosion in Monaco
+2. Aftershock frays nerves as many Venezuelans left to fend for themselves
+
+==============================
+
+1. Three people injured after explosion in Monaco
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The blast at a residential building was "very likely an attack", Monaco's head of government tells AFP.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Three people injured after explosion in Monaco
+【发布时间】2026-06-30T05:12:26.000Z
+【链接】https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Aftershock frays nerves as many Venezuelans left to fend for themselves
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Aftershock frays nerves as many Venezuelans left to fend for themselves
+【发布时间】2026-06-30T04:21:58.000Z
+【链接】https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss
