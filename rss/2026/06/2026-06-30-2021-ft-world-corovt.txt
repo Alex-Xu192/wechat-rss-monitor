@@ -1,0 +1,59 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-06-30T10:21:53.958Z - 2026-06-30T12:21:53.958Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. EU to increase steel tariffs on trading partners
+2. Trump, the Fed and footnote 8 in the Lisa Cook case
+3. Starmer says some road and energy projects will be scrapped to fund £15bn defence plan
+4. America’s stillborn 250th birthday
+
+==============================
+
+1. EU to increase steel tariffs on trading partners
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Decision to slash duty-free quotas and double rate to 50% follows similar moves by the UK, US and Canada
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】EU to increase steel tariffs on trading partners
+【发布时间】2026-06-30T11:40:19.000Z
+【链接】https://www.ft.com/content/f7cc6193-7587-4ee1-8648-27ec0612cefa
+
+------------------------------
+
+2. Trump, the Fed and footnote 8 in the Lisa Cook case
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The US president lost round one, but can fire her again if he thinks he has cause
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump, the Fed and footnote 8 in the Lisa Cook case
+【发布时间】2026-06-30T11:30:02.000Z
+【链接】https://www.ft.com/content/c642640d-b9c2-4f7a-a5b3-1d6a35be7259
+
+------------------------------
+
+3. Starmer says some road and energy projects will be scrapped to fund £15bn defence plan
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Publication of long-delayed blueprint is unlikely to end military figures’ calls for more funding
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Starmer says some road and energy projects will be scrapped to fund £15bn defence plan
+【发布时间】2026-06-30T10:47:41.000Z
+【链接】https://www.ft.com/content/95020bd5-a717-4fcf-97d4-c218e9f4d500
+
+------------------------------
+
+4. America’s stillborn 250th birthday
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】An event that was meant to celebrate an exceptional nation has been cornered by one man
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】America’s stillborn 250th birthday
+【发布时间】2026-06-30T10:31:27.000Z
+【链接】https://www.ft.com/content/1278f6d8-7e56-40c2-a255-0798ba96e360
