@@ -1,0 +1,33 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-06-30T08:19:34.516Z - 2026-06-30T10:19:34.516Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. The end of the AArch64 desktop experiment
+2. The Old Computer Challenge
+
+==============================
+
+1. The end of the AArch64 desktop experiment
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】After about eleven months using an AArch64 desktop, Marcin Juszkiewicz wraps up the experiment and explains why he is returning to x86-64 for daily desktop use. He describes the Ampere Altra setup, the kernel patches needed to keep an AMD GPU working, the later GPU failures, and the eventual move back to a system where desktop apps, games, FreeCAD, and OrcaSlicer run reliably. [marcin.juszkiewicz.com.pl]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The end of the AArch64 desktop experiment
+【发布时间】2026-06-30T09:00:08.000Z
+【链接】https://flipso.com/p/7bdi5k0f6?ref=rss
+
+------------------------------
+
+2. The Old Computer Challenge
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】History of the Old Computer Challenge [occ.sdf.org]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The Old Computer Challenge
+【发布时间】2026-06-30T08:40:10.000Z
+【链接】https://flipso.com/p/uju5ns9ty?ref=rss
