@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-06-30T06:15:08.496Z - 2026-06-30T08:15:08.496Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Stock futures inch higher after the Dow posts new record close: Live updates - CNBC
+2. Saibari's shootout winner sends Morocco past the Netherlands, earliest World Cup exit for the Dutch - AP News
+3. Explosion in Monaco injures 3 including Ukrainian tycoon, and suspected attacker flees to France - AP News
+
+==============================
+
+1. Stock futures inch higher after the Dow posts new record close: Live updates - CNBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock futures inch higher after the Dow posts new record close: Live updates  CNBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Stock futures inch higher after the Dow posts new record close: Live updates - CNBC
+【发布时间】2026-06-30T06:53:00.000Z
+【链接】https://news.google.com/rss/articles/CBMid0FVX3lxTE9CM1dGdkpCSmFKeGFienZ2WDdlRDNrU3NuVTU1Sy03UVpYTFFNM3FpbjVqQ3c4amxIWUJiWkhDU0dVcjZkMk5VQW05bXZVanptT1dDUV82dENhdEl5cDM5T2RxYWlsbW0zamZIWXNhV0phU19RTE5B0gF8QVVfeXFMTnhTYUJ4MVBFanRjSUVBMS1KUm9GWTFGelpUdTVQb0RtTmwxaDVLOXVqR3ZwNE50RUxtWnZXVnJ5d3BfejdtVktGR3VhM3FGUndHNTBfcUNCcGVPTlZnUmRJc2RORjc0TEVSV1NPdDlXQjdkMDVpRFRndm9GTQ?oc=5
+
+------------------------------
+
+2. Saibari's shootout winner sends Morocco past the Netherlands, earliest World Cup exit for the Dutch - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Saibari's shootout winner sends Morocco past the Netherlands, earliest World Cup exit for the Dutch  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Saibari's shootout winner sends Morocco past the Netherlands, earliest World Cup exit for the Dutch - AP News
+【发布时间】2026-06-30T06:47:00.000Z
+【链接】https://news.google.com/rss/articles/CBMimwFBVV95cUxQOF8wdk5UMmR1MGNFTGVCVjlOXzgtdVIxU0w1dE85dHdnM2RNQ0FSSGlUdXlmYzcwMU5rWHJHS0pIVjlRQjdDQkZHUUMxN0ZxUEx4TDZLcXJQUXJ1MWNzdlMwT2JHdXFjTjBIb09pajdMNXh3R2s0V2UwU0lKVFcwcVVxcERnTGRTQkxoV0tRLWV2MUdkQnFXZnRBdw?oc=5
+
+------------------------------
+
+3. Explosion in Monaco injures 3 including Ukrainian tycoon, and suspected attacker flees to France - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Explosion in Monaco injures 3 including Ukrainian tycoon, and suspected attacker flees to France  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Explosion in Monaco injures 3 including Ukrainian tycoon, and suspected attacker flees to France - AP News
+【发布时间】2026-06-30T06:23:00.000Z
+【链接】https://news.google.com/rss/articles/CBMimAFBVV95cUxNRkFtOEk3cmZwQUNRT2MxT0ctUDB3Z1JKSWhCQmtGd2tjdjdHb0J6b0U3aEdORlZ5TERrYjRpTDljVFMyTUkxTVpjelJQWk02dUViem1TMzJOQnVQSm5VdVM2eG5Qbkp1alNneHlTWExCVDkzamhGUFVaRmVETlBoOUlPY0JMUWl6Qk5pYXh1LV9VRWhUTlZ1ZA?oc=5
