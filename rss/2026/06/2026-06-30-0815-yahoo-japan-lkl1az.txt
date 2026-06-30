@@ -1,0 +1,111 @@
+Yahoo Japan - 中文结构化新闻汇总
+
+【来源】Yahoo Japan
+【时间】2026-06-29T22:15:56.487Z - 2026-06-30T00:15:56.487Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. 後半に底力 ブラジル監督は安堵
+2. コナズ珈琲運営 新業態で出店の訳
+3. マイクロソフト株下落 AI巡り逆風
+4. 脱線で見合わせの近鉄京都線 再開
+5. 不適切な盛り土358カ所 読売調査
+6. 田中碧が涙 取材応じず会場を後に
+7. ベネズエラ 地震の死者1700人超
+8. W杯敗退 森保監督「すみません」
+
+==============================
+
+1. 後半に底力 ブラジル監督は安堵
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】後半に底力 ブラジル監督は安堵
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】後半に底力 ブラジル監督は安堵
+【发布时间】2026-06-30T00:07:09.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586192?source=rss
+
+------------------------------
+
+2. コナズ珈琲運営 新業態で出店の訳
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】コナズ珈琲運営 新業態で出店の訳
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】コナズ珈琲運営 新業態で出店の訳
+【发布时间】2026-06-29T23:46:57.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586190?source=rss
+
+------------------------------
+
+3. マイクロソフト株下落 AI巡り逆風
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】マイクロソフト株下落 AI巡り逆風
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】マイクロソフト株下落 AI巡り逆風
+【发布时间】2026-06-29T23:38:23.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586188?source=rss
+
+------------------------------
+
+4. 脱線で見合わせの近鉄京都線 再開
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】脱線で見合わせの近鉄京都線 再開
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】脱線で見合わせの近鉄京都線 再開
+【发布时间】2026-06-29T23:19:33.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586187?source=rss
+
+------------------------------
+
+5. 不適切な盛り土358カ所 読売調査
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】不適切な盛り土358カ所 読売調査
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】不適切な盛り土358カ所 読売調査
+【发布时间】2026-06-29T23:08:01.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586186?source=rss
+
+------------------------------
+
+6. 田中碧が涙 取材応じず会場を後に
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】田中碧が涙 取材応じず会場を後に
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】田中碧が涙 取材応じず会場を後に
+【发布时间】2026-06-29T22:43:05.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586183?source=rss
+
+------------------------------
+
+7. ベネズエラ 地震の死者1700人超
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】ベネズエラ 地震の死者1700人超
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】ベネズエラ 地震の死者1700人超
+【发布时间】2026-06-29T22:42:54.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586181?source=rss
+
+------------------------------
+
+8. W杯敗退 森保監督「すみません」
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】W杯敗退 森保監督「すみません」
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】W杯敗退 森保監督「すみません」
+【发布时间】2026-06-29T22:30:02.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586180?source=rss
