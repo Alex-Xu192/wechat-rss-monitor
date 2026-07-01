@@ -1,0 +1,46 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-01T00:14:47.106Z - 2026-07-01T02:14:47.106Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 特朗普在回任总统的第一年内通过加密货币赚取逾10亿美元
+2. Anthropic称美国解除其先进AI工具的出口禁令
+3. 澳洲起诉亚马逊涉嫌与订阅者签订不公平合同
+
+==============================
+
+1. 特朗普在回任总统的第一年内通过加密货币赚取逾10亿美元
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】总统通过房地产、特朗普主题圣经、手表及其他商品赚取数百万美元。
+【依据】此新闻涉及特朗普个人通过加密货币及其他商业活动收入，但未提及特定上市公司或股票代码，因此无法判断具体相关股票。
+【原标题】Trump made more than $1bn from crypto in first year back in office
+【发布时间】2026-07-01T01:45:58.000Z
+【链接】https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Anthropic称美国解除其先进AI工具的出口禁令
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Fable和Mythos于六月突然被暂停，原因是担心这些工具可能被黑客使用。
+【依据】此新闻涉及AI公司Anthropic的政策变更，但未具体提及相关上市公司股票代码，因此无法判断具体相关股票。
+【原标题】Anthropic says US lifts export ban on its advanced AI tools
+【发布时间】2026-07-01T01:13:36.000Z
+【链接】https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. 澳洲起诉亚马逊涉嫌与订阅者签订不公平合同
+【相关股票】AMZN
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】澳洲竞 competition and Consumer Commission (ACCC) 称亚马逑破坏消费者保护法。
+【依据】此新闻直接提及亚马逊公司和澳洲竞争消费者委员会的合同问题，属于消费者保护和监管风险，可能对股价产生不确定影响，但无法确定具体的正负面影响。
+【原标题】Australia sues Amazon for making allegedly unfair contracts with subscribers
+【发布时间】2026-07-01T01:04:16.000Z
+【链接】https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss
