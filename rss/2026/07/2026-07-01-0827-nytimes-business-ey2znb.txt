@@ -1,0 +1,59 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-06-30T22:27:41.838Z - 2026-07-01T00:27:41.838Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. NPR Retracts Article That Mistakenly Said Justice Alito Would Retire
+2. Trump Pulled in at Least $2.2 Billion in 2025, Financial Disclosure Shows
+3. During Traffic Stop, N.F.L. Reporter Appeared to Show Off Her Access
+4. Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It
+
+==============================
+
+1. NPR Retracts Article That Mistakenly Said Justice Alito Would Retire
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】新闻机构迅速撤回了一篇错误报道，称最高法院法官阿利托将退休，该文章由NPR资深最高法院记者尼娜·托特本格撰写并已从其网站上删除。
+【依据】新闻涉及NPR和最高法院法官Alito，但未提及任何公司或股票，无法判断股票关联。
+【原标题】NPR Retracts Article That Mistakenly Said Justice Alito Would Retire
+【发布时间】2026-07-01T00:22:04.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/media/npr-samuel-alito-nina-totenberg.html
+
+------------------------------
+
+2. Trump Pulled in at Least $2.2 Billion in 2025, Financial Disclosure Shows
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】2026 年 5 月公布的强制性 2025 年财务披露显示，特朗普家族资产，尤其是该国总统的加密业务，收入惊人，至少 22 亿美元。
+【依据】文章只提及特朗普家族及其加密业务的盈利，没有具体公司名称或股票信息，无法判断股票关联。
+【原标题】Trump Pulled in at Least $2.2 Billion in 2025, Financial Disclosure Shows
+【发布时间】2026-07-01T00:17:27.000Z
+【链接】https://www.nytimes.com/2026/06/30/us/politics/trump-financial-disclosure-crypto-windfall.html
+
+------------------------------
+
+3. During Traffic Stop, N.F.L. Reporter Appeared to Show Off Her Access
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】一段随身摄像机录像显示，前纽约体育报道员Dianna Russini与一名警官聊天，试图逃避罚单。
+【依据】新闻聚焦个人报道行为，未提及任何商业实体或股票，故无法判断。
+【原标题】During Traffic Stop, N.F.L. Reporter Appeared to Show Off Her Access
+【发布时间】2026-06-30T23:56:54.000Z
+【链接】https://www.nytimes.com/2026/06/30/nyregion/dianna-russini-video-police.html
+
+------------------------------
+
+4. Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】影片《Artificial》关注OpenAI首席Sam Altman，Neon已购得该片权，亚马逊此前已放弃此项目。
+【依据】文章讨论Neon电影公司购买电影权利，涉及OpenAI等对象，但未给出股票代码或具体股价信息，因此无法判断。
+【原标题】Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It
+【发布时间】2026-06-30T23:02:46.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/media/openai-movie-artificial-neon-amazon.html
