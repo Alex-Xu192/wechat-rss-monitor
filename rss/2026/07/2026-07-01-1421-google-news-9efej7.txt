@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-01T04:21:27.511Z - 2026-07-01T06:21:27.511Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. How Elle Woods' Origin Story in Elle Differs From Legally Blonde - Yahoo
+2. Gemini Spark Comes To Google's Gemini App For macOS - Engadget
+3. Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures - The Washington Post
+
+==============================
+
+1. How Elle Woods' Origin Story in Elle Differs From Legally Blonde - Yahoo
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】How Elle Woods' Origin Story in Elle Differs From Legally Blonde  Yahoo
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】How Elle Woods' Origin Story in Elle Differs From Legally Blonde - Yahoo
+【发布时间】2026-07-01T04:30:00.000Z
+【链接】https://news.google.com/rss/articles/CBMilgFBVV95cUxOXzRJTy1OeVRhN2dnUTBJU0VBbm94UzBCRElvTDM5a1RTMmtkSUVXejZEWGxHZ3o4N2lwNWNXQ3FIdVdvNlpRNXQyZ3FncXZBNTJESFlsUXBOTEhFODNYQThyVy1kUWVmejlXeTA3Q0F5NF9VSFRtTTh3UTFCUXB0SlBVVFhOUmd1VjZ1cGRQQXhvdHhpV2c?oc=5
+
+------------------------------
+
+2. Gemini Spark Comes To Google's Gemini App For macOS - Engadget
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Gemini Spark Comes To Google's Gemini App For macOS  Engadget
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Gemini Spark Comes To Google's Gemini App For macOS - Engadget
+【发布时间】2026-07-01T04:29:00.000Z
+【链接】https://news.google.com/rss/articles/CBMicEFVX3lxTE5QeWIwX0ZRckpRVTN3UkMyRklQNjVMalZwcmtHb1B5QWIwX0lyZ1NHQURTSlBaMm0tOEFmaUdsbTRuYkRVWkNMQzdsamlTNXp0VmZKd1dubFZUbi1ScVpVbzJRLUJsWkw4cE1mMHA4ZDc?oc=5
+
+------------------------------
+
+3. Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures - The Washington Post
+【发布时间】2026-07-01T04:24:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiugFBVV95cUxQVG1ucDZ5Y295WG44SXZDbzVSb1UtSVJCQ2pXcEMxZWtTc1ZsR2JodlRKdENuUDdkUE5GbE1ZTFVDQ0VRU1hkclJaYkVKM202TVktdWt1dmQ3WTNoT0VwSlZ1LUZCQURHZThTUERwbkVOQThVblhKOHNqcjVBQkV3bmdGRzFmNmloQTNRVnViTWg4NDcxRmdYSHlNSlp4UFZJeDNJWUxLbnN1RDVVZE4wOE5Fa212NUpkbnc?oc=5
