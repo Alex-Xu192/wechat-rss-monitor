@@ -1,0 +1,72 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-01T16:22:32.242Z - 2026-07-01T18:22:32.242Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Supreme Court checks Trump, but empowers the presidency
+2. Zelenskyy urges EU to sanction Russian-owned alumina plant in Ireland
+3. Millennium and Point72 gain as hedge funds rebound from Iran war
+4. Shares in Uber-backed Lime surge after it raised $167mn in IPO
+5. US voters support Trump trade deal with Canada and Mexico, survey finds
+
+==============================
+
+1. Supreme Court checks Trump, but empowers the presidency
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Despite losses on tariffs and birthright citizenship, the executive has emerged stronger
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Supreme Court checks Trump, but empowers the presidency
+【发布时间】2026-07-01T17:40:29.000Z
+【链接】https://www.ft.com/content/5627d320-920b-4527-8b52-71f7d182d968
+
+------------------------------
+
+2. Zelenskyy urges EU to sanction Russian-owned alumina plant in Ireland
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Call on the opening day of Dublin’s EU presidency adds to pressure over Aughinish Alumina smelter
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Zelenskyy urges EU to sanction Russian-owned alumina plant in Ireland
+【发布时间】2026-07-01T17:10:35.000Z
+【链接】https://www.ft.com/content/0c4f7c99-61d9-4be9-a842-10295699cc8e
+
+------------------------------
+
+3. Millennium and Point72 gain as hedge funds rebound from Iran war
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Izzy Englander and Steve Cohen’s firms post double-digit returns in first half of year
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Millennium and Point72 gain as hedge funds rebound from Iran war
+【发布时间】2026-07-01T16:57:00.000Z
+【链接】https://www.ft.com/content/c223f704-57c7-4962-9b4e-a30496aee6fa
+
+------------------------------
+
+4. Shares in Uber-backed Lime surge after it raised $167mn in IPO
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Bike and scooter group’s shares were initially priced at $25 in deal underwritten by Goldman Sachs, JPMorgan and Jefferies
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Shares in Uber-backed Lime surge after it raised $167mn in IPO
+【发布时间】2026-07-01T16:46:24.000Z
+【链接】https://www.ft.com/content/5d9eee57-f08c-4b28-a9d5-57578fbc1f8f
+
+------------------------------
+
+5. US voters support Trump trade deal with Canada and Mexico, survey finds
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】New poll finds bipartisan backing for USMCA even as president seeks to renegotiate its terms
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US voters support Trump trade deal with Canada and Mexico, survey finds
+【发布时间】2026-07-01T16:32:19.000Z
+【链接】https://www.ft.com/content/2c7b4dc8-1b1c-49f4-b51a-0dee0c1d216a
