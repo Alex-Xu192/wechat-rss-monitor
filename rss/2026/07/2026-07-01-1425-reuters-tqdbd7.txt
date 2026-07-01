@@ -1,0 +1,20 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-01T04:25:30.011Z - 2026-07-01T06:25:30.011Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Deriving the SVD from scratch
+
+==============================
+
+1. Deriving the SVD from scratch
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A step-by-step derivation of the singular value decomposition from linear maps, using orthonormal input and output directions, the spectral theorem for AᵀA, and the geometry of rank, kernel, and image. [stillthinking.net]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Deriving the SVD from scratch
+【发布时间】2026-07-01T05:20:08.000Z
+【链接】https://flipso.com/p/tkmq33w0h?ref=rss
