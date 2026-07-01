@@ -1,0 +1,46 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-01T12:20:10.579Z - 2026-07-01T14:20:10.579Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Why I Stopped Arguing With People
+2. Frog-Derived Gut Bacterium Eradicates Tumors in Mice in a Preclinical Study
+3. A Home Battery Revolution Is Reshaping the Power Grid
+
+==============================
+
+1. Why I Stopped Arguing With People
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A software engineer reflects on why winning arguments rarely changes minds, how ego turns many disagreements into fights, and why it’s often better to wait until someone asks for help. The piece argues that real progress comes from building, learning, and changing yourself rather than trying to force others to agree. [wangcong.org]
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Why I Stopped Arguing With People
+【发布时间】2026-07-01T13:40:09.000Z
+【链接】https://flipso.com/p/5q6hqrtr8?ref=rss
+
+------------------------------
+
+2. Frog-Derived Gut Bacterium Eradicates Tumors in Mice in a Preclinical Study
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A peer-reviewed mouse study reported that Ewingella americana, isolated from amphibian and reptile gut microbiomes, eliminated colorectal tumors after a single intravenous dose and showed no detectable toxicity in that model. The findings are preclinical and still need validation in humans. [thefocalpoints.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Frog-Derived Gut Bacterium Eradicates Tumors in Mice in a Preclinical Study
+【发布时间】2026-07-01T12:40:09.000Z
+【链接】https://flipso.com/p/6dgtcsdsh?ref=rss
+
+------------------------------
+
+3. A Home Battery Revolution Is Reshaping the Power Grid
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Residential batteries are getting cheaper, smaller, and more capable, and utilities are increasingly bundling them into virtual power plants to help balance the grid. In places like Australia, California, and Puerto Rico, homeowners can be paid to let stored solar power flow back when demand spikes, reducing the need for gas peaker plants and new grid infrastructure. [e360.yale.edu]
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】A Home Battery Revolution Is Reshaping the Power Grid
+【发布时间】2026-07-01T12:20:24.000Z
+【链接】https://flipso.com/p/h7xat73bo?ref=rss
