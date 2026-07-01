@@ -1,0 +1,46 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-01T18:15:05.907Z - 2026-07-01T20:15:05.907Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. The Extremist in the Family
+2. AI Fiction in the Wild
+3. How smashing the NIMBYs created modern capitalism
+
+==============================
+
+1. The Extremist in the Family
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A devoted Michigan family is fractured when Rachel Piland embraces an extreme Pentecostal faith that rejects modern medicine, forcing her parents and siblings to confront what that means for her children. [magazine.atavist.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The Extremist in the Family
+【发布时间】2026-07-01T19:40:23.000Z
+【链接】https://flipso.com/p/8925qtgp8?ref=rss
+
+------------------------------
+
+2. AI Fiction in the Wild
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Using over 500,000 anonymized ChatGPT conversations, the paper finds that more than one third involve fiction generation, including original stories, roleplay, fanfiction, and erotica. It identifies recurring user patterns, especially heavy repeat users who keep asking for variations of the same narratives, and argues that AI may be changing the relationship between reading and writing. [arxiv.org]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】AI Fiction in the Wild
+【发布时间】2026-07-01T19:20:11.000Z
+【链接】https://flipso.com/p/b5zcxxd7e?ref=rss
+
+------------------------------
+
+3. How smashing the NIMBYs created modern capitalism
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Works in Progress issue 24, featuring essays on the Glorious Revolution, plate tectonics, nuclear regulation, land reclamation, data centers, wildlife vaccination, Alberta’s rat-free status, Vancouver zoning, and Edo’s role in keeping Japan peaceful. [worksinprogress.news]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】How smashing the NIMBYs created modern capitalism
+【发布时间】2026-07-01T18:40:30.000Z
+【链接】https://flipso.com/p/jpyu7bac3?ref=rss
