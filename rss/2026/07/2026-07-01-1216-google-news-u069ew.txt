@@ -1,0 +1,59 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-01T02:16:25.124Z - 2026-07-01T04:16:25.124Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. GOP rebellion over Trump’s elections overhaul leads House to recess for July Fourth early - The Washington Post
+2. Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures - The Washington Post
+3. Supreme Court Live Updates: Justices Reject Trump’s Effort to End Birthright Citizenship - The New York Times
+4. Mexico game delayed: Weather updates, start time for World Cup vs. Ecuador - USA Today
+
+==============================
+
+1. GOP rebellion over Trump’s elections overhaul leads House to recess for July Fourth early - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】GOP rebellion over Trump’s elections overhaul leads House to recess for July Fourth early  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】GOP rebellion over Trump’s elections overhaul leads House to recess for July Fourth early - The Washington Post
+【发布时间】2026-07-01T03:40:24.000Z
+【链接】https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEdGYlhlUkd4Znk0eHluVWQyTVNOT19UWUZYTUozWjNYbng2Ym5nZ1N5NUpreVN6THVXblRPajJ5WE8xVE0tNElwSi1UYzNHcU8xdzNILWtfek5WQ1dpU2R1UV9JZDRSVDVOcm02MGJpZ25ycDRCS19oSjNHbm1XMUtkWnVHRHoxWlJRQXBFWGl0TTAtdXpRaHR4UVNvUHEtdTl1bF9FQ0FVWmVvY180OUdkeVgycFUwd2NyWFEzYw?oc=5
+
+------------------------------
+
+2. Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump’s income topped $2 billion in 2025, boosted by crypto, coin ventures - The Washington Post
+【发布时间】2026-07-01T03:25:29.000Z
+【链接】https://news.google.com/rss/articles/CBMiugFBVV95cUxQVG1ucDZ5Y295WG44SXZDbzVSb1UtSVJCQ2pXcEMxZWtTc1ZsR2JodlRKdENuUDdkUE5GbE1ZTFVDQ0VRU1hkclJaYkVKM202TVktdWt1dmQ3WTNoT0VwSlZ1LUZCQURHZThTUERwbkVOQThVblhKOHNqcjVBQkV3bmdGRzFmNmloQTNRVnViTWg4NDcxRmdYSHlNSlp4UFZJeDNJWUxLbnN1RDVVZE4wOE5Fa212NUpkbnc?oc=5
+
+------------------------------
+
+3. Supreme Court Live Updates: Justices Reject Trump’s Effort to End Birthright Citizenship - The New York Times
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Supreme Court Live Updates: Justices Reject Trump’s Effort to End Birthright Citizenship  The New York Times
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Supreme Court Live Updates: Justices Reject Trump’s Effort to End Birthright Citizenship - The New York Times
+【发布时间】2026-07-01T02:44:00.000Z
+【链接】https://news.google.com/rss/articles/CBMihgFBVV95cUxNWU5GeVRQNlpVV3pPNmRMY3ZqOTYwdzBpbnlzdW5LaGxIcjlQajIwUWgtb0IzRWRtUFRvUFlnbjhpeUFYa0ZxUmZ2SUQwS2QzQzhqZzl3QV94X1BfVDduWWNpT0R5TG4zdFFqSmNJV1hua0Q1UXNMM19IQ3FlbWZGdFhqSU9RZw?oc=5
+
+------------------------------
+
+4. Mexico game delayed: Weather updates, start time for World Cup vs. Ecuador - USA Today
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Mexico game delayed: Weather updates, start time for World Cup vs. Ecuador  USA Today
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Mexico game delayed: Weather updates, start time for World Cup vs. Ecuador - USA Today
+【发布时间】2026-07-01T02:40:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdDlhVUdxcUdYT3FTTzUtSkxvalV3YVR4aXZESXpqZV9pMng1aGtybnFOYldlNDE4RjlyZ3g3bGpuX1RPcExvY1hmUWRweFJvM3hvVGtfSDNZOV9DM0dQRllmR18tVTZ2SWFfR0RnUUp1QlJpR3F5NFBYY3c0bzh1TnZuOW9aODZUUG1zdnBLRXQyaS1RNlFqdmttZkVDZi1oVmJ6Uk96Y3VlSjNfUjVQOGlKcXA3OTNmRlItS1g0Z1g?oc=5
