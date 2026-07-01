@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-01T14:23:47.979Z - 2026-07-01T16:23:47.979Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 泰勒·斯威夫特和特拉维斯·凯西德结婚前协议会是什么样子？
+2. 法官批准废除川普关于公务员贷款减免的规则
+3. Anthropic 从川流“禅”喜造成川普政权获得延续，这够吗？
+4. 川普从加密货币项目中获得了约14亿美元，财务披露显示
+5. 费德的Warsh表示通胀带来的风险比几周前小了
+
+==============================
+
+1. 泰勒·斯威夫特和特拉维斯·凯西德结婚前协议会是什么样子？
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】世界上最著名的流行歌手之一与三次超级碗冠军之间的婚前协议会是什么样子？法律专家进行了评论。
+【依据】无关新闻（明星婚姻事无股票关联）
+【原标题】What Would Taylor Swift and Travis Kelce’s Prenuptial Agreement Look Like?
+【发布时间】2026-07-01T15:42:54.000Z
+【链接】https://www.nytimes.com/2026/07/01/business/taylor-swift-travis-kelce-prenup.html
+
+------------------------------
+
+2. 法官批准废除川普关于公务员贷款减免的规则
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】两个联邦法院阻止了一个新的川普政府规则，该规则可能会缩小公务员贷款减免计划的资格。
+【依据】政策变动（间接涉及金融服务股票）
+【原标题】Judges Strike Down Trump Rule on Loan Forgiveness for Public Servants
+【发布时间】2026-07-01T14:51:42.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/trump-student-loan-forgiveness.html
+
+------------------------------
+
+3. Anthropic 从川流“禅”喜造成川普政权获得延续，这够吗？
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】公司可以恢复其最强大的人工智能模型的访问权限。但硅谷仍然担心共和党政府对监管的更强干预。
+【依据】公司政策（可能影响AI领域相关股票）
+【原标题】Anthropic Won a Reprieve From the Trump Administration. Is It Enough?
+【发布时间】2026-07-01T14:50:39.000Z
+【链接】https://www.nytimes.com/2026/07/01/business/dealbook/anthropic-fable-mythos-trump.html
+
+------------------------------
+
+4. 川普从加密货币项目中获得了约14亿美元，财务披露显示
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】财务披露显示，川普家族的持股，特别是总统的加密货币业务，表现惊人地可观。
+【依据】加密货币相关业务（可能影响相关股票）
+【原标题】Trump Pulled In About $1.4 Billion From Crypto Ventures, Financial Disclosure Shows
+【发布时间】2026-07-01T14:43:32.000Z
+【链接】https://www.nytimes.com/2026/06/30/us/politics/trump-financial-disclosure-crypto-windfall.html
+
+------------------------------
+
+5. 费德的Warsh表示通胀带来的风险比几周前小了
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】美联储主席凯文·沃什强调，联邦储备系统将‘交付价格稳定’。
+【依据】宏观经济政策（可能影响金融股票）
+【原标题】Fed’s Warsh Says Inflation Poses Less Risk Than a Few Weeks Ago
+【发布时间】2026-07-01T14:40:04.000Z
+【链接】https://www.nytimes.com/2026/07/01/business/kevin-warsh-inflation-ecb.html
