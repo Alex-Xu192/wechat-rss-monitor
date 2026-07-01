@@ -1,0 +1,150 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-01T12:15:05.305Z - 2026-07-01T14:15:05.305Z
+【数量】11
+
+【本邮件新闻标题汇总】
+1. Stock Market Today: Stock Futures Slip as Investors Await Warsh Comments - WSJ
+2. Starmer to face Badenoch at PMQs after announcing £15bn extra defence spending - BBC
+3. Fate of $2 trillion North American trade deal in doubt as July 1 deadline passes - The Washington Post
+4. Mexico game delayed: Weather updates, start time for World Cup vs. Ecuador - USA Today
+5. Kroger to buy retailer Giant Eagle in a $1.65 billion deal - Reuters
+6. Victor Willis, Village People lead singer, dies at 74 - NBC News
+7. Trump Takes Maiden Flight on Qatari-Gifted Air Force One - WSJ
+8. Democratic socialist Melat Kiros poised to become the first Gen Z woman in Congress - NPR
+9. Sony announces end to PS3 and Vita digital stores, with most closing in 2027 but some losing access this year - Eurogamer.net
+10. CDC seeks source of parasitic outbreak linked to ‘explosive’ diarrhea in multiple states - Fox 59
+11. Sony is killing all physical PlayStation game discs - The Verge
+
+==============================
+
+1. Stock Market Today: Stock Futures Slip as Investors Await Warsh Comments - WSJ
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock Market Today: Stock Futures Slip as Investors Await Warsh Comments  WSJ
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Stock Market Today: Stock Futures Slip as Investors Await Warsh Comments - WSJ
+【发布时间】2026-07-01T14:01:00.000Z
+【链接】https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjNKanlfN1l3dDB5MFczalU5SjJyZGdmQVRRdGxnUFBEanFkWHR0YU5TRGFLN3lXSXVPUVBYc3VLMmcyUkhiUW1SQnljRnZDNUhoZmJkNGNIdU84QlFlbGtkLXVTTmJLRVhxU29sMXc5dldJX0JnODloUi1rSnFheG5ibmRVMW8?oc=5
+
+------------------------------
+
+2. Starmer to face Badenoch at PMQs after announcing £15bn extra defence spending - BBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Starmer to face Badenoch at PMQs after announcing £15bn extra defence spending  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Starmer to face Badenoch at PMQs after announcing £15bn extra defence spending - BBC
+【发布时间】2026-07-01T13:47:13.000Z
+【链接】https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YQkxxbl8zWVN3NGo4ZnJ0dUcxSGlUSklLNGVBM1VqUEM0NGcwazVPREMxbmhETUJ5UG5EdWpZdnFpMzRvTUZ1TDBCd3lOZ0dRbllPeg?oc=5
+
+------------------------------
+
+3. Fate of $2 trillion North American trade deal in doubt as July 1 deadline passes - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Fate of $2 trillion North American trade deal in doubt as July 1 deadline passes  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Fate of $2 trillion North American trade deal in doubt as July 1 deadline passes - The Washington Post
+【发布时间】2026-07-01T13:41:54.000Z
+【链接】https://news.google.com/rss/articles/CBMirwFBVV95cUxQN1llaWJZdXlEbkxWa1VBQWNVbFpqdk4zaHFzMURhRVRqeVNVOVRzQVBVc0p6cFd3NU5jd3FjMmc4Rk00RlhkeFF1UTdsVVNWWHhiR256cTR0VzItdGEtenZ1SVRhdFdKSVQ1TkdaQV9hRWllSGpOem1ESzUwRzhiUDVaREZOUWFESGxmZkNCSmY2QWFNVXp2VzU4N21OZE0wTklTOGl1NlhwSG4tVG1B?oc=5
+
+------------------------------
+
+4. Mexico game delayed: Weather updates, start time for World Cup vs. Ecuador - USA Today
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Mexico game delayed: Weather updates, start time for World Cup vs. Ecuador  USA Today
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Mexico game delayed: Weather updates, start time for World Cup vs. Ecuador - USA Today
+【发布时间】2026-07-01T13:24:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdDlhVUdxcUdYT3FTTzUtSkxvalV3YVR4aXZESXpqZV9pMng1aGtybnFOYldlNDE4RjlyZ3g3bGpuX1RPcExvY1hmUWRweFJvM3hvVGtfSDNZOV9DM0dQRllmR18tVTZ2SWFfR0RnUUp1QlJpR3F5NFBYY3c0bzh1TnZuOW9aODZUUG1zdnBLRXQyaS1RNlFqdmttZkVDZi1oVmJ6Uk96Y3VlSjNfUjVQOGlKcXA3OTNmRlItS1g0Z1g?oc=5
+
+------------------------------
+
+5. Kroger to buy retailer Giant Eagle in a $1.65 billion deal - Reuters
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Kroger to buy retailer Giant Eagle in a $1.65 billion deal  ReutersSee more headlines & perspectives on Google News
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Kroger to buy retailer Giant Eagle in a $1.65 billion deal - Reuters
+【发布时间】2026-07-01T13:11:58.000Z
+【链接】https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0xTcWNLdGw2QWFGbUtjLTBIcjFtQXIybUdxTlRJdE9lV0F4ZlZsWkxndjgxek5UWVRuX1ZtVEFMbHRSaC1LaV9jd2IxNGphblY3X1NjZWtKbEtfalM3VzJxX2R1anJYM2JMS0NpSzM0S0MzSGZsSjVXTEx5R1FsOU1pMkZWTURwYl9IT2g0Tk9SenMyeFFfd2Z3dw?oc=5
+
+------------------------------
+
+6. Victor Willis, Village People lead singer, dies at 74 - NBC News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Victor Willis, Village People lead singer, dies at 74  NBC NewsSee more headlines & perspectives on Google News
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Victor Willis, Village People lead singer, dies at 74 - NBC News
+【发布时间】2026-07-01T12:59:52.000Z
+【链接】https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2V6Mk9qQmkxekUxZEFFMmRxU2pIcVBQUFFjaVhqa2xGbGQyeGpNM25Fb1FkQzNCZHhzcGJLX04xamlpellITWdOUWtqYkNOMUc2M3lQYThTa0tnNktnSnJ0UDNQeGNvOG1XN0hpR3BLUUxDNHp6MXUwbkNiRnBfUEg1aHBjSVp5S2cyTGxSaVlXenpHYjd0ZEtrd21ROXg4Zklz?oc=5
+
+------------------------------
+
+7. Trump Takes Maiden Flight on Qatari-Gifted Air Force One - WSJ
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump Takes Maiden Flight on Qatari-Gifted Air Force One  WSJ
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Trump Takes Maiden Flight on Qatari-Gifted Air Force One - WSJ
+【发布时间】2026-07-01T12:57:00.000Z
+【链接】https://news.google.com/rss/articles/CBMie0FVX3lxTFBYNm1HRU1MSmJacEdvcmVUX29Zb29ZUGdLQ2dtU0tZMFpBYVlFZ0M1SC1WOGFkeUxtOGpxVmdkRWNScmRDb0RoLU1RTVMwajhBcTBaRV9KYmtDNnJIclB0clVGYy1vNFJlbzZrNWh5NzlhVmJpSW90QmgzUQ?oc=5
+
+------------------------------
+
+8. Democratic socialist Melat Kiros poised to become the first Gen Z woman in Congress - NPR
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Democratic socialist Melat Kiros poised to become the first Gen Z woman in Congress  NPR
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Democratic socialist Melat Kiros poised to become the first Gen Z woman in Congress - NPR
+【发布时间】2026-07-01T12:55:29.000Z
+【链接】https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUlYck4wV2hSNVJQOVhvdUNZZmpMenNJU0VvQWMyT3FhWlRoWFFzYVRub3J6YkpvS2RIcnNOYTNUZGdVcVIzRnlJUFN6S2NfUV9CcDhHWGd1eDRVQXM0WjVyX1BYSzRZZmJENTZFXzFPRXZyMmNJNThoZFhvUFBHZmpBcjlkRUUwTWdYWnVpUklmaUtRVWNkcU9lbjNvQlN2cGRHLU53?oc=5
+
+------------------------------
+
+9. Sony announces end to PS3 and Vita digital stores, with most closing in 2027 but some losing access this year - Eurogamer.net
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Sony announces end to PS3 and Vita digital stores, with most closing in 2027 but some losing access this year  Eurogamer.net
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Sony announces end to PS3 and Vita digital stores, with most closing in 2027 but some losing access this year - Eurogamer.net
+【发布时间】2026-07-01T12:39:34.000Z
+【链接】https://news.google.com/rss/articles/CBMiakFVX3lxTE5qZm0xSVI5Z0RONEt5SEJjOUtnYkxwOE9BZmgwdGR5b1F3WHFZazBycFRmWjE0NVZFUG9qcnhaNXNqVktMcHF1V3hXcEc5T2d5ZVVYdzBKRXlGYWNiNzJrN0l3NmJEbFM3eGc?oc=5
+
+------------------------------
+
+10. CDC seeks source of parasitic outbreak linked to ‘explosive’ diarrhea in multiple states - Fox 59
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】CDC seeks source of parasitic outbreak linked to ‘explosive’ diarrhea in multiple states  Fox 59
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】CDC seeks source of parasitic outbreak linked to ‘explosive’ diarrhea in multiple states - Fox 59
+【发布时间】2026-07-01T12:23:37.000Z
+【链接】https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcnZ0YjBYMnh0N0lPZXlnYmt5M0ZjZWg3NjBJVmFWMnUxcFJ1OHFmcEZBdHNmZHFrT1pqZWNLWnpndzBLckNCb0oyVXU4d2c0WW5HXzBCQmlqaTN0bHJlUmJnZnUwLTNOaU54RVhKREJYcTRuNkpYaENQeVNhYTFOMm9sTjdOTjQ4RFdQcVJxWkd3N0VDcVd3WlZaRDkyQUxTVXZXUTlnT3N2Y2wtNzlaMGdBemp3cU5zNlNmdEs5ZUlMX0HSAcgBQVVfeXFMTTFncWVvX0QzLTJmd1BxY2RfTlhYMUZaMFdZYUg4NGtmOG5VVU5wNFE0VS1wZENGRWoxN1paTmxxUFgtbDZ6NWlZVXpacEQycHJJSFBjZGFnS2Z2VnlhY3ZsUWVDbWRWTUNqTGJocFVkVmxzMGthbTNXVGtrVUI3RlBXNmhUckE1WjJfRXBxZWlfZF9ISHJ0MzJoR2RJc2ZXZkVWY2lGRmtYUlVhZnRyYy1iY1psLWo0WXFoRnk4YW9kQm03WDZsdko?oc=5
+
+------------------------------
+
+11. Sony is killing all physical PlayStation game discs - The Verge
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Sony is killing all physical PlayStation game discs  The Verge
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Sony is killing all physical PlayStation game discs - The Verge
+【发布时间】2026-07-01T12:15:28.000Z
+【链接】https://news.google.com/rss/articles/CBMigwFBVV95cUxQdWZmemM3MkpOaWxveWJvdUJIb0tzVVJZTEdTcVpLUXM3TWxOTGd0LXYyUklwV0I0WG5vUGhPTWVhaXloQVhoeXVZTWN4R2JCQlFWMTE1YnE0THBnTTRfbFRXLW9tNGlIRkpUVldCaVlPSkVGWmNhd1FkRXFiLWhBX0lCQQ?oc=5
