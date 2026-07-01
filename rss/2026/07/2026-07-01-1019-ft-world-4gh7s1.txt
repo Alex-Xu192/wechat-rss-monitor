@@ -1,0 +1,33 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-01T00:19:26.018Z - 2026-07-01T02:19:26.018Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 美国最高法院制衡特朗普权力的同时强化总统职权
+2. 白宫解除对Anthropic模型的禁令
+
+==============================
+
+1. 美国最高法院制衡特朗普权力的同时强化总统职权
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】本周的裁决表明，美国最高法院“并非只是对美国总统言听计从”
+【依据】文章讨论美国最高法院对总统权力的裁决，属于政治法律层面，未明确涉及具体公司、行业或商品，难以推断相关股票影响。
+【原标题】US Supreme Court checks Trump’s power even as it bolsters the presidency
+【发布时间】2026-07-01T00:57:52.000Z
+【链接】https://www.ft.com/content/2ac7b4ec-aa72-4893-9713-87968da038a0
+
+------------------------------
+
+2. 白宫解除对Anthropic模型的禁令
+【相关股票】NVDA、MSFT、GOOGL
+【利好股票】NVDA、MSFT、GOOGL
+【利空股票】无法判断
+【摘要】美国政府举措允许AI初创公司Anthropic重新发布Mythos和Fable模型
+【依据】白宫解除对Anthropic AI模型的禁令，利好AI行业发展，可能正面影响英伟达(NVDA)、微软(MSFT)、谷歌(GOOGL)等AI基础设施与云服务股票。
+【原标题】White House lifts ban on Anthropic models
+【发布时间】2026-07-01T00:5300:53:30.000Z
+【链接】https://www.ft.com/content/137ddb71-852f-438c-ad76-25e2dc43486b
