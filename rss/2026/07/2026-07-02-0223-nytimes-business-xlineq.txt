@@ -1,0 +1,85 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-01T16:23:12.211Z - 2026-07-01T18:23:12.211Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 特朗普要求美光公司向特朗普账户捐赠2.5亿美元
+2. 联储会沃斯表示，通胀风险比几周前要小
+3. 查尔斯·H·汤森因病去世，年82岁；在数字转型期间领导康德纳斯
+4. 股票录得2020年以来最强劲的季度表现
+5. 关于美国-墨西哥-加拿大贸易协议谈判你需要知道的
+6. 法院暂停了要求记者随护的五角大楼规则
+
+==============================
+
+1. 特朗普要求美光公司向特朗普账户捐赠2.5亿美元
+【相关股票】美光公司、特朗普账户
+【利好股票】美光公司
+【利空股票】无法判断
+【摘要】总统表示，美国芯片制造商美光公司将向政府为儿童创建的一种新投资账户做出重要捐款。
+【依据】新闻提到了美光公司（Micron），这是一家知名芯片制造商，与特朗普账户相关联，涉及政府政策。
+【原标题】Trump Accounts to Receive $250 Million Donation From Chip Maker Micron, Trump Says
+【发布时间】2026-07-01T18:17:13.000Z
+【链接】https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html
+
+------------------------------
+
+2. 联储会沃斯表示，通胀风险比几周前要小
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】联储主席沃斯强调，美联储将维护价格稳定，这也是他自5月上任以来一直强调的观点。
+【依据】此新闻讨论联储会政策，涉及经济议题，但未提及具体公司。
+【原标题】Fed's Warsh Says Inflation Poses Less Risk Than a Few Weeks Ago
+【发布时间】2026-07-01T18:16:10.000Z
+【链接】https://www.nytimes.com/2026/07/01/business/kevin-warsh-inflation-ecb.html
+
+------------------------------
+
+3. 查尔斯·H·汤森因病去世，年82岁；在数字转型期间领导康德纳斯
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】到2016年退休时，连锁杂志如《Vogue》、《Vanity Fair》和《The New Yorker》的印刷版已经严重走下坡路。
+【依据】此新闻报道传人病逝，涉及媒体公司康德纳斯，但不涉及股票投资。
+【原标题】Charles H. Townsend Dies at 82; Led Condé Nast During Digital Transition
+【发布时间】2026-07-01T17:16:02.000Z
+【链接】https://www.nytimes.com/2026/07/01/business/media/charles-h-townsend-dead.html
+
+------------------------------
+
+4. 股票录得2020年以来最强劲的季度表现
+【相关股票】标普500
+【利好股票】标普500
+【利空股票】无法判断
+【摘要】标普500指数上涨了将近15%，而许多股票分析师仍对人工智能驱动的企业盈利保持乐观。
+【依据】新闻讨论股票市场表现，涉及标普500指数，反映了整体市场情况。
+【原标题】Stocks Notch Strongest Quarter Since 2020
+【发布时间】2026-07-01T17:05:13.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html
+
+------------------------------
+
+5. 关于美国-墨西哥-加拿大贸易协议谈判你需要知道的
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】美国官员表示，他们在与加拿大和墨西哥官员会晤时，不会立即请求续期北美贸易协定。
+【依据】新闻讨论贸易协议，涉及政策议题，但未提及具体公司或股票代码。
+【原标题】What to Know About the U.S.-Mexico-Canada Trade Agreement Talks
+【发布时间】2026-07-01T16:58:54.000Z
+【链接】https://www.nytimes.com/2026/07/01/business/economy/usmca-north-america-trade.html
+
+------------------------------
+
+6. 法院暂停了要求记者随护的五角大楼规则
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】联邦法官临时阻止了一项限制记者访问五角大楼的新规则，此举是《纽约时报》提起的诉讼。
+【依据】新闻涉及媒体access问题，与股票投资无直接关系。
+【原标题】Court Halts Pentagon Rule Requiring Escorts for Journalists
+【发布时间】2026-07-01T16:49:37.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/media/pentagon-journalists-escort-rule.html
