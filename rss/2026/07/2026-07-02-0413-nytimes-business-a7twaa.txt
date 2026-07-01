@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-01T18:13:15.261Z - 2026-07-01T20:13:15.261Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 谁可以销售'6 7'鸡块？一家公司请求法院裁决。
+2. 特朗普账户将收到芯片制造商美光2.5亿美元捐款
+3. 泰勒·斯威夫特和特拉维斯·凯尔西的婚前协议会是什么样？
+4. 美国拒绝续签USMCA贸易协议，启动10年倒计时走向失效
+5. 美联储主席沃什称通胀风险较几周前降低
+
+==============================
+
+1. 谁可以销售'6 7'鸡块？一家公司请求法院裁决。
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】肉类和家禽巨头Perdue在诉讼中称，Soules Foods抄袭了其基于儿童流行梗图的包装设计。
+【依据】新闻涉及Perdue与Soules Foods的包装侵权诉讼，两家公司均为私营企业，无公开股票代码，难以判断对上市公司股价的直接影响。
+【原标题】Who Can Sell ‘6 7’ Chicken Nuggets? One Company Is Asking a Court to Decide.
+【发布时间】2026-07-01T19:52:25.000Z
+【链接】https://www.nytimes.com/2026/07/01/us/perdue-chicken-nuggets-lawsuit-6-7.html
+
+------------------------------
+
+2. 特朗普账户将收到芯片制造商美光2.5亿美元捐款
+【相关股票】MU
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】特朗普总统表示，美国芯片制造商美光将向政府创建的一种新型投资账户捐赠巨资。
+【依据】新闻明确提及美光科技（MU）向特朗普相关账户捐款2.5亿美元，但捐款性质为政治捐赠而非业务订单，对股价影响方向不确定，需视市场解读而定。
+【原标题】Trump Accounts to Receive $250 Million Donation From Chip Maker Micron
+【发布时间】2026-07-01T19:42:14.000Z
+【链接】https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html
+
+------------------------------
+
+3. 泰勒·斯威夫特和特拉维斯·凯尔西的婚前协议会是什么样？
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】世界顶级流行巨星与三届超级碗冠军的婚前协议会是什么样子？法律专家发表看法。
+【依据】新闻属于娱乐法律话题，未涉及具体上市公司业务或行业政策，难以关联具体股票。
+【原标题】What Would Taylor Swift and Travis Kelce’s Prenuptial Agreement Look Like?
+【发布时间】2026-07-01T18:50:43.000Z
+【链接】https://www.nytimes.com/2026/07/01/business/taylor-swift-travis-kelce-prenup.html
+
+------------------------------
+
+4. 美国拒绝续签USMCA贸易协议，启动10年倒计时走向失效
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】特朗普政府周三表示不会立即请求续签北美贸易协议，令企业对该贸易协定前景感到不确定。
+【依据】USMCA不续签将影响北美贸易，波及汽车、农业、制造业等广泛板块，但具体受益或受损个股取决后续谈判细节，目前难以精准判断个股影响。
+【原标题】U.S. Declines to Renew USMCA Trade Deal, Starting 10-Year Clock to Expiration
+【发布时间】2026-07-01T18:30:14.000Z
+【链接】https://www.nytimes.com/2026/07/01/business/economy/usmca-north-america-trade.html
+
+------------------------------
+
+5. 美联储主席沃什称通胀风险较几周前降低
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】美联储主席凯文·沃什强调央行将“实现物价稳定”，这是他自5月上任以来反复强调的观点。
+【依据】美联储主席讲话影响整体货币政策预期，利好率敏感板块，但未指向具体个股，难以给出明确代码。
+【原标题】Fed’s Warsh Says Inflation Poses Less Risk Than a Few Weeks Ago
+【发布时间】2026-07-01T18:16:10.000Z
+【链接】https://www.nytimes.com/2026/07/01/business/kevin-warsh-inflation-ecb.html
