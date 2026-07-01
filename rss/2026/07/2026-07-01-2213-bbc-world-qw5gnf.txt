@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-01T12:13:56.430Z - 2026-07-01T14:13:56.430Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Fire at Antwerp apartment block kills at least six
+2. Canada will take part in Eurovision Song Contest 2027
+
+==============================
+
+1. Fire at Antwerp apartment block kills at least six
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A man is seen clambering through a window to escape black smoke in the block where some 200 people live.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Fire at Antwerp apartment block kills at least six
+【发布时间】2026-07-01T13:10:23.000Z
+【链接】https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Canada will take part in Eurovision Song Contest 2027
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The country becomes the first new participant since Australia joined the contest in 2015.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Canada will take part in Eurovision Song Contest 2027
+【发布时间】2026-07-01T12:30:56.000Z
+【链接】https://www.bbc.co.uk/news/articles/c8x2y2vwqn1o?at_medium=RSS&at_campaign=rss
