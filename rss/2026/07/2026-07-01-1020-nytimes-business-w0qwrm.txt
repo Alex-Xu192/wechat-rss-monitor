@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-01T00:20:15.122Z - 2026-07-01T02:20:15.122Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Judges Strike Down Trump Rule on Loan Forgiveness for Public Servants
+2. Trump Pulled in at Least $2.2 Billion in 2025, Financial Disclosure Shows
+3. NPR Retracts Article That Mistakenly Said Justice Alito Would Retire
+
+==============================
+
+1. Judges Strike Down Trump Rule on Loan Forgiveness for Public Servants
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Two federal courts have blocked a new Trump administration rule that could have narrowed eligibility for a student loan forgiveness program for public servants.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Judges Strike Down Trump Rule on Loan Forgiveness for Public Servants
+【发布时间】2026-07-01T01:59:33.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/trump-student-loan-forgiveness.html
+
+------------------------------
+
+2. Trump Pulled in at Least $2.2 Billion in 2025, Financial Disclosure Shows
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The release of a mandatory financial disclosure for 2025 shows that the Trump family’s holdings, particularly the president’s crypto businesses, were stunningly lucrative.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump Pulled in at Least $2.2 Billion in 2025, Financial Disclosure Shows
+【发布时间】2026-07-01T01:15:53.000Z
+【链接】https://www.nytimes.com/2026/06/30/us/politics/trump-financial-disclosure-crypto-windfall.html
+
+------------------------------
+
+3. NPR Retracts Article That Mistakenly Said Justice Alito Would Retire
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The news outlet quickly removed the article, which was written by NPR’s seasoned Supreme Court reporter, Nina Totenberg, from its website.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】NPR Retracts Article That Mistakenly Said Justice Alito Would Retire
+【发布时间】2026-07-01T00:22:04.000Z
+【链接】https://www.nytimes.com/2026/06/30/business/media/npr-samuel-alito-nina-totenberg.html
