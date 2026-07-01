@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-01T10:26:37.440Z - 2026-07-01T12:26:37.440Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Anthropic Won a Reprieve From the Trump Administration. Is It Enough?
+2. As Companies Race for Cheaper A.I. Options, This Start-Up Pitches a Solution
+
+==============================
+
+1. Anthropic Won a Reprieve From the Trump Administration. Is It Enough?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The company can restore access its most powerful A.I. models. But Silicon Valley remains worried about the Trump Administration’s heavier hand on regulation.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Anthropic Won a Reprieve From the Trump Administration. Is It Enough?
+【发布时间】2026-07-01T12:10:56.000Z
+【链接】https://www.nytimes.com/2026/07/01/business/dealbook/anthropic-fable-mythos-trump.html
+
+------------------------------
+
+2. As Companies Race for Cheaper A.I. Options, This Start-Up Pitches a Solution
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Together AI, which specializes in open-source artificial intelligence models, is now worth more than $8 billion.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】As Companies Race for Cheaper A.I. Options, This Start-Up Pitches a Solution
+【发布时间】2026-07-01T11:30:04.000Z
+【链接】https://www.nytimes.com/2026/07/01/business/dealbook/together-ai-funding.html
