@@ -1,0 +1,72 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-02T04:13:34.656Z - 2026-07-02T06:13:34.656Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Woah-oh, we’re halfway there
+2. Chinese energy stock triples in Asia’s biggest IPO this year
+3. Pay more for defence to get goodies from Trump, US tells Nato allies
+4. What are the rules on insider betting, really?
+5. FirstFT: OpenAI proposes US government stake
+
+==============================
+
+1. Woah-oh, we’re halfway there
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A strong first half (until the last bit)
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Woah-oh, we’re halfway there
+【发布时间】2026-07-02T05:30:02.000Z
+【链接】https://www.ft.com/content/2bb1e60b-92d9-42d1-90b4-e412272b1296
+
+------------------------------
+
+2. Chinese energy stock triples in Asia’s biggest IPO this year
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】China Resources New Energy raises $3.6bn amid heavy demand from retail investors
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Chinese energy stock triples in Asia’s biggest IPO this year
+【发布时间】2026-07-02T05:24:37.000Z
+【链接】https://www.ft.com/content/a5ebd692-f63c-437f-a561-b45ceb178a3f
+
+------------------------------
+
+3. Pay more for defence to get goodies from Trump, US tells Nato allies
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in this newsletter: Montenegro can get a share of the EU’s next seven-year budget
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Pay more for defence to get goodies from Trump, US tells Nato allies
+【发布时间】2026-07-02T05:00:10.000Z
+【链接】https://www.ft.com/content/3b13f052-a045-41aa-950b-12e7f90ce7b9
+
+------------------------------
+
+4. What are the rules on insider betting, really?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】It’s more interesting than you might think
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】What are the rules on insider betting, really?
+【发布时间】2026-07-02T05:00:02.000Z
+【链接】https://www.ft.com/content/8f5cc51e-95c6-4c44-ac76-6ce57b1370dc
+
+------------------------------
+
+5. FirstFT: OpenAI proposes US government stake
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in today’s newsletter: Tank maker’s postponed IPO and Burnham’s finance boost
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】FirstFT: OpenAI proposes US government stake
+【发布时间】2026-07-02T04:30:59.000Z
+【链接】https://www.ft.com/content/0a718201-cee1-4447-8fb5-6835f1441a96
