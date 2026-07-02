@@ -1,0 +1,59 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-02T12:20:48.839Z - 2026-07-02T14:20:48.839Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 'Most massive' Russian attack on Kyiv kills at least 20
+2. Canada celebrates its birthday as Mark Carney battles to keep it intact
+3. Rescuers inch closer to quake survivor after eight days - and he's cheering them on
+4. Watch: BBC at site of deadly Russian attack on Kyiv flats
+
+==============================
+
+1. 'Most massive' Russian attack on Kyiv kills at least 20
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】'Most massive' Russian attack on Kyiv kills at least 20
+【发布时间】2026-07-02T13:45:33.000Z
+【链接】https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Canada celebrates its birthday as Mark Carney battles to keep it intact
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】As Canadians celebrate their nation's birthday, independence movements in two provinces are eyeing the exit from the country.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Canada celebrates its birthday as Mark Carney battles to keep it intact
+【发布时间】2026-07-02T13:31:23.000Z
+【链接】https://www.bbc.co.uk/news/articles/cwykxwd43pwo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. Rescuers inch closer to quake survivor after eight days - and he's cheering them on
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Emergency workers have been trying to free Hernán Gil, who has been given an intravenous drip, for more than 100 hours.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Rescuers inch closer to quake survivor after eight days - and he's cheering them on
+【发布时间】2026-07-02T13:15:27.000Z
+【链接】https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+4. Watch: BBC at site of deadly Russian attack on Kyiv flats
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Sarah Rainsford reports from the completely destroyed nine-storey block of flats in Ukraine's capital.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Watch: BBC at site of deadly Russian attack on Kyiv flats
+【发布时间】2026-07-02T12:37:02.000Z
+【链接】https://www.bbc.co.uk/news/videos/c33yl1l8dkro?at_medium=RSS&at_campaign=rss
