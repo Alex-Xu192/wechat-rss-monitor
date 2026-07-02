@@ -1,0 +1,20 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-02T02:24:49.885Z - 2026-07-02T04:24:49.885Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. In Colorado, the Long Aftermath of a Fire Feels Political
+
+==============================
+
+1. In Colorado, the Long Aftermath of a Fire Feels Political
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】When the Trump administration rejected a request for federal assistance to a fire-ravaged part of western Colorado, residents debated which political party was to blame.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】In Colorado, the Long Aftermath of a Fire Feels Political
+【发布时间】2026-07-02T03:46:01.000Z
+【链接】https://www.nytimes.com/2026/06/27/business/colorado-fire-fema-aid-denied.html
