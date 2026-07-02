@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-02T12:25:24.618Z - 2026-07-02T14:25:24.618Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 特朗普账户将获得来自芯片制造商美光的2.5亿美元捐赠
+2. 最新报告显示劳动力市场不是通胀压力的来源
+3. 人工智能正在重塑经济。衡量其影响充满挑战
+4. 特斯拉销售激增，欧洲销售复苏
+5. 关于该报告需要知道的事项
+
+==============================
+
+1. 特朗普账户将获得来自芯片制造商美光的2.5亿美元捐赠
+【相关股票】MU
+【利好股票】MU
+【利空股票】无法判断
+【摘要】特朗普总统表示，美国芯片制造商将向政府创建的一种新型投资账户进行重大捐赠。
+【依据】新闻明确提到美光科技（Micron）作为捐赠方，属于具体公司，故相关股票为美光；捐赠行为被视为正面消息，故列为正面股票；未见负面影响。
+【原标题】Trump Accounts to Receive $250 Million Donation From Chip Maker Micron
+【发布时间】2026-07-02T14:12:57.000Z
+【链接】https://www.nytimes.com/2026/07/01/business/economy/micron-250-million-dollars-trump-accounts.html
+
+------------------------------
+
+2. 最新报告显示劳动力市场不是通胀压力的来源
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】失业率下降至4.2%，但平均时薪保持稳定，这使得美联储主席凯文·沃尔什有空间专注于抗击通胀。
+【依据】新闻讨论劳动力市场和通胀，未提及具体公司或股票，无法判断相关股票。
+【原标题】Labor Market Not a Source of Inflationary Pressure, Latest Report Shows
+【发布时间】2026-07-02T13:54:28.000Z
+【链接】https://www.nytimes.com/2026/07/02/business/economy/jobs-report-june-fed-interest-rates-warsh.html
+
+------------------------------
+
+3. 人工智能正在重塑经济。衡量其影响充满挑战
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】一些数据显示人工智能已经导致失业增加。其他资料则显示相反的情况。为何很难弄清楚实际情况？
+【依据】新闻讨论人工智能对经济的影响，未点名具体公司，无法判断相关股票。
+【原标题】A.I. Is Reshaping the Economy. Good Luck Measuring How.
+【发布时间】2026-07-02T13:30:52.000Z
+【链接】https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html
+
+------------------------------
+
+4. 特斯拉销售激增，欧洲销售复苏
+【相关股票】TSLA
+【利好股票】TSLA
+【利空股票】无法判断
+【摘要】降价帮助这家电动汽车制造商在第二季度欧洲市场反弹，抵消了在美国的下降。
+【依据】新闻明确提到特斯拉（Tesla）销售增长，属于具体公司，故相关股票为特斯拉；销售 surge 为正面消息，故列为正面股票；未见负面影响。
+【原标题】Tesla Sales Surge as Sales Recover in Europe
+【发布时间】2026-07-02T13:30:47.000Z
+【链接】https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html
+
+------------------------------
+
+5. 关于该报告需要知道的事项
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】关于该报告需要知道的事项。
+【依据】新闻内容笼统，仅为报告导读，未提及具体公司或股票，无法判断相关股票。
+【原标题】What to know about the report.
+【发布时间】2026-07-02T12:51:37.000Z
+【链接】https://www.nytimes.com/live/2026/07/02/business/jobs-report-economy/jobs-report-employment
