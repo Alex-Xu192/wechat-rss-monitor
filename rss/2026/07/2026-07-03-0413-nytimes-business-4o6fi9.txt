@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-02T18:13:59.048Z - 2026-07-02T20:13:59.048Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 不到10%的符合条件儿童拥有特朗普投资账户
+2. 为减轻热浪导致的电网压力，数据中心被命令使用备用电源
+3. 6月就业报告显示美国劳动市场增速放缓但稳步增长
+
+==============================
+
+1. 不到10%的符合条件儿童拥有特朗普投资账户
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】已有超过六百万人签署了这些投资账户，账户将于7月4日开放存款，但存在采纳障碍。
+【依据】新闻未提及具体公司或股票，无法判断相关股票。
+【原标题】Less Than 10 Percent of Eligible Children Have Trump Accounts
+【发布时间】2026-07-02T20:03:26.000Z
+【链接】https://www.nytimes.com/2026/07/02/upshot/trump-investment-accounts-children.html
+
+------------------------------
+
+2. 为减轻热浪导致的电网压力，数据中心被命令使用备用电源
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】随着美国大部分地区遭受三位数高温，特朗普政府希望电网管理者要求使用常常闲置的备用电源。
+【依据】新闻未提及具体公司或股票，无法判断相关股票。
+【原标题】To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power
+【发布时间】2026-07-02T18:54:00.000Z
+【链接】https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html
+
+------------------------------
+
+3. 6月就业报告显示美国劳动市场增速放缓但稳步增长
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】与上个月相比，6月雇主增加的工作岗位较少，但失业率略有下降，这对美国经济来说是相当好的表现。
+【依据】新闻未提及具体公司或股票，无法判断相关股票。
+【原标题】June Jobs Report Shows US Labor Market Making Slower but Steady Gains
+【发布时间】2026-07-02T18:23:50.000Z
+【链接】https://www.nytimes.com/2026/07/02/business/economy/jobs-report-employment.html
