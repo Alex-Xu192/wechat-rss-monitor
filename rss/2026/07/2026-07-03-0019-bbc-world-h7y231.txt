@@ -1,0 +1,46 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-02T14:19:55.300Z - 2026-07-02T16:19:55.300Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 'Most massive' Russian attack on Kyiv kills at least 20
+2. Residents of Ethiopian town forced to kill hundreds of their own dogs after rabies deaths
+3. The US deported them to Venezuela - hours later earthquakes struck
+
+==============================
+
+1. 'Most massive' Russian attack on Kyiv kills at least 20
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】'Most massive' Russian attack on Kyiv kills at least 20
+【发布时间】2026-07-02T15:16:40.000Z
+【链接】https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Residents of Ethiopian town forced to kill hundreds of their own dogs after rabies deaths
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Some residents reluctantly hung their dogs to avoid being arrested or fined, locals tell the BBC.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Residents of Ethiopian town forced to kill hundreds of their own dogs after rabies deaths
+【发布时间】2026-07-02T15:13:29.000Z
+【链接】https://www.bbc.co.uk/news/articles/c1wy4d5p4pxo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. The US deported them to Venezuela - hours later earthquakes struck
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】They landed on Flight 164 just before the twin quakes. Family members are desperately searching for them.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The US deported them to Venezuela - hours later earthquakes struck
+【发布时间】2026-07-02T14:43:31.000Z
+【链接】https://www.bbc.co.uk/news/articles/c3eyxjy01y3o?at_medium=RSS&at_campaign=rss
