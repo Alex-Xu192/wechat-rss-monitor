@@ -1,0 +1,33 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-02T06:22:27.688Z - 2026-07-02T08:22:27.688Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Russia unleashes huge bombardment of Kyiv
+2. Google loses appeal against record €4.1bn EU fine over Android
+
+==============================
+
+1. Russia unleashes huge bombardment of Kyiv
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Attack of 74 missiles and nearly 500 drones follows Zelenskyy’s warning that Moscow is preparing ‘massive strike’
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Russia unleashes huge bombardment of Kyiv
+【发布时间】2026-07-02T08:14:24.000Z
+【链接】https://www.ft.com/content/f85948e6-d779-4d74-9a59-56e83c3534d6
+
+------------------------------
+
+2. Google loses appeal against record €4.1bn EU fine over Android
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】European Court of Justice dismisses appeal brought by search company and its parent Alphabet
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Google loses appeal against record €4.1bn EU fine over Android
+【发布时间】2026-07-02T07:58:16.000Z
+【链接】https://www.ft.com/content/b2eb8225-54fd-4e6f-889e-d48fcb84faf4
