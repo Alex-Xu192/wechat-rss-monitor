@@ -1,0 +1,59 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-02T18:13:15.441Z - 2026-07-02T20:13:15.441Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Burnham insists he will be disciplined with UK public finances
+2. Russia unleashes huge bombardment on Kyiv
+3. Sandwich chain Jersey Mike’s files for IPO as Blackstone eyes windfall
+4. UK’s culture secretary and department quit X citing concerns over democracy
+
+==============================
+
+1. Burnham insists he will be disciplined with UK public finances
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Prime minister in waiting says he will stick by Labour’s manifesto promises on tax
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Burnham insists he will be disciplined with UK public finances
+【发布时间】2026-07-02T19:43:30.000Z
+【链接】https://www.ft.com/content/f27b6126-2c96-42f4-acf7-b54936f6f510
+
+------------------------------
+
+2. Russia unleashes huge bombardment on Kyiv
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Attack with 74 missiles and nearly 500 drones follows Zelenskyy’s warning that Moscow was preparing ‘massive strike’
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Russia unleashes huge bombardment on Kyiv
+【发布时间】2026-07-02T19:29:01.000Z
+【链接】https://www.ft.com/content/f85948e6-d779-4d74-9a59-56e83c3534d6
+
+------------------------------
+
+3. Sandwich chain Jersey Mike’s files for IPO as Blackstone eyes windfall
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Private equity group targets valuation of up to $12bn for purveyor of cheesesteaks and cold-cut heroes
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Sandwich chain Jersey Mike’s files for IPO as Blackstone eyes windfall
+【发布时间】2026-07-02T18:54:06.000Z
+【链接】https://www.ft.com/content/e6a97eaf-b19f-4016-827b-ae069f0ce08a
+
+------------------------------
+
+4. UK’s culture secretary and department quit X citing concerns over democracy
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Move by Lisa Nandy marks first exit of a major cabinet department from the platform
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】UK’s culture secretary and department quit X citing concerns over democracy
+【发布时间】2026-07-02T18:15:52.000Z
+【链接】https://www.ft.com/content/4914239a-22e1-43f4-84b4-124d2394c4a9
