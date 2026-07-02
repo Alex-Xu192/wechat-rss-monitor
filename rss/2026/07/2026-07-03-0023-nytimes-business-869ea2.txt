@@ -1,0 +1,98 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-02T14:23:02.855Z - 2026-07-02T16:23:02.855Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 私人信贷难以止住‘恐慌’
+2. 美国就业市场创造更慢但稳定的增长，6月就业数据显示
+3. 私人信贷是什么，以及投资者为何如此担忧
+4. 美国面临极端高温，数据中心被要求使用备用电源，以防止黑outs
+5. 特斯拉销量因欧洲复苏而激增25%
+6. 关于这份报告的重要信息
+7. 人工智能正在重塑经济。衡量方法可别太难。
+
+==============================
+
+1. 私人信贷难以止住‘恐慌’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】周四，蓝owl报告说，一些私人信贷基金再度收到大量投资者取出资金的请求。
+【依据】新闻讨论的是私人信贷基金的流出问题，涉及金融服务业，但未提及特定公司或股票代码。
+【原标题】Private Credit Can't Stop the 'Freak Out'
+【发布时间】2026-07-02T16:04:32.000Z
+【链接】https://www.nytimes.com/2026/07/02/business/private-credit-withdrawals.html
+
+------------------------------
+
+2. 美国就业市场创造更慢但稳定的增长，6月就业数据显示
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】尽管就业岗位数量比上月减少，但失业率下降，显示美国经济状况相对稳固。
+【依据】新闻关注美国就业形势和经济指标，没有涉及特定股票或公司。
+【原标题】US Job Market Makes Slower but Steady Gains, June Employment Data Shows
+【发布时间】2026-07-02T16:03:08.000Z
+【链接】https://www.nytimes.com/2026/07/02/business/economy/jobs-report-employment.html
+
+------------------------------
+
+3. 私人信贷是什么，以及投资者为何如此担忧
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】一些人认为，该行业扩张过快，发放了一些公司无法偿还的贷款。
+【依据】新闻分析私人信贷行业的发展问题，属于金融行业综述，无特定公司股票信息。
+【原标题】What Private Credit Is, and Why Investors Are So Worried About It
+【发布时间】2026-07-02T15:58:57.000Z
+【链接】https://www.nytimes.com/2026/07/02/business/private-credit-investor-worries.html
+
+------------------------------
+
+4. 美国面临极端高温，数据中心被要求使用备用电源，以防止黑outs
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】在三位数高温笼罩美国大部分地区时，特朗普政府希望网格经理要求使用常用但鲜用备用电源。
+【依据】新闻讴谈能源和电力基础设施问题，没有涉及具体公司或股票代号。
+【原标题】As U.S. Faces Extreme Heat, Data Centers Are Ordered to Use Backup Power to Prevent Blackouts
+【发布时间】2026-07-02T15:24:06.000Z
+【链接】https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html
+
+------------------------------
+
+5. 特斯拉销量因欧洲复苏而激增25%
+【相关股票】TSLA
+【利好股票】TSLA
+【利空股票】无法判断
+【摘要】通过降价，电动汽车制造商在二季度在欧洲复苏，弥补了美国市场的下降。
+【依据】新闻明确提及特斯拉公司（TSLA），销量反弹，为积极消息。
+【原标题】Tesla Sales Surge 25% on Recovery in Europe
+【发布时间】2026-07-02T15:07:48.000Z
+【链接】https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html
+
+------------------------------
+
+6. 关于这份报告的重要信息
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】关于就业报告的要点总结。
+【依据】新闻是就业数据的综合报道，没有涉及具体公司股票。
+【原标题】What to know about the report.
+【发布时间】2026-07-02T15:00:17.000Z
+【链接】https://www.nytimes.com/2026/07/02/business/economy/jobs-report-economy/what-to-know-about-the-report
+
+------------------------------
+
+7. 人工智能正在重塑经济。衡量方法可别太难。
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】一些数据显示人工智能已导致就业损失，但其他数据则显示相反。为什么难以判断具体情况呢？
+【依据】新闻讴谈人工智能对经济的影响，属于科技产业分析，无具体公司股票信息。
+【原标题】A.I. Is Reshaping the Economy. Good Luck Measuring How.
+【发布时间】2026-07-02T14:44:42.000Z
+【链接】https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html
