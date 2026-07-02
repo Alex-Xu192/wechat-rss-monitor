@@ -1,0 +1,72 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-02T10:15:44.081Z - 2026-07-02T12:15:44.081Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. UK car finance compensation scheme paused by tribunal
+2. Spain immigration amnesty draws 1.2mn applicants
+3. Andy Burnham and the politics of nostalgia
+4. Merz unveils €10bn tax cuts to revive German growth
+5. Modi and Takaichi meet in the shadow of Chinese pressure
+
+==============================
+
+1. UK car finance compensation scheme paused by tribunal
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】FCA programme partially suspended after challenges from lenders and consumer group
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】UK car finance compensation scheme paused by tribunal
+【发布时间】2026-07-02T11:45:31.000Z
+【链接】https://www.ft.com/content/43e848b0-dd0d-4db2-a32d-0e2c30a219d4
+
+------------------------------
+
+2. Spain immigration amnesty draws 1.2mn applicants
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】More than twice as many unauthorised immigrants applied for legal status as expected, mostly from Latin America
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Spain immigration amnesty draws 1.2mn applicants
+【发布时间】2026-07-02T11:23:23.000Z
+【链接】https://www.ft.com/content/90e98114-8f6a-4468-9ede-19b22d394cc2
+
+------------------------------
+
+3. Andy Burnham and the politics of nostalgia
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Starmer’s presumptive heir is locked in a battle over Britain’s past — and future — with Nigel Farage
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Andy Burnham and the politics of nostalgia
+【发布时间】2026-07-02T11:23:19.000Z
+【链接】https://www.ft.com/content/174355b4-6e59-4675-b838-fd84877b9391
+
+------------------------------
+
+4. Merz unveils €10bn tax cuts to revive German growth
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ruling coalition overcomes divisions to agree longer Sunday opening hours and tighter sick-leave rules
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Merz unveils €10bn tax cuts to revive German growth
+【发布时间】2026-07-02T11:08:22.000Z
+【链接】https://www.ft.com/content/05b780d0-a08b-45f4-8210-e3d83f73832a
+
+------------------------------
+
+5. Modi and Takaichi meet in the shadow of Chinese pressure
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Japan and India draw closer after falling foul of Beijing’s restrictions on rare earth exports
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Modi and Takaichi meet in the shadow of Chinese pressure
+【发布时间】2026-07-02T10:35:50.000Z
+【链接】https://www.ft.com/content/9240e19a-8a7e-4213-8ac4-b03c16120cd7
