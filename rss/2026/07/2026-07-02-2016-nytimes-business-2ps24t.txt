@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-02T10:16:28.600Z - 2026-07-02T12:16:28.600Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Why the Jobs Market Has Wall Street and Washington on Edge
+2. What to know about the report.
+3. A solid jobs market underpins Warsh’s inflation pledge.
+
+==============================
+
+1. Why the Jobs Market Has Wall Street and Washington on Edge
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A rebound in hiring has put more pressure on the Federal Reserve to raise interest rates. New jobs numbers are scheduled for release on Thursday.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Why the Jobs Market Has Wall Street and Washington on Edge
+【发布时间】2026-07-02T12:00:47.000Z
+【链接】https://www.nytimes.com/2026/07/02/business/dealbook/jobs-fed-rates-wall-street.html
+
+------------------------------
+
+2. What to know about the report.
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】tk tk
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】What to know about the report.
+【发布时间】2026-07-02T10:58:43.000Z
+【链接】https://www.nytimes.com/live/2026/07/02/business/jobs-report-economy/jobs-report-employment
+
+------------------------------
+
+3. A solid jobs market underpins Warsh’s inflation pledge.
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A solid jobs market underpins Warsh’s inflation pledge.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】A solid jobs market underpins Warsh’s inflation pledge.
+【发布时间】2026-07-02T10:58:03.000Z
+【链接】https://www.nytimes.com/live/2026/07/02/business/jobs-report-economy/a-solid-jobs-market-underpins-warshs-inflation-pledge
