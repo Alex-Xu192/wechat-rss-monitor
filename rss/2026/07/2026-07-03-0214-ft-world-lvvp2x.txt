@@ -1,0 +1,137 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-02T16:14:31.373Z - 2026-07-02T18:14:31.373Z
+【数量】10
+
+【本邮件新闻标题汇总】
+1. US economy undershoots forecasts with 57,000 jobs added in June
+2. Modi and Takaichi meet in the shadow of Chinese pressure
+3. The faltering engine of Germany’s auto industry
+4. Pubs to stay open until 5am for England’s World Cup match
+5. The chip rally is tightening tech’s grip on Wall Street
+6. Apollo struggles to sell Hispanic grocer after US immigration raids hit sales
+7. Teenage rapists given stricter sentence after public outcry
+8. Vatican schism puts Maga Catholics under pressure
+9. FCA criticises investment firms for unintelligible disclosure documents
+10. On America’s 250th, remember your Adam Smith . . .
+
+==============================
+
+1. US economy undershoots forecasts with 57,000 jobs added in June
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Hiring slows after 3-month streak of overperformance
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US economy undershoots forecasts with 57,000 jobs added in June
+【发布时间】2026-07-02T18:12:15.000Z
+【链接】https://www.ft.com/content/4fd134b3-b75b-4a25-9f2c-8bdb4f8f7dea
+
+------------------------------
+
+2. Modi and Takaichi meet in the shadow of Chinese pressure
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Japan and India draw closer after falling foul of Beijing’s restrictions on rare earth exports
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Modi and Takaichi meet in the shadow of Chinese pressure
+【发布时间】2026-07-02T18:02:21.000Z
+【链接】https://www.ft.com/content/9240e19a-8a7e-4213-8ac4-b03c16120cd7
+
+------------------------------
+
+3. The faltering engine of Germany’s auto industry
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】VW is a test of the country’s ability to adapt
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The faltering engine of Germany’s auto industry
+【发布时间】2026-07-02T17:55:22.000Z
+【链接】https://www.ft.com/content/f97cb278-be62-41b0-9d14-c8acb2d77f5f
+
+------------------------------
+
+4. Pubs to stay open until 5am for England’s World Cup match
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Keir Starmer bows to pressure to allow an all-night party — or wake, depending on the result
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Pubs to stay open until 5am for England’s World Cup match
+【发布时间】2026-07-02T17:52:21.000Z
+【链接】https://www.ft.com/content/de7b4c8d-d7a8-436c-a127-0be7e5a0251e
+
+------------------------------
+
+5. The chip rally is tightening tech’s grip on Wall Street
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】AI spending frenzy has powered a semiconductor surge
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The chip rally is tightening tech’s grip on Wall Street
+【发布时间】2026-07-02T17:19:36.000Z
+【链接】https://www.ft.com/content/3b44b33f-40da-43e4-98a7-10658e82a781
+
+------------------------------
+
+6. Apollo struggles to sell Hispanic grocer after US immigration raids hit sales
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Investors and analysts say customers’ fear of Trump’s deportation campaign weakened the private equity-owned chain
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Apollo struggles to sell Hispanic grocer after US immigration raids hit sales
+【发布时间】2026-07-02T17:16:52.000Z
+【链接】https://www.ft.com/content/556a939d-b080-4fc4-a799-2807c465ea29
+
+------------------------------
+
+7. Teenage rapists given stricter sentence after public outcry
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Boys handed a four-year detention sentence after attorney-general’s referral to the Court of Appeal
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Teenage rapists given stricter sentence after public outcry
+【发布时间】2026-07-02T16:53:08.000Z
+【链接】https://www.ft.com/content/4fee941a-7ad8-4440-85da-0de5239b2d75
+
+------------------------------
+
+8. Vatican schism puts Maga Catholics under pressure
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Pope Leo excommunicates ultra-conservative bishops whose views resonate with parts of the US right
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Vatican schism puts Maga Catholics under pressure
+【发布时间】2026-07-02T16:24:24.000Z
+【链接】https://www.ft.com/content/6b6caf0c-4c17-4612-a8cc-67c376b4bd70
+
+------------------------------
+
+9. FCA criticises investment firms for unintelligible disclosure documents
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UK financial watchdog also bans ‘double-dipping’ as it pushes to improve treatment of customers
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】FCA criticises investment firms for unintelligible disclosure documents
+【发布时间】2026-07-02T16:20:58.000Z
+【链接】https://www.ft.com/content/18ead4af-5dfc-4a49-83e0-2e69ee28023b
+
+------------------------------
+
+10. On America’s 250th, remember your Adam Smith . . .
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The ground is fertile for a renewal of the commitment to free markets and free people
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】On America’s 250th, remember your Adam Smith . . .
+【发布时间】2026-07-02T16:20:32.000Z
+【链接】https://www.ft.com/content/6da17af5-56c0-4771-9671-b7976be4480c
