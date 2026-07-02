@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-02T20:22:40.104Z - 2026-07-02T22:22:40.104Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Less Than 10 Percent of Eligible Children Have Trump Accounts
+2. Egg Producers to Pay $3.3 Million to Settle Federal Price-Fixing Lawsuit
+
+==============================
+
+1. Less Than 10 Percent of Eligible Children Have Trump Accounts
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】More than six million have been signed up for the investment accounts, which open for contributions July 4, but there are barriers to uptake.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Less Than 10 Percent of Eligible Children Have Trump Accounts
+【发布时间】2026-07-02T21:46:45.000Z
+【链接】https://www.nytimes.com/2026/07/02/upshot/trump-investment-accounts-children.html
+
+------------------------------
+
+2. Egg Producers to Pay $3.3 Million to Settle Federal Price-Fixing Lawsuit
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The companies also agreed to donate more than 53 million eggs to food banks and nonprofits in 17 states that joined the federal government in the antitrust action.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Egg Producers to Pay $3.3 Million to Settle Federal Price-Fixing Lawsuit
+【发布时间】2026-07-02T21:35:51.000Z
+【链接】https://www.nytimes.com/2026/07/02/business/egg-price-fixing-settlement-lawsuit.html
