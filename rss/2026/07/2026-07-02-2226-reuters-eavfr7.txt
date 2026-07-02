@@ -1,0 +1,72 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-02T12:26:28.522Z - 2026-07-02T14:26:28.522Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Service unavailable!
+2. AI fake news about Alabama newspapers turns out to be fake
+3. Color Photos Capture Life and Pollution Along the Ohio River in the Early 1970s
+4. The AI-powered World Cup runs on thousands of data workers
+5. My favorite keyboards
+
+==============================
+
+1. Service unavailable!
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/ [martenscentre.eu]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Service unavailable!
+【发布时间】2026-07-02T13:40:11.000Z
+【链接】https://flipso.com/p/vv3njw7i0?ref=rss
+
+------------------------------
+
+2. AI fake news about Alabama newspapers turns out to be fake
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A fabricated report claimed 47 Alabama weekly newspapers were bought, hollowed out with AI-generated content, and shuttered — but the paper trail didn’t hold up, and the story was later retracted. The piece examines how the false narrative spread, why it looked convincing, and what it says about AI slop and journalism. [niemanlab.org]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】AI fake news about Alabama newspapers turns out to be fake
+【发布时间】2026-07-02T13:28:12.000Z
+【链接】https://flipso.com/p/o2bjpc7wo?ref=rss
+
+------------------------------
+
+3. Color Photos Capture Life and Pollution Along the Ohio River in the Early 1970s
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Photos from the EPA’s Documerica project show the Ohio River in the early 1970s, when barges, steamboats, river recreation, and daily life coexisted with severe industrial pollution, smog, and visible environmental damage around Louisville and nearby river towns. [rarehistoricalphotos.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Color Photos Capture Life and Pollution Along the Ohio River in the Early 1970s
+【发布时间】2026-07-02T13:00:31.000Z
+【链接】https://flipso.com/p/gi6vs96h9?ref=rss
+
+------------------------------
+
+4. The AI-powered World Cup runs on thousands of data workers
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Human annotators in Brazil, Cambodia, the Philippines, and other countries are logging passes, tackles, shots, and other match events that feed team analytics, broadcasts, and betting systems. [restofworld.org]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The AI-powered World Cup runs on thousands of data workers
+【发布时间】2026-07-02T12:42:22.000Z
+【链接】https://flipso.com/p/ii5x274s6?ref=rss
+
+------------------------------
+
+5. My favorite keyboards
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Fabien Sanglard’s picks for the keyboards he has liked most over the years, from the IBM Model M and Model M SSK to the NMB ConcertMaster, Ergodox EZ, and ZSA Moonlander. He explains what he liked about each one, including key feel, ergonomics, stability, and everyday typing comfort. [fabiensanglard.net]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】My favorite keyboards
+【发布时间】2026-07-02T12:40:09.000Z
+【链接】https://flipso.com/p/2ohaw8fmk?ref=rss
