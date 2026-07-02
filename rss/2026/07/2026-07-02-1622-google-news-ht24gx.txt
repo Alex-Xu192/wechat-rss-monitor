@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-02T06:22:01.294Z - 2026-07-02T08:22:01.294Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Stock futures fall after weak start to July trading; jobs report ahead: Live updates - CNBC
+2. Heather Locklear’s BF Lorenzo Lamas Set To Be Single Within Months - TMZ
+3. China’s new ethnic unity law extends its legal reach overseas - Al Jazeera
+
+==============================
+
+1. Stock futures fall after weak start to July trading; jobs report ahead: Live updates - CNBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock futures fall after weak start to July trading; jobs report ahead: Live updates  CNBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Stock futures fall after weak start to July trading; jobs report ahead: Live updates - CNBC
+【发布时间】2026-07-02T07:11:00.000Z
+【链接】https://news.google.com/rss/articles/CBMid0FVX3lxTE0wbTlpNG1pUDh4QWF1UEdjQXBjNGY4ZkhMdGNTUzJqYmM3QWF0ZFFWbzF2a2oxRktmYjNoRWFCbW1GeFFUb3ZVUUlrZXRlbnpuYUtOemIyVEpWakFiYXN4ZEZ0MWJBRFVPY2RXSmtxdWptTmt0bXVN0gF8QVVfeXFMUG5UaktlMS1BaHJEWTcyTHpkS1VxYURCWWRkQVRyZnZyd2tiT3oyVjBFT2lyYnFRNkdJQWdPWmZmT3FQdmpqMFcyUGI5UFZXNTV2U0RzajZhM2RaY2w0dkVXdEExeklXbG42NkdiRDhGcWpNUkVmVlNYcnZWdw?oc=5
+
+------------------------------
+
+2. Heather Locklear’s BF Lorenzo Lamas Set To Be Single Within Months - TMZ
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Heather Locklear’s BF Lorenzo Lamas Set To Be Single Within Months  TMZ
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Heather Locklear’s BF Lorenzo Lamas Set To Be Single Within Months - TMZ
+【发布时间】2026-07-02T07:00:24.000Z
+【链接】https://news.google.com/rss/articles/CBMijgFBVV95cUxNektvaEQxVTh5c3A3M2w3dWlBYy1GX3Jtd1hDT21Qc3c4aDVtT0V6MURlRlFuaXNIMnVGOERVbkpKZ2FEWGxWZkFpODBOVmpHcXhpX1dEZFlTckx5ZS1oc3psUHVFSkpfaDVna2hpM01tSkZDZkhqbnR1Q3dzdVZVMGEyQ3NBbDZ0WFVNREVB?oc=5
+
+------------------------------
+
+3. China’s new ethnic unity law extends its legal reach overseas - Al Jazeera
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】China’s new ethnic unity law extends its legal reach overseas  Al Jazeera
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】China’s new ethnic unity law extends its legal reach overseas - Al Jazeera
+【发布时间】2026-07-02T06:46:45.000Z
+【链接】https://news.google.com/rss/articles/CBMiogFBVV95cUxPeTRPRnVlbF9QSWsza0pwbloyQXhCN0t1Xy10WGFDcDk4b0hYWVhidFBhZjB2b0lvMDJLajlpcWljbFozNTU4bU5RaUZkRnA0NFVKM2c2ZUdReVhSeDVuRlFmdVVKcnRsVkI5RU1hTmoxRmFnYWFJbi0tQ2dmZFR0eUdSUnNWYU9MemFja0d4Vm1CSVJuZlBPakltMmNGejAwbWfSAacBQVVfeXFMUGJkRVByLWx0dW0xcjRvWTAwY2ZZSVZmaVZFWlpNRDVrUlR6b2xFeGw3QnQ4SWFBYkxnQTM4dlBhTjdtSnpXcnpLV0JWemV3MEI1OW9IWXFLS1E0WlcyaFNMaVZNOTAyZUswQTBoV2tEZlhhZmV0amZHVG5rb1FOUVhEWmIxNXlxOVpWYkxIUTdhY1VNeWdUUTVtb1h0bFl5eWtMdDQ5RHc?oc=5
