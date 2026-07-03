@@ -1,0 +1,59 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-03T12:14:25.660Z - 2026-07-03T14:14:25.660Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Brent could fall to $60 a barrel by Christmas, forecasts Citi
+2. ‘It’s whack-a-mole’: how Europe’s smart border melted down
+3. Brussels rebuffs UK request for ‘decision-making’ role in EU
+4. John Roberts, the US chief justice playing the long game
+
+==============================
+
+1. Brent could fall to $60 a barrel by Christmas, forecasts Citi
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Bearish forecast comes as Wall Street analysts predict oil market will return to surplus
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Brent could fall to $60 a barrel by Christmas, forecasts Citi
+【发布时间】2026-07-03T14:04:48.000Z
+【链接】https://www.ft.com/content/30f0195c-6283-4a70-aab0-929b026c9b70
+
+------------------------------
+
+2. ‘It’s whack-a-mole’: how Europe’s smart border melted down
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Automated system first mooted in 2008 was meant to keep out criminals — instead, it is delaying travellers
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】‘It’s whack-a-mole’: how Europe’s smart border melted down
+【发布时间】2026-07-03T14:00:58.000Z
+【链接】https://www.ft.com/content/3ed70f64-7443-4241-ac0f-38eabe218913
+
+------------------------------
+
+3. Brussels rebuffs UK request for ‘decision-making’ role in EU
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Deal to reset post-Brexit relations with bloc has been further delayed
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Brussels rebuffs UK request for ‘decision-making’ role in EU
+【发布时间】2026-07-03T13:59:37.000Z
+【链接】https://www.ft.com/content/c5b0cc1b-5e6f-429d-a9b2-d1c9d0668683
+
+------------------------------
+
+4. John Roberts, the US chief justice playing the long game
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Under him the Supreme Court has defied Trump, while at the same time expanding the scope of presidential power
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】John Roberts, the US chief justice playing the long game
+【发布时间】2026-07-03T13:51:23.000Z
+【链接】https://www.ft.com/content/054c4a16-e7b6-4bed-a0d0-7ee0ae3e1251
