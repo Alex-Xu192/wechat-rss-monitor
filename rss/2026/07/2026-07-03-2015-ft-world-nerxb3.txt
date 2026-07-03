@@ -1,0 +1,72 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-03T10:15:24.573Z - 2026-07-03T12:15:24.573Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Europe’s dilemma over Chinese car plants
+2. How to sell your home in a slow market
+3. Trump’s $2.2bn windfall invites comparisons with global strongmen
+4. China steps up claims over sea east of Taiwan
+5. Iran begins mourning for Khamenei under tight security
+
+==============================
+
+1. Europe’s dilemma over Chinese car plants
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Proposed EU law threatens investment in the bloc, warns carmaker Xpeng
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Europe’s dilemma over Chinese car plants
+【发布时间】2026-07-03T11:06:31.000Z
+【链接】https://www.ft.com/content/520ec72c-c69e-4648-8b08-8883d57f4867
+
+------------------------------
+
+2. How to sell your home in a slow market
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】When sales are sluggish and the landscape has radically changed, strategies need sharpening
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】How to sell your home in a slow market
+【发布时间】2026-07-03T11:00:05.000Z
+【链接】https://www.ft.com/content/9b6d385c-5069-4918-88bc-7558be896bda
+
+------------------------------
+
+3. Trump’s $2.2bn windfall invites comparisons with global strongmen
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Political scientists are beginning to see parallels between the US president and authoritarian leaders in Africa and Asia
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Trump’s $2.2bn windfall invites comparisons with global strongmen
+【发布时间】2026-07-03T10:55:19.000Z
+【链接】https://www.ft.com/content/b12df253-c0c8-4956-bfd9-4df88133e620
+
+------------------------------
+
+4. China steps up claims over sea east of Taiwan
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Beijing argues Japan-Philippines talks on maritime boundaries violate international law as it ramps up pressure on Taipei
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】China steps up claims over sea east of Taiwan
+【发布时间】2026-07-03T10:46:03.000Z
+【链接】https://www.ft.com/content/6ac24ea6-50c2-4e25-92b7-79d52edc0b8b
+
+------------------------------
+
+5. Iran begins mourning for Khamenei under tight security
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Dignitaries from neighbouring states pay respects to slain supreme leader ahead of funeral
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Iran begins mourning for Khamenei under tight security
+【发布时间】2026-07-03T10:45:06.000Z
+【链接】https://www.ft.com/content/a23d758d-3b48-4ea4-a08c-5dba88543d08
