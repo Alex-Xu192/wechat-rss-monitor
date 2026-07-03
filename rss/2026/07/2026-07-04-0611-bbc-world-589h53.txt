@@ -1,0 +1,20 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-03T20:11:10.649Z - 2026-07-03T22:11:10.649Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Anguished families left to identify Venezuela quake victims at makeshift morgue
+
+==============================
+
+1. Anguished families left to identify Venezuela quake victims at makeshift morgue
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The disaster has overwhelmed local services, with bodies put outside or in tents for identification.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Anguished families left to identify Venezuela quake victims at makeshift morgue
+【发布时间】2026-07-03T21:00:53.000Z
+【链接】https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss
