@@ -1,0 +1,33 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-03T18:12:37.084Z - 2026-07-03T20:12:37.084Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Pope praises US history of welcoming immigrants in implicit rebuke to Trump - The Guardian
+2. Taylor Swift wedding live updates: Temperatures rise and roads close near Madison Square Garden - BBC
+
+==============================
+
+1. Pope praises US history of welcoming immigrants in implicit rebuke to Trump - The Guardian
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Pope praises US history of welcoming immigrants in implicit rebuke to Trump  The Guardian
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Pope praises US history of welcoming immigrants in implicit rebuke to Trump - The Guardian
+【发布时间】2026-07-03T18:43:00.000Z
+【链接】https://news.google.com/rss/articles/CBMingFBVV95cUxQMzV6TUxzV0ptVVhMTU9HWEJYZFhSOXM5NU1zNEM5R1QtZFN1LWRHX0JNcWliZ0Z4Q29DbGtpeDN2NGR2UzNwejVaM0Z1S3JvdVNPT2JNR0N2TFRtaDhVMGI0bEFHbEpRZkl3dWdHZkhmdjA5b1VMUDdHQU1sdmdaZXhiUzBJd2FrZHpVZkhlNWcxaWk5Z2N4S1FYOVYtQQ?oc=5
+
+------------------------------
+
+2. Taylor Swift wedding live updates: Temperatures rise and roads close near Madison Square Garden - BBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Taylor Swift wedding live updates: Temperatures rise and roads close near Madison Square Garden  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Taylor Swift wedding live updates: Temperatures rise and roads close near Madison Square Garden - BBC
+【发布时间】2026-07-03T18:22:56.000Z
+【链接】https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Za1NQMWRSQ0VRbFdKcVVhaFdwZHlzOGQ0SUl6WFYzVk8zR040cUU3cE9CSmxRd3pscm4zTGVfVUJmRkVNOXFEMVQ4bjE0MmNDckZWQg?oc=5
