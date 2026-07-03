@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-03T08:25:52.761Z - 2026-07-03T10:25:52.761Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 晚间电视能在YouTube上成功吗？
+2. 为什么单一的全球航运瓶颈不是另一蓝图？
+3. 最火的股市导致最大损失
+
+==============================
+
+1. 晚间电视能在YouTube上成功吗？
+【相关股票】Alphabet Inc.
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】朱利安·肖皮-巴纳姆（Julian Shapiro-Barnum）以社交媒体系列《Recess Therapy》闻名，现已推出全网独家深夜节目。
+【依据】该新闻探讨 YouTube 开设线上深夜节目，可能对母公司 Alphabet 的股价产生潜在影响，故纳入结构化分析。
+【原标题】Will Late-Night TV Work on YouTube?
+【发布时间】2026-07-03T09:02:17.000Z
+【链接】https://www.nytimes.com/2026/07/03/business/media/youtube-julian-shapiro-barnum-late-night.html
+
+------------------------------
+
+2. 为什么单一的全球航运瓶颈不是另一蓝图？
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】马来亚海峡可能成为阿曼和伊朗如何在霍尔木兹海峡收取费用的参考模型，但在两条水道之间存在巨大差异。
+【依据】文章分析了马来亚海峡与霍尔木兹海峡的比较，涉及国际航运政策与潜在的油气运输影响，故纳入结构化分析。
+【原标题】Why One Global Shipping Choke Point Isn’t a Blueprint for Another
+【发布时间】2026-07-03T09:01:46.000Z
+【链接】https://www.nytimes.com/2026/07/03/business/strait-malacca-hormuz.html
+
+------------------------------
+
+3. 最火的股市导致最大损失
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】研究显示，投资者热情在过去一百年里导致了部分最严重的财富毁灭案例。
+【依据】文章探讨了热点股市带来的巨大亏损，与投资者情绪和市场泡沫有关，故纳入结构化分析。
+【原标题】The Hottest Stock Markets Lead to the Biggest Losses
+【发布时间】2026-07-03T09:01:03.000Z
+【链接】https://www.nytimes.com/2026/07/03/business/stocks-investing-markets.html
