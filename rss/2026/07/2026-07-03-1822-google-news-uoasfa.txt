@@ -1,0 +1,33 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-03T08:22:23.846Z - 2026-07-03T10:22:23.846Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Empire State Building climbers: Angela Nikolau and Ivan Kuznetsov, AKA Beerkus, get supervised release until next court date - ABC7 New York
+2. Taylor Swift and Travis Kelce’s wedding weekend: Live updates from MSG - Page Six
+
+==============================
+
+1. Empire State Building climbers: Angela Nikolau and Ivan Kuznetsov, AKA Beerkus, get supervised release until next court date - ABC7 New York
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Empire State Building climbers: Angela Nikolau and Ivan Kuznetsov, AKA Beerkus, get supervised release until next court date  ABC7 New York
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Empire State Building climbers: Angela Nikolau and Ivan Kuznetsov, AKA Beerkus, get supervised release until next court date - ABC7 New York
+【发布时间】2026-07-03T10:10:29.000Z
+【链接】https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSkM4RGFkeUZ2Y3dGNU5WSVpTdWsxVE9McVpYRE10VklPNW5QYmRwa3ROanVBV3g4bkYxTEFyMUcxX3MxdHRNR0VNM3prOGN1N19JTnQ0NjlyTlZyQ2JNUmE4MWlIVWUza0JlcjdJdlFJLVR2TlZ5ZEw3MTk2Zm1uRG1welAxMkNBNUpJWUpFWWg1eG9lOU5iRGNaYlNFaUlKWDllMUNncUJSVm0xQk52a3VPLTVSdUl0VFlvVWpCMTZjNzRtZFVHMVJzbUFIMjc2RUlXS0RBNEnSAd4BQVVfeXFMUHdKbkR6UWFrNVZTd1ZHT245VzEzcDFHQ2NsTGh4NU1vRDAwRmxMb2k4Njl1MzJuNG1qYWRBaFpERVVnTWRJeDFHWXVDRExfZk9NNjR2MnBQaWpxMHl1Tnd6Z2hfTHJHX25Hc1pkRHo0S21teXZsVC1JdnlNb3hUbmNORzFEUXBFUko3SEpZcDhhQlBsQkJxSVUwX2VVZTg5OHd0Sk5YaXBIbHAybWNzVFd2bDFnWFZZYm1kSWJDRlBfN1czOHIwY3A5ejVQRHJ4XzBnVkRGbUk3V2VUejBB?oc=5
+
+------------------------------
+
+2. Taylor Swift and Travis Kelce’s wedding weekend: Live updates from MSG - Page Six
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Taylor Swift and Travis Kelce’s wedding weekend: Live updates from MSG  Page Six
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Taylor Swift and Travis Kelce’s wedding weekend: Live updates from MSG - Page Six
+【发布时间】2026-07-03T09:25:00.000Z
+【链接】https://news.google.com/rss/articles/CBMitAFBVV95cUxPWHExMnNrQ1YtNXlkUmFnMFR2UEN6b0ExQmdMcnMyMmE4TG0xaDZRMjFyanU3bWkwak9jOVM5alBmeVV5WERIdGdFeHNqSHRaemVyVl9UV0J2T29xM2ZZLTdENC1vM0R0cVhNU0VobEJYNm01M2hJbHp3bjFHWU5OOUZNcWRoaVZialhISHNYTklQdnhwRTBJVDRlTERVcnF4WHMtNXFaQzMxb3cycXUyd0N1ZUs?oc=5
