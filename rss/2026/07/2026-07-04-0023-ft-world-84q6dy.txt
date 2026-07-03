@@ -1,0 +1,72 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-03T14:23:23.548Z - 2026-07-03T16:23:23.548Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Top official recuses herself from NHS Palantir contract decision after business links
+2. Trump doubles down on support for Venezuela’s Delcy Rodríguez
+3. Forecasting recessions? GLWT
+4. Failings on defence leave Britain cruelly exposed
+5. Trump will oppose heavy US AI regulation, says outgoing tech adviser
+
+==============================
+
+1. Top official recuses herself from NHS Palantir contract decision after business links
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】MPs had raised concerns over Samantha Jones’s previous consulting work
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Top official recuses herself from NHS Palantir contract decision after business links
+【发布时间】2026-07-03T15:55:11.000Z
+【链接】https://www.ft.com/content/9ea6f458-ce0c-458e-8300-201030cf846e
+
+------------------------------
+
+2. Trump doubles down on support for Venezuela’s Delcy Rodríguez
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Washington is tying itself closely to a government that faces public anger over its response to devastating earthquakes
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump doubles down on support for Venezuela’s Delcy Rodríguez
+【发布时间】2026-07-03T15:18:15.000Z
+【链接】https://www.ft.com/content/25ede586-fee0-415c-b13a-60b0bf4d61a0
+
+------------------------------
+
+3. Forecasting recessions? GLWT
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Alphaville 🤜 🤛 The Economics Show
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Forecasting recessions? GLWT
+【发布时间】2026-07-03T15:05:03.000Z
+【链接】https://www.ft.com/content/f036ed94-76f3-48e3-9963-82ef7eabe9db
+
+------------------------------
+
+4. Failings on defence leave Britain cruelly exposed
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A desperate urge to save money has led the UK to ignore the dangerous new realities
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Failings on defence leave Britain cruelly exposed
+【发布时间】2026-07-03T15:00:03.000Z
+【链接】https://www.ft.com/content/4eed932c-8b79-4ffd-841b-28673d306cfa
+
+------------------------------
+
+5. Trump will oppose heavy US AI regulation, says outgoing tech adviser
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Sriram Krishnan tells the FT the president is against a centralised regulator as AI backlash grows
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump will oppose heavy US AI regulation, says outgoing tech adviser
+【发布时间】2026-07-03T14:32:49.000Z
+【链接】https://www.ft.com/content/5128e476-db8b-48ac-a8fb-0f16d0f5c2ed
