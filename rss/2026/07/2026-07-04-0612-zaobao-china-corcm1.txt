@@ -1,0 +1,37 @@
+Zaobao China - 中文结构化新闻汇总
+
+【来源】Zaobao China
+【时间】2026-07-03T20:12:14.830Z - 2026-07-03T22:12:14.830Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 吕爱丽：台湾准备好迎接更多外国人了吗？
+2. 新闻人间：“酒仙”高官刘满仓 退而不休贪满仓
+
+==============================
+
+1. 吕爱丽：台湾准备好迎接更多外国人了吗？
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】相隔逾10年，今年4月，我以外媒常驻记者身份再次回到台北生活，不少朋友好奇，以一个外国人的眼光来看，台湾这些年有什么变化。
+如果只说最直观的感受，大概就是全民炒股的气氛。坐上德士（台湾称计程车），司机一边开车，一边打电话给股票经纪交代卖出哪一档股票；找房子时，房屋经纪一见到房东，开口第一句话竟是：“恭喜！台积电又大涨了！”
+不过，当我重新以一名长期居留的外国人身份，在这座城市展开日常生活，从办理居留、申请手机门号、开立银行账户，到寄送个人物品等大小事，才发现许多过去曾遇到的难题虽然已有改善，一些陈年的制度痛点依然存在。
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】吕爱丽：台湾准备好迎接更多外国人了吗？
+【发布时间】2026-07-03T21:00:00.000Z
+【链接】https://www.zaobao.com/news/china/story20260704-9310099
+
+------------------------------
+
+2. 新闻人间：“酒仙”高官刘满仓 退而不休贪满仓
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】至少1.7亿元（人民币，下同，约合3238万新元）。这是河南副部级高官刘满仓退休后短短六年里的敛财金额，创下中国官方披露的官员退而不休贪婪腐化新纪录。
+已年满70岁的河南省人大常委会原中共党组副书记、副主任刘满仓，因受贿和利用影响力受贿逾3亿元，星期二（6月30日）被江苏省苏州市中级法院一审判处无期徒刑。
+高官贪个上亿元并因此锒铛入狱，在中国早已不是什么新鲜事，但法院披露的刘满仓受贿细节，依然在中国舆论场掀起波澜。调侃他人如其名贪“满仓”的声音此起彼伏，不少人也惊诧，刘满仓贪得“空前绝后”，退休六年里的受贿金额比在位20余年还要多。
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】新闻人间：“酒仙”高官刘满仓 退而不休贪满仓
+【发布时间】2026-07-03T21:00:00.000Z
+【链接】https://www.zaobao.com/news/china/story20260704-9302845
