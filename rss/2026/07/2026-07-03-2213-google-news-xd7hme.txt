@@ -1,0 +1,59 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-03T12:13:13.574Z - 2026-07-03T14:13:13.574Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 虚构的语言赢得观众心 - 《华盛顿邮报》
+2. 新的池塘清洁计划出台——包括每年清除污物 - CNN
+3. 报道称OxygenOS和Realme UI即将停止开发 - 9to5Google
+4. 直播更新：泰勒·斯威夫特和Travis Kelce的婚礼正在进行中 - CNN
+
+==============================
+
+1. 虚构的语言赢得观众心 - 《华盛顿邮报》
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】一款虚构的语言赢得了电影观众的喜爱，展现了人与AI之间奇妙的交互。
+【依据】该新闻讨论的是虚构语言在电影中的应用，没有提及涉及的公司或股票。
+【原标题】The fake language that captured moviegoers' hearts - The Washington Post
+【发布时间】2026-07-03T13:32:13.000Z
+【链接】https://news.google.com/rss/articles/CBMimgFBVV95cUxNUlRCYnhLT2ZxZndqTU96Z1MtOXh5cXlaemJfc2VOMFZoYUx0X2RqV0RicWdQd05DXy12VTJ1TWVONkhWWDFlcHpxM0tPWElRYnItV0pnTHBzOWtKVU5rVWJyNkNiZC1LdFpZN0xhaFZUWmYwSmdCdEluX0lSb3lJa0VCLVg3d2l4ODlVYkI5YTMycnlpVUtLYmVB?oc=5
+
+------------------------------
+
+2. 新的池塘清洁计划出台——包括每年清除污物 - CNN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】华盛顿Pool计划推出新措施，包括年度清理以保持水质清洁。
+【依据】此新闻关于公共设施清洁规划，无提及相关公司或股票信息。
+【原标题】A new plan to keep the Reflecting Pool clean – including annual purge of 'nasty' muck - CNN
+【发布时间】2026-07-03T12:30:25.000Z
+【链接】https://news.google.com/rss/articles/CBMiggFBVV95cUxQRjQycU8xMURZQjQ4TXctZkpMSUhBT0d2TzBhREVSYXJfTXMtVmdFYllEWXZWMndwVEpoTmhlUVJDZ2l1a2FkZVNEVU5ac25HODRxeVZYVzFleHlrSm1BOUx3b0M0UTJmbExabUM4aHlIcXVwMVQ3X05zWW1EVkl4SmRR?oc=5
+
+------------------------------
+
+3. 报道称OxygenOS和Realme UI即将停止开发 - 9to5Google
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】科技媒体报道称，OPPO旗下的OxygenOS和Realme UI或将停止开发，转向ColorOS生态。
+【依据】报道涉及Realme等科技产品，但并未确认具体公司股票代码，宣称将停止开发属于负面消息，但无法确定股票身份。
+【原标题】Report claims OxygenOS and Realme UI set to be discontinued - 9to5Google
+【发布时间】2026-07-03T12:18:00.000Z
+【链接】https://news.google.com/rss/articles/CBMimgFBVV95cUxQb01ZRzJqVUp4Zy1fU0FZVElUVmozS3pXaU1adnlnSHlmTk1vSHE1ZW9FTElHV1dMUThyRXdScEd2X3ROS3ZYb2t6SjM1dHd5aUNGdXhvZ1pYVHRtUWF0UWVWVHYxX2cwUFVKU0Uyc1ZGR2tScG9TYmkxc1NCSHpuejV3SVFJVncwOGJ5NjQ3VU43SzRWVlRGaUx3?oc=5
+
+------------------------------
+
+4. 直播更新：泰勒·斯威夫特和Travis Kelce的婚礼正在进行中 - CNN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】CNN正在直播更新泰勒·斯威夫特与Travis Kelce多天婚礼的进展情况。
+【依据】此新闻报道的是名人婚礼进展，没有涉及公司或股票。
+【原标题】Live updates: Taylor Swift and Travis Kelce's multi-day wedding celebration is underway - CNN
+【发布时间】2026-07-03T12:17:00.000Z
+【链接】https://news.google.com/rss/articles/CBMilwFBVV95cUxPRTNFcjcxNDJXRUtybVBJaDhKalpVallXZzFmVElNaS1jTnNnUUI4RTd2VzRRemdJR3c2MVl1WjhQWDJvZXA2VWNHVXlXTmFaTDFkMF95OHhDR2xVZndsVi1Qc0doWlBVenJVNk5fM2dPM2E2UE9lMmxkMnpJQXFVbHpGRHByRXRRclRSNlpJeElhbnExRG00?oc=5
