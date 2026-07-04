@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-04T04:13:30.085Z - 2026-07-04T06:13:30.085Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Trump returns to Mount Rushmore after years of hinting he belongs there - The Washington Post
+2. Fireworks, flyovers and a 'really long' Trump speech as US celebrates 250th - BBC
+3. Taylor Swift and Travis Kelce married in ceremony officiated by Adam Sandler - CBS News
+
+==============================
+
+1. Trump returns to Mount Rushmore after years of hinting he belongs there - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump returns to Mount Rushmore after years of hinting he belongs there  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump returns to Mount Rushmore after years of hinting he belongs there - The Washington Post
+【发布时间】2026-07-04T04:31:58.000Z
+【链接】https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3psYkhpVmpPOElfWEdaeTNvS3Q3YjdtSEwzWWZqcDRGLXFOUmd1b0hLUmt0VURkcXAta3pIN1FYNUxjR0lablY0dF9JYkxRNlNrYXc1WFg1M3M3T0M3WkVnOVdVQ1EtckRJVHo5RDFxVjJUbmxVYzQ5RDNOMEVIa3Nqb2NSVGNMN0Q0UXZxVmtNX0dHci1QSkVKSU44QzUzMmNLa3o5SmVlcGh6emI5cWhFZkdqZw?oc=5
+
+------------------------------
+
+2. Fireworks, flyovers and a 'really long' Trump speech as US celebrates 250th - BBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Fireworks, flyovers and a 'really long' Trump speech as US celebrates 250th  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Fireworks, flyovers and a 'really long' Trump speech as US celebrates 250th - BBC
+【发布时间】2026-07-04T04:31:13.000Z
+【链接】https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wTmYwcGIxQVZJT3UzcF8yX18xWkpUTjFSSUNwTWZxRlB6SWdvcnhmajBNTVVvZlJ1bGRPRUpBX0ZINW9Ia2VvV2s1ajJkUHlpd1dhU1M3X05TUQ?oc=5
+
+------------------------------
+
+3. Taylor Swift and Travis Kelce married in ceremony officiated by Adam Sandler - CBS News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Taylor Swift and Travis Kelce married in ceremony officiated by Adam Sandler  CBS News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Taylor Swift and Travis Kelce married in ceremony officiated by Adam Sandler - CBS News
+【发布时间】2026-07-04T04:28:26.000Z
+【链接】https://news.google.com/rss/articles/CBMimAFBVV95cUxNUTlOYk1SRUpLaHpQOTc0SGpSQThtclQzRDRkVktKWUJUbW0yelNuVTVJSVR1VWFnVTVEWlpYdEpKOGt2RGhva2VORy1FYW5Ra3BzME41b2g3NUFoUHVVODYtRy10bW5YUWJoTnBPdVVlVktvVlVfajhSalYtQXZ4NVRuWXU0UXZmMGJhY25sNmMwOXhKbVByaQ?oc=5
