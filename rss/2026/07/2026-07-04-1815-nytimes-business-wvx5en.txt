@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-04T08:15:45.576Z - 2026-07-04T10:15:45.576Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin
+2. Are the ‘MANGOS’ Stocks Already Turning Soft?
+3. The Rise of Racetrack Country Clubs: ‘Racing Is Golf on Steroids’
+
+==============================
+
+1. Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A report from a cryptocurrency analytics firm details how those who bought the Trump memecoin have fared, with most retail investors having lost money while sophisticated traders did better.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin
+【发布时间】2026-07-04T09:01:47.000Z
+【链接】https://www.nytimes.com/2026/07/04/us/politics/nearly-a-million-investors-lost-a-total-of-3-8-billion-on-trump-crypto-coin.html
+
+------------------------------
+
+2. Are the ‘MANGOS’ Stocks Already Turning Soft?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Wall Street loves an acronym. The latest one stands for Meta, Anthropic, Nvidia and three other companies at the center of the artificial intelligence boom.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Are the ‘MANGOS’ Stocks Already Turning Soft?
+【发布时间】2026-07-04T09:00:46.000Z
+【链接】https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html
+
+------------------------------
+
+3. The Rise of Racetrack Country Clubs: ‘Racing Is Golf on Steroids’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A motorsports club north of Miami, on former orange groves, is being built to cater to enthusiasts and well-heeled novices eager to hit the gas and pull some Gs.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The Rise of Racetrack Country Clubs: ‘Racing Is Golf on Steroids’
+【发布时间】2026-07-04T09:00:20.000Z
+【链接】https://www.nytimes.com/2026/07/04/business/racing-car-country-clubs.html
