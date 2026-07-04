@@ -1,0 +1,46 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-04T10:15:09.833Z - 2026-07-04T12:15:09.833Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. The Socialite New York Never Forgave
+2. Hydrogen Tech
+3. Astrophysicists Puzzle Over Webb’s New Universe
+
+==============================
+
+1. The Socialite New York Never Forgave
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ann Woodward’s 1955 shooting of her husband set off decades of scandal, gossip, and social exile. Though cleared by a coroner’s jury, she was haunted by Truman Capote’s savage retellings and by a reputation that never recovered. [observer.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The Socialite New York Never Forgave
+【发布时间】2026-07-04T11:20:09.000Z
+【链接】https://flipso.com/p/euwgj9kfz?ref=rss
+
+------------------------------
+
+2. Hydrogen Tech
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Hydrogen has important industrial uses, but for most transportation it remains limited by storage, distribution, and efficiency. Fuel cells are more efficient than hydrogen combustion, yet battery EVs are still far more practical for cars and likely to keep that advantage. The strongest near-term use cases for green hydrogen are heavy industry and some heavy transport, not a broad passenger-car hydrogen economy. [theness.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Hydrogen Tech
+【发布时间】2026-07-04T11:00:30.000Z
+【链接】https://flipso.com/p/2s0pr06ku?ref=rss
+
+------------------------------
+
+3. Astrophysicists Puzzle Over Webb’s New Universe
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】James Webb Space Telescope observations are upending ideas about the early universe, revealing unexpectedly massive black holes, strange “little red dots,” and galaxies that appeared far earlier and brighter than theories predicted. Researchers are testing competing explanations, from rapid black hole growth to direct-collapse seeds and unusually efficient early star formation. [quantamagazine.org]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Astrophysicists Puzzle Over Webb’s New Universe
+【发布时间】2026-07-04T10:40:10.000Z
+【链接】https://flipso.com/p/kzuuviiik?ref=rss
