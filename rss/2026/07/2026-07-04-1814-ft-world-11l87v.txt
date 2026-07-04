@@ -1,0 +1,20 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-04T08:14:22.596Z - 2026-07-04T10:14:22.596Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. ‘Heat dome’ over eastern US sends electricity prices soaring
+
+==============================
+
+1. ‘Heat dome’ over eastern US sends electricity prices soaring
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】More than 800,000 households left without power after storms and temperatures near 40C straining utility grids
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】‘Heat dome’ over eastern US sends electricity prices soaring
+【发布时间】2026-07-04T09:02:27.000Z
+【链接】https://www.ft.com/content/76de196b-175f-4f5b-b10c-cc17bb2948d1
