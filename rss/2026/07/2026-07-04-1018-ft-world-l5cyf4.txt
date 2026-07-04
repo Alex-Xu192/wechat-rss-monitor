@@ -1,0 +1,20 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-04T00:18:13.616Z - 2026-07-04T02:18:13.616Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Trump to kick off independence celebrations as heatwave grips US
+
+==============================
+
+1. Trump to kick off independence celebrations as heatwave grips US
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】President will speak at Mount Rushmore under a storm warning as high temperatures threaten 250th anniversary events
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump to kick off independence celebrations as heatwave grips US
+【发布时间】2026-07-04T00:51:11.000Z
+【链接】https://www.ft.com/content/46ae86e3-b7a4-4ef6-b90a-bc96214c521c
