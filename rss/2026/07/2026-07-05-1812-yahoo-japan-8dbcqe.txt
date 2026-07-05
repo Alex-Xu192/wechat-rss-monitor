@@ -1,0 +1,85 @@
+Yahoo Japan - 中文结构化新闻汇总
+
+【来源】Yahoo Japan
+【时间】2026-07-05T08:12:30.260Z - 2026-07-05T10:12:30.260Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 石破氏 消費減税の財源巡り苦言
+2. AIと1日8時間超会話 男性の告白
+3. マッチゼリー 学習塾自販機で好調
+4. 宮根誠司 ミヤネ屋卒業理由を語る
+5. 自民県幹部に現金渡した 県議証言
+6. 1人事故死 カントリー娘のあの日
+
+==============================
+
+1. 石破氏 消費減税の財源巡り苦言
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】石破氏 消費減税の財源巡り苦言
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】石破氏 消費減税の財源巡り苦言
+【发布时间】2026-07-05T09:40:24.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586832?source=rss
+
+------------------------------
+
+2. AIと1日8時間超会話 男性の告白
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】AIと1日8時間超会話 男性の告白
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】AIと1日8時間超会話 男性の告白
+【发布时间】2026-07-05T09:29:33.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586831?source=rss
+
+------------------------------
+
+3. マッチゼリー 学習塾自販機で好調
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】マッチゼリー 学習塾自販機で好調
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】マッチゼリー 学習塾自販機で好調
+【发布时间】2026-07-05T09:26:10.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586830?source=rss
+
+------------------------------
+
+4. 宮根誠司 ミヤネ屋卒業理由を語る
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】宮根誠司 ミヤネ屋卒業理由を語る
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】宮根誠司 ミヤネ屋卒業理由を語る
+【发布时间】2026-07-05T08:57:25.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586828?source=rss
+
+------------------------------
+
+5. 自民県幹部に現金渡した 県議証言
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】自民県幹部に現金渡した 県議証言
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】自民県幹部に現金渡した 県議証言
+【发布时间】2026-07-05T08:55:38.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586826?source=rss
+
+------------------------------
+
+6. 1人事故死 カントリー娘のあの日
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】1人事故死 カントリー娘のあの日
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】1人事故死 カントリー娘のあの日
+【发布时间】2026-07-05T08:33:43.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586825?source=rss
