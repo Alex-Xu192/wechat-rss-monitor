@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-05T10:15:21.139Z - 2026-07-05T12:15:21.139Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 泰勒·斯威夫特的婚礼成为品牌们的营销时刻
+2. 哲学专业生的复仇
+
+==============================
+
+1. 泰勒·斯威夫特的婚礼成为品牌们的营销时刻
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】一些企业趋于社交媒体使用人工智能生成的内容，而另一些公司则部署了旨在 capitalize on the frenzy surrounding this major celebrity event 的及时数字广告。
+【依据】此新闻讨论的是泰勒·斯威夫特婚礼对营销的影响，涉及多个品牌但并未提及具体公司或股票代码，属于时事营销话题。
+【原标题】Taylor Swift’s Wedding Became a Marketing Moment for Brands Big and Small
+【发布时间】2026-07-05T12:13:29.000Z
+【链接】https://www.nytimes.com/2026/07/05/style/taylor-swift-wedding-marketing-brands-ai.html
+
+------------------------------
+
+2. 哲学专业生的复仇
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】人工智能实验室正在招聘反思性、沉思的智者。现在谁是失业的？
+【依据】此新闻讨论的是哲学专业人才在人工智能领域的就业情况，属于教育和就业趋势话题，未涉及具体公司或股票代码。
+【原标题】The Revenge of the Philosophy Majors
+【发布时间】2026-07-05T11:17:17.000Z
+【链接】https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html
