@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-05T10:13:55.383Z - 2026-07-05T12:13:55.383Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Every wild detail from Taylor Swift and Travis Kelce's MSG wedding — from arcade games and 'JUST&T MARRIED' to an Adam Sandler cameo - Yahoo
+2. Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters
+3. Paul Pelosi in hit-and-run in California, car left with major damage, authorities say - NPR
+
+==============================
+
+1. Every wild detail from Taylor Swift and Travis Kelce's MSG wedding — from arcade games and 'JUST&T MARRIED' to an Adam Sandler cameo - Yahoo
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Every wild detail from Taylor Swift and Travis Kelce's MSG wedding — from arcade games and 'JUST&T MARRIED' to an Adam Sandler cameo  Yahoo
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Every wild detail from Taylor Swift and Travis Kelce's MSG wedding — from arcade games and 'JUST&T MARRIED' to an Adam Sandler cameo - Yahoo
+【发布时间】2026-07-05T11:24:48.000Z
+【链接】https://news.google.com/rss/articles/CBMiogJBVV95cUxOYW5aTW9PYVUzTVlHWGlCZW5MMmtoT2p5Yi1WUlY2MFhqdmhQWkdSTUduMUNhSjlmMFJiR0VJQ2NmVWF5Z204dFNScXc3Y3cwcXZaMVdqcjlzU0p4YkJQSUxhRC1QOG9jNmNWMVJOd2Nzd0t0d1VtSThOVDEtT25lMHozd2toeEJ2cmk3aVVFT3F2UXBEV1NnWkRscE1kYU13NERVVFRLZ1dVTXlVeEg1VXJxTHZXWlBBZlkzb1B3clE3WWRnYzhDdjNuOXQ5X00xdWZMbExiWHFlR3pjWTN2ZWtoRkhhV2gySXpUQVB1YmQ3eHA5V2VoQjRGVTVORWhYNDBiZEY2MHZKVUVrakh4X2dLc0IwdFViNkk0bHE5MENUdw?oc=5
+
+------------------------------
+
+2. Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Three sons of Iran's slain leader Khamenei appear at funeral, not his successor  ReutersSee more headlines & perspectives on Google News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Three sons of Iran's slain leader Khamenei appear at funeral, not his successor - Reuters
+【发布时间】2026-07-05T11:05:36.000Z
+【链接】https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmcyb0xaUjZMcUNjSDFQODFUX0Y1TDg0bDlHUkxLZE5FeWZQajJtZnRKYjRWdzZjN0RmRWcwdFN1dWtkLXdhUWFGNGJKVTFSSDJVRnV4Yy05YWJVbjh4RjJyS1YxdnBOMW9jQVp5Uk9aa1hxYmd1RndVZER6dTBSa0V2cnQxTTFscG5rY1hpV3NEMVNIeWJ0TFF4WE9XcEdoanFyVmtkenhSbXhvdnU1c3BQNEVOVmM1OHgyVmJvdGR3aWc?oc=5
+
+------------------------------
+
+3. Paul Pelosi in hit-and-run in California, car left with major damage, authorities say - NPR
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Paul Pelosi in hit-and-run in California, car left with major damage, authorities say  NPR
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Paul Pelosi in hit-and-run in California, car left with major damage, authorities say - NPR
+【发布时间】2026-07-05T10:28:42.000Z
+【链接】https://news.google.com/rss/articles/CBMikgFBVV95cUxQa1VvRHVEQUlLbWRLbGFFZ21KUXIwSnFyY3otQ1dSUlBKMUE0VU9YWFdMRVMyd0FUaHJEbUJIdGpUZUliWUJteGZZM0NLbm15dTlybjQ3clJLeXZzTERRTTlQdnFCS0lyNGhUV1c1QkxmS0xveHFaaklSMk16UWF3R2EtUHgxYmRlek1KRGwzemE4QQ?oc=5
