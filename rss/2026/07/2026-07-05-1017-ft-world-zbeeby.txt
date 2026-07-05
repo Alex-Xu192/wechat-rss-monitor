@@ -1,0 +1,20 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-05T00:17:54.074Z - 2026-07-05T02:17:54.074Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Storms force evacuation of July 4 celebrations in Washington
+
+==============================
+
+1. Storms force evacuation of July 4 celebrations in Washington
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump to speak at Lincoln Memorial as extreme heat and thunderstorms disrupt 250th anniversary events
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Storms force evacuation of July 4 celebrations in Washington
+【发布时间】2026-07-05T01:12:24.000Z
+【链接】https://www.ft.com/content/e197cb3f-0329-4c3f-8f04-3f0b768cdb30
