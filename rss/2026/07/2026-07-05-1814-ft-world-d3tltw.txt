@@ -1,0 +1,33 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-05T08:14:33.443Z - 2026-07-05T10:14:33.443Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. ‘Heat dome’ and storms over eastern US sends electricity prices soaring
+2. Lululemon’s latest struggle: slowing sales in key China market
+
+==============================
+
+1. ‘Heat dome’ and storms over eastern US sends electricity prices soaring
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Almost 1mn households left without power after storms and weekend temperatures near 40C disrupt grids
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】‘Heat dome’ and storms over eastern US sends electricity prices soaring
+【发布时间】2026-07-05T10:09:05.000Z
+【链接】https://www.ft.com/content/76de196b-175f-4f5b-b10c-cc17bb2948d1
+
+------------------------------
+
+2. Lululemon’s latest struggle: slowing sales in key China market
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Growth in second-largest economy has helped activewear maker offset series of other troubles but now faces new challenges
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Lululemon’s latest struggle: slowing sales in key China market
+【发布时间】2026-07-05T10:00:02.000Z
+【链接】https://www.ft.com/content/7073e7b5-d845-44b5-a36b-d638c7de4cdd
