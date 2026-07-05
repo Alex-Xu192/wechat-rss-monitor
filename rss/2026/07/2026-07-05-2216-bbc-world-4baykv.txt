@@ -1,0 +1,46 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-05T12:16:12.035Z - 2026-07-05T14:16:12.035Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks
+2. Australia probes mystery space balls that washed up on beach
+3. Iran's supreme leader absent as senior officials attend ayatollah's funeral
+
+==============================
+
+1. Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Nigeria's government said one of its nationals was reportedly killed by police officers "using gruesome interrogation techniques".
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks
+【发布时间】2026-07-05T13:09:20.000Z
+【链接】https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Australia probes mystery space balls that washed up on beach
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Australia probes mystery space balls that washed up on beach
+【发布时间】2026-07-05T12:55:58.000Z
+【链接】https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. Iran's supreme leader absent as senior officials attend ayatollah's funeral
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ali Khamenei's son Mojtaba is conspicuously absent from his father's funeral on Sunday, amid speculation about his condition.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Iran's supreme leader absent as senior officials attend ayatollah's funeral
+【发布时间】2026-07-05T12:29:18.000Z
+【链接】https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss
