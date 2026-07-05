@@ -1,0 +1,33 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-05T16:18:01.624Z - 2026-07-05T18:18:01.624Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. How Britain Became Poorer Than Mississippi
+2. Cannabis Users Face Higher Heart Attack Risk
+
+==============================
+
+1. How Britain Became Poorer Than Mississippi
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A sharp look at how austerity, Brexit, and political instability left Britain with stagnant growth, weak public services, and deep regional decline. [theatlantic.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】How Britain Became Poorer Than Mississippi
+【发布时间】2026-07-05T17:20:10.000Z
+【链接】https://flipso.com/p/bsyfrsnv4?ref=rss
+
+------------------------------
+
+2. Cannabis Users Face Higher Heart Attack Risk
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Two studies add to evidence linking cannabis use with higher heart attack risk, including a retrospective analysis of more than 4.6 million people and a meta-analysis of 12 studies. The retrospective study found especially high risk in users under 50, while the pooled analysis found about a 50% increase in heart attack risk among current users. [acc.org]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Cannabis Users Face Higher Heart Attack Risk
+【发布时间】2026-07-05T16:20:10.000Z
+【链接】https://flipso.com/p/vcfe266r1?ref=rss
