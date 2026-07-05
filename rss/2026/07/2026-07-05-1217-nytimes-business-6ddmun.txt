@@ -1,0 +1,20 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-05T02:17:27.861Z - 2026-07-05T04:17:27.861Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. 在旧金山的 AI 时代，甚至 18 万美元的科技薪资也已不足以为伍
+
+==============================
+
+1. 在旧金山的 AI 时代，甚至 18 万美元的科技薪资也已不足以为伍
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】随着 OpenAI 和 Anthropic 准备公开上市，收入六位数的科技工作者抱怨他们无法与新的 AI 精英竞争。一些人质疑他们是否还能负担得起留在公司。
+【依据】文中提及 OpenAI 与 Anthropic 两家未上市公司，没有给出具体股票代码或公开市场信息，无法判断相关股票或市场走势。
+【原标题】In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough
+【发布时间】2026-07-05T02:47:24.000Z
+【链接】https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html
