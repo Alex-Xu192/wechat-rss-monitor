@@ -1,0 +1,20 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-05T08:18:10.239Z - 2026-07-05T10:18:10.239Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. We have collectively been recovering from a physically and emotionally draining two weeks
+
+==============================
+
+1. We have collectively been recovering from a physically and emotionally draining two weeks
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Recovering from two exhausting weeks of marching band, with activities finally winding down and a little more relaxation ahead. Rain has been frequent, with some flooding nearby, and the family is hoping the annual July 4 festivities aren’t washed out. A brother and his family are visiting. [bjhess.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】We have collectively been recovering from a physically and emotionally draining two weeks
+【发布时间】2026-07-05T09:40:28.000Z
+【链接】https://flipso.com/p/0br9vh8g6?ref=rss
