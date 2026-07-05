@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-05T12:25:09.471Z - 2026-07-05T14:25:09.471Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. “MANGOS”股票是否已经转软？
+2. 哲学家是AI公司最新的招聘对象
+3. OPEC+承诺加产，尽管油价下跌
+
+==============================
+
+1. “MANGOS”股票是否已经转软？
+【相关股票】META、NVDA、MSFT、GOOGL、AMZN
+【利好股票】无法判断
+【利空股票】META、NVDA、MSFT、GOOGL、AMZN
+【摘要】华尔街喜欢缩写。最新的一个缩写指的是Meta、Anthropic、Nvidia以及其他几家人工智能热潮的核心公司。
+【依据】本文探讨了MANGOS股票组成及其在人工智能股中的表现，询问股价是否转软。由于题目提到“转软”，暗示市场情绪承压，相关AI股（META、NVDA、MSFT、GOOGL、AMZN）可能面临下行风险。
+【原标题】Are the 'MANGOS' Stocks Already Turning Soft?
+【发布时间】2026-07-05T14:07:44.000Z
+【链接】https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html
+
+------------------------------
+
+2. 哲学家是AI公司最新的招聘对象
+【相关股票】META、NVDA、MSFT、GOOGL、AMZN
+【利好股票】META、NVDA、MSFT、GOOGL、AMZN
+【利空股票】无法判断
+【摘要】AI实验室正在雇佣持反调性、低头沉思、竖起指关节的智者。谁现在处于过剩状态？
+【依据】文章指出AI实验室正紧抓人才，尤其是招聘哲学家，这表明AI公司正在加大人力投入。科技股（META、NVDA、MSFT、GOOGL、AMZN）因人才扩充，可能受益于业务持续拓展。
+【原标题】Philosophers Are the Latest Hiring Target for AI Companies
+【发布时间】2026-07-05T13:25:06.000Z
+【链接】https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html
+
+------------------------------
+
+3. OPEC+承诺加产，尽管油价下跌
+【相关股票】XOM、CVX、COP、PSX、SLB
+【利好股票】无法判断
+【利空股票】XOM、CVX、COP、PSX、SLB
+【摘要】在美伊谈判结束战争的进程中，油供压力有所缓解，尽管更广泛的市场和政治波动仍然持续，该卡塔尔联盟的决定是基于这一背景做出的。
+【依据】OPEC+在油价下跌时仍追加供油，显示产油国对市场需求的看法。这种产供错位对石油价格构成抛压，能源股（XOM、CVX、COP、PSX、SLB）可能因油价承压而面临下行风险。
+【原标题】OPEC Plus Pledges to Pump More Even as Oil Prices Fall
+【发布时间】2026-07-05T12:50:45.000Z
+【链接】https://www.nytimes.com/2026/07/05/business/opec-production-iran-war.html
