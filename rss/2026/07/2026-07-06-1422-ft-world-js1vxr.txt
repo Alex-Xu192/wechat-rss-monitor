@@ -1,0 +1,72 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-06T04:22:27.788Z - 2026-07-06T06:22:27.788Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Russia hammers Kyiv with missiles and drones on eve of Nato summit
+2. SaaSpocalypse deferred
+3. Erdoğan’s crackdown on comedians and journalists casts pall over Nato summit
+4. How the Iran crisis undermines the Bank’s QT programme
+5. FirstFT: Big investors commit billions to private credit despite turmoil
+
+==============================
+
+1. Russia hammers Kyiv with missiles and drones on eve of Nato summit
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Volodymyr Zelenskyy beseeches allies to provide Patriot interceptors to defend Ukraine
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Russia hammers Kyiv with missiles and drones on eve of Nato summit
+【发布时间】2026-07-06T06:15:18.000Z
+【链接】https://www.ft.com/content/3d6595b7-6317-469b-b30f-05bb3bdb0072
+
+------------------------------
+
+2. SaaSpocalypse deferred
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The moats hold, for now
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】SaaSpocalypse deferred
+【发布时间】2026-07-06T05:30:01.000Z
+【链接】https://www.ft.com/content/a31ee44a-a425-429c-bbba-c241dda79009
+
+------------------------------
+
+3. Erdoğan’s crackdown on comedians and journalists casts pall over Nato summit
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in this newsletter: Ireland to push faster drug approvals during EU presidency
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Erdoğan’s crackdown on comedians and journalists casts pall over Nato summit
+【发布时间】2026-07-06T05:00:03.000Z
+【链接】https://www.ft.com/content/80edd636-44a2-41f3-870e-f360bcfc495e
+
+------------------------------
+
+4. How the Iran crisis undermines the Bank’s QT programme
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Unlike the previous crises, this time the Bank carried on selling. It is time for a rethink.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】How the Iran crisis undermines the Bank’s QT programme
+【发布时间】2026-07-06T05:00:03.000Z
+【链接】https://www.ft.com/content/de19097f-856f-45af-9c94-bde1d246bd5f
+
+------------------------------
+
+5. FirstFT: Big investors commit billions to private credit despite turmoil
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in today’s newsletter: The use of AI in financial services and Turkey’s crackdown
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】FirstFT: Big investors commit billions to private credit despite turmoil
+【发布时间】2026-07-06T04:30:58.000Z
+【链接】https://www.ft.com/content/d653e868-086c-4b15-a140-23081ac562a2
