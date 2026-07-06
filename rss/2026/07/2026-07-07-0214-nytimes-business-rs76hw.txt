@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-06T16:14:41.947Z - 2026-07-06T18:14:41.947Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 洞悉浴盒工厂的香氛秘密
+2. 船舶在波斯湾往来往复，缓解油价压力
+
+==============================
+
+1. 洞悉浴盒工厂的香氛秘密
+【相关股票】BBWI、AMZN、COST、TGT、WMT
+【利好股票】BBWI
+【利空股票】无法判断
+【摘要】“日本樱花”香氛在过去20年间带来15亿美元收入。公司紧密的供应商网络能否推出下一个大热产品并提升销售额？
+【依据】该文章聚焦浴盒工厂的香氛生产，尤其是“日本樱花”香氛的成功案例。文章探讨了公司供应链网络能否创造出下一个大热香氛并提升销售额，这对浴盒工厂（Bath & Body Works，股票代码BBWI）的业绩持积极影响。作为零售消费品公司，BBWI受益于香氛产品的持续热度和供应链优化。
+【原标题】Inside Bath & Body Works’ Fragrance Factory
+【发布时间】2026-07-06T18:01:15.000Z
+【链接】https://www.nytimes.com/2026/07/06/business/bath-body-works-fragrance-factory.html
+
+------------------------------
+
+2. 船舶在波斯湾往来往复，缓解油价压力
+【相关股票】XLE、XOP、CVX、XOM、COP、SLB、HAL、BKR、VDE、RYD
+【利好股票】无法判断
+【利空股票】XLE、XOP、CVX、XOM、COP、SLB、HAL、BKR
+【摘要】波斯湾的油流量恢复，以及 OPEC+ 增加产油承诺，对能源价格形成下行压力。
+【依据】该文章报道波斯湾航运恢复和 OPEC+ 增加产油计划，导致油价承压下跌。这对能源股构成负面影响。油气整合公司（如雪佛龙XOM、chevron CVX、科沃斯 COP）以及能源服务公司（如Schlumberger SLB、Halliburton HAL、Baker Hughes BKR）的收入和利润可能受到压缩。能源ETF（如XLE、XOP）也面临资金流出风险。
+【原标题】Ships Are Moving In and Out of the Persian Gulf, Easing Oil Prices
+【发布时间】2026-07-06T16:25:24.000Z
+【链接】https://www.nytimes.com/2026/07/06/business/hormuz-strait-shipping-oil.html
