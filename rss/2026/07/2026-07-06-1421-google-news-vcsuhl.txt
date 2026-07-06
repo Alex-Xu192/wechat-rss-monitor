@@ -1,0 +1,59 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-06T04:21:35.311Z - 2026-07-06T06:21:35.311Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Russian missile and drone attack on Ukraine’s capital kills at least 3 - AP News
+2. FIFA lifts US star striker Balogun’s red card suspension at World Cup after Trump calls Infantino - AP News
+3. Trump says he overruled plan to cancel Mall celebration amid weather evacuations - The Washington Post
+4. Mexico’s World Cup run ends in heartbreaking loss to England - Los Angeles Times
+
+==============================
+
+1. Russian missile and drone attack on Ukraine’s capital kills at least 3 - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Russian missile and drone attack on Ukraine’s capital kills at least 3  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Russian missile and drone attack on Ukraine’s capital kills at least 3 - AP News
+【发布时间】2026-07-06T05:03:30.000Z
+【链接】https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzBYcmVtRXVET2hOUHR6c0ZBcEhVZjZkeTdJTnU4TnJpU3dGSldYS3hyZTRBbWh0TjBrYUd1eUxVZHoyYWRjSV9Qa0ZOOTFleFJPSi1rd2kyTFkzbGNMN25kWGtCOFNFWjFQdVBTOHc2dlhBTDc2eXRkb1ZlSGVEamlaSllJek02RUhxQ3E2N1hmNUpm?oc=5
+
+------------------------------
+
+2. FIFA lifts US star striker Balogun’s red card suspension at World Cup after Trump calls Infantino - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】FIFA lifts US star striker Balogun’s red card suspension at World Cup after Trump calls Infantino  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】FIFA lifts US star striker Balogun’s red card suspension at World Cup after Trump calls Infantino - AP News
+【发布时间】2026-07-06T04:56:00.000Z
+【链接】https://news.google.com/rss/articles/CBMinAFBVV95cUxQeEc2cGx0TERlSE0tQ01YZDlFaDRQYmtoNzZ3UFdJd0JRNDFSMFZKSGNwTzFRRUVaQ1ZYTElQR0l0NWZTSVNxU3d1ZHBGQUJDWm1PWkNCUVJmSHRjSE5SelFzSEtUMm5zaXVuQ196bExSaHVCN2lwbUtVQWpkc0ZEcGFVU3RTeHpqX2VhSW1uc2V2MGU5dHh3ejdsSzY?oc=5
+
+------------------------------
+
+3. Trump says he overruled plan to cancel Mall celebration amid weather evacuations - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump says he overruled plan to cancel Mall celebration amid weather evacuations  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump says he overruled plan to cancel Mall celebration amid weather evacuations - The Washington Post
+【发布时间】2026-07-06T04:52:00.000Z
+【链接】https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWJGWWZhSnpGanNxWjVQTjVKNUdaYTd0WFNxbExYV0RsMnBleGlZZHJEUjVFclhaUV9jcjd2VllkQVlLTUgzMGViV2ZiN3NLRzhfYkVaMXo1UldmVi03MDlicF9WWUZ5SDhKaFROVWs0WnBuZG1lSzU5Y1MxVW1NY0t1dzM4STRzSk9yUkpWbkotSktRSnNNeEd3VUs3aHoyX3RKWWxSc0ljOEtDRTRnTmNHRHpMa05sWVJhVFZSUUZSLTV2TEhn?oc=5
+
+------------------------------
+
+4. Mexico’s World Cup run ends in heartbreaking loss to England - Los Angeles Times
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Mexico’s World Cup run ends in heartbreaking loss to England  Los Angeles Times
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Mexico’s World Cup run ends in heartbreaking loss to England - Los Angeles Times
+【发布时间】2026-07-06T04:23:00.000Z
+【链接】https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXR0djB6N3FINk9ZS1hNSWJOQUJ5dVc1d2NQdG5DbWFEajZNQkhBTERVWFVFSmViUHM4QW1VTWJXRE82U0lEVVpNem5KWG54eVJxekVPeFlFRURCYmYtNTB2YjFYY0dBNzhUV2ltd3hocE9YaHVPM3pYTU1LTktJNzg1djhXZzJITlF1UVBqclVEdDNrQWdDM09LaDU5MTRNV2dpRTFuaE5NV2xv?oc=5
