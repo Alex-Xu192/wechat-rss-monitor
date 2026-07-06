@@ -1,0 +1,20 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-06T16:15:26.902Z - 2026-07-06T18:15:26.902Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Car touchscreens are cheap, not good
+
+==============================
+
+1. Car touchscreens are cheap, not good
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Automakers often prefer touchscreens and capacitive controls because they reduce parts, simplify assembly, and can help cut costs. They can also make interiors feel modern and enable software-driven features, but the post argues the biggest driver is cost-cutting rather than usability. [ben.stolovitz.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Car touchscreens are cheap, not good
+【发布时间】2026-07-06T16:40:09.000Z
+【链接】https://flipso.com/p/lcskb06ac?ref=rss
