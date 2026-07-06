@@ -1,0 +1,20 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-06T10:13:03.859Z - 2026-07-06T12:13:03.859Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Ukraine warns of interceptor missile shortage as 18 killed in Kyiv region
+
+==============================
+
+1. Ukraine warns of interceptor missile shortage as 18 killed in Kyiv region
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】President Zelensky says Sunday's "massive Russian attack" on Kyiv consisted of 68 missiles and 351 strike drones.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Ukraine warns of interceptor missile shortage as 18 killed in Kyiv region
+【发布时间】2026-07-06T10:21:17.000Z
+【链接】https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss
