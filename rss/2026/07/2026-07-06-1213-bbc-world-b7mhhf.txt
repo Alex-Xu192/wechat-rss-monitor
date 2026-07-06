@@ -1,0 +1,20 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-06T02:13:12.305Z - 2026-07-06T04:13:12.305Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Australia space agency has found 'likely source' of mystery space balls
+
+==============================
+
+1. Australia space agency has found 'likely source' of mystery space balls
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The agency says that they "appear to be pressure vessels from a space launch vehicle".
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Australia space agency has found 'likely source' of mystery space balls
+【发布时间】2026-07-06T02:49:15.000Z
+【链接】https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss
