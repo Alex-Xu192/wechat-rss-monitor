@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-06T06:13:45.381Z - 2026-07-06T08:13:45.381Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Philippine Senate opening the politically volatile impeachment trial of Vice President Sara Duterte - AP News
+2. S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates - CNBC
+3. Iran begins a procession through Tehran for Supreme Leader Ayatollah Ali Khamenei's funeral - AP News
+
+==============================
+
+1. Philippine Senate opening the politically volatile impeachment trial of Vice President Sara Duterte - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Philippine Senate opening the politically volatile impeachment trial of Vice President Sara Duterte  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Philippine Senate opening the politically volatile impeachment trial of Vice President Sara Duterte - AP News
+【发布时间】2026-07-06T06:50:00.000Z
+【链接】https://news.google.com/rss/articles/CBMitwFBVV95cUxNZEZQS0VjSW42XzBVTC13cWtpbXFid05tMU1zN3FEd1JVd3BIeU1pYWhzX1pTb2NReHdSVTNHV0dCQWYyN1BmZjBqcWxVeUlzOEJIU1htd3ktWUpZdE5ZUFRZeTdCVkpvUWEtVGhaQ3Jlb2NEWFk0UDVhcGtOMDBQSklYdlhDT29Udlk2dzZLZmdueWZvRG8tRGs5aGJ3VHJjcHpPd3Znd1pFYTMwZEh1cndrN2VMYXM?oc=5
+
+------------------------------
+
+2. S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates - CNBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates  CNBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates - CNBC
+【发布时间】2026-07-06T06:37:00.000Z
+【链接】https://news.google.com/rss/articles/CBMid0FVX3lxTE9Pc1Q1a0FiQXNHdTY4YlhDQ0wtT1NBX0dxMlZiMERKVTZxZkFrZVNyZnVEc01NWkFITm5XS0dfYnc2amtRX1R5LWZIbkNuM0JnRXlyYjR3WkxtOTlKWWdzS0JpaExTMmY1amNPcGNlLUdaUXZIallB0gF8QVVfeXFMTzkzYlJJQVo2Y1ZLdnFJR0NOc2ZzZ1M3eFdRZFM5LV8xbHlWTzJ3Z2ZYcHJGc1ZaMXhGSXlEVlZZclBBYzNoU3NFZWZnSXZrRF80SHF2eXZSV19GQ1d0YlRCVnNXN2luR1dJYjlvaXM3R3hNem1ENTNDNklPSg?oc=5
+
+------------------------------
+
+3. Iran begins a procession through Tehran for Supreme Leader Ayatollah Ali Khamenei's funeral - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Iran begins a procession through Tehran for Supreme Leader Ayatollah Ali Khamenei's funeral  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Iran begins a procession through Tehran for Supreme Leader Ayatollah Ali Khamenei's funeral - AP News
+【发布时间】2026-07-06T06:18:00.000Z
+【链接】https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlo0bjVlblZDZXpkNk16SnJBalNCaTlzcjB3U3JfbWQzRnJFamVsVkJTazBONFBJVU5kVnNKc05YQ0JvT3VMWU82OGZ1VmFNMGdla2dxclhDTXdhUTY5WHpOVFBjMUdCR2VDa25aRlo1TUVfX0w3TUFLSnVzdkcwUmRFOXlxcTVCbHF4MTFTMTFZS1RRR1ZKTEk5c180cS1VYXlDalc2TDlYbHhQdDN2R1pIUVk0dw?oc=5
