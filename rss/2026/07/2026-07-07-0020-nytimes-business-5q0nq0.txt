@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-06T14:20:32.441Z - 2026-07-06T16:20:32.441Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 阿里巴巴的人工智能很受欢迎，但难以变成赚钱工具
+2. Inside Bath & Body Works' Fragrance Factory
+3. Efforts to Help Smokers Quit Stall Under Trump
+4. 油价下跌后加油站业务更加盈利
+5. 特朗普干预世界杯引发足球界和更广泛领域的波澜
+
+==============================
+
+1. 阿里巴巴的人工智能很受欢迎，但难以变成赚钱工具
+【相关股票】BABA、9988.HK
+【利好股票】BABA
+【利空股票】无法判断
+【摘要】这家中国公司的模型赢得了全世界开发者的青睐，但它们是开源的——可以被自由使用和修改。
+【依据】文章明确提到阿里巴巴的AI业务，讨论其商业化挑战，表明其AI模型在开发者中受欢迎但开源模式难以直接转化为收入。
+【原标题】Alibaba's A.I. Is a Hit, but Hard to Turn Into a Moneymaker
+【发布时间】2026-07-06T16:05:26.000Z
+【链接】https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html
+
+------------------------------
+
+2. Inside Bath & Body Works' Fragrance Factory
+【相关股票】BBWI
+【利好股票】BBWI
+【利空股票】无法判断
+【摘要】"日本樱花"在过去20年为公司带来了15亿美元收入。公司的紧密供应商网络能否研发出下一个热门产品并提高销售额？
+【依据】文章讨论Bath & Body Works的香水工厂和新产品开发情况，直接涉及该公司的业务和收入。
+【原标题】Inside Bath & Body Works' Fragrance Factory
+【发布时间】2026-07-06T15:42:55.000Z
+【链接】https://www.nytimes.com/2026/07/06/business/bath-body-works-fragrance-factory.html
+
+------------------------------
+
+3. Efforts to Help Smokers Quit Stall Under Trump
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】CDC的烟草控制办公室已关闭一年多。在最著名的反吸烟广告下线后，拨打1-800-QUIT-NOW热线的电话大幅减少。
+【依据】文章主要讨论特朗普政府对反吸烟工作的削减政策，间接关系可能涉及烟草公司但不够明确。
+【原标题】Efforts to Help Smokers Quit Stall Under Trump
+【发布时间】2026-07-06T15:22:56.000Z
+【链接】https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html
+
+------------------------------
+
+4. 油价下跌后加油站业务更加盈利
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】特朗普总统正在指责汽油零售商保持高价格。证据表明这一业务变得更加盈利。
+【依据】文章讨论油价和加油站盈利情况，虽涉及能源行业但没有具体提到具体公司股票。
+【原标题】Gas Stations Gain When Oil Prices Start to Drop
+【发布时间】2026-07-06T15:01:24.000Z
+【链接】https://www.nytimes.com/2026/07/06/business/economy/gas-station-prices.html
+
+------------------------------
+
+5. 特朗普干预世界杯引发足球界和更广泛领域的波澜
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】美国对比利时足球赛在周一开赛前已经变得极为重要，这让政治置于 spotlight。
+【依据】文章讨论特朗普对世界杯的干预及其政治影响，主要是政治事件而非商业股票相关。
+【原标题】Trump's World Cup Intervention Roils the Soccer World, and Beyond
+【发布时间】2026-07-06T14:21:08.000Z
+【链接】https://www.nytimes.com/2026/07/06/business/dealbook/trump-world-cup-infantino.html
