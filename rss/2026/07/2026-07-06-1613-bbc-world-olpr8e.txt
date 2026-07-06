@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-06T06:13:06.351Z - 2026-07-06T08:13:06.351Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Girl trapped in Venezuela quake 'survived on ketchup and cheese'
+2. At least 11 killed in second Russian strikes on Kyiv in a week
+
+==============================
+
+1. Girl trapped in Venezuela quake 'survived on ketchup and cheese'
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】BBC international correspondent Yogita Limayee meets 12-year-old Fabiana, who was trapped in Venezuela's devastating earthquakes.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Girl trapped in Venezuela quake 'survived on ketchup and cheese'
+【发布时间】2026-07-06T07:17:57.000Z
+【链接】https://www.bbc.co.uk/news/videos/cjrggj051pvo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. At least 11 killed in second Russian strikes on Kyiv in a week
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Rescue efforts are continuing at more than 20 locations, the city's top military administrator says.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】At least 11 killed in second Russian strikes on Kyiv in a week
+【发布时间】2026-07-06T07:15:58.000Z
+【链接】https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss
