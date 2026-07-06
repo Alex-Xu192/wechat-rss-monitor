@@ -1,0 +1,98 @@
+Yahoo Japan - 中文结构化新闻汇总
+
+【来源】Yahoo Japan
+【时间】2026-07-06T06:13:20.140Z - 2026-07-06T08:13:20.140Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. KDDI パスワード760万人分漏えい
+2. 全東信が破産 クレカ早期決済代行
+3. スタバ 12～24歳向け新サービス
+4. 鳥人間 作業員が琵琶湖落下し死亡
+5. 韓国サッカー協会会長 辞任発表
+6. 中国ミサイル発射 日本が懸念伝達
+7. 上昇続く長期金利 一時2.83%に
+
+==============================
+
+1. KDDI パスワード760万人分漏えい
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】KDDI パスワード760万人分漏えい
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】KDDI パスワード760万人分漏えい
+【发布时间】2026-07-06T08:00:55.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586944?source=rss
+
+------------------------------
+
+2. 全東信が破産 クレカ早期決済代行
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】全東信が破産 クレカ早期決済代行
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】全東信が破産 クレカ早期決済代行
+【发布时间】2026-07-06T07:55:56.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586943?source=rss
+
+------------------------------
+
+3. スタバ 12～24歳向け新サービス
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】スタバ 12～24歳向け新サービス
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】スタバ 12～24歳向け新サービス
+【发布时间】2026-07-06T07:32:36.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586941?source=rss
+
+------------------------------
+
+4. 鳥人間 作業員が琵琶湖落下し死亡
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】鳥人間 作業員が琵琶湖落下し死亡
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】鳥人間 作業員が琵琶湖落下し死亡
+【发布时间】2026-07-06T07:15:58.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586940?source=rss
+
+------------------------------
+
+5. 韓国サッカー協会会長 辞任発表
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】韓国サッカー協会会長 辞任発表
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】韓国サッカー協会会長 辞任発表
+【发布时间】2026-07-06T07:09:29.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586938?source=rss
+
+------------------------------
+
+6. 中国ミサイル発射 日本が懸念伝達
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】中国ミサイル発射 日本が懸念伝達
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】中国ミサイル発射 日本が懸念伝達
+【发布时间】2026-07-06T07:08:41.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586939?source=rss
+
+------------------------------
+
+7. 上昇続く長期金利 一時2.83%に
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】上昇続く長期金利 一時2.83%に
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】上昇続く長期金利 一時2.83%に
+【发布时间】2026-07-06T06:38:09.000Z
+【链接】https://news.yahoo.co.jp/pickup/6586936?source=rss
