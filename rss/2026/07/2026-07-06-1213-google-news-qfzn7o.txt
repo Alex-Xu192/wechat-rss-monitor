@@ -1,0 +1,85 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-06T02:13:41.661Z - 2026-07-06T04:13:41.661Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. Trump says he overruled plan to cancel Mall celebration amid weather evacuations - The Washington Post
+2. Ukraine-Russia war latest: Putin hits Kyiv with ballistic missiles hours after Zelensky said attack ‘imminent’ - The Independent
+3. Delta Air Lines flight hit by firework while landing at Midway International Airport - CBS News
+4. S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates - CNBC
+5. 2026 World Cup: Short-handed England holds off Mexico at home behind 2-minute Jude Bellingham brace - Yahoo Sports
+6. Mallory McMorrow drops out of Democratic primary for Michigan Senate seat - The Washington Post
+
+==============================
+
+1. Trump says he overruled plan to cancel Mall celebration amid weather evacuations - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump says he overruled plan to cancel Mall celebration amid weather evacuations  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Trump says he overruled plan to cancel Mall celebration amid weather evacuations - The Washington Post
+【发布时间】2026-07-06T03:55:03.000Z
+【链接】https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWJGWWZhSnpGanNxWjVQTjVKNUdaYTd0WFNxbExYV0RsMnBleGlZZHJEUjVFclhaUV9jcjd2VllkQVlLTUgzMGViV2ZiN3NLRzhfYkVaMXo1UldmVi03MDlicF9WWUZ5SDhKaFROVWs0WnBuZG1lSzU5Y1MxVW1NY0t1dzM4STRzSk9yUkpWbkotSktRSnNNeEd3VUs3aHoyX3RKWWxSc0ljOEtDRTRnTmNHRHpMa05sWVJhVFZSUUZSLTV2TEhn?oc=5
+
+------------------------------
+
+2. Ukraine-Russia war latest: Putin hits Kyiv with ballistic missiles hours after Zelensky said attack ‘imminent’ - The Independent
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ukraine-Russia war latest: Putin hits Kyiv with ballistic missiles hours after Zelensky said attack ‘imminent’  The Independent
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Ukraine-Russia war latest: Putin hits Kyiv with ballistic missiles hours after Zelensky said attack ‘imminent’ - The Independent
+【发布时间】2026-07-06T03:53:10.000Z
+【链接】https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSW5ucmRGM1Zud2kwVzNaS05aY2lYNEZvdC1DeTdCQTN4VFB3dUtxNFJkdldFYlZmN210Vk9xR2NvQ25MczY4OEJNbkc4YnlfeWZBN2poQ3hZdEs1MDctNFVyUE0yaV9GdGR3QzF1QTZvQVdwY3RZR0tMTXBMZldaTU1idzNpc3JQTTEtd3k4WUNDekJzVFcySkZOck9mTEVVblRUNzdUblg1VG16UXBHSWIwYkJDcmw4eENGSWR3Qm9HZw?oc=5
+
+------------------------------
+
+3. Delta Air Lines flight hit by firework while landing at Midway International Airport - CBS News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Delta Air Lines flight hit by firework while landing at Midway International Airport  CBS News
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Delta Air Lines flight hit by firework while landing at Midway International Airport - CBS News
+【发布时间】2026-07-06T03:47:47.000Z
+【链接】https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRlhyNnVJRjhaWEo2OHRaWjR1ZUtLa1BrckJGa0Q4UnJ5andSR19xeU1NaDRUV2wwZWhnZ2dDcGM1SnE0RG5SYXF6bnVLQVNfZVBvQ3NlWE9HVTVQS3N2MUFodGc1Q2cweWtJbDZhd1RzUWZhRVp1b2lkLVpiNWJWSGhiRGxKcldmcW03ZldVaU5BSWtXTzdzemtMS1djTl9IdGJacFRhYnU?oc=5
+
+------------------------------
+
+4. S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates - CNBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates  CNBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates - CNBC
+【发布时间】2026-07-06T03:31:00.000Z
+【链接】https://news.google.com/rss/articles/CBMid0FVX3lxTE9Pc1Q1a0FiQXNHdTY4YlhDQ0wtT1NBX0dxMlZiMERKVTZxZkFrZVNyZnVEc01NWkFITm5XS0dfYnc2amtRX1R5LWZIbkNuM0JnRXlyYjR3WkxtOTlKWWdzS0JpaExTMmY1amNPcGNlLUdaUXZIallB0gF8QVVfeXFMTzkzYlJJQVo2Y1ZLdnFJR0NOc2ZzZ1M3eFdRZFM5LV8xbHlWTzJ3Z2ZYcHJGc1ZaMXhGSXlEVlZZclBBYzNoU3NFZWZnSXZrRF80SHF2eXZSV19GQ1d0YlRCVnNXN2luR1dJYjlvaXM3R3hNem1ENTNDNklPSg?oc=5
+
+------------------------------
+
+5. 2026 World Cup: Short-handed England holds off Mexico at home behind 2-minute Jude Bellingham brace - Yahoo Sports
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】2026 World Cup: Short-handed England holds off Mexico at home behind 2-minute Jude Bellingham brace  Yahoo Sports
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】2026 World Cup: Short-handed England holds off Mexico at home behind 2-minute Jude Bellingham brace - Yahoo Sports
+【发布时间】2026-07-06T03:16:00.000Z
+【链接】https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ1o2UmFtbUo0cTNHWE1QMGVCNGtJV2c1eWdxc3IzWkN5ZjNqdXB6bmljajNVLUY0V01TNEo0REw4TUFfT0hCcUlveFktUUM5ZlRYeXZUYk5OaVBYeWV5RFlPX0VQOXBRcDJackhRU01sbEl4NU1zdkNOcS1WWkpqMVFDd1hidnNoVC1nemxlc3c3ZF9WVkk5ZkZsTi01SW9JNnRoMEVkZS1iZnV1LUVrS3NtQzllTUl0V3pFMVFabEpNSzUyRGVkaGY5YUxlWjNxNnBpR29EUXBLa0FBVHhMblFBZlUxNllf?oc=5
+
+------------------------------
+
+6. Mallory McMorrow drops out of Democratic primary for Michigan Senate seat - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Mallory McMorrow drops out of Democratic primary for Michigan Senate seat  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Mallory McMorrow drops out of Democratic primary for Michigan Senate seat - The Washington Post
+【发布时间】2026-07-06T02:26:29.000Z
+【链接】https://news.google.com/rss/articles/CBMiugFBVV95cUxQZUVRVXEtNW0wLUxPM3pHdnZnbDNzMWk2dXpHY01uc1lwVFZjdEdmLTVkVlpzamJISmpoal9tdzZKZ2wtaTFiUndNSDlra29OQW1RamVNVjNmNDRYaHdHbkhNX0tSWkVmbUNNSTlxRDc3ck5obGhnQ1k0YWktUktRLVF5WnNhNDNtRC1MaXE2d3poQ0RVVzVNdUx0cnBOejNWOU85eU1NaWJvSjZwNThTUmxKLVNKMFRnaHc?oc=5
