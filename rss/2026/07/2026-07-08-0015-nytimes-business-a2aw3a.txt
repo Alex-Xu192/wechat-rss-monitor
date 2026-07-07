@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-07T14:15:11.553Z - 2026-07-07T16:15:11.553Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. As Messi Dominates the World Cup, a War Is Waged Over Maradona’s Image
+2. Iran’s Strikes on Ships in Strait of Hormuz Test Cease-Fire and Threaten Oil Flow
+3. Richard H. Glanton, Combative Head of Barnes Foundation, Dies at 79
+4. Why Are Berries Everywhere, in Every Season? Driscoll’s.
+5. Zyn’s Popularity Has Tobacco Companies Racing to Cash In
+
+==============================
+
+1. As Messi Dominates the World Cup, a War Is Waged Over Maradona’s Image
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A multimillion-dollar battle for a soccer god’s brand is being waged across continents, burning investors and tearing his family apart.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】As Messi Dominates the World Cup, a War Is Waged Over Maradona’s Image
+【发布时间】2026-07-07T15:53:14.000Z
+【链接】https://www.nytimes.com/2026/07/07/world/americas/world-cup-argentina-maradona-trademark.html
+
+------------------------------
+
+2. Iran’s Strikes on Ships in Strait of Hormuz Test Cease-Fire and Threaten Oil Flow
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The latest attacks, just weeks after the United States and Iran agreed to try to negotiate a lasting end to their hostilities, show that risks remain.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Iran’s Strikes on Ships in Strait of Hormuz Test Cease-Fire and Threaten Oil Flow
+【发布时间】2026-07-07T15:32:36.000Z
+【链接】https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html
+
+------------------------------
+
+3. Richard H. Glanton, Combative Head of Barnes Foundation, Dies at 79
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】In the 1990s, he took 80 of the art institution’s paintings on tour — going against the founder’s wishes — to raise money for a renovation.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Richard H. Glanton, Combative Head of Barnes Foundation, Dies at 79
+【发布时间】2026-07-07T15:31:46.000Z
+【链接】https://www.nytimes.com/2026/07/06/arts/design/richard-h-glanton-dead.html
+
+------------------------------
+
+4. Why Are Berries Everywhere, in Every Season? Driscoll’s.
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The California giant has helped turn a local, seasonal treat into a worldwide refrigerator staple and marketing juggernaut.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Why Are Berries Everywhere, in Every Season? Driscoll’s.
+【发布时间】2026-07-07T15:20:33.000Z
+【链接】https://www.nytimes.com/2026/07/07/dining/driscolls-berries.html
+
+------------------------------
+
+5. Zyn’s Popularity Has Tobacco Companies Racing to Cash In
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The makers of nicotine pouches are building new plants and expanding to meet demand. While influencers claim health benefits, experts warn the products can be highly addictive.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Zyn’s Popularity Has Tobacco Companies Racing to Cash In
+【发布时间】2026-07-07T14:59:24.000Z
+【链接】https://www.nytimes.com/2026/07/06/business/zyn-nicotine-pouches-tobacco.html
