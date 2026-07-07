@@ -1,0 +1,72 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-06T22:19:19.403Z - 2026-07-07T00:19:19.403Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. China fires ballistic missile into Pacific nuclear-free zone
+2. Top Fed official backs Kevin Warsh’s rethink of forward guidance
+3. Samsung boasts third straight quarter of record profit on AI demand
+4. Burnham urged to end freeze in salary threshold for student loan repayments
+5. Platner to ‘reflect’ on US Senate campaign after sexual assault allegations
+
+==============================
+
+1. China fires ballistic missile into Pacific nuclear-free zone
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Submarine-launched projectile carrying dummy warhead draws condemnation from Japan, Australia and New Zealand
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】China fires ballistic missile into Pacific nuclear-free zone
+【发布时间】2026-07-07T00:06:13.000Z
+【链接】https://www.ft.com/content/c52f0a98-2e6a-4acc-a668-d4ce442c4aba
+
+------------------------------
+
+2. Top Fed official backs Kevin Warsh’s rethink of forward guidance
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Christopher Waller sides with central bank’s new chair in call for revamping communication to market
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Top Fed official backs Kevin Warsh’s rethink of forward guidance
+【发布时间】2026-07-06T23:47:39.000Z
+【链接】https://www.ft.com/content/52030e91-cac4-4ea9-b518-35a50bb8273d
+
+------------------------------
+
+3. Samsung boasts third straight quarter of record profit on AI demand
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】High memory chip prices fuel April to June earnings
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Samsung boasts third straight quarter of record profit on AI demand
+【发布时间】2026-07-06T23:34:14.000Z
+【链接】https://www.ft.com/content/db4f9501-046c-4683-b59c-03b5a5ebfafb
+
+------------------------------
+
+4. Burnham urged to end freeze in salary threshold for student loan repayments
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】MPs accuse ministers of mis-selling finance to young people
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Burnham urged to end freeze in salary threshold for student loan repayments
+【发布时间】2026-07-06T23:01:06.000Z
+【链接】https://www.ft.com/content/a8cb2984-57ba-4951-8d10-c355415e360b
+
+------------------------------
+
+5. Platner to ‘reflect’ on US Senate campaign after sexual assault allegations
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Populist Democratic candidate denies accusation as deadline looms to replace him on the ballot
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Platner to ‘reflect’ on US Senate campaign after sexual assault allegations
+【发布时间】2026-07-06T22:20:37.000Z
+【链接】https://www.ft.com/content/c183570f-2351-46d6-8877-5c415167999b
