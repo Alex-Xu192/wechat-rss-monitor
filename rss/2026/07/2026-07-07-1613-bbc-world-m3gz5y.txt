@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-07T06:13:02.684Z - 2026-07-07T08:13:02.684Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France
+2. India's landmark Ram temple overhauls board after alleged theft of donations
+
+==============================
+
+1. Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France
+【发布时间】2026-07-07T06:28:56.000Z
+【链接】https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. India's landmark Ram temple overhauls board after alleged theft of donations
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Questions have been raised over alleged theft of cash, valuable jewellery, gold and silver offered by devotees.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】India's landmark Ram temple overhauls board after alleged theft of donations
+【发布时间】2026-07-07T06:23:04.000Z
+【链接】https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss
