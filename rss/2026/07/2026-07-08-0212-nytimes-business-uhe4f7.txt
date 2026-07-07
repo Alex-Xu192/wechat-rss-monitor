@@ -1,0 +1,59 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-07T16:12:41.745Z - 2026-07-07T18:12:41.745Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Samsung Made More Profit Last Quarter Than the Last Two Years Combined
+2. Mariska Hargitay to Host the Emmys
+3. Iran’s Strikes on Ships in Strait of Hormuz Test Cease-Fire and Threaten Oil Flow
+4. Four Seasons Sets Sail, Offering Luxury and Curated Cruise Experiences
+
+==============================
+
+1. Samsung Made More Profit Last Quarter Than the Last Two Years Combined
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The A.I. boom has propelled the South Korean tech giant’s earnings, but its shares sank as investors had even loftier expectations.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 2066 (line 1 column 2067)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Samsung Made More Profit Last Quarter Than the Last Two Years Combined
+【发布时间】2026-07-07T17:57:42.000Z
+【链接】https://www.nytimes.com/2026/07/06/business/samsung-earnings-chips.html
+
+------------------------------
+
+2. Mariska Hargitay to Host the Emmys
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The “Law & Order: SVU” star is a departure from the comedians and sitcom actors who have typically hosted the annual awards show.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 2066 (line 1 column 2067)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Mariska Hargitay to Host the Emmys
+【发布时间】2026-07-07T17:50:46.000Z
+【链接】https://www.nytimes.com/2026/07/07/business/media/mariska-hargitay-emmys-host.html
+
+------------------------------
+
+3. Iran’s Strikes on Ships in Strait of Hormuz Test Cease-Fire and Threaten Oil Flow
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The latest attacks, just weeks after the United States and Iran agreed to try to negotiate a lasting end to their hostilities, highlight risks for shipping companies.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 2066 (line 1 column 2067)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Iran’s Strikes on Ships in Strait of Hormuz Test Cease-Fire and Threaten Oil Flow
+【发布时间】2026-07-07T17:50:20.000Z
+【链接】https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html
+
+------------------------------
+
+4. Four Seasons Sets Sail, Offering Luxury and Curated Cruise Experiences
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Luxury hotel brands are getting into the cruise business. A Mediterranean itinerary offered a taste of what at times seemed like a mega-yacht experience.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 2066 (line 1 column 2067)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Four Seasons Sets Sail, Offering Luxury and Curated Cruise Experiences
+【发布时间】2026-07-07T17:25:28.000Z
+【链接】https://www.nytimes.com/2026/07/07/travel/four-seasons-luxury-cruise-mediterranean.html
