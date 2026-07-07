@@ -1,0 +1,20 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-07T16:12:50.010Z - 2026-07-07T18:12:50.010Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Showdown in Strasbourg: Chat Control 1.0 returns to the EU Parliament
+
+==============================
+
+1. Showdown in Strasbourg: Chat Control 1.0 returns to the EU Parliament
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】EU lawmakers in Strasbourg are set to debate a fast-track bid to revive the temporary Chat Control 1.0 scanning regime after it expired in April. The move would reopen the fight over whether private messages can be scanned in the name of child-protection enforcement. [heise.de]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Showdown in Strasbourg: Chat Control 1.0 returns to the EU Parliament
+【发布时间】2026-07-07T16:20:12.000Z
+【链接】https://flipso.com/p/my4cdlaly?ref=rss
