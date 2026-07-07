@@ -1,0 +1,137 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-07T18:12:31.194Z - 2026-07-07T20:12:31.194Z
+【数量】10
+
+【本邮件新闻标题汇总】
+1. A quick guide to Nigel Farage’s gamble
+2. Tories and Labour try to call Nigel Farage’s bluff
+3. French far-right leader Marine Le Pen says she will run for president
+4. Farage by-election gambit undercut by rivals’ refusal to participate
+5. How Prince Harry’s phone-hacking case against Daily Mail publisher was lost
+6. How far can a ‘Messi strategy’ get Argentina?
+7. Rachel Reeves calls for rival international defence schemes to merge
+8. Farage by-election move as it happened: Reform UK leader quits as MP
+9. Meta releases first image model since Zuckerberg’s AI overhaul
+10. Aberdeen-backed internet provider seeks buyer after steep losses
+
+==============================
+
+1. A quick guide to Nigel Farage’s gamble
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Reform UK leader has responded to scrutiny of his finances by calling a by-election that may yet fall flat
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】A quick guide to Nigel Farage’s gamble
+【发布时间】2026-07-07T20:03:12.000Z
+【链接】https://www.ft.com/content/b6776af8-8fb8-4059-b77a-b9553f61ef38
+
+------------------------------
+
+2. Tories and Labour try to call Nigel Farage’s bluff
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Mainstream parties denounce Reform UK leader’s by-election ‘gimmick’ and decide not to stand against him
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Tories and Labour try to call Nigel Farage’s bluff
+【发布时间】2026-07-07T19:53:14.000Z
+【链接】https://www.ft.com/content/1e7c34d9-d816-4a66-a1e7-3d34c4b34932
+
+------------------------------
+
+3. French far-right leader Marine Le Pen says she will run for president
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Politician sets up unprecedented election campaign next year after judges uphold her conviction for embezzlement
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】French far-right leader Marine Le Pen says she will run for president
+【发布时间】2026-07-07T19:36:21.000Z
+【链接】https://www.ft.com/content/3c0ecc58-630b-4d74-8abd-b17eb73116cf
+
+------------------------------
+
+4. Farage by-election gambit undercut by rivals’ refusal to participate
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Conservatives, Labour and Lib Dems will not contest vote as Reform UK leader denies wrongdoing over gifts
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Farage by-election gambit undercut by rivals’ refusal to participate
+【发布时间】2026-07-07T19:31:07.000Z
+【链接】https://www.ft.com/content/e83009d2-1a82-4ec1-83aa-2447cf1fa19b
+
+------------------------------
+
+5. How Prince Harry’s phone-hacking case against Daily Mail publisher was lost
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Judgment marks potentially fatal setback in self-declared crusade to hold British tabloid press accountable
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】How Prince Harry’s phone-hacking case against Daily Mail publisher was lost
+【发布时间】2026-07-07T19:18:08.000Z
+【链接】https://www.ft.com/content/de057c0d-ba47-43c7-9dc1-889e66299c84
+
+------------------------------
+
+6. How far can a ‘Messi strategy’ get Argentina?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A team shaped around the 39-year-old relies on controlled possession
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】How far can a ‘Messi strategy’ get Argentina?
+【发布时间】2026-07-07T19:12:54.000Z
+【链接】https://www.ft.com/content/629cedac-1ed9-42a7-b1cc-bc6cd2384f6c
+
+------------------------------
+
+7. Rachel Reeves calls for rival international defence schemes to merge
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UK chancellor says competing funding bodies should be brought together
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Rachel Reeves calls for rival international defence schemes to merge
+【发布时间】2026-07-07T19:00:02.000Z
+【链接】https://www.ft.com/content/fe160ac5-3ef8-423f-b758-b43ff6096c43
+
+------------------------------
+
+8. Farage by-election move as it happened: Reform UK leader quits as MP
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Tories and Labour refuse to participate in contest as head of rightwing populist party denies wrongdoing over donations
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Farage by-election move as it happened: Reform UK leader quits as MP
+【发布时间】2026-07-07T18:59:29.000Z
+【链接】https://www.ft.com/content/c10ac5b2-00ba-47c1-85db-a6754e2794e6
+
+------------------------------
+
+9. Meta releases first image model since Zuckerberg’s AI overhaul
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Muse Spark Image will be integrated into tech giant’s AI chatbot and its Instagram photo app
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Meta releases first image model since Zuckerberg’s AI overhaul
+【发布时间】2026-07-07T18:26:04.000Z
+【链接】https://www.ft.com/content/389f9102-fb5d-471a-bc50-9c591b7f7994
+
+------------------------------
+
+10. Aberdeen-backed internet provider seeks buyer after steep losses
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Airband initiates process to find new owner in move that puts £200mn of investors’ money at risk
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Aberdeen-backed internet provider seeks buyer after steep losses
+【发布时间】2026-07-07T18:25:41.000Z
+【链接】https://www.ft.com/content/6fe29d89-3784-4d48-a1e6-6133c44327e9
