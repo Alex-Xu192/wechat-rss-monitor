@@ -1,0 +1,73 @@
+Zaobao World - 中文结构化新闻汇总
+
+【来源】Zaobao World
+【时间】2026-07-07T08:29:24.371Z - 2026-07-07T10:29:24.371Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 美国不排除在海外生产PAC-3“爱国者”导弹
+2. 世卫：刚果（金）伊波拉疫情仍在扩大
+3. 意外长：不再回应特朗普挑衅 避免盟友争端升温
+4. 北约防务转向反无人机 五年投逾500亿新元
+
+==============================
+
+1. 美国不排除在海外生产PAC-3“爱国者”导弹
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】美国国防部高级官员说，美国不排除未来在海外生产洛克希德·马丁公司的先进PAC-3“爱国者”导弹。
+路透社报道，美国国防部副部长达菲星期二（7月7日）在土耳其安卡拉出席北约峰会期间，参加一场防务工业活动时作出上述表态。
+当被问到是否考虑过将PAC-3导弹生产放到美国以外时，达菲说：“我们当然对在美国境外生产的机会持开放态度。”
+报道并未说明哪些国家或参与生产，也没有提到相关安排是否已有具体时间表。
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 2782 (line 1 column 2783)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】美国不排除在海外生产PAC-3“爱国者”导弹
+【发布时间】2026-07-07T10:11:06.000Z
+【链接】https://www.zaobao.com/news/world/story20260707-9327625
+
+------------------------------
+
+2. 世卫：刚果（金）伊波拉疫情仍在扩大
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】世界卫生组织星期二说，刚果民主共和国（简称刚果（金））的伊波拉疫情尚未稳定，目前仍处于扩大阶段，人口流动正助长病毒传播。
+路透社报道，世卫组织驻刚果民主共和国代表安西亚星期二（7月7日）说：“不幸的是，疫情仍处于扩散阶段。我们希望可以说疫情正在稳定，但坦白说，目前还不能这么说。”
+报道暂未提供确诊病例、死亡人数或疫情涉及地区等进一步细节。
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 2782 (line 1 column 2783)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】世卫：刚果（金）伊波拉疫情仍在扩大
+【发布时间】2026-07-07T09:33:07.000Z
+【链接】https://www.zaobao.com/news/world/story20260707-9327269
+
+------------------------------
+
+3. 意外长：不再回应特朗普挑衅 避免盟友争端升温
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】意大利外交部长塔亚尼说，意大利将不再回应美国总统特朗普的挑衅性言论，以免在北约盟友之间进一步激化争端。
+路透社报道，北约领导人星期二（7月7日）和星期三将在土耳其首都安卡拉举行峰会，意大利总理梅洛尼和特朗普都将与会。两人近来关系出现摩擦。特朗普早前接受意大利电视台访问时声称，梅洛尼在法国七国集团峰会上“求”他与她合影，梅洛尼随后批评特朗普捏造故事。
+在北约峰会前夕，特朗普又在社交平台Truth Social发布一张梅洛尼仰头看着他的照片，并配文称“看来需要禁制令”，借此调侃梅洛尼。
+塔亚尼星期二接受意大利《新闻报》访问时说，特朗普“只代表他自己发言”。他说：“我们面对的是一名喜欢挑衅的美国总统，尤其是在社交媒体上。我们已经决定不再回应这些言论，以免在盟友之间煽动争端。”
+塔亚尼也强调，意大利“现在是、未来也会继续是美国的朋友”，美国仍是意大利和欧洲的战略伙伴。
+梅洛尼曾是特朗普的公开支持者，也是唯一出席他2025年就职典礼的欧洲领导人。不过，她今年批评特朗普抨击教宗良十四世谴责伊朗冲突，随后遭特朗普反击，指她缺乏勇气。
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 2782 (line 1 column 2783)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】意外长：不再回应特朗普挑衅 避免盟友争端升温
+【发布时间】2026-07-07T09:08:29.000Z
+【链接】https://www.zaobao.com/news/world/story20260707-9327137
+
+------------------------------
+
+4. 北约防务转向反无人机 五年投逾500亿新元
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】北约秘书长吕特星期二在安卡拉说，北约盟国未来五年将投入超过400亿美元（约520亿新元），加强反无人机防御能力。
+此举显示，随着无人机在俄乌战争等现代冲突中扮演越来越关键的角色，北约正把反无人机能力列为防务建设重点。
+综合路透社和法新社报道，北约秘书长吕特星期二（7月7日）也说，欧洲国家正在提高军费、扩大军工项目，并承担更多欧洲大陆防务责任，这是“更强欧洲、更强北约”的“北约3.0”。
+不过，美国特朗普仍批评欧洲在伊朗战争中对美国支持不足，也不满盟国行动不够快。
+为避免峰会再度爆发分歧，欧洲领导人一方面希望借军购、反无人机、防空和海上安全部署等安排证明诚意，另一方面也努力维持美国继续参与北约防务。
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 2782 (line 1 column 2783)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】北约防务转向反无人机 五年投逾500亿新元
+【发布时间】2026-07-07T08:36:00.000Z
+【链接】https://www.zaobao.com/news/world/story20260707-9326855
