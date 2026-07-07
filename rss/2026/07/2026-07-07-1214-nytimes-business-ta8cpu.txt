@@ -1,0 +1,20 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-07T02:14:40.428Z - 2026-07-07T04:14:40.428Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Samsung Made More Profit Last Quarter Than the Last Two Years Combined
+
+==============================
+
+1. Samsung Made More Profit Last Quarter Than the Last Two Years Combined
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The A.I. boom has propelled the South Korean tech giant’s earnings, but its shares sank as investors had even loftier expectations.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Samsung Made More Profit Last Quarter Than the Last Two Years Combined
+【发布时间】2026-07-07T03:56:41.000Z
+【链接】https://www.nytimes.com/2026/07/06/business/samsung-earnings-chips.html
