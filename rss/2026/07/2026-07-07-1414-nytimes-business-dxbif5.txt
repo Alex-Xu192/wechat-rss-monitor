@@ -1,0 +1,20 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-07T04:14:45.708Z - 2026-07-07T06:14:45.708Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power
+
+==============================
+
+1. To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power
+【发布时间】2026-07-07T05:36:01.000Z
+【链接】https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html
