@@ -1,0 +1,85 @@
+Yahoo Japan - 中文结构化新闻汇总
+
+【来源】Yahoo Japan
+【时间】2026-07-07T04:12:58.766Z - 2026-07-07T06:12:58.766Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. ナフサの備蓄検討を表明 経産相
+2. カカオ豆農家 豊作でも困窮の背景
+3. 岡本和真8試合ぶり20号 敵地騒然
+4. 空気注入 殺人罪2件のうち1件無罪
+5. 米国敗退 出場停止免れたFW不発
+6. 18年前に男性を殺害疑い 男を逮捕
+
+==============================
+
+1. ナフサの備蓄検討を表明 経産相
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】ナフサの備蓄検討を表明 経産相
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】ナフサの備蓄検討を表明 経産相
+【发布时间】2026-07-07T05:34:43.000Z
+【链接】https://news.yahoo.co.jp/pickup/6587042?source=rss
+
+------------------------------
+
+2. カカオ豆農家 豊作でも困窮の背景
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】カカオ豆農家 豊作でも困窮の背景
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】カカオ豆農家 豊作でも困窮の背景
+【发布时间】2026-07-07T05:26:55.000Z
+【链接】https://news.yahoo.co.jp/pickup/6587022?source=rss
+
+------------------------------
+
+3. 岡本和真8試合ぶり20号 敵地騒然
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】岡本和真8試合ぶり20号 敵地騒然
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】岡本和真8試合ぶり20号 敵地騒然
+【发布时间】2026-07-07T05:20:09.000Z
+【链接】https://news.yahoo.co.jp/pickup/6587041?source=rss
+
+------------------------------
+
+4. 空気注入 殺人罪2件のうち1件無罪
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】空気注入 殺人罪2件のうち1件無罪
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】空気注入 殺人罪2件のうち1件無罪
+【发布时间】2026-07-07T05:16:11.000Z
+【链接】https://news.yahoo.co.jp/pickup/6587040?source=rss
+
+------------------------------
+
+5. 米国敗退 出場停止免れたFW不発
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】米国敗退 出場停止免れたFW不発
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】米国敗退 出場停止免れたFW不発
+【发布时间】2026-07-07T04:46:59.000Z
+【链接】https://news.yahoo.co.jp/pickup/6587038?source=rss
+
+------------------------------
+
+6. 18年前に男性を殺害疑い 男を逮捕
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】18年前に男性を殺害疑い 男を逮捕
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】18年前に男性を殺害疑い 男を逮捕
+【发布时间】2026-07-07T04:17:33.000Z
+【链接】https://news.yahoo.co.jp/pickup/6587037?source=rss
