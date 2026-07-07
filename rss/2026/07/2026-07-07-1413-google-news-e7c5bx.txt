@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-07T04:13:45.179Z - 2026-07-07T06:13:45.179Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 顶级民主党人撤回对Graham Platner的 endorsements，呼吁其结束缅因州参议院竞选 - 《华盛顿邮报》
+2. 三星财报结果引发股票轮动，转向其他被忽视的板块 - Bloomberg.com
+3. 纽约市Legionnaires疫情爆发，已感染超过20人，其中一些人病情危重住院 - New York Post
+
+==============================
+
+1. 顶级民主党人撤回对Graham Platner的 endorsements，呼吁其结束缅因州参议院竞选 - 《华盛顿邮报》
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】顶级民主党人撤回对Graham Platner的支持，呼吁其结束缅因州参议院竞选 campaign。
+【依据】该新闻涉及美国缅因州参议院选举政治事件，讨论民主党人撤回对Graham Platner的支持。属于政治选举类资讯，未涉及具体公司或商品，无法判断关联股票。
+【原标题】Top Democrats pull Graham Platner endorsements, call on him to end Maine Senate campaign - The Washington Post
+【发布时间】2026-07-07T04:57:00.000Z
+【链接】https://news.google.com/rss/articles/CBMizgFBVV95cUxPZlozaGlwM1BNNk1XZjVTM3pMeDd3bU9obVN3cm5UaVM2ZG1FcDBVazVUSkF4YkVObHRTdlI5Q05rS18xRDRmZ216MVRsT1pzeE1RckNwSExod2R0SEEwcktSWTFiMllrS3pVNlF4R2ptS0tSTl9TMmY3aVR1azV5Q1RST0dpeFJyR0ZLWUFXcGpoVG9meGhRdkMxZVM3QXVsd1FHWjRkV2FSdno3RDByM1VFZTBsYmFfczlKbkEwZUVLU1dpQUhXTHFUQmFfdw?oc=5
+
+------------------------------
+
+2. 三星财报结果引发股票轮动，转向其他被忽视的板块 - Bloomberg.com
+【相关股票】三星电子(005930.KS)
+【利好股票】无法判断
+【利空股票】三星电子(005930.KS)
+【摘要】三星财报数据引发市场对股票板块的轮动，投资者正从热门板块转向其他被忽视的板块。
+【依据】该新闻直接涉及三星（Samsung），这是一家韩国上市公司。财报结果引发市场情绪变化，导致相关股票发生轮动交易行为，属于负面市场影响。
+【原标题】Samsung Results Trigger Stock Rotation to Less Loved Sectors - Bloomberg.com
+【发布时间】2026-07-07T04:56:00.000Z
+【链接】https://news.google.com/rss/articles/CBMisAFBVV95cUxQWlczU1oxMGNpaURvRUVMcVhpWmdaUjljbHFIQ3FNQi1qc2JoRzgydTRLNEhKdDMxWG9PZUEzOVBIeTc0NGNmcU9aSW1hMzV2Q3hDWXB4bFBndkk2aHg4dkFiUjVkLU1ldlhhMjBrUXZhMHJNREhMblBSZUYwQW4wR3BFQ1dXNDJhaFhvUFRNR2Jva2tnLTRXb3RLYW1WTE5Fc29FeFRzLWN0SHpkX2dUWQ?oc=5
+
+------------------------------
+
+3. 纽约市Legionnaires疫情爆发，已感染超过20人，其中一些人病情危重住院 - New York Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】纽约市发生Legionnaires疫情暴发，已感染超过20人，其中一些人病情危重，需要住院治疗。
+【依据】该新闻涉及纽约市发生的传染病疫情事件，属于公共卫生领域。疫情爆发可能影响相关健康产业，但具体股票代码无法判断。
+【原标题】NYC Legionnaires’ disease outbreak has now infected over 20 people — some hospitalized in critical condition - New York Post
+【发布时间】2026-07-07T04:20:59.000Z
+【链接】https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdktmcENKaFFaNTFiMFpmMFlqTkRHOVJDcVh1cm9oR25FeHpnd3BWNXRCb1lsSExEdGdkaXhYQlFuZmJ2bFY1TDFZSEhtUlVzV1llRmxqeDdzRUUtT1J1M2xSanRQMmUtbklkVk1aN1dsby1ZUjN5Y1J3bEQ3b2JBNHcwU0pNdzN4UDEzbXFlMmx5VV9wMTQxZWFIR20tckFjeEZ3M3hZN2MtUQ?oc=5
