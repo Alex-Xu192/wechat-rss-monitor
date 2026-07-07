@@ -1,0 +1,59 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-07T18:13:16.686Z - 2026-07-07T20:13:16.686Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 哲学家成为AI公司最新的招聘目标
+2. 特朗普对世界杯的干预震动足球世界，乃至更广
+3. 伊朗在霍尔muz海峡对船只的袭击考验停火协议，并威胁石油流通
+4. 《The View》是新闻节目吗？ABC称这已经有定论。
+
+==============================
+
+1. 哲学家成为AI公司最新的招聘目标
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】人工智能实验室正在招聘那些持相反观点、喜欢抚颊、手指交叉的哲学家。如今谁在就业不足？
+【依据】该新闻讨论AI公司雇佣哲学家，但未提及具体公司名称或股票代码，因此无法判断相关股票。
+【原标题】Philosophers Are the Latest Hiring Target for AI Companies
+【发布时间】2026-07-07T19:13:22.000Z
+【链接】https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html
+
+------------------------------
+
+2. 特朗普对世界杯的干预震动足球世界，乃至更广
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】美国对比利时的足球比赛在周一开赛前就已成为一个重大事件，将政治推到了聚光灯下。
+【依据】新闻涉及特朗普对世界杯的干预与政治，未提及具体公司或股票，故无法判断相关股票。
+【原标题】Trump’s World Cup Intervention Roils the Soccer World, and Beyond
+【发布时间】2026-07-07T19:09:37.000Z
+【链接】https://www.nytimes.com/2026/07/06/business/dealbook/trump-world-cup-infantino.html
+
+------------------------------
+
+3. 伊朗在霍尔muz海峡对船只的袭击考验停火协议，并威胁石油流通
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】就在美国和伊朗同意尝试谈判以结束敌对状态仅几周后，最新的袭击凸显了对航运公司的风险。
+【依据】新闻提及伊朗袭击影响石油流通和航运风险，涉及石油和航运行业，但未指出具体受益或受损的公司股票，因而无法确定正面或负面股票。
+【原标题】Iran’s Strikes on Ships in Strait of Hormuz Test Cease-Fire and Threaten Oil Flow
+【发布时间】2026-07-07T18:56:17.000Z
+【链接】https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html
+
+------------------------------
+
+4. 《The View》是新闻节目吗？ABC称这已经有定论。
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】在一份新文件中，ABC表示，联邦通信委员会（F.C.C.）在2002年裁定《The View》是一个“真正的新闻节目”。
+【依据】新闻讨论ABC节目性质与F.C.C.裁决，涉及媒体公司ABC（迪士尼旗下），但未明确指出具体股票影响，故无法判断相关股票。
+【原标题】Is ‘The View’ a News Show? ABC Says That’s Already Settled.
+【发布时间】2026-07-07T18:45:32.000Z
+【链接】https://www.nytimes.com/2026/07/07/business/media/the-view-abc-fcc-investigation.html
