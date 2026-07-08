@@ -1,0 +1,59 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-08T10:17:26.444Z - 2026-07-08T12:17:26.444Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Live updates: Trump says ceasefire ‘over’ after US and Iran trade strikes - CNN
+2. How much do cruise ship crew make? Here's the range, and why it varies - USA Today
+3. UK Farage's election gamble could see him face one challenger — Count Binface - Reuters
+4. SpaceX Analysts Are From Mars, Investors Are From Venus - WSJ
+
+==============================
+
+1. Live updates: Trump says ceasefire ‘over’ after US and Iran trade strikes - CNN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Live updates: Trump says ceasefire ‘over’ after US and Iran trade strikes  CNN
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Live updates: Trump says ceasefire ‘over’ after US and Iran trade strikes - CNN
+【发布时间】2026-07-08T12:05:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUJvWmM1dG1ldjh4TmdlYUJyTVRiWjhIVUFqcEJIVzcwdVJOb2c0ZlU2V3gxaktFWU9acnkzMGNDUHcwTEtPR2lJQVpaYjd1SU50UWpWUEdLNXBzWWZQbC1LcFBmMjNSRGRQMnRWYTAtRVJydTEwZ1dHMVlfdDVQNl9DMVNxVnlX?oc=5
+
+------------------------------
+
+2. How much do cruise ship crew make? Here's the range, and why it varies - USA Today
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】How much do cruise ship crew make? Here's the range, and why it varies  USA Today
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】How much do cruise ship crew make? Here's the range, and why it varies - USA Today
+【发布时间】2026-07-08T12:04:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFhqMkozZm90SXRqUWgwTnR1RWFlVk9BYmdLc084dUgzbU85dFVMc3BCanRQX0FEQkVITTFlNlR4NHlaQVhGYTRqX0NKRm1ydXQ4cHphazlUMVZDNktKZWxBVjFRTndldXl2RXljNENzOS12dEU2X3NqLTJoMWtFWXM3bTc2RWtoOXFSV2FEXzJKeE92aTJlMWlZdnI3TlROSlE?oc=5
+
+------------------------------
+
+3. UK Farage's election gamble could see him face one challenger — Count Binface - Reuters
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UK Farage's election gamble could see him face one challenger — Count Binface  Reuters
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】UK Farage's election gamble could see him face one challenger — Count Binface - Reuters
+【发布时间】2026-07-08T10:42:12.000Z
+【链接】https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1gtSjBfOFFBczJZY05LR2Y5MVY5eUhrQUp2TW9nZDlRMEJVRjNxT19mNzJBQklsaUFpSTAtTHFLNjV1SjI0M1ZUb3REbXlYZVRkWi13bXJfVUprb2RycFFPNVFkTkZFTlg0TE5HakNqUWxPZWNpX2tEOEZIQ3lHOXVZdURMRnp2S0tsLXZRdFZTeEtGekhUSWpVR1Fjc3k5S0FhQVVEaVB5SDRqQ0RZdUFOZVFYTE5FcU5R?oc=5
+
+------------------------------
+
+4. SpaceX Analysts Are From Mars, Investors Are From Venus - WSJ
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】SpaceX Analysts Are From Mars, Investors Are From Venus  WSJ
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】SpaceX Analysts Are From Mars, Investors Are From Venus - WSJ
+【发布时间】2026-07-08T10:34:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiowFBVV95cUxNalBHa09RczNlRTF1STQwbUNUUzNfaFdfVHV2bVlvd0RtelZYdHUxUFJ1WVV5OG5NRVN2cFhibzIxT1QwUGdEejdoVENIT2F1LVZVaDFmUUFDeEhUN1Z1RDNQRVpPSzZ1QVJpTGFzcFE2V2FOOHpoNERVUlBKZldEUWg2bkJfZWtoYzB6bV9JSWlwbVhMV201TGF0T2dMTXZGenVJ?oc=5
