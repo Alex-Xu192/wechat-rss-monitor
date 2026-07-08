@@ -1,0 +1,150 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-08T14:19:07.334Z - 2026-07-08T16:19:07.334Z
+【数量】11
+
+【本邮件新闻标题汇总】
+1. 议员们瞄向健康保险巨头的权力
+2. 油价在Trump宣称与伊朗交易'结束'后跳升
+3. 加拿大航空选择会说法语的Anko van der Werff担任CEO
+4. Trump愤怒斥责西班牙: '切断所有贸易'。以下是为何这不太可能
+5. 欧盟拒绝暂停EES生物识别系统在机场的请求
+6. 德国人不喜欢百威啤酒，但它不会接受拒绝
+7. 新的《小屋》拓宽并更新了草原版
+8. Mariska Hargitay将主持艾美奖
+9. 国际货币基金组织称全球经济产出2026年看起来较慢
+10. 在旧金山，一些房屋卖家现在要求OpenAI或Anthropic股票
+11. 为什么有些银行仍然收取高透支费用
+
+==============================
+
+1. 议员们瞄向健康保险巨头的权力
+【相关股票】UNH、CVS、CI
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UnitedHealth Group、CVS Health和Cigna正在争斗中反对打破其对处方药的控制权。
+【依据】新闻涉及三家健康保险公司可能面临分拆的压力，这可能对股价产生不确定影响，但具体涨跌难以判断。
+【原标题】Lawmakers Target the Power of Health Insurance Giants
+【发布时间】2026-07-08T16:13:59.000Z
+【链接】https://www.nytimes.com/2026/07/08/business/health-insurance-cvs-unitedhealth-breakup.html
+
+------------------------------
+
+2. 油价在Trump宣称与伊朗交易'结束'后跳升
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】霍尔木兹海峡船只遭攻击引发了新的报复循环，可能阻塞该地区能源流动。
+【依据】油价上涨可能推高能源公司股价，但新闻未具体提及个别公司。
+【原标题】Oil Prices Jump After Trump Says Deal With Iran Is 'Over'
+【发布时间】2026-07-08T15:59:27.000Z
+【链接】https://www.nytimes.com/2026/07/08/business/oil-gas-markets-iran-shipping-hormuz.html
+
+------------------------------
+
+3. 加拿大航空选择会说法语的Anko van der Werff担任CEO
+【相关股票】AC.TO
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Michael Rousseau因3月份事故后发表多数为英语的吊唁视频引发广泛批评，将退休。
+【依据】新闻涉及加拿大航空公司领导层变动，可能影响股价但难以判断具体影响。
+【原标题】Air Canada Chooses Anko van der Werff, Who Speaks French, as CEO After Language Backlash
+【发布时间】2026-07-08T15:52:53.000Z
+【链接】https://www.nytimes.com/2026/07/08/world/canada/air-canada-ceo-french-backlash-crash.html
+
+------------------------------
+
+4. Trump愤怒斥责西班牙: '切断所有贸易'。以下是为何这不太可能
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】对西班牙的行动将面临政治、法律和实际问题，可能引发更广泛的与欧盟的贸易战。这可能引起市场动荡。
+【依据】贸易政策可能影响多种行业，但新闻未指定具体公司或股票。
+【原标题】Trump Lashes Out at Spain: 'Cut Off All Trade.' Here's Why That's Unlikely.
+【发布时间】2026-07-08T15:16:08.000Z
+【链接】https://www.nytimes.com/2026/07/08/world/europe/trump-spain-trade-us-iran-nato.html
+
+------------------------------
+
+5. 欧盟拒绝暂停EES生物识别系统在机场的请求
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】欧盟领导人拒绝了航空工业在夏季旅行高峰前暂停生物识别检查点的请求。夏季旅行者请注意。
+【依据】政策新闻未涉及特定公司或股票代码。
+【原标题】EU Rejects Plea to Pause Troubled EES Biometrics System at Airports Ahead of Summer Rush
+【发布时间】2026-07-08T15:10:29.000Z
+【链接】https://www.nytimes.com/2026/07/08/travel/ees-europe-airports-security.html
+
+------------------------------
+
+6. 德国人不喜欢百威啤酒，但它不会接受拒绝
+【相关股票】BUD
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】百威啤酒再次尝试进入德国市场，但现在是个 tough time 要向德国饮者推销美国啤酒的形象和味道。
+【依据】涉及百威在德国市场的营销努力，可能影响其母公司AB InBev的股价，但具体影响难以判断。
+【原标题】Germans Don't Love Budweiser. It Won't Take No for an Answer.
+【发布时间】2026-07-08T15:09:33.000Z
+【链接】https://www.nytimes.com/2026/07/08/world/europe/germany-budweiser-beer.html
+
+------------------------------
+
+7. 新的《小屋》拓宽并更新了草原版
+【相关股票】NFLX
+【利好股票】NFLX
+【利空股票】无法判断
+【摘要】Netflix改编的这部心爱故事 empowering Ma 并增加新的黑人和北美原住民角色来挑战偏见。创作者知道批评即将来临。
+【依据】Netflix的新剧可能提高订阅率和股价，因此NFLX可能为正面股票。
+【原标题】A New 'Little House' Broadens and Updates the Prairie
+【发布时间】2026-07-08T15:08:22.000Z
+【链接】https://www.nytimes.com/2026/07/08/arts/television/little-house-on-the-prairie-netflix.html
+
+------------------------------
+
+8. Mariska Hargitay将主持艾美奖
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】《Law & Order: SVU》的主演与过去通常主持年度奖项的喜剧演员和sitcom演员不同。
+【依据】艾美奖主持人选择可能影响娱乐公司，但未指定公司或股票。
+【原标题】Mariska Hargitay to Host the Emmys
+【发布时间】2026-07-08T14:34:41.000Z
+【链接】https://www.nytimes.com/2026/07/07/business/media/mariska-hargitay-emmys-host.html
+
+------------------------------
+
+9. 国际货币基金组织称全球经济产出2026年看起来较慢
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】IMF预测世界产出增长将降至3%，这一数字被高商品价格所拖累。
+【依据】宏观经济数据可能影响整体市场，但未指明具体股票。
+【原标题】Global Economic Output Looks Slower for 2026, IMF Says
+【发布时间】2026-07-08T14:27:25.000Z
+【链接】https://www.nytimes.com/2026/07/08/business/economy/imf-world-economy-inflation.html
+
+------------------------------
+
+10. 在旧金山，一些房屋卖家现在要求OpenAI或Anthropic股票
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】即使在OpenAI和Anthropic上市前，这些公司就已经在旧金山湾区扭曲房屋销售，因为人们争相购买，卖家要求股票而非现金。
+【依据】OpenAI和Anthropic尚未上市，无法确定相关股票代码。
+【原标题】In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock
+【发布时间】2026-07-08T14:22:38.000Z
+【链接】https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html
+
+------------------------------
+
+11. 为什么有些银行仍然收取高透支费用
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】国会去年废除了限制银行如何收取透支费用的规则。现在银行的这些费用收入正在上升。
+【依据】银行业政策新闻未指定具体银行或股票代码。
+【原标题】Why Some Banks Still Charge High Overdraft Fees
+【发布时间】2026-07-08T14:21:46.000Z
+【链接】https://www.nytimes.com/2026/07/03/your-money/banks-overdraft-fees.html
