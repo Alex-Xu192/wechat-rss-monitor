@@ -1,0 +1,85 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-08T12:18:27.108Z - 2026-07-08T14:18:27.108Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. Mariska Hargitay to Host the Emmys
+2. Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’
+3. Health Insurance Giants Are Fighting Efforts to Break Them Up
+4. Trump Lashes Out at Spain: ‘Cut Off All Trade.’ Here’s Why That’s Unlikely.
+5. A New ‘Little House’ Expands and Updates the Prairie
+6. Global Economic Output Looks Slower for 2026, IMF Says
+
+==============================
+
+1. Mariska Hargitay to Host the Emmys
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The “Law & Order: SVU” star is a departure from the comedians and sitcom actors who have typically hosted the annual awards show.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Mariska Hargitay to Host the Emmys
+【发布时间】2026-07-08T14:04:41.000Z
+【链接】https://www.nytimes.com/2026/07/07/business/media/mariska-hargitay-emmys-host.html
+
+------------------------------
+
+2. Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Attacks on ships in the Strait of Hormuz sparked a new cycle of retaliation that could throttle the flow of energy from the region.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’
+【发布时间】2026-07-08T13:56:38.000Z
+【链接】https://www.nytimes.com/2026/07/08/business/oil-gas-markets-iran-shipping-hormuz.html
+
+------------------------------
+
+3. Health Insurance Giants Are Fighting Efforts to Break Them Up
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UnitedHealth Group, CVS Health and Cigna are suing states over new laws targeting their pharmacy businesses.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Health Insurance Giants Are Fighting Efforts to Break Them Up
+【发布时间】2026-07-08T13:39:42.000Z
+【链接】https://www.nytimes.com/2026/07/08/business/health-insurance-cvs-unitedhealth-breakup.html
+
+------------------------------
+
+4. Trump Lashes Out at Spain: ‘Cut Off All Trade.’ Here’s Why That’s Unlikely.
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A move against Spain would face political, legal and practical issues and probably provoke a wider trade war with the European Union. It could also roil markets.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump Lashes Out at Spain: ‘Cut Off All Trade.’ Here’s Why That’s Unlikely.
+【发布时间】2026-07-08T13:26:33.000Z
+【链接】https://www.nytimes.com/2026/07/08/world/europe/trump-spain-trade-us-iran-nato.html
+
+------------------------------
+
+5. A New ‘Little House’ Expands and Updates the Prairie
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A Netflix adaptation of the beloved tale empowers Ma and adds new Black and Native characters to challenge prejudices. The creators know criticism is coming.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】A New ‘Little House’ Expands and Updates the Prairie
+【发布时间】2026-07-08T13:17:32.000Z
+【链接】https://www.nytimes.com/2026/07/08/arts/television/little-house-on-the-prairie-netflix.html
+
+------------------------------
+
+6. Global Economic Output Looks Slower for 2026, IMF Says
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The I.M.F. projected world output would fall to 3 percent for the year, a number pushed down by high commodity prices.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Global Economic Output Looks Slower for 2026, IMF Says
+【发布时间】2026-07-08T13:00:12.000Z
+【链接】https://www.nytimes.com/2026/07/08/business/economy/imf-world-economy-inflation.html
