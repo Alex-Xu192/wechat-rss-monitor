@@ -1,0 +1,72 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-08T20:13:00.312Z - 2026-07-08T22:13:00.312Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Oil prices rise after Washington renews conflict with Tehran
+2. US launches second day of strikes against Iran
+3. FirstFT: Trump declares US-Iran ceasefire ‘over’
+4. Trump’s surprise Ukraine shift steadies nervous Nato allies
+5. Starmer planning bank holiday if England wins World Cup
+
+==============================
+
+1. Oil prices rise after Washington renews conflict with Tehran
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Donald Trump says US attacks will ‘get much worse’ if Iran hits more ships
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Oil prices rise after Washington renews conflict with Tehran
+【发布时间】2026-07-08T21:53:43.000Z
+【链接】https://www.ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680
+
+------------------------------
+
+2. US launches second day of strikes against Iran
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Attacks come hours after Donald Trump told a Nato summit the ceasefire with Tehran is ‘over’
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】US launches second day of strikes against Iran
+【发布时间】2026-07-08T21:52:18.000Z
+【链接】https://www.ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439
+
+------------------------------
+
+3. FirstFT: Trump declares US-Iran ceasefire ‘over’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in today’s newsletter: US rare earths flow to Asia, and Santander axes top China banker
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】FirstFT: Trump declares US-Iran ceasefire ‘over’
+【发布时间】2026-07-08T21:39:17.000Z
+【链接】https://www.ft.com/content/89382e17-17d4-476d-9551-3d1a45b72555
+
+------------------------------
+
+4. Trump’s surprise Ukraine shift steadies nervous Nato allies
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A summit that threatened new acrimony among the allies ended with free guns and ‘love in the room’
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Trump’s surprise Ukraine shift steadies nervous Nato allies
+【发布时间】2026-07-08T21:09:56.000Z
+【链接】https://www.ft.com/content/907c26d7-9c1e-4bac-8da0-28216445d860
+
+------------------------------
+
+5. Starmer planning bank holiday if England wins World Cup
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Businesses argue jubilation would offset any economic setback while pubs say it would be a ‘dream come true’
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Starmer planning bank holiday if England wins World Cup
+【发布时间】2026-07-08T21:00:05.000Z
+【链接】https://www.ft.com/content/cc1e20a7-6629-405d-a37f-ab07181ca77f
