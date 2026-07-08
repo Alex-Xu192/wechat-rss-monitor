@@ -1,0 +1,85 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-08T08:13:54.392Z - 2026-07-08T10:13:54.392Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. FirstFT: 特朗普宣布美伊停火“结束”
+2. 美国最大鸡蛋生产商背后家族因价格飙升获利3.2亿美元
+3. 苹果在特朗普支持的美国投资承诺下达成300亿美元博通交易
+4. 改革党称奈杰尔·法拉奇的对手“吓得逃窜”
+5. UniCredit获得商业银行48%股份
+6. 敢言质疑官方GDP数据的中国经济学家去世
+
+==============================
+
+1. FirstFT: 特朗普宣布美伊停火“结束”
+【相关股票】UniCredit (UCG.MI)、Commerzbank (CBK.DE)、Japanese Government Bonds (JGB)
+【利好股票】UniCredit (UCG.MI)
+【利空股票】Commerzbank (CBK.DE)、Japanese Government Bonds (JGB)
+【摘要】今日通讯其他内容：意大利UniCredit接近控制德国商业银行，日本借贷成本触及30年高位
+【依据】文章提到UniCredit接近控制商业银行，利好UniCredit股价；商业银行被收购可能利空；日本借贷成本上升利空日本国债。
+【原标题】FirstFT: Trump declares US-Iran ceasefire ‘over’
+【发布时间】2026-07-08T10:12:30.000Z
+【链接】https://www.ft.com/content/5f6b653e-2016-48a8-a5c9-8b32eb709f62
+
+------------------------------
+
+2. 美国最大鸡蛋生产商背后家族因价格飙升获利3.2亿美元
+【相关股票】Cal-Maine Foods (CALM)
+【利好股票】无法判断
+【利空股票】Cal-Maine Foods (CALM)
+【摘要】监管机构称Cal-Maine创始人后裔涉嫌操纵市场，在股价接近历史高位时出售控股股份
+【依据】创始人家族在涉嫌操纵市场指控下高位套现，利空Cal-Maine股价。
+【原标题】Family behind top US egg producer reaped $320mn after price surge
+【发布时间】2026-07-08T10:00:11.000Z
+【链接】https://www.ft.com/content/b3244fb3-6d23-4805-8f0c-60cda7e9969f
+
+------------------------------
+
+3. 苹果在特朗普支持的美国投资承诺下达成300亿美元博通交易
+【相关股票】Apple (AAPL)、Broadcom (AVGO)
+【利好股票】Apple (AAPL)、Broadcom (AVGO)
+【利空股票】无法判断
+【摘要】iPhone制造商继续通过在科罗拉多州投资来讨好总统
+【依据】苹果与博通达成大额交易，利好双方股价。
+【原标题】Apple makes $30bn Broadcom deal under Trump-backed US investment pledge
+【发布时间】2026-07-08T10:00:11.000Z
+【链接】https://www.ft.com/content/1bc10dd1-2aac-472d-b3d8-b76a83fb4abf
+
+------------------------------
+
+4. 改革党称奈杰尔·法拉奇的对手“吓得逃窜”
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】高级人物驳斥称在Clacton选区发起补选的决定适得其反
+【依据】文章涉及英国政治局势，未明确提及具体公司或行业，难以判断股票影响。
+【原标题】Nigel Farage’s rivals are ‘running scared’, says Reform
+【发布时间】2026-07-08T09:57:15.000Z
+【链接】https://www.ft.com/content/13ea13b7-b4f7-4ac9-82a0-47778c31a05e
+
+------------------------------
+
+5. UniCredit获得商业银行48%股份
+【相关股票】UniCredit (UCG.MI)、Commerzbank (CBK.DE)
+【利好股票】UniCredit (UCG.MI)
+【利空股票】Commerzbank (CBK.DE)
+【摘要】意大利银行在要约期结束后逼近对德国贷款机构的多数控制权
+【依据】UniCredit收购商业银行股份进展顺利，利好UniCredit；商业银行面临被收购风险，利空其股价。
+【原标题】UniCredit secures 48% stake in Commerzbank
+【发布时间】2026-07-08T09:36:22.000Z
+【链接】https://www.ft.com/content/aa19cfe8-92a8-46f6-9395-60bb3ec66927
+
+------------------------------
+
+6. 敢言质疑官方GDP数据的中国经济学家去世
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】高善文被网友赞为“说真话的人”，在一个以严格审查著称的国家
+【依据】文章纪念中国经济学家高善文，未涉及具体公司或行业，难以判断股票影响。
+【原标题】Outspoken Chinese economist who doubted official GDP data dies
+【发布时间】2026-07-08T09:03:04.000Z
+【链接】https://www.ft.com/content/e201f9f4-e3b2-4c59-8300-e50e9310a554
