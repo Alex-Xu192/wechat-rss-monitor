@@ -1,0 +1,98 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-08T06:22:02.668Z - 2026-07-08T08:22:02.668Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. UniCredit secures 48% stake in Commerzbank
+2. Re-election would not put Farage in the clear
+3. US launches wave of Iran strikes after attacks on tankers
+4. Farage by-election gambit undercut by rivals’ refusal to participate
+5. Virgin Media fined £28mn for preventing customers from cancelling contracts
+6. South Korea falls into bear market as traders fret over AI chipmakers’ prospects
+7. Singapore’s Temasek doubles down on AI and private credit
+
+==============================
+
+1. UniCredit secures 48% stake in Commerzbank
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Italian bank closing in on majority control of German lender after end of tender period
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】UniCredit secures 48% stake in Commerzbank
+【发布时间】2026-07-08T08:04:39.000Z
+【链接】https://www.ft.com/content/aa19cfe8-92a8-46f6-9395-60bb3ec66927
+
+------------------------------
+
+2. Re-election would not put Farage in the clear
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Opposition parties refuse to stand against scandal-hit politician in Reform’s safest seat of Clacton
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Re-election would not put Farage in the clear
+【发布时间】2026-07-08T07:56:54.000Z
+【链接】https://www.ft.com/content/e5d9a138-22df-4919-af3b-3f4ed8bc9297
+
+------------------------------
+
+3. US launches wave of Iran strikes after attacks on tankers
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Nato secretary-general Rutte backs US action as ‘absolutely necessary’ as Revolutionary Guards retaliate
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US launches wave of Iran strikes after attacks on tankers
+【发布时间】2026-07-08T07:49:14.000Z
+【链接】https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c
+
+------------------------------
+
+4. Farage by-election gambit undercut by rivals’ refusal to participate
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Conservatives, Labour and Lib Dems will not contest vote as Reform UK leader denies wrongdoing over gifts
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Farage by-election gambit undercut by rivals’ refusal to participate
+【发布时间】2026-07-08T07:14:03.000Z
+【链接】https://www.ft.com/content/e83009d2-1a82-4ec1-83aa-2447cf1fa19b
+
+------------------------------
+
+5. Virgin Media fined £28mn for preventing customers from cancelling contracts
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ofcom uncovers delay tactics that meant millions of calls were likely to have been mishandled
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Virgin Media fined £28mn for preventing customers from cancelling contracts
+【发布时间】2026-07-08T07:08:07.000Z
+【链接】https://www.ft.com/content/560023db-09d6-49b2-8168-6becb15d57ad
+
+------------------------------
+
+6. South Korea falls into bear market as traders fret over AI chipmakers’ prospects
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Kospi retreats more than 20% from June peak as sentiment starts to turn on Samsung Electronics and SK Hynix
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】South Korea falls into bear market as traders fret over AI chipmakers’ prospects
+【发布时间】2026-07-08T07:04:00.000Z
+【链接】https://www.ft.com/content/2cb790fc-016b-4b15-a9d8-5b6057592e1a
+
+------------------------------
+
+7. Singapore’s Temasek doubles down on AI and private credit
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】State investor focuses on accelerating returns after several lacklustre years
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Singapore’s Temasek doubles down on AI and private credit
+【发布时间】2026-07-08T07:03:57.000Z
+【链接】https://www.ft.com/content/39e28145-ed1d-493f-bfc3-aeaa0ea88096
