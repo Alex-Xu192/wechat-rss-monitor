@@ -1,0 +1,20 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-07T22:11:14.035Z - 2026-07-08T00:11:14.035Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. US launches strikes on Iran after tankers hit in Strait of Hormuz
+
+==============================
+
+1. US launches strikes on Iran after tankers hit in Strait of Hormuz
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The US says the strikes are intended to impose "heavy costs", while Iran warns it will "take decisive measures" in response.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US launches strikes on Iran after tankers hit in Strait of Hormuz
+【发布时间】2026-07-07T23:53:45.000Z
+【链接】https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss
