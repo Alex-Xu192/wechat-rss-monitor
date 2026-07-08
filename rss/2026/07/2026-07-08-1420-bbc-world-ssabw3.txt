@@ -1,0 +1,59 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-08T04:20:48.004Z - 2026-07-08T06:20:48.004Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Australia dock workers call for 28-hour week in AI talks
+2. Nato allies announce £37bn for new missile project
+3. Russian fuel shortages bite – but will Putin change tack in Ukraine war?
+4. US and Iran trade strikes after tankers hit in Strait of Hormuz
+
+==============================
+
+1. Australia dock workers call for 28-hour week in AI talks
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A union says workers are "in the crosshairs" of automation as AI is being tested across ports.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Australia dock workers call for 28-hour week in AI talks
+【发布时间】2026-07-08T06:06:12.000Z
+【链接】https://www.bbc.co.uk/news/articles/cd95wendvdeo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Nato allies announce £37bn for new missile project
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Nato allies announce £37bn for new missile project
+【发布时间】2026-07-08T05:57:53.000Z
+【链接】https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. Russian fuel shortages bite – but will Putin change tack in Ukraine war?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Russian fuel shortages bite – but will Putin change tack in Ukraine war?
+【发布时间】2026-07-08T05:05:31.000Z
+【链接】https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+4. US and Iran trade strikes after tankers hit in Strait of Hormuz
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The US military says it hit missile sites and command centres while Iran says it attacked US bases.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US and Iran trade strikes after tankers hit in Strait of Hormuz
+【发布时间】2026-07-08T04:43:44.000Z
+【链接】https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss
