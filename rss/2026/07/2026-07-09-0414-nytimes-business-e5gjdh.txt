@@ -1,0 +1,59 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-08T18:14:45.506Z - 2026-07-08T20:14:45.506Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. At Warsh’s First Fed Meeting, Some Officials Signaled Support for Raising Interest Rates
+2. Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’
+3. Oil Market Calm Shattered by Fresh Hostilities Between US and Iran
+4. In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock
+
+==============================
+
+1. At Warsh’s First Fed Meeting, Some Officials Signaled Support for Raising Interest Rates
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Minutes from Kevin M. Warsh’s first meeting as chairman showed heightened unease about inflation, which is running at a three-year high.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】At Warsh’s First Fed Meeting, Some Officials Signaled Support for Raising Interest Rates
+【发布时间】2026-07-08T19:34:27.000Z
+【链接】https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html
+
+------------------------------
+
+2. Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Attacks on ships in the Strait of Hormuz sparked a new cycle of retaliation that could throttle the flow of energy from the region.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’
+【发布时间】2026-07-08T19:31:40.000Z
+【链接】https://www.nytimes.com/2026/07/08/business/oil-gas-markets-iran-shipping-hormuz.html
+
+------------------------------
+
+3. Oil Market Calm Shattered by Fresh Hostilities Between US and Iran
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Oil prices are likely to remain volatile as long as the United States and Iran are unable to resolve the status of the Strait of Hormuz.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Oil Market Calm Shattered by Fresh Hostilities Between US and Iran
+【发布时间】2026-07-08T18:45:17.000Z
+【链接】https://www.nytimes.com/2026/07/08/business/energy-environment/iran-war-oil-prices.html
+
+------------------------------
+
+4. In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Even before OpenAI and Anthropic go public, they are distorting home sales in the San Francisco Bay Area, as people race to buy and sellers ask for stock instead of cash.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock
+【发布时间】2026-07-08T18:36:58.000Z
+【链接】https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html
