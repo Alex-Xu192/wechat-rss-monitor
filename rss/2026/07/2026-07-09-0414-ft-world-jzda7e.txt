@@ -1,0 +1,46 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-08T18:14:20.921Z - 2026-07-08T20:14:20.921Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Some Fed officials saw need for future rate rises to contain inflation
+2. Warsh’s minute minutes
+3. Burnham’s economic blueprint focuses on small business and cost of living
+
+==============================
+
+1. Some Fed officials saw need for future rate rises to contain inflation
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Minutes from last month’s meeting highlighted lingering concern about price pressures remaining high
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Some Fed officials saw need for future rate rises to contain inflation
+【发布时间】2026-07-08T18:58:09.000Z
+【链接】https://www.ft.com/content/b1eda604-0593-4f56-af1c-ccaf3619efd5
+
+------------------------------
+
+2. Warsh’s minute minutes
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Downwards doc
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Warsh’s minute minutes
+【发布时间】2026-07-08T18:22:24.000Z
+【链接】https://www.ft.com/content/3bce2dd4-d0fc-4f3a-80a6-730d1065d4d9
+
+------------------------------
+
+3. Burnham’s economic blueprint focuses on small business and cost of living
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Plan drawn up by key adviser Miatta Fahnbulleh aims to unite different wings of Labour Party
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Burnham’s economic blueprint focuses on small business and cost of living
+【发布时间】2026-07-08T18:18:14.000Z
+【链接】https://www.ft.com/content/68c1ff31-3373-4e59-8908-7aa7871e2ef1
