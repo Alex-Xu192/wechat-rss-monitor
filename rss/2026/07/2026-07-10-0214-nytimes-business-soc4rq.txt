@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-09T16:14:15.213Z - 2026-07-09T18:14:15.213Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 杂货店降价应对消费者削减开支
+2. 救命！我给租赁车加了油，Enterprise 却仍向我收费。
+
+==============================
+
+1. 杂货店降价应对消费者削减开支
+【相关股票】KR、WMT、TGT、COST、IMKTA
+【利好股票】无法判断
+【利空股票】KR、IMKTA
+【摘要】虽然购物者可能在某些商品上获得更好的交易，但他们的整体杂货账单不太可能下降。
+【依据】文章讨论杂货零售商因消费者削减开支而被迫降价，这可能压缩传统超市（如 Kroger、Ingles）的利润率，利空其股价。沃尔玛、塔吉特、好市多等规模巨头凭借规模优势和议价能力相对受益，但整体行业面临通缩压力，故将传统超市列为利空，大型零售商暂列为相关观察。
+【原标题】Grocery Stores Lower Prices as Consumers Pare Spending
+【发布时间】2026-07-09T18:11:51.000Z
+【链接】https://www.nytimes.com/2026/07/09/business/grocery-stores-lower-food-prices.html
+
+------------------------------
+
+2. 救命！我给租赁车加了油，Enterprise 却仍向我收费。
+【相关股票】HTZ、CAR
+【利好股票】无法判断
+【利空股票】HTZ、CAR
+【摘要】一名前往德国的旅客归还车辆时油量比取车时略多，却被收取 131 美元的加油费。
+【依据】文章曝光 Enterprise（非上市）在加油政策上的争议性收费，可能引发消费者对租车行业隐性收费的担忧，损害行业声誉。上市同业 Hertz (HTZ) 和 Avis Budget (CAR) 可能遭受负面情绪溢出，短期利空。
+【原标题】Help! I Refueled My Rental Car, but Enterprise Charged Me Anyway.
+【发布时间】2026-07-09T17:22:17.000Z
+【链接】https://www.nytimes.com/2026/07/09/travel/help-i-refueled-my-rental-car-but-enterprise-charged-me-anyway.html
