@@ -1,0 +1,72 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-09T18:12:44.383Z - 2026-07-09T20:12:44.383Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. ‘Very North Korean’: hundreds of Labour MPs back Andy Burnham for leader
+2. Andy Burnham apologises for Labour’s Gaza war stance
+3. Goldman Sachs limits prediction market betting for employees
+4. Kevin Warsh names high-profile figures to help modernise the Fed
+5. Tory shadow chancellor promises tax cuts
+
+==============================
+
+1. ‘Very North Korean’: hundreds of Labour MPs back Andy Burnham for leader
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ex-Manchester mayor says it is starting to feel ‘very real’ as 322 out of 403 Labour MPs nominate him to succeed Keir Starmer
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】‘Very North Korean’: hundreds of Labour MPs back Andy Burnham for leader
+【发布时间】2026-07-09T20:05:06.000Z
+【链接】https://www.ft.com/content/d37940d1-9993-49cd-9f76-cf69cd6f71dd
+
+------------------------------
+
+2. Andy Burnham apologises for Labour’s Gaza war stance
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Britain’s likely next prime minister seeks to win back leftwing voters outraged by Keir Starmer’s approach to Israel
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Andy Burnham apologises for Labour’s Gaza war stance
+【发布时间】2026-07-09T19:57:29.000Z
+【链接】https://www.ft.com/content/6fe42d7e-c267-48d3-87d1-b51cc4d86d03
+
+------------------------------
+
+3. Goldman Sachs limits prediction market betting for employees
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Nascent platforms such as Kalshi and Polymarket pose challenges to compliance policies at heavily regulated banks
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Goldman Sachs limits prediction market betting for employees
+【发布时间】2026-07-09T19:55:10.000Z
+【链接】https://www.ft.com/content/7a2a3200-763f-4141-8372-f2f6afba521d
+
+------------------------------
+
+4. Kevin Warsh names high-profile figures to help modernise the Fed
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】US central bank chair chooses business and academic leaders to head five new task forces
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Kevin Warsh names high-profile figures to help modernise the Fed
+【发布时间】2026-07-09T19:34:10.000Z
+【链接】https://www.ft.com/content/e45a34e0-cd96-4b72-9ff3-380efc28a705
+
+------------------------------
+
+5. Tory shadow chancellor promises tax cuts
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Mel Stride vows ‘responsible radicalism’ as party draws dividing line with Labour under probable new leader Andy Burnham
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Tory shadow chancellor promises tax cuts
+【发布时间】2026-07-09T19:00:05.000Z
+【链接】https://www.ft.com/content/6c37a444-fe93-4d37-8a85-640fd80bf976
