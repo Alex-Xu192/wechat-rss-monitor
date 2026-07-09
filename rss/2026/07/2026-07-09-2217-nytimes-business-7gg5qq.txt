@@ -1,0 +1,59 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-09T12:17:43.544Z - 2026-07-09T14:17:43.544Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 威廉·D·扎贝尔，高调律师与民权捍卫者，享年89岁
+2. 世界杯最大的较量：耐克对决阿迪达斯
+3. 霍尔木兹海峡航运放缓致油价维持高位
+4. 与伊朗重燃战火显示和平交易反弹出现裂痕
+
+==============================
+
+1. 威廉·D·扎贝尔，高调律师与民权捍卫者，享年89岁
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】他曾促成名人离婚案，并为麦道夫庞氏骗局受害者追回数十亿美元。但他最引以为豪的是帮助使跨种族婚姻合法化。
+【依据】文章为讣告，介绍律师威廉·扎贝尔生平，未涉及上市公司或具体行业投资信息。
+【原标题】William D. Zabel, High-Flying Lawyer and Civil Rights Champion, Dies at 89
+【发布时间】2026-07-09T14:02:01.000Z
+【链接】https://www.nytimes.com/2026/07/08/business/william-zabel-dead.html
+
+------------------------------
+
+2. 世界杯最大的较量：耐克对决阿迪达斯
+【相关股票】NKE、ADDYY
+【利好股票】NKE、ADDYY
+【利空股票】无法判断
+【摘要】在美國消費者的心中和錢包裡，屈居第二並不夠好，全球最大的運動裝備公司們在世界杯上押下重注。
+【依据】世界杯期间耐克和阿迪达斯为争夺市场份额大力投入营销，赛事曝光度提升有利于品牌销售，短期利好两家公司股价。
+【原标题】The World Cup’s Biggest Match Is Nike Vs. Adidas
+【发布时间】2026-07-09T13:58:18.000Z
+【链接】https://www.nytimes.com/2026/07/09/business/world-cup-nike-adidas.html
+
+------------------------------
+
+3. 霍尔木兹海峡航运放缓致油价维持高位
+【相关股票】XOM、CVX、BP、SHEL、TOT、FRO、NAT、TK
+【利好股票】XOM、CVX、BP、SHEL、TOT
+【利空股票】FRO、NAT、TK
+【摘要】最新数据显示，周三通过霍尔木兹海峡的船只数量减半，此前战斗再次爆发。
+【依据】霍尔木兹海峡航运受阻推高油价，利好石油生产商；但航运公司面临通行受阻和运费上涨压力，短期利空航运股。
+【原标题】Oil Prices Remain Elevated Amid Shipping Traffic Slowdown in Strait of Hormuz
+【发布时间】2026-07-09T13:23:20.000Z
+【链接】https://www.nytimes.com/2026/07/09/business/oil-shipping-stocks-gas-iran-hormuz.html
+
+------------------------------
+
+4. 与伊朗重燃战火显示和平交易反弹出现裂痕
+【相关股票】LMT、RTX、NOC、XOM、CVX、SPY
+【利好股票】LMT、RTX、NOC、XOM、CVX
+【利空股票】SPY
+【摘要】投资者曾从美国与伊朗脆弱的停火协议中获得信心。他们会再次这样做吗？
+【依据】地缘政治紧张升级通常利好国防军工和能源股，但增加市场不确定性，可能打压风险资产整体表现。
+【原标题】Renewed Fighting With Iran Shows Cracks in Peace-Trade Rally
+【发布时间】2026-07-09T13:18:52.000Z
+【链接】https://www.nytimes.com/2026/07/09/business/dealbook/iran-war-markets.html
