@@ -1,0 +1,59 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-09T00:15:02.529Z - 2026-07-09T02:15:02.529Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 中国工厂出厂价格上涨，伊朗停火悬而未决
+2. 格雷厄姆·普兰特在强奸指控后退出参议院竞选
+3. 美国加强与德黑兰冲突后，油价上涨
+4. 韩国AI芯片繁荣让有与无之间的差距扩大
+
+==============================
+
+1. 中国工厂出厂价格上涨，伊朗停火悬而未决
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】生产者物价指数连续第四个月上涨，因霍尔木兹海峡关闭导致供应链动荡
+【依据】No explicit stock or ticker mentioned; cannot determine positive/negative impact.
+【原标题】China’s factory gate prices jump as Iran ceasefire hangs in balance
+【发布时间】2026-07-09T02:05:38.000Z
+【链接】https://www.ft.com/content/0be6ad24-1f91-4b5a-96cd-36d390cb22c7
+
+------------------------------
+
+2. 格雷厄姆·普兰特在强奸指控后退出参议院竞选
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】缅因州民主党人将‘企业媒体体系’和‘政治建制’视为竞选失败的原因
+【依据】No explicit stock or ticker mentioned; cannot determine positive/negative impact.
+【原标题】Graham Platner drops Senate bid after rape allegations
+【发布时间】2026-07-09T01:14:35.000Z
+【链接】https://www.ft.com/content/7ea93e06-3b20-45ac-b8e6-f067866b6d4c
+
+------------------------------
+
+3. 美国加强与德黑兰冲突后，油价上涨
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】唐纳德·特朗普表示，如果伊朗对更多船只发动攻击，美国的打击将‘更加严重’
+【依据】No explicit stock or ticker mentioned; cannot determine positive/negative impact.
+【原标题】Oil prices rise after Washington steps up conflict with Tehran
+【发布时间】2026-07-09T00:22:10.000Z
+【链接】https://www.ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680
+
+------------------------------
+
+4. 韩国AI芯片繁荣让有与无之间的差距扩大
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】大薪酬奖金让半导体工人感到丰厚，使传统上享有高社会地位的职业相对更不具吸引力
+【依据】No explicit stock or ticker mentioned; cannot determine positive/negative impact.
+【原标题】South Korea’s AI chip boom separates the haves from the have-mores
+【发布时间】2026-07-09T00:21:37.000Z
+【链接】https://www.ft.com/content/908a1949-fe57-4708-8e65-fa3d7cd56ddb
