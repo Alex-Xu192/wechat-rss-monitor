@@ -1,0 +1,59 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-09T10:15:00.764Z - 2026-07-09T12:15:00.764Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Huge crowds gather for killed ayatollah's burial, after night of US and Iranian strikes - BBC
+2. 90 percent of U.S. adults have this syndrome — but most have never heard of it - The Washington Post
+3. Stock Market Today: Nasdaq Futures Gain as Investors Take Mideast Tensions in Stride — Live Updates - WSJ
+4. Bonnie Tyler, singer famed for ‘Total Eclipse of the Heart,’ dies at 75 - NBC News
+
+==============================
+
+1. Huge crowds gather for killed ayatollah's burial, after night of US and Iranian strikes - BBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Huge crowds gather for killed ayatollah's burial, after night of US and Iranian strikes  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Huge crowds gather for killed ayatollah's burial, after night of US and Iranian strikes - BBC
+【发布时间】2026-07-09T11:41:01.000Z
+【链接】https://news.google.com/rss/articles/CBMiVEFVX3lxTFByMXIxUFdtaTVQaE1MQzVoNzVRUXZQSHhRZDFGUDZxZGtEUDF3QXg3V0VkWWhHdk5WZFFTa190c3V1REdaYUZPOFpFc1NvSmZsdnZSZQ?oc=5
+
+------------------------------
+
+2. 90 percent of U.S. adults have this syndrome — but most have never heard of it - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】90 percent of U.S. adults have this syndrome — but most have never heard of it  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】90 percent of U.S. adults have this syndrome — but most have never heard of it - The Washington Post
+【发布时间】2026-07-09T11:31:58.000Z
+【链接】https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGNyY0szcXJ2U2VfX0MzVjNaX2s5MFJWVTRyb2pkYTloclpLR1Zlb3VXTzFIbGRWamp0NVNBTmV1OGtUWW5rbENpaGxiMWFiZ0hubzQ4YTRkZW1QNGZkRUZYS0t3VUpRYlJsMTZfNUt6RVRGOUdTSUJlOE5JZ1RibW8zN0xsMHNXVG5PY1NTcThGaGJTTGtkdWF5cTJsSzRxWjZqcGlxZ3RHbHJfOWhyZTA4UU1CNjA?oc=5
+
+------------------------------
+
+3. Stock Market Today: Nasdaq Futures Gain as Investors Take Mideast Tensions in Stride — Live Updates - WSJ
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock Market Today: Nasdaq Futures Gain as Investors Take Mideast Tensions in Stride — Live Updates  WSJ
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Stock Market Today: Nasdaq Futures Gain as Investors Take Mideast Tensions in Stride — Live Updates - WSJ
+【发布时间】2026-07-09T11:08:00.000Z
+【链接】https://news.google.com/rss/articles/CBMihwFBVV95cUxNSTltN2JVczljbkw1MGc3RlB3T2NPZm1aWDhfeFVsdlRMc05DQ09PdXdQYnJfSExKT2w1Vnl1Q2J0Wnh4ZVM2Ym9EZDhScGFjcHZTN2lFdU5YNlBONzNHVTBWVHNKWndFbkp2TFMxNGx5ejNVdVNSYm1nZDNhM1BlMWVqdmJacWs?oc=5
+
+------------------------------
+
+4. Bonnie Tyler, singer famed for ‘Total Eclipse of the Heart,’ dies at 75 - NBC News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Bonnie Tyler, singer famed for ‘Total Eclipse of the Heart,’ dies at 75  NBC News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Bonnie Tyler, singer famed for ‘Total Eclipse of the Heart,’ dies at 75 - NBC News
+【发布时间】2026-07-09T10:39:20.000Z
+【链接】https://news.google.com/rss/articles/CBMimwFBVV95cUxON0swaWxscWZYMDdEd3JDd25FNndTTE14R2czTGowVjVYMi1kcHFrWWZRc2Z5bWg3Z24zcjNMTXJrTGhzcGZ0c2UyQ1ZkNUNXSmhuUVppeWJqRHVTZWdCcUM1WFJ6RWhCQnpLNTMwWGZUTnpLSDhIc1NkSy1OVFJkdkVNcERWWUdKM0p6Sy1nOVdkZUlzVS1sN0Vocw?oc=5
