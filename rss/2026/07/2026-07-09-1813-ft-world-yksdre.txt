@@ -1,0 +1,46 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-09T08:13:17.534Z - 2026-07-09T10:13:17.534Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 德国总理梅尔茨表示已就在美国安卡拉北约峰会期间达成购买美国战斧导弹的协议
+2. Eurostar 订购列车以应对 55°C ‘沙特’ 夏季
+3. 法拉吉的财务状况可能阻碍他控制英国右翼的计划
+
+==============================
+
+1. 德国总理梅尔茨表示已就在美国安卡拉北约峰会期间达成购买美国战斧导弹的协议
+【相关股票】Raytheon Technologies (RTX)、Rheinmetall (RHM.DE)
+【利好股票】Raytheon Technologies (RTX)、Rheinmetall (RHM.DE)
+【利空股票】无法判断
+【摘要】德国总理梅尔茨表示他在安卡拉北约峰会期间与华盛顿达成协议
+【依据】新闻涉及德国采购美国制造的战斧导弹，受益方为导弹制造商雷神技术及德国防务企业莱茵金属，因此判定为正面股票。未见明显负面影响股票。
+【原标题】Germany strikes deal to buy US Tomahawk missiles, Merz says
+【发布时间】2026-07-09T09:27:38.000Z
+【链接】https://www.ft.com/content/1a5e39e8-7291-4c29-bbe5-c95c9cddc566
+
+------------------------------
+
+2. Eurostar 订购列车以应对 55°C ‘沙特’ 夏季
+【相关股票】Alstom (ALO.PA)、Siemens (SIEGn.DE)
+【利好股票】Alstom (ALO.PA)、Siemens (SIEGn.DE)
+【利空股票】无法判断
+【摘要】修订后的合同是在英国和西欧热浪之后进行的
+【依据】新闻涉及Eurostar因应极端高温订购新列车，受益方为列车制造商阿尔斯通及西门子，因此判定为正面股票。未见明显负面影响股票。
+【原标题】Eurostar orders trains to cope with 55C ‘Saudi’ summers
+【发布时间】2026-07-09T09:19:56.000Z
+【链接】https://www.ft.com/content/b9ed4857-18bc-41c8-b24e-806534a35c23
+
+------------------------------
+
+3. 法拉吉的财务状况可能阻碍他控制英国右翼的计划
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】对民粹政治家的调查使他对非改革党选民的吸引力下降，这些选民擅长战术性地投票反对他
+【依据】新闻仅涉及英国政治家奈杰尔·法拉吉的个人财务问题，未明确提及具体公司、行业或商品，无法推断相关股票。
+【原标题】Farage’s finances risk derailing his project to own the British right
+【发布时间】2026-07-09T08:30:01.000Z
+【链接】https://www.ft.com/content/11f452b7-9961-4f6d-8148-017bcad47ee0
