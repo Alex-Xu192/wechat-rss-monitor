@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-09T18:13:49.567Z - 2026-07-09T20:13:49.567Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Oil Prices Remain Elevated Amid Shipping Traffic Slowdown in Strait of Hormuz
+2. Help! I Refueled My Rental Car, but Enterprise Charged Me Anyway.
+
+==============================
+
+1. Oil Prices Remain Elevated Amid Shipping Traffic Slowdown in Strait of Hormuz
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Fresh data showed that the number of ships moving through the Strait of Hormuz halved on Wednesday amid renewed fighting.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Oil Prices Remain Elevated Amid Shipping Traffic Slowdown in Strait of Hormuz
+【发布时间】2026-07-09T20:07:21.000Z
+【链接】https://www.nytimes.com/2026/07/09/business/oil-shipping-stocks-gas-iran-hormuz.html
+
+------------------------------
+
+2. Help! I Refueled My Rental Car, but Enterprise Charged Me Anyway.
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A traveler to Germany returned his vehicle with slightly more gas than it had when he picked it up. So why was he billed $131 to fill up the tank?
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Help! I Refueled My Rental Car, but Enterprise Charged Me Anyway.
+【发布时间】2026-07-09T18:28:34.000Z
+【链接】https://www.nytimes.com/2026/07/09/travel/help-i-refueled-my-rental-car-but-enterprise-charged-me-anyway.html
