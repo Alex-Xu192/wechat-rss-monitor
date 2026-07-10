@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-10T16:17:28.770Z - 2026-07-10T18:17:28.770Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 船东面临深化困境 美国和伊朗争夺霍尔木兹海峡控制权
+2. 帮助人工智能摧毁工作的工作
+3. Atlassian非法解雇员工 在科技工人罕见法律胜利案例中
+
+==============================
+
+1. 船东面临深化困境 美国和伊朗争夺霍尔木兹海峡控制权
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】公司急切希望将其船只通过霍尔木兹海峡，但面临不断增加的风险。"情况每分钟都在变得越来越糟," 一位高管表示。
+【依据】该新闻涉及霍尔木兹海峡的地缘政治风险，影响国际航运和能源运输。霍尔木兹是全球石油运输重要通道，美伊争夺对航运公司和能源公司有重大影响。
+【原标题】Shippers Face Deepening Dilemma as U.S. and Iran Vie for Control of the Strait
+【发布时间】2026-07-10T18:02:56.000Z
+【链接】https://www.nytimes.com/2026/07/10/business/iran-shipping-strait-of-hormuz.html
+
+------------------------------
+
+2. 帮助人工智能摧毁工作的工作
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】初创公司正在付钱给白领职业人士来教他们的工作给人工智能模型。这是一个热潮。这很惨淡。它会在哪里结束?
+【依据】该新闻讨论AI技术对白领工作的影响，以及初创公司雇佣专业人士训练AI模型。这涉及科技行业和人工智能相关公司。
+【原标题】The Work of Helping A.I. Destroy Work
+【发布时间】2026-07-10T17:34:19.000Z
+【链接】https://www.nytimes.com/2026/07/10/business/ai-white-collar-jobs.html
+
+------------------------------
+
+3. Atlassian非法解雇员工 在科技工人罕见法律胜利案例中
+【相关股票】TEAM
+【利好股票】无法判断
+【利空股票】TEAM
+【摘要】联邦劳工法法官上周确定，软件制造商Atlassian非法解雇了一名员工，因为该员工质疑公司政策变更。
+【依据】该新闻明确提及Atlassian公司及其非法解雇员工的事件，直接涉及该科技公司。
+【原标题】Atlassian Illegally Fired Worker in Rare Legal Victory for Tech Worker
+【发布时间】2026-07-10T16:41:21.000Z
+【链接】https://www.nytimes.com/2026/07/10/business/atlassian-tech-worker-wrongful-termination.html
