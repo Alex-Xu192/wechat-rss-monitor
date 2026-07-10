@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-10T14:16:42.607Z - 2026-07-10T16:16:42.607Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. You’re Freezing in Your Office Building. Here’s Why.
+2. A.I. Has Rewarded Investors. It May Now Pose Their Greatest Risk.
+3. How Volkswagen’s Troubles Were Made in China
+
+==============================
+
+1. You’re Freezing in Your Office Building. Here’s Why.
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Office temperatures are typically set in the low 70s during summer. But where you sit and the efficiency of the cooling system can make you feel colder.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】You’re Freezing in Your Office Building. Here’s Why.
+【发布时间】2026-07-10T15:19:18.000Z
+【链接】https://www.nytimes.com/2026/07/10/business/cold-offices-air-conditioning.html
+
+------------------------------
+
+2. A.I. Has Rewarded Investors. It May Now Pose Their Greatest Risk.
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Near the midpoint of the year, stocks and bonds both report good returns. But the global stock market has become highly concentrated, our columnist says.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】A.I. Has Rewarded Investors. It May Now Pose Their Greatest Risk.
+【发布时间】2026-07-10T14:27:13.000Z
+【链接】https://www.nytimes.com/2026/07/10/business/ai-stocks-bonds-investing-markets.html
+
+------------------------------
+
+3. How Volkswagen’s Troubles Were Made in China
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The German auto giant’s push into China powered it for decades, but now the company faces fierce competition from Chinese automakers in markets around the world.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】How Volkswagen’s Troubles Were Made in China
+【发布时间】2026-07-10T14:24:03.000Z
+【链接】https://www.nytimes.com/2026/07/10/business/volkswagen-china-problems-restructuring.html
