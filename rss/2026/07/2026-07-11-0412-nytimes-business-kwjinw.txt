@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-10T18:12:55.548Z - 2026-07-10T20:12:55.548Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. SK Hynix 股票在美国首日交易中上涨
+2. Meta 被欧盟命令改变 Instagram 和 Facebook 的‘上瘾设计’
+
+==============================
+
+1. SK Hynix 股票在美国首日交易中上涨
+【相关股票】SK Hynix
+【利好股票】SK Hynix
+【利空股票】无法判断
+【摘要】SK Hynix 开始以每股 170 美元交易，高于其首次公开发行价 149 美元，这是对人工智能相关公司投资者需求的最新考验。
+【依据】新闻明确提到 SK Hynix 股价上涨，因此判断该新闻对 SK Hynix 有正面影响，无负面影响。相关股票为 SK Hynix。
+【原标题】SK Hynix Stock Rises on First Day of US Trading
+【发布时间】2026-07-10T20:08:13.000Z
+【链接】https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html
+
+------------------------------
+
+2. Meta 被欧盟命令改变 Instagram 和 Facebook 的‘上瘾设计’
+【相关股票】Meta
+【利好股票】无法判断
+【利空股票】Meta
+【摘要】欧洲联盟当局表示，该公司使用“上瘾设计”违反了数字安全法。
+【依据】新闻指出欧盟因 Meta 的‘上瘾设计’而要求其改变，这对 Meta 产生负面影响，故判断为负面股票。
+【原标题】Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook
+【发布时间】2026-07-10T18:20:38.000Z
+【链接】https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html
