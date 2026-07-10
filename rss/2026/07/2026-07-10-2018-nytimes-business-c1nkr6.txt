@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-10T10:18:05.427Z - 2026-07-10T12:18:05.427Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 华尔街对预测市场交易设定限制
+2. 欧盟要求Meta修改Instagram和Facebook的“成瘾性设计”
+
+==============================
+
+1. 华尔街对预测市场交易设定限制
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】高盛集团最新限制员工使用流行的预测平台的方式。
+【依据】限制预测市场交易
+【原标题】Wall St. Sets Limits on Prediction Market Trading
+【发布时间】2026-07-10T11:30:06.000Z
+【链接】https://www.nytimes.com/2026/07/10/business/dealbook/goldman-prediction-markets-wall-street.html
+
+------------------------------
+
+2. 欧盟要求Meta修改Instagram和Facebook的“成瘾性设计”
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】欧盟当局表示，该公司使用“成瘾性设计”违反了数字安全法。
+【依据】欧盟针对成瘾性设计的监管
+【原标题】Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook
+【发布时间】2026-07-10T10:28:58.000Z
+【链接】https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html
