@@ -1,0 +1,20 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-09T22:17:18.137Z - 2026-07-10T00:17:18.137Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. LaGuardia Airport Bombing: The Cold Case Survivors Still Remember
+
+==============================
+
+1. LaGuardia Airport Bombing: The Cold Case Survivors Still Remember
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Survivors of the unsolved LaGuardia Airport bombing revisit a long-forgotten act of terror, the investigation that followed, and the lingering questions about who carried it out. [slate.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】LaGuardia Airport Bombing: The Cold Case Survivors Still Remember
+【发布时间】2026-07-09T22:40:11.000Z
+【链接】https://flipso.com/p/t1n6lelsh?ref=rss
