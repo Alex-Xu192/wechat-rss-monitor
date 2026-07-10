@@ -1,0 +1,59 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-10T20:13:57.007Z - 2026-07-10T22:13:57.007Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 特朗普重申停火协议已结束，但表示美国将继续谈判
+2. SK海力士股价今日表现抢眼，摩 Micron股价引关注
+3. 格雷厄姆·普拉特纳正式退出缅因州参议院竞选 - 全国广播公司新闻
+4. 苹果起诉OpenAI指控窃取商业机密，称阴谋'触及每层' - 福布斯财经频道
+
+==============================
+
+1. 特朗普重申停火协议已结束，但表示美国将继续谈判
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】特朗普重申停火协议已结束，但表示美国将继续谈判
+【依据】新闻涉及美国和伊朗的外交谈判动态，涉及地缘政治局势，不涉及具体公司股票
+【原标题】U.S.-Iran Latest: Trump reiterates that ceasefire is over, but says U.S. to continue negotiating - CBS News
+【发布时间】2026-07-10T21:08:00.000Z
+【链接】https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLbExRcUwzLVpNZmVpbGdLVUttNC1uaDFnUmxZS2lleVNqZlI2WDdTOGVvSFc4M0w2dzh4RVdyRlNQWUNnVXRqZWw1WjJDUWdfWmN6TU9XbkNRYVhTX0kzem83cHprdmc4bVRWQThSZDJ3TUVQaE5raDJwMzFMM2FJOTlNQy13UlZPTEJjWVhKdw?oc=5
+
+------------------------------
+
+2. SK海力士股价今日表现抢眼，摩 Micron股价引关注
+【相关股票】SK.Hynix、Micron
+【利好股票】SK.Hynix
+【利空股票】Micron
+【摘要】SK海力士股价今日表现抢眼，摩 Micron股价引关注
+【依据】新闻直接提到了SK海力士和摩 Micron公司的股价表现
+【原标题】SK Hynix Stock Is the Star of the Show Today. Just Look at Micron Shares. - Barron's
+【发布时间】2026-07-10T20:56:00.000Z
+【链接】https://news.google.com/rss/articles/CBMifkFVX3lxTFA3RVRCU3dHb2x1MjRQSnZxdWVzWktmakVwYW9IN3I0WVFxdmo2NGloNEpHTWo1M3p3TFJabENzcDFRdko5dXUwbnFwQ0F6ekN1MDBJMlVOSjVTdC03Vl92WnRUaXZ6dUpmWFFRUzczT2RxTUstZDRDMlJ1eXQ0Zw?oc=5
+
+------------------------------
+
+3. 格雷厄姆·普拉特纳正式退出缅因州参议院竞选 - 全国广播公司新闻
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】格雷厄姆·普拉特纳正式退出缅因州参议院竞选
+【依据】新闻涉及政治竞选人员退出，不直接涉及公司股票
+【原标题】Graham Platner officially drops out of the Maine Senate race - NBC News
+【发布时间】2026-07-10T20:55:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVdNNXBiUEdhS0xDbld0YjV4Mmc0aTJ2dVRfS1RMMVBXeHpZdUhyM0ZmV3VFMmxFekNmWXBxSGQzbXlCS0ZuTENhUVNoNWpJTUVXa01lQlM1RWhnc2JxOEp3T1ZoNUhYNng4TmVOdTFQNDF4TGJJSjVJTzRZQVJmZEJpWDlzYkxHTXNEZ2kwdjVRUFA2bUV5czd0WGZzUkYwaC1TVHhIdlE0N2M?oc=5
+
+------------------------------
+
+4. 苹果起诉OpenAI指控窃取商业机密，称阴谋'触及每层' - 福布斯财经频道
+【相关股票】Apple、OpenAI
+【利好股票】Apple
+【利空股票】OpenAI
+【摘要】苹果公司起诉OpenAI公司，指控后者窃取商业机密，称这种阴谋'触及每层'
+【依据】新闻直接提到了苹果公司和OpenAI公司之间的法律纠纷，涉及两家公司
+【原标题】Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level' - CNBC
+【发布时间】2026-07-10T20:30:47.000Z
+【链接】https://news.google.com/rss/articles/CBMie0FVX3lxTFBpcDUyVExvZXpnZHVBTGZscmFmNmRxTUIweDFGMWZrcC1fX2RZRDkxdWhPMUt4TzBfY2c2WHJkdE81TnAxMHdYZE1talZyUjRDcmlwQi1XOVo2eUhNWS1fRnRnUTFDYTR2XzNIdTlaMG5femxXc09DeFlZRdIBgAFBVV95cUxNU2tvbmxiaW9qb2UyLV9STno5WDR3SzhjV0VTSjFSVTQxaEVxbHN0RUdwTnJieXhCZVZTYkFHdlR2ZVE4MExwblB2amJwZEIxY3hNMnFjYThtTUhwaW9rRHZ1VlpDajVHbExyT0lWNGxxYndIMTBMcGMxTUdVN2g1cw?oc=5
