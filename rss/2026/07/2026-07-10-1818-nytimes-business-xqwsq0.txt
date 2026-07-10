@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-10T08:18:38.398Z - 2026-07-10T10:18:38.398Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 欧盟命令 Meta 改变 Instagram 和 Facebook 的“上瘾设计”
+2. 您在办公室里感到寒冷。原因在此。
+3. 酒店工人希望世界杯能增加工时。但事实并非如此。
+4. 巴塞罗那新任可持续旅游负责人的信息：'不再多接待一名游客。'
+5. 敌对行动扰乱航运，油价波动
+
+==============================
+
+1. 欧盟命令 Meta 改变 Instagram 和 Facebook 的“上瘾设计”
+【相关股票】META
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】欧盟当局表示，该公司使用“上瘾设计”违反了数字安全法。
+【依据】新闻明确提到公司 Meta（Facebook 母公司），欧盟监令可能影响其业务。但新闻未明确说明该监管对 Meta 股价的正向或负向影响，因此无法判断正面或负面股票。
+【原标题】Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook
+【发布时间】2026-07-10T10:03:54.000Z
+【链接】https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html
+
+------------------------------
+
+2. 您在办公室里感到寒冷。原因在此。
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】办公室温度通常在夏季设定在低70华氏度左右。但您的座位位置和空调系统的效率可能会让您感觉更冷。
+【依据】新闻未提及任何具体公司、行业、商品或政策，仅讨论办公室温度与个人感受，无法推断相关股票。
+【原标题】You’re Freezing in Your Office Building. Here’s Why.
+【发布时间】2026-07-10T09:03:35.000Z
+【链接】https://www.nytimes.com/2026/07/10/business/cold-offices-air-conditioning.html
+
+------------------------------
+
+3. 酒店工人希望世界杯能增加工时。但事实并非如此。
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】尽管比赛吸引了大量观众，但酒店预订仍然滞后。东道城市的工人表示他们正在挣扎。
+【依据】新闻提到了酒店员工和世界杯对预订的影响，但未点名任何具体酒店公司或股票，无法判断相关股票。
+【原标题】Hotel Workers Hoped the World Cup Would Boost Their Hours. It Didn’t.
+【发布时间】2026-07-10T09:02:25.000Z
+【链接】https://www.nytimes.com/2026/07/10/business/hotel-workers-world-cup.html
+
+------------------------------
+
+4. 巴塞罗那新任可持续旅游负责人的信息：'不再多接待一名游客。'
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】作为可持续旅游专员，何塞·安东尼奥·多奈尔的工作是减少近1600万年度游客对加泰罗尼亚首都的影响。以下是他的计划。
+【依据】新闻讨论巴塞罗那的可持续旅游政策，但未提及具体旅游相关公司或股票，无法判断相关股票。
+【原标题】The Message From Barcelona’s New Sustainable Tourism Leader: ‘Not One Tourist More.’
+【发布时间】2026-07-10T09:00:51.000Z
+【链接】https://www.nytimes.com/2026/07/10/travel/barcelona-overtourism-jose-antonio-donaire.html
+
+------------------------------
+
+5. 敌对行动扰乱航运，油价波动
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】最近的动荡源于几天前对该海峡三艘商船的袭击，导致原油价格重新升至战前水平之上。
+【依据】新闻涉及原油价格波动，但未点名具体石油公司或相关股票，无法判断具体股票影响。
+【原标题】Oil Prices Wobble As a Week of Hostilities Derails Shipping
+【发布时间】2026-07-10T08:49:17.000Z
+【链接】https://www.nytimes.com/2026/07/10/business/oil-gas-stocks-shipping-iran-hormuz.html
