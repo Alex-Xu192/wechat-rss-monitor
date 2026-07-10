@@ -1,0 +1,33 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-10T06:16:14.488Z - 2026-07-10T08:16:14.488Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. CDC Investigates Parasite Outbreak Causing ‘Explosive Diarrhea’ as More Than 1,200 People Are Sickened - Allrecipes
+2. Ariana Grande Look-Alike Paige Niemann Says She Felt 'Misled' by Star's DM - TMZ
+
+==============================
+
+1. CDC Investigates Parasite Outbreak Causing ‘Explosive Diarrhea’ as More Than 1,200 People Are Sickened - Allrecipes
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】CDC Investigates Parasite Outbreak Causing ‘Explosive Diarrhea’ as More Than 1,200 People Are Sickened  Allrecipes
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】CDC Investigates Parasite Outbreak Causing ‘Explosive Diarrhea’ as More Than 1,200 People Are Sickened - Allrecipes
+【发布时间】2026-07-10T07:43:25.000Z
+【链接】https://news.google.com/rss/articles/CBMijwFBVV95cUxPWU9zRm1UZlRHendlenB0Wnc3VndKQ3k1U2ljRUprTE5DbFl4RmdtY1lFalF4QjVXTXFWZEFaYXVyd3p2Nkh6Sk1oX3ZFYlE2bldVTXJkTzRFcTRhRUVhMTJYdmhXci1Vc2ZJaXJ4M2lTaGJMSldvMG1pa0NOS3dBSFdoSkxaTEQ3X0g0dWNIYw?oc=5
+
+------------------------------
+
+2. Ariana Grande Look-Alike Paige Niemann Says She Felt 'Misled' by Star's DM - TMZ
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ariana Grande Look-Alike Paige Niemann Says She Felt 'Misled' by Star's DM  TMZ
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Ariana Grande Look-Alike Paige Niemann Says She Felt 'Misled' by Star's DM - TMZ
+【发布时间】2026-07-10T07:00:41.000Z
+【链接】https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVNjN2QzaEpPYUNmV3I4cC1kajh0R3RxZmRHNEhncmFiTG5Rd29TcUM5Qi1ZM0hONlFrLWxhQXVXV2VoUmFfVXZMU3hjd013TW5vOWUtd3E0RlBHR09VQmtGWWRMbVhwMUJGTkJNOWlVRXpFQzFKbzNmR2JRMGo3RlZ3TlN5VTJHSnpBYzh3?oc=5
