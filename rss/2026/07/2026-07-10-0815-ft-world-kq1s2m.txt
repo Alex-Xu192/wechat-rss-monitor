@@ -1,0 +1,85 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-09T22:15:36.426Z - 2026-07-10T00:15:36.426Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. US strikes Iranian railway bridges on route to city of Khamenei’s burial
+2. Labour MPs push for permanent ban on crypto political donations
+3. Multinationals still avoiding UK tax after US opts out of reforms, MPs warn
+4. Gazans flock to World Cup screenings
+5. SK Hynix raises $26.5bn in US market debut
+6. Warsh picks ex-BoE chief King and tech boss Andreessen to reform Fed
+
+==============================
+
+1. US strikes Iranian railway bridges on route to city of Khamenei’s burial
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Late supreme leader interred in Mashhad in early hours of Friday morning
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US strikes Iranian railway bridges on route to city of Khamenei’s burial
+【发布时间】2026-07-09T23:21:57.000Z
+【链接】https://www.ft.com/content/4b1df8e8-cc24-4991-a900-cde0d25f0f68
+
+------------------------------
+
+2. Labour MPs push for permanent ban on crypto political donations
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Proposals come amid controversy over Reform UK funding
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Labour MPs push for permanent ban on crypto political donations
+【发布时间】2026-07-09T23:16:02.000Z
+【链接】https://www.ft.com/content/b6e1ca13-b401-4557-aeef-85527ab0bdd7
+
+------------------------------
+
+3. Multinationals still avoiding UK tax after US opts out of reforms, MPs warn
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】New global ‘pillar 2’ rules require companies to pay top-up levies
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Multinationals still avoiding UK tax after US opts out of reforms, MPs warn
+【发布时间】2026-07-09T23:01:08.000Z
+【链接】https://www.ft.com/content/8399d358-dcc9-4744-bc54-f6b80e1bfa43
+
+------------------------------
+
+4. Gazans flock to World Cup screenings
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Tournament provides welcome moments of respite as Palestinians follow progress of Arab teams
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Gazans flock to World Cup screenings
+【发布时间】2026-07-09T22:59:44.000Z
+【链接】https://www.ft.com/content/ced3e93e-a90c-42ea-86f6-b8fdb773e2bd
+
+------------------------------
+
+5. SK Hynix raises $26.5bn in US market debut
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】South Korean memory chipmaker completes largest-ever US listing by a foreign company
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】SK Hynix raises $26.5bn in US market debut
+【发布时间】2026-07-09T22:55:13.000Z
+【链接】https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500
+
+------------------------------
+
+6. Warsh picks ex-BoE chief King and tech boss Andreessen to reform Fed
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】US central bank chair chooses business and academic leaders to head five new task forces
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Warsh picks ex-BoE chief King and tech boss Andreessen to reform Fed
+【发布时间】2026-07-09T22:40:42.000Z
+【链接】https://www.ft.com/content/e45a34e0-cd96-4b72-9ff3-380efc28a705
