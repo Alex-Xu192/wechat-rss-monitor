@@ -1,0 +1,59 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-10T06:17:36.653Z - 2026-07-10T08:17:36.653Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. EasyJet: orange upstart that changed flying prepares to go private
+2. At least 12 die in Spanish wildfire as heatwave grips Europe
+3. SK Hynix raises $26.5bn in US market debut
+4. Former Conservative minister Ann Widdecombe dies aged 78
+
+==============================
+
+1. EasyJet: orange upstart that changed flying prepares to go private
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Pivotal moment for Europe’s low-cost pioneer as US suitors circle
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】EasyJet: orange upstart that changed flying prepares to go private
+【发布时间】2026-07-10T07:47:10.000Z
+【链接】https://www.ft.com/content/d16e92f7-268a-4d46-9525-483318c9ba4b
+
+------------------------------
+
+2. At least 12 die in Spanish wildfire as heatwave grips Europe
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Alarm over summer of blazes as third wave of extreme heat hits region
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】At least 12 die in Spanish wildfire as heatwave grips Europe
+【发布时间】2026-07-10T07:40:00.000Z
+【链接】https://www.ft.com/content/065e5550-1691-4698-8d62-b4735dfec6ca
+
+------------------------------
+
+3. SK Hynix raises $26.5bn in US market debut
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】South Korean memory chipmaker completes largest-ever US listing by a foreign company
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】SK Hynix raises $26.5bn in US market debut
+【发布时间】2026-07-10T07:08:11.000Z
+【链接】https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500
+
+------------------------------
+
+4. Former Conservative minister Ann Widdecombe dies aged 78
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】MP was a fervent supporter of Brexit and held ministerial roles under John Major before eventually backing Nigel Farage
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Former Conservative minister Ann Widdecombe dies aged 78
+【发布时间】2026-07-10T06:18:16.000Z
+【链接】https://www.ft.com/content/081cae25-024b-4965-9b7b-450adaf1216c
