@@ -1,0 +1,98 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-10T10:17:09.342Z - 2026-07-10T12:17:09.342Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. IEA warns of petrol and diesel supply crunch
+2. Farage in a fix; Burnham unbeatable
+3. Classicist Emily Wilson: ‘Odysseus is a different kind of conman’
+4. China claims rocket first as it catches booster in floating sea net
+5. What does America mean to you? FT readers respond
+6. China drops urban employment target as economic pressures build
+7. Delta reports record demand but falling profits as fuel costs hit results
+
+==============================
+
+1. IEA warns of petrol and diesel supply crunch
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Refineries in Gulf and Russia hit by impact of wars, while global consumption has remained high
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Unterminated string in JSON at position 3575 (line 1 column 3576)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】IEA warns of petrol and diesel supply crunch
+【发布时间】2026-07-10T12:06:16.000Z
+【链接】https://www.ft.com/content/54261075-72c5-4b47-9d53-8c94738201e3
+
+------------------------------
+
+2. Farage in a fix; Burnham unbeatable
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Plus: Starmer’s swansong summit in Ankara
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Unterminated string in JSON at position 3575 (line 1 column 3576)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Farage in a fix; Burnham unbeatable
+【发布时间】2026-07-10T11:41:17.000Z
+【链接】https://www.ft.com/content/ac705a54-2c5f-4950-aca8-6b38f2a04729
+
+------------------------------
+
+3. Classicist Emily Wilson: ‘Odysseus is a different kind of conman’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The acclaimed translator who helped to inspire Christopher Nolan’s new film on the resonance of Homer’s epics — and which Greek hero Donald Trump most resembles
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Unterminated string in JSON at position 3575 (line 1 column 3576)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Classicist Emily Wilson: ‘Odysseus is a different kind of conman’
+【发布时间】2026-07-10T11:30:05.000Z
+【链接】https://www.ft.com/content/3edbfdf4-cb20-4393-9d5d-ffc1dd241ca4
+
+------------------------------
+
+4. China claims rocket first as it catches booster in floating sea net
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】State media hails successful test in step towards reusable rocket technology for space flights
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Unterminated string in JSON at position 3575 (line 1 column 3576)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】China claims rocket first as it catches booster in floating sea net
+【发布时间】2026-07-10T11:05:27.000Z
+【链接】https://www.ft.com/content/211f093c-2666-4f6c-a7fe-ee92f6f78795
+
+------------------------------
+
+5. What does America mean to you? FT readers respond
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】To mark the US’s semiquincentennial, we asked our readers to reflect on their experience of the country — here are your responses
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Unterminated string in JSON at position 3575 (line 1 column 3576)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】What does America mean to you? FT readers respond
+【发布时间】2026-07-10T11:02:29.000Z
+【链接】https://www.ft.com/content/71859961-4c4e-4110-a8e6-ed6c0ef2eec9
+
+------------------------------
+
+6. China drops urban employment target as economic pressures build
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Latest five-year plan omits figure for jobs growth, a fixture of economic planning, for first time in decades
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Unterminated string in JSON at position 3575 (line 1 column 3576)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】China drops urban employment target as economic pressures build
+【发布时间】2026-07-10T10:58:06.000Z
+【链接】https://www.ft.com/content/4c7c760c-635f-4611-93ae-961a2481062d
+
+------------------------------
+
+7. Delta reports record demand but falling profits as fuel costs hit results
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Iran war drove jet fuel costs 77% higher than year-ago levels in preview of wider knock to US corporate profits
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Unterminated string in JSON at position 3575 (line 1 column 3576)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Delta reports record demand but falling profits as fuel costs hit results
+【发布时间】2026-07-10T10:33:49.000Z
+【链接】https://www.ft.com/content/2a25d6d6-874a-4861-9876-7964e97f230e
