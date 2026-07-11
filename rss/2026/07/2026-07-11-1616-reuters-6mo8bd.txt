@@ -1,0 +1,20 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-11T06:16:53.152Z - 2026-07-11T08:16:53.152Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Good Tools Are Invisible
+
+==============================
+
+1. Good Tools Are Invisible
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】TL;DR: A good tool is and ought to be invisible—striving to make such tools is the goal of a toolmaker.One habit I see a lot, and have to push back on, is taking a tool's shortcomings and reselling them as a "puzzle game" which is "fun" to solve.I don't want my tools to be "fun". I want my tools to be invisible.Text Editor WarsLet's take vim as an example This is just an example, and applies to other editors too.. I constantly see some people praise it not for what actually makes it good, but by taking the things ... [gingerbill.org]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Good Tools Are Invisible
+【发布时间】2026-07-11T07:00:09.000Z
+【链接】https://flipso.com/p/fqweqtvzx?ref=rss
