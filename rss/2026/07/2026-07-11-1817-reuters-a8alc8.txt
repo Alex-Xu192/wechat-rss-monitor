@@ -1,0 +1,33 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-11T08:17:17.035Z - 2026-07-11T10:17:17.035Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Vintage Soviet control rooms
+2. You are not your grand plans
+
+==============================
+
+1. Vintage Soviet control rooms
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A photo collection of vintage Soviet-era control rooms, featuring large buttons, analog dials, and industrial-era design details. Includes the Chernobyl Reactor 4 control room and a credit to Present & Correct for more context. [designyoutrust.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Vintage Soviet control rooms
+【发布时间】2026-07-11T09:40:13.000Z
+【链接】https://flipso.com/p/85a7is6s9?ref=rss
+
+------------------------------
+
+2. You are not your grand plans
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】“You are not your grand plans. You are your daily patterns.” [bryanbraun.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】You are not your grand plans
+【发布时间】2026-07-11T08:20:22.000Z
+【链接】https://flipso.com/p/ils084t4w?ref=rss
