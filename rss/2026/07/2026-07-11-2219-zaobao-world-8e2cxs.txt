@@ -1,0 +1,22 @@
+Zaobao World - 中文结构化新闻汇总
+
+【来源】Zaobao World
+【时间】2026-07-11T12:19:20.200Z - 2026-07-11T14:19:20.200Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. 伊朗最高领袖：誓为父亲哈梅内伊报仇
+
+==============================
+
+1. 伊朗最高领袖：誓为父亲哈梅内伊报仇
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】伊朗最高领袖穆杰塔巴发表书面声明，誓言为他父亲哈梅内伊报仇。这是他自父亲葬礼以来首次发表声明。
+他在星期五（7月10日）签署的一封信中写道：“复仇是国民的诉求，必须予以执行。此事与我个人或其他官员的在世与否无关。无论我们是否在世，复仇都必将发生。”
+哈梅内伊在美国和以色列的空袭中丧生，葬礼已经于星期四（9日）在其出生地、伊朗东北部城市马什哈德举行。
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】伊朗最高领袖：誓为父亲哈梅内伊报仇
+【发布时间】2026-07-11T12:59:04.000Z
+【链接】https://www.zaobao.com/news/world/story20260711-9349979
