@@ -1,0 +1,33 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-11T10:13:53.225Z - 2026-07-11T12:13:53.225Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Live updates: U.S. and Iran to continue talks after tensions escalated over Strait of Hormuz - CBS News
+2. Pubs can stay open for full Norway game - even if kick-off delayed - BBC
+
+==============================
+
+1. Live updates: U.S. and Iran to continue talks after tensions escalated over Strait of Hormuz - CBS News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Live updates: U.S. and Iran to continue talks after tensions escalated over Strait of Hormuz  CBS News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Live updates: U.S. and Iran to continue talks after tensions escalated over Strait of Hormuz - CBS News
+【发布时间】2026-07-11T11:21:00.000Z
+【链接】https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLbExRcUwzLVpNZmVpbGdLVUttNC1uaDFnUmxZS2lleVNqZlI2WDdTOGVvSFc4M0w2dzh4RVdyRlNQWUNnVXRqZWw1WjJDUWdfWmN6TU9XbkNRYVhTX0kzem83cHprdmc4bVRWQThSZDJ3TUVQaE5raDJwMzFMM2FJOTlNQy13UlZPTEJjWVhKdw?oc=5
+
+------------------------------
+
+2. Pubs can stay open for full Norway game - even if kick-off delayed - BBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Pubs can stay open for full Norway game - even if kick-off delayed  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Pubs can stay open for full Norway game - even if kick-off delayed - BBC
+【发布时间】2026-07-11T10:38:18.000Z
+【链接】https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqbEgtLUpVRmZmZWJpckc1WWdQR2szVnJJUWZxZmdKMTU3dWxLRC0wSGxVMm1rdk9EZE9EdDZpcnByRzNJa194dl95Q3FRWWZhR2YwM0RxMHVwdw?oc=5
