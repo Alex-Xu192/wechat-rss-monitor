@@ -1,0 +1,85 @@
+Yahoo Japan - 中文结构化新闻汇总
+
+【来源】Yahoo Japan
+【时间】2026-07-11T06:12:10.852Z - 2026-07-11T08:12:10.852Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. V字回復した大戸屋 社長交代の訳
+2. 趣里と水谷豊 親子で舞台あいさつ
+3. 宮崎麗果被告に判決へ 公判で釈明
+4. 球場前にヘリ着陸 高校野球が中断
+5. 多頭飼育の男性急死 保護団体奔走
+6. 全東信が破産 契約店から憤りの声
+
+==============================
+
+1. V字回復した大戸屋 社長交代の訳
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】V字回復した大戸屋 社長交代の訳
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 2311 (line 1 column 2312)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】V字回復した大戸屋 社長交代の訳
+【发布时间】2026-07-11T07:47:07.000Z
+【链接】https://news.yahoo.co.jp/pickup/6587567?source=rss
+
+------------------------------
+
+2. 趣里と水谷豊 親子で舞台あいさつ
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】趣里と水谷豊 親子で舞台あいさつ
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 2311 (line 1 column 2312)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】趣里と水谷豊 親子で舞台あいさつ
+【发布时间】2026-07-11T06:59:10.000Z
+【链接】https://news.yahoo.co.jp/pickup/6587564?source=rss
+
+------------------------------
+
+3. 宮崎麗果被告に判決へ 公判で釈明
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】宮崎麗果被告に判決へ 公判で釈明
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 2311 (line 1 column 2312)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】宮崎麗果被告に判決へ 公判で釈明
+【发布时间】2026-07-11T06:48:10.000Z
+【链接】https://news.yahoo.co.jp/pickup/6587560?source=rss
+
+------------------------------
+
+4. 球場前にヘリ着陸 高校野球が中断
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】球場前にヘリ着陸 高校野球が中断
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 2311 (line 1 column 2312)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】球場前にヘリ着陸 高校野球が中断
+【发布时间】2026-07-11T06:30:30.000Z
+【链接】https://news.yahoo.co.jp/pickup/6587559?source=rss
+
+------------------------------
+
+5. 多頭飼育の男性急死 保護団体奔走
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】多頭飼育の男性急死 保護団体奔走
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 2311 (line 1 column 2312)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】多頭飼育の男性急死 保護団体奔走
+【发布时间】2026-07-11T06:19:14.000Z
+【链接】https://news.yahoo.co.jp/pickup/6587557?source=rss
+
+------------------------------
+
+6. 全東信が破産 契約店から憤りの声
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】全東信が破産 契約店から憤りの声
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 2311 (line 1 column 2312)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】全東信が破産 契約店から憤りの声
+【发布时间】2026-07-11T06:18:31.000Z
+【链接】https://news.yahoo.co.jp/pickup/6587556?source=rss
