@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-11T08:14:07.617Z - 2026-07-11T10:14:07.617Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 特朗普账户促使父母开始为孩子早期储蓄
+2. 堪萨斯城作为世界杯最小的东道主，世界触手可及
+3. Slate Auto 2.5万美元电动皮卡实车感受
+4. 刚通过的住房法案究竟包含什么
+5. 孩子们停不下来看《莫阿娜》。这里有科学解释。
+
+==============================
+
+1. 特朗普账户促使父母开始为孩子早期储蓄
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】特朗普账户和适合儿童的投资平台使父母为孩子的未来投资变得更加容易。
+【依据】新闻未明确提及具体公司或股票，仅涉及一般投资概念，无法判断相关股票。
+【原标题】Trump Accounts Prompt Parents to Start Saving Early for Their Kids
+【发布时间】2026-07-11T09:01:59.000Z
+【链接】https://www.nytimes.com/2026/07/11/business/trump-accounts-investing-kids.html
+
+------------------------------
+
+2. 堪萨斯城作为世界杯最小的东道主，世界触手可及
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】这座城市在这项运动上拥有光荣历史，这要归功于拉马尔·亨特，他拥有堪萨斯城酋长队并共同创立了美国职业足球大联盟。
+【依据】新闻聚焦于城市和体育赛事，未涉及具体上市公司股票。
+【原标题】Kansas City, the Smallest World Cup Host, Has the World at Its Feet
+【发布时间】2026-07-11T09:01:32.000Z
+【链接】https://www.nytimes.com/2026/07/11/business/kansas-city-world-cup-host.html
+
+------------------------------
+
+3. Slate Auto 2.5万美元电动皮卡实车感受
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Slate Auto 的皮卡因其无多余花哨且价格相对亲民而引起关注，但它正面临一个艰难的市场。
+【依据】新闻介绍特定公司产品但未提及其股票或明确的行业影响，无法判断相关股票。
+【原标题】What Slate Auto’s $25,000 Electric Pickup Truck Is Like in Person
+【发布时间】2026-07-11T09:00:59.000Z
+【链接】https://www.nytimes.com/2026/07/11/business/slate-auto-electric-pickup-truck.html
+
+------------------------------
+
+4. 刚通过的住房法案究竟包含什么
+【相关股票】住房行业
+【利好股票】住房行业
+【利空股票】无法判断
+【摘要】这并不是大社会计划，但新法律为地方政府和建筑商提供了激励，以实施渐进式改动。
+【依据】新闻涉及住房法案，对房地产行业有正面激励影响。
+【原标题】What’s in the Housing Bill That Just Became Law
+【发布时间】2026-07-11T09:00:36.000Z
+【链接】https://www.nytimes.com/2026/07/11/business/economy/housing-bill-affordability.html
+
+------------------------------
+
+5. 孩子们停不下来看《莫阿娜》。这里有科学解释。
+【相关股票】DIS
+【利好股票】DIS
+【利空股票】无法判断
+【摘要】这部2016年的影片已成为Disney+上观看次数最多的电影。家长和专家解释了孩子们为何爱不释手。
+【依据】新闻提及迪士尼+平台的热门影片《莫阿娜》，利好迪士尼股票。
+【原标题】Kids Can’t Stop Watching ‘Moana.’ There’s a Scientific Explanation.
+【发布时间】2026-07-11T09:00:11.000Z
+【链接】https://www.nytimes.com/2026/07/11/movies/moana-kids-obsession.html
