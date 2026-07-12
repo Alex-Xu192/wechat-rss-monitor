@@ -1,0 +1,150 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-12T02:17:22.339Z - 2026-07-12T04:17:22.339Z
+【数量】11
+
+【本邮件新闻标题汇总】
+1. US launches more strikes after Iran declares Strait of Hormuz closed
+2. UK launches national dementia registry to speed up search for treatments
+3. Stranded pollock prompt EU to delay fish import controls for US
+4. The ‘innovators and disrupters’ hired to bring AI to the UK public sector
+5. Big Tech to face fines for consumer protection failures, says EU official
+6. The EU has ways out of its budget trap
+7. Airbnb lures fans from US hotels after World Cup marketing push
+8. US states push to repurpose abandoned oil wells
+9. China cracks down on top ratings for corporate bonds
+10. Russia closes in on city that made the Kremlin glitter
+11. Bellingham brace carries England past Norway into World Cup semi-final
+
+==============================
+
+1. US launches more strikes after Iran declares Strait of Hormuz closed
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】IRGC hits commercial ship transiting through waterway, with Centcom saying crew member was missing from vessel
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US launches more strikes after Iran declares Strait of Hormuz closed
+【发布时间】2026-07-12T04:03:04.000Z
+【链接】https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d
+
+------------------------------
+
+2. UK launches national dementia registry to speed up search for treatments
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Platform aims to improve access to clinical trials and boost life sciences investment in the country
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】UK launches national dementia registry to speed up search for treatments
+【发布时间】2026-07-12T04:00:14.000Z
+【链接】https://www.ft.com/content/e45a07e4-8c63-4505-99b9-8dc24a811444
+
+------------------------------
+
+3. Stranded pollock prompt EU to delay fish import controls for US
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】System introduced to crack down on illegal fishing has left cargoes stuck in docks for days
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Stranded pollock prompt EU to delay fish import controls for US
+【发布时间】2026-07-12T04:00:14.000Z
+【链接】https://www.ft.com/content/aba8d356-489a-469b-bb49-b54e74acc3a0
+
+------------------------------
+
+4. The ‘innovators and disrupters’ hired to bring AI to the UK public sector
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Government fellowship scheme places tech experts on ‘high-impact tours of duty’ to improve services
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The ‘innovators and disrupters’ hired to bring AI to the UK public sector
+【发布时间】2026-07-12T04:00:14.000Z
+【链接】https://www.ft.com/content/4df50959-1cd6-4d10-a586-9aaf589339e6
+
+------------------------------
+
+5. Big Tech to face fines for consumer protection failures, says EU official
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Justice commissioner Michael McGrath says Brussels seeks to strengthen social media safeguards
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Big Tech to face fines for consumer protection failures, says EU official
+【发布时间】2026-07-12T04:00:06.000Z
+【链接】https://www.ft.com/content/25640be5-a5bd-4548-81f9-bd0e16f87f35
+
+------------------------------
+
+6. The EU has ways out of its budget trap
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Side agreements and special purpose funds could bypass the usual trench warfare
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The EU has ways out of its budget trap
+【发布时间】2026-07-12T04:00:06.000Z
+【链接】https://www.ft.com/content/127fd859-5e3d-4786-a4e2-318295976764
+
+------------------------------
+
+7. Airbnb lures fans from US hotels after World Cup marketing push
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Hotel bookings fall short of expectations as price-conscious fans opt to stay in American homes
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Airbnb lures fans from US hotels after World Cup marketing push
+【发布时间】2026-07-12T04:00:06.000Z
+【链接】https://www.ft.com/content/21d4a393-701d-4da7-847c-bd53e95ac295
+
+------------------------------
+
+8. US states push to repurpose abandoned oil wells
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Pennsylvania, Oklahoma and others are finding ways to turn an expensive and polluting problem into a new opportunity
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US states push to repurpose abandoned oil wells
+【发布时间】2026-07-12T04:00:06.000Z
+【链接】https://www.ft.com/content/2ca5ae83-cd8e-4d12-ac29-d1a5282846c8
+
+------------------------------
+
+9. China cracks down on top ratings for corporate bonds
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Regulators pressure agencies to limit triple-A designations for higher-interest borrowers
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】China cracks down on top ratings for corporate bonds
+【发布时间】2026-07-12T04:00:06.000Z
+【链接】https://www.ft.com/content/750c90d4-6c6f-464a-85c2-5ae86b085da8
+
+------------------------------
+
+10. Russia closes in on city that made the Kremlin glitter
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Kostyantynivka in eastern Ukraine produced the red glass in Moscow landmarks. Now Putin is reducing it to rubble
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Russia closes in on city that made the Kremlin glitter
+【发布时间】2026-07-12T04:00:06.000Z
+【链接】https://www.ft.com/content/e3ca7207-fb02-44cd-9532-2c8a01667dbf
+
+------------------------------
+
+11. Bellingham brace carries England past Norway into World Cup semi-final
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Real Madrid star outshines Harry Kane and Erling Haaland as Thomas Tuchel’s side claim 2-1 extra-time win
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Bellingham brace carries England past Norway into World Cup semi-final
+【发布时间】2026-07-12T02:21:40.000Z
+【链接】https://www.ft.com/content/34f8f9c2-07f8-4c71-b6b4-9bbf26878c9e
