@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-12T08:14:48.317Z - 2026-07-12T10:14:48.317Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 《迈克尔》票房突破10亿美元，狮门影业强势回弹
+2. 大型箱零售商有新策略进入城市市场
+
+==============================
+
+1. 《迈克尔》票房突破10亿美元，狮门影业强势回弹
+【相关股票】Lionsgate
+【利好股票】Lionsgate
+【利空股票】无法判断
+【摘要】被大型工作室视为过于冒险而被冷落，《迈克尔》及其他热门电影复兴了好莱坞最后的主要独立制片店。但这是否足够？
+【依据】文章指出电影《迈克尔》票房突破10亿美元，帮助狮门影业（Lionsgate）复苏，表明该公司受益于影片成功，股票可能受到正面影响。
+【原标题】‘Michael’ Crosses $1 Billion at the Box Office as Lionsgate Roars Back
+【发布时间】2026-07-12T09:00:32.000Z
+【链接】https://www.nytimes.com/2026/07/12/business/media/michael-movie-lionsgate.html
+
+------------------------------
+
+2. 大型箱零售商有新策略进入城市市场
+【相关股票】Costco、Target
+【利好股票】Costco、Target
+【利空股票】无法判断
+【摘要】随着越来越多的州和市政当局继续推动建设可负担得起的住房，Costco 和 Target 等公司顺势而为，将门店开进拥挤的城市。
+【依据】文章描述Costco和Target利用可负担住房政策进入城市市场，扩大门店布局，预计将带来正面业务影响，股票可能受到正面影响。
+【原标题】Big-Box Retailers Have a New Strategy for Breaking Into Urban Markets
+【发布时间】2026-07-12T09:00:11.000Z
+【链接】https://www.nytimes.com/2026/07/12/business/costco-target-affordable-housing.html
