@@ -1,0 +1,59 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-12T02:16:13.142Z - 2026-07-12T04:16:13.142Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Bellingham scores twice to lift England past Haaland and Norway 2-1 and into World Cup semifinals - AP News
+2. UFC 329 live results and analysis: McGregor vs. Holloway 2 - ESPN
+3. Mitch McConnell spokesperson says senator continues recovery in hospital - WDRB
+4. Shooting near Toronto street festival kills 2 people and wounds 5, police say - AP News
+
+==============================
+
+1. Bellingham scores twice to lift England past Haaland and Norway 2-1 and into World Cup semifinals - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Bellingham scores twice to lift England past Haaland and Norway 2-1 and into World Cup semifinals  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Bellingham scores twice to lift England past Haaland and Norway 2-1 and into World Cup semifinals - AP News
+【发布时间】2026-07-12T03:56:00.000Z
+【链接】https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjdYd29Xa3NsdWxUR2g0LUJLR1FlSTQzdlZOLUpZUHFrZXUxN1VCU2d6c0djSGpqZEJiZWFoLXJuTlVhdVJ0NmExV1B1aXFvbFYzR0Z4dk1TY21IYk4xX3RNQ1pxdHpDTU9LWlhKcVc5TVF1Q2N6REkwSWtKWk5mTDdNNEhvdU91U2I1YThNNlVsSERZ?oc=5
+
+------------------------------
+
+2. UFC 329 live results and analysis: McGregor vs. Holloway 2 - ESPN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UFC 329 live results and analysis: McGregor vs. Holloway 2  ESPN
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】UFC 329 live results and analysis: McGregor vs. Holloway 2 - ESPN
+【发布时间】2026-07-12T03:30:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUklnS215dC1KTFlDTm1OMnBrTzB5VUR2VzZhSi1vUEhfSFVEdVltbnZkaFh2WDhKVnhNeDNMaXVDTy1xM2gxXzFzTHZfd0dwUEpySTNzS0lTWGJZdXpRck5GZElYVmFEamZMWksxN2dFZHF1dUtpSTBLYUl0WHNaNm4wU09SSjdvQUNnX0p3OTlNZzZPejlXR0ZuX3BRMlRvRDVxaGJuMTRKQ0k?oc=5
+
+------------------------------
+
+3. Mitch McConnell spokesperson says senator continues recovery in hospital - WDRB
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Mitch McConnell spokesperson says senator continues recovery in hospital  WDRB
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Mitch McConnell spokesperson says senator continues recovery in hospital - WDRB
+【发布时间】2026-07-12T03:11:37.000Z
+【链接】https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSkkxNFF4SWRaWEJEYlB3UExMVHNLeFctTWpqTXdud0Q4VTJMYzVLMmtSakQtMTFPZXY5Y1A2NVdHQUs0T2NmczNDN0tVZE1kUWs0VWJBdGlQTC1WWUxFVF85TFFuVDg2M2NYZG9BcEg4aEl0UnRUSEtTUHljRW96SVdCZ1JpT2dxWlluYlBMRWFwc2tHY204ck45UExxQjcyWTBKazZnbmlCaUtWX1JrWXMtcXh1YUs0QU9scl9NWS1PUENxMDhrckJibEhTRUJYMkVoSFVvdVpxZHNYRFgxU3UxdDg2MWF5WG0zUzRR?oc=5
+
+------------------------------
+
+4. Shooting near Toronto street festival kills 2 people and wounds 5, police say - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Shooting near Toronto street festival kills 2 people and wounds 5, police say  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Shooting near Toronto street festival kills 2 people and wounds 5, police say - AP News
+【发布时间】2026-07-12T02:43:00.000Z
+【链接】https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1o2Rll3VDlMMDFoNE8yUV84cGZWNXRMTXcwcVExb1lSNTJVTC1fZVZCLTBEUG9FU3NYZmVuRk5NajN5TGJZTnBIRjRyXzhLSF96Nk5wTkg0THg4SlhLcTZLSE0yZFhoSWxJSVZEVm9acGhxNHJKYnJmdEpLcWd4YnlXbGFQd0Z6MG9Ic2JhTGNpeThpbnNj?oc=5
