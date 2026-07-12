@@ -1,0 +1,20 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-12T00:15:16.719Z - 2026-07-12T02:15:16.719Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Ten Blue Links, “this one’s for you, Ian” edition
+
+==============================
+
+1. Ten Blue Links, “this one’s for you, Ian” edition
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A round-up of ten links and short takes on tech, politics, platforms, AI, Apple’s ad push, and a revived Starlog, with commentary on Meta, Palantir, data centers, and browser alternatives. [ianbetteridge.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Ten Blue Links, “this one’s for you, Ian” edition
+【发布时间】2026-07-12T01:00:44.000Z
+【链接】https://flipso.com/p/9x7awfnj2?ref=rss
