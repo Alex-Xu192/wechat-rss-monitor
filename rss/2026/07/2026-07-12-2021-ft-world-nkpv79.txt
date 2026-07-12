@@ -1,0 +1,33 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-12T10:21:03.649Z - 2026-07-12T12:21:03.649Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Why are China and India so bad at football?
+2. Will Warsh offer any clues on Fed rates outlook?
+
+==============================
+
+1. Why are China and India so bad at football?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Despite large populations and economies, the countries consistently fail to qualify for the World Cup
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Why are China and India so bad at football?
+【发布时间】2026-07-12T11:00:07.000Z
+【链接】https://www.ft.com/content/300c7ec9-afca-4252-8696-31366ce3746f
+
+------------------------------
+
+2. Will Warsh offer any clues on Fed rates outlook?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Market Questions is the FT’s guide to the week ahead
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Will Warsh offer any clues on Fed rates outlook?
+【发布时间】2026-07-12T11:00:07.000Z
+【链接】https://www.ft.com/content/e4bdee0e-8927-4f2e-b929-8d1c3c9d272d
