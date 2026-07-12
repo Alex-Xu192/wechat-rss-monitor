@@ -1,0 +1,20 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-12T14:14:23.797Z - 2026-07-12T16:14:23.797Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. XBOX OG Adventures
+
+==============================
+
+1. XBOX OG Adventures
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Porting a custom engine to the original Xbox, from modern C++ and Vulkan-era code back to C++03, DirectX 8, and the old XDK toolchain. Includes workflow notes on converting assets, building with legacy tools, and running Sponza and Quinn on OG Xbox hardware. [mamoniem.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】XBOX OG Adventures
+【发布时间】2026-07-12T15:20:11.000Z
+【链接】https://flipso.com/p/cyi330djm?ref=rss
