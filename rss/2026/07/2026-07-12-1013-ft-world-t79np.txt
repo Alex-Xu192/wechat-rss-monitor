@@ -1,0 +1,20 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-12T00:13:14.945Z - 2026-07-12T02:13:14.945Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. US launches more strikes after Iran declares Strait of Hormuz closed
+
+==============================
+
+1. US launches more strikes after Iran declares Strait of Hormuz closed
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】IRGC hits commercial ship transiting through waterway, with Centcom saying a crew member was missing from vessel
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US launches more strikes after Iran declares Strait of Hormuz closed
+【发布时间】2026-07-12T00:34:31.000Z
+【链接】https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d
