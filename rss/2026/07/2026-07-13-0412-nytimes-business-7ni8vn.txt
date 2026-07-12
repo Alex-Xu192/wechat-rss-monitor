@@ -1,0 +1,20 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-12T18:12:16.511Z - 2026-07-12T20:12:16.511Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. States Prepare Lawsuit to Block Paramount’s Merger With Warner Bros.
+
+==============================
+
+1. States Prepare Lawsuit to Block Paramount’s Merger With Warner Bros.
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】State attorneys general are preparing to file a lawsuit as soon as this week to halt the $111 billion deal, a potential major obstacle.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】States Prepare Lawsuit to Block Paramount’s Merger With Warner Bros.
+【发布时间】2026-07-12T20:05:53.000Z
+【链接】https://www.nytimes.com/2026/07/12/business/state-ag-lawsuit-paramount-warner-bros.html
