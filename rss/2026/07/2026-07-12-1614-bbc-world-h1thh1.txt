@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-12T06:14:40.002Z - 2026-07-12T08:14:40.002Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. US launches fresh strikes as Iran closes Strait of Hormuz
+2. China's second typhoon in a week makes landfall
+
+==============================
+
+1. US launches fresh strikes as Iran closes Strait of Hormuz
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US launches fresh strikes as Iran closes Strait of Hormuz
+【发布时间】2026-07-12T06:49:46.000Z
+【链接】https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. China's second typhoon in a week makes landfall
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】China's second typhoon in a week makes landfall
+【发布时间】2026-07-12T06:44:09.000Z
+【链接】https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss
