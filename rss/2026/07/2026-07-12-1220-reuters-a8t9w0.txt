@@ -1,0 +1,46 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-12T02:20:00.610Z - 2026-07-12T04:20:00.610Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. A dock that finally wakes up reliably
+2. How doctors die
+3. We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture
+
+==============================
+
+1. A dock that finally wakes up reliably
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Thunderbolt docks were supposed to make wake-from-sleep reliable, but this setup still failed intermittently with a CalDigit TS3 and TS4. After replacing an aging BenQ monitor with an ASUS ROG Swift PG27UCDM, wake-ups became consistently reliable, suggesting the monitor or its firmware may have been the missing piece. [fabiensanglard.net]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】A dock that finally wakes up reliably
+【发布时间】2026-07-12T03:20:09.000Z
+【链接】https://flipso.com/p/8q9er41nx?ref=rss
+
+------------------------------
+
+2. How doctors die
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ken Murray argues that doctors often choose comfort-focused care and avoid aggressive end-of-life treatment for themselves, highlighting the gap between what physicians receive and what many patients experience. The piece traces how patient expectations, medical culture, and the healthcare system drive futile care, and makes the case for hospice and dying with dignity. [archive.cancerworld.net]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】How doctors die
+【发布时间】2026-07-12T03:00:10.000Z
+【链接】https://flipso.com/p/4faow8p1w?ref=rss
+
+------------------------------
+
+3. We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A Drexel team found that a nonelastic hydrocarbon fluid can crack under stress, challenging the idea that fracture in liquids requires elasticity. High-speed imaging showed brittle-like breaks that propagate far faster than in viscoelastic fluids, suggesting liquid fracture may depend more on cohesion and cavitation than on elasticity alone. [quantamagazine.org]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture
+【发布时间】2026-07-12T02:40:09.000Z
+【链接】https://flipso.com/p/wcl6b7eyo?ref=rss
