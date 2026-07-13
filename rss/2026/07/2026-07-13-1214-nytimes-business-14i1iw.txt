@@ -1,0 +1,20 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-13T02:14:35.791Z - 2026-07-13T04:14:35.791Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. U.A.W. President Says He’s the Victim of ‘Bogus Allegations’
+
+==============================
+
+1. U.A.W. President Says He’s the Victim of ‘Bogus Allegations’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A grand jury is investigating whether Shawn Fain used his position to seek favors for his fiancée and retaliated against the union official who denied them.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】U.A.W. President Says He’s the Victim of ‘Bogus Allegations’
+【发布时间】2026-07-13T03:03:51.000Z
+【链接】https://www.nytimes.com/2026/07/12/business/uaw-shawn-fain-investigation.html
