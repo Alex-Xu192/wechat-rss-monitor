@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-13T10:24:23.064Z - 2026-07-13T12:24:23.064Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 华尔街迎来盈利季与经济数据的关键周
+2. 油价在伊朗与美国交锋后飙升
+3. 经济学家警告AI威胁
+
+==============================
+
+1. 华尔街迎来盈利季与经济数据的关键周
+【相关股票】JPM、BAC、WFC、GS、MS
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】盈利季本周二正式进入，大型银行率先披露财报。公司美元面临高标准，必须超出投资者预期。
+【依据】该篇新闻讨论的是美国银行及其它大型金融机构即将公布的财报，这与金融板块的股票（如JPMorgan Chase, Bank of America, Wells Fargo, Goldman Sachs, Morgan Stanley）密切相关。
+【原标题】Wall Street’s Big Week for Earnings and Economic Data
+【发布时间】2026-07-13T12:18:38.000Z
+【链接】https://www.nytimes.com/2026/07/13/business/dealbook/wall-street-earnings.html
+
+------------------------------
+
+2. 油价在伊朗与美国交锋后飙升
+【相关股票】XOM、CVX、COP、SLB、HAL
+【利好股票】XOM、CVX、COP、SLB、HAL
+【利空股票】无法判断
+【摘要】新的武装冲突对寻求通过霍尔姆赫斯 Strait 的船只构成新的风险。
+【依据】该篇新闻报道了伊朗与美国在霍尔姆赫斯海峡的交锋导致油价飙升，这直接有利于油气公司及其相关服务商，包括壳牌（Exxon Mobil）、美孚（Chevron）、科学巴菲（ConocoPhillips）等油气企业及供应链公司。
+【原标题】Oil Prices Surge After Iran and U.S. Trade Strikes
+【发布时间】2026-07-13T11:34:54.000Z
+【链接】https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html
+
+------------------------------
+
+3. 经济学家警告AI威胁
+【相关股票】GOOGL、MSFT、META、AMZN、NVDA
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】近200位经济学家签署 letters，呼吁政策制定者加强了解并应对AI潜在冲击。
+【依据】该篇新闻涉及人工智能技术对就业市场的潜在冲击，这与科技公司相关，包括谷歌（Alphabet）、微软（Microsoft）、Meta等AI及科技领域的主要企业。
+【原标题】Economists Warn of A.I. Threat
+【发布时间】2026-07-13T11:00:05.000Z
+【链接】https://www.nytimes.com/2026/07/13/business/economists-ai-threat-jobs.html
