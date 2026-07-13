@@ -1,0 +1,85 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-13T14:15:31.476Z - 2026-07-13T16:15:31.476Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. Wall Street tech stocks fall after Asian chipmakers hammered
+2. US will charge 20% fee for ships using Strait of Hormuz, Trump says
+3. UK uses new powers to ban Iran’s IRGC and Russian intelligence unit
+4. Netanyahu opponent leads polls ahead of Israeli elections
+5. US quantum computing needs a national buyer
+6. Twelve arrests over alleged far-right threat to Muslim event in Suffolk
+
+==============================
+
+1. Wall Street tech stocks fall after Asian chipmakers hammered
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Oil rises as US-Iran hostilities escalate and investors go into ‘risk-off’ mode
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Wall Street tech stocks fall after Asian chipmakers hammered
+【发布时间】2026-07-13T16:01:36.000Z
+【链接】https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734
+
+------------------------------
+
+2. US will charge 20% fee for ships using Strait of Hormuz, Trump says
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】President claims Washington will be ‘guardian’ of waterway and seek reimbursement to provide security for vessels
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US will charge 20% fee for ships using Strait of Hormuz, Trump says
+【发布时间】2026-07-13T15:50:02.000Z
+【链接】https://www.ft.com/content/b1ab6ab2-b893-4605-b2b1-571ba9f46bd1
+
+------------------------------
+
+3. UK uses new powers to ban Iran’s IRGC and Russian intelligence unit
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Iranian group ‘almost certainly directed’ antisemitic attacks in UK earlier this year, says minister
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】UK uses new powers to ban Iran’s IRGC and Russian intelligence unit
+【发布时间】2026-07-13T15:37:56.000Z
+【链接】https://www.ft.com/content/543c39ef-ac63-43b2-a4c5-d2619b942521
+
+------------------------------
+
+4. Netanyahu opponent leads polls ahead of Israeli elections
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Former military chief Gadi Eisenkot has overtaken prime minister as country sets October date for vote
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Netanyahu opponent leads polls ahead of Israeli elections
+【发布时间】2026-07-13T15:36:14.000Z
+【链接】https://www.ft.com/content/f57f88de-0531-4e2e-9a8a-d53d085c9b60
+
+------------------------------
+
+5. US quantum computing needs a national buyer
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Washington’s demand signal could do for the technology what early defence contracts did for silicon
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US quantum computing needs a national buyer
+【发布时间】2026-07-13T14:47:39.000Z
+【链接】https://www.ft.com/content/328b6708-a1dc-4438-a25a-2622c301d212
+
+------------------------------
+
+6. Twelve arrests over alleged far-right threat to Muslim event in Suffolk
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Organisers of religious festival ended event early after police warning about threat of ‘disorder’
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Twelve arrests over alleged far-right threat to Muslim event in Suffolk
+【发布时间】2026-07-13T14:29:32.000Z
+【链接】https://www.ft.com/content/2bc2076b-11f1-4468-b060-7323e2ec478a
