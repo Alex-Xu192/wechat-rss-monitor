@@ -1,0 +1,85 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-13T20:15:30.519Z - 2026-07-13T22:15:30.519Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 安迪·伯纳姆告诉工党议员，他将遏制英国的外包行业
+2. 伯纳姆将如何应对移民问题？
+3. FirstFT：投资者减少对亚洲芯片制造商的押注
+4. 特朗普警告华盛顿将“重击”伊朗后，美国发动袭击
+5. 随着美伊紧张局势升级令投资者恐慌，股债双双下跌
+6. 美国法院恢复将止痛药泰诺与自闭症关联的诉讼
+
+==============================
+
+1. 安迪·伯纳姆告诉工党议员，他将遏制英国的外包行业
+【相关股票】Capita Group、Serco Group、Mitie Group
+【利好股票】无法判断
+【利空股票】Capita Group、Serco Group、Mitie Group
+【摘要】待任首相在竞选集会上表示，他将任命一个“广泛代表性”的部长团队，并将政府合同收回内部运营
+【依据】英国工党潜在领导人承诺将政府外包合同收回内部，可能对外包服务商构成利空。
+【原标题】Andy Burnham tells Labour MPs he will rein in Britain’s outsourcing industry
+【发布时间】2026-07-13T21:53:52.000Z
+【链接】https://www.ft.com/content/c8298713-4480-4b8a-931a-de29c9d3ba33
+
+------------------------------
+
+2. 伯纳姆将如何应对移民问题？
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】这位最有可能成为下一任首相的人正寻求在满足收紧边境的呼声与吸引工党自由派支持者之间取得平衡
+【依据】文章讨论移民政策方向，未直接涉及具体公司或行业，难以判断股票影响。
+【原标题】What will Burnham do on immigration?
+【发布时间】2026-07-13T21:48:58.000Z
+【链接】https://www.ft.com/content/4d072fc3-0f8a-4ab7-bcd4-a2f553e6fd3a
+
+------------------------------
+
+3. FirstFT：投资者减少对亚洲芯片制造商的押注
+【相关股票】TSMC、Samsung Electronics、SK Hynix、SMIC
+【利好股票】无法判断
+【利空股票】TSMC、Samsung Electronics、SK Hynix、SMIC
+【摘要】今日通讯其他内容：企业转向中国AI模型以降低成本，以及简·弗雷泽对花旗集团的无情重塑
+【依据】投资者减持亚洲芯片股，反映半导体行业前景担忧，利空相关芯片制造商。
+【原标题】FirstFT: Investors cut back bets on Asia’s chipmakers
+【发布时间】2026-07-13T21:37:31.000Z
+【链接】https://www.ft.com/content/0ba42c5c-c097-4584-9387-a211d5234275
+
+------------------------------
+
+4. 特朗普警告华盛顿将“重击”伊朗后，美国发动袭击
+【相关股票】Exxon Mobil、Chevron、BP、Shell、Saudi Aramco
+【利好股票】Exxon Mobil、Chevron、BP、Shell、Saudi Aramco
+【利空股票】航空公司、航运公司、物流公司
+【摘要】随着华盛顿和德黑兰紧张局势升级，布伦特原油价格升至一个月高点
+【依据】美伊军事冲突升级推高油价，利好石油生产商，利空航空、航运等高耗能行业。
+【原标题】US launches strikes after Trump warns Washington will hit Iran ‘hard’
+【发布时间】2026-07-13T21:33:39.000Z
+【链接】https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c
+
+------------------------------
+
+5. 随着美伊紧张局势升级令投资者恐慌，股债双双下跌
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】美伊敌对行动升级，投资者转入“避险”模式，油价上涨
+【依据】地缘政治风险引发全球避险情绪，股债同跌，属于宏观层面波动，难以归因于个股。
+【原标题】Stocks and bonds drop as mounting US-Iran tensions spook investors
+【发布时间】2026-07-13T20:41:10.000Z
+【链接】https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734
+
+------------------------------
+
+6. 美国法院恢复将止痛药泰诺与自闭症关联的诉讼
+【相关股票】Johnson & Johnson、Teva Pharmaceutical、Perrigo
+【利好股票】无法判断
+【利空股票】Johnson & Johnson、Teva Pharmaceutical、Perrigo
+【摘要】纽约联邦小组认定初审法官在驳回诉讼时错误地排除了专家证词
+【依据】泰诺自闭症诉讼重启，可能给强生及仿制药厂带来法律与赔偿风险，属利空因素。
+【原标题】US court revives lawsuits linking painkiller Tylenol to autism
+【发布时间】2026-07-13T20:20:43.000Z
+【链接】https://www.ft.com/content/7c000308-c23e-47d0-8127-eb7184764cc5
