@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-13T14:16:32.107Z - 2026-07-13T16:16:32.107Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes
+2. U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming
+3. How Wealthy People Are Getting to World Cup Games
+4. Will Oil Prices Soar as the U.S.-Iran Truce Frays? The Answer Lies With China.
+5. Oil Prices Surge After Iran and U.S. Trade Strikes
+
+==============================
+
+1. Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Shipping activity plummeted after Iran attacked a ship, setting off U.S. strikes. Little crude oil is being transported through the critical waterway.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes
+【发布时间】2026-07-13T15:03:20.000Z
+【链接】https://www.nytimes.com/2026/07/13/business/strait-hormuz-shipping-traffic-iran-war.html
+
+------------------------------
+
+2. U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Electric vehicle chargers are proliferating in Southern states as fast food restaurants, stores and other businesses try to lure customers.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming
+【发布时间】2026-07-13T15:00:31.000Z
+【链接】https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html
+
+------------------------------
+
+3. How Wealthy People Are Getting to World Cup Games
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The skies above the Hamptons are packed with choppers headed to games, as “inequality is taking it right in the face.”
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】How Wealthy People Are Getting to World Cup Games
+【发布时间】2026-07-13T14:51:11.000Z
+【链接】https://www.nytimes.com/2026/07/13/business/world-cup-transportation-wealthy.html
+
+------------------------------
+
+4. Will Oil Prices Soar as the U.S.-Iran Truce Frays? The Answer Lies With China.
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Will Oil Prices Soar as the U.S.-Iran Truce Frays? The Answer Lies With China.
+【发布时间】2026-07-13T14:47:42.000Z
+【链接】https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html
+
+------------------------------
+
+5. Oil Prices Surge After Iran and U.S. Trade Strikes
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Oil Prices Surge After Iran and U.S. Trade Strikes
+【发布时间】2026-07-13T14:32:32.000Z
+【链接】https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html
