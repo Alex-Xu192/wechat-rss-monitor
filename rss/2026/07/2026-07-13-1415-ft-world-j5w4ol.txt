@@ -1,0 +1,46 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-13T04:15:51.401Z - 2026-07-13T06:15:51.401Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. US launches more strikes on Iran as ceasefire teeters
+2. EU urged to follow its own rules and ban trade with Israeli settlements
+3. FirstFT: US-Iran ceasefire teeters
+
+==============================
+
+1. US launches more strikes on Iran as ceasefire teeters
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Fighting escalates as Trump insists Strait of Hormuz remains open while Tehran says it is closed
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US launches more strikes on Iran as ceasefire teeters
+【发布时间】2026-07-13T06:06:20.000Z
+【链接】https://www.ft.com/content/c5beec47-ba53-412e-910e-6b9ab2f3238d
+
+------------------------------
+
+2. EU urged to follow its own rules and ban trade with Israeli settlements
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in this newsletter: No ‘single measure’ will protect kids online, says justice commissioner
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】EU urged to follow its own rules and ban trade with Israeli settlements
+【发布时间】2026-07-13T05:00:04.000Z
+【链接】https://www.ft.com/content/6db0a5eb-5a00-4683-9542-c53e349d507d
+
+------------------------------
+
+3. FirstFT: US-Iran ceasefire teeters
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in today’s newsletter: Bumper investment banking gains and UK council homes
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】FirstFT: US-Iran ceasefire teeters
+【发布时间】2026-07-13T04:33:06.000Z
+【链接】https://www.ft.com/content/2ea1acd3-fcf2-4b39-98c7-82af6e1a16bb
