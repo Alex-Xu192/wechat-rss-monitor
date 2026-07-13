@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-13T18:15:15.533Z - 2026-07-13T20:15:15.533Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Oil Prices Surge After Iran and U.S. Trade Strikes
+2. Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes
+3. Trump Accounts Prompt Parents to Start Saving Early for Their Kids
+4. Paramount-Warner Bros. Merger Is Challenged in Court by California and 11 Other States
+5. Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?
+
+==============================
+
+1. Oil Prices Surge After Iran and U.S. Trade Strikes
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.
+【依据】AI 结构化失败，未做股票判断。{"error":"Request timed out."}
+【原标题】Oil Prices Surge After Iran and U.S. Trade Strikes
+【发布时间】2026-07-13T20:13:52.000Z
+【链接】https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html
+
+------------------------------
+
+2. Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Shipping activity in the critical waterway has plunged after Iran attacked a vessel, setting off U.S. strikes. President Trump said he would reinstate a blockade of Iranian ports.
+【依据】AI 结构化失败，未做股票判断。{"error":"Request timed out."}
+【原标题】Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes
+【发布时间】2026-07-13T19:27:46.000Z
+【链接】https://www.nytimes.com/2026/07/13/business/strait-hormuz-shipping-traffic-iran-war.html
+
+------------------------------
+
+3. Trump Accounts Prompt Parents to Start Saving Early for Their Kids
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Between Trump accounts and child-friendly investment platforms, it has become much easier for parents to invest for their children’s future.
+【依据】AI 结构化失败，未做股票判断。{"error":"Request timed out."}
+【原标题】Trump Accounts Prompt Parents to Start Saving Early for Their Kids
+【发布时间】2026-07-13T19:12:15.000Z
+【链接】https://www.nytimes.com/2026/07/11/business/trump-accounts-investing-kids.html
+
+------------------------------
+
+4. Paramount-Warner Bros. Merger Is Challenged in Court by California and 11 Other States
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The lawsuit, filed by California and 11 other states, argues that the deal would harm movie theaters and damage America’s entertainment industry.
+【依据】AI 结构化失败，未做股票判断。{"error":"Request timed out."}
+【原标题】Paramount-Warner Bros. Merger Is Challenged in Court by California and 11 Other States
+【发布时间】2026-07-13T18:26:02.000Z
+【链接】https://www.nytimes.com/2026/07/13/business/paramount-warner-bros-lawsuit.html
+
+------------------------------
+
+5. Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Some tech executives are nervous that the administration’s recent scrutiny of artificial intelligence models could be a prelude to a demand for an ownership stake.
+【依据】AI 结构化失败，未做股票判断。{"error":"Request timed out."}
+【原标题】Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?
+【发布时间】2026-07-13T18:18:01.000Z
+【链接】https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html
