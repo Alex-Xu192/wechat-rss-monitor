@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-13T18:13:30.236Z - 2026-07-13T20:13:30.236Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Man wanted in connection with murder arrested in Jordan
+2. Trump reinstating naval blockade of Iranian ports
+
+==============================
+
+1. Man wanted in connection with murder arrested in Jordan
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The body of Jamey Carney was discovered at a property in Killarney, County Kerry, last week.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Man wanted in connection with murder arrested in Jordan
+【发布时间】2026-07-13T19:49:42.000Z
+【链接】https://www.bbc.co.uk/news/articles/c621p1zne6qo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Trump reinstating naval blockade of Iranian ports
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump reinstating naval blockade of Iranian ports
+【发布时间】2026-07-13T19:20:40.000Z
+【链接】https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss
