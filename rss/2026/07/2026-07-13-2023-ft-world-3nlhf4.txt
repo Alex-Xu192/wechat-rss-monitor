@@ -1,0 +1,111 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-13T10:23:07.180Z - 2026-07-13T12:23:07.180Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. Intel to invest €5bn in Irish plant as AI chip demand surges
+2. UK uses new powers to ban Iran’s IRGC and Russian intelligence unit
+3. Counter-terror police take over Widdecombe murder probe
+4. Global tech stocks fall as Asian memory chipmakers hammered
+5. China-proofing European cleantech is a tricky business
+6. Trump’s plan for Europe is falling apart
+7. US launches more strikes on Iran as ceasefire teeters
+8. Ukraine’s drone swarms test Moscow air defences
+
+==============================
+
+1. Intel to invest €5bn in Irish plant as AI chip demand surges
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Move strengthens Dublin’s role in Europe’s bid to secure advanced semiconductor manufacturing
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Intel to invest €5bn in Irish plant as AI chip demand surges
+【发布时间】2026-07-13T12:00:04.000Z
+【链接】https://www.ft.com/content/8bcc19e1-2101-444c-bd2e-3a4b113becec
+
+------------------------------
+
+2. UK uses new powers to ban Iran’s IRGC and Russian intelligence unit
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Iranian group ‘almost certainly directed’ antisemitic attacks in UK earlier this year, says minister
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】UK uses new powers to ban Iran’s IRGC and Russian intelligence unit
+【发布时间】2026-07-13T11:59:59.000Z
+【链接】https://www.ft.com/content/543c39ef-ac63-43b2-a4c5-d2619b942521
+
+------------------------------
+
+3. Counter-terror police take over Widdecombe murder probe
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Former Conservative minister was found dead at her home in Devon on Thursday
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Counter-terror police take over Widdecombe murder probe
+【发布时间】2026-07-13T11:58:04.000Z
+【链接】https://www.ft.com/content/5b90a72a-3dd0-4b9b-b023-474dd98efc2c
+
+------------------------------
+
+4. Global tech stocks fall as Asian memory chipmakers hammered
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Oil jumps as US-Iran hostilities escalate and investors go into ‘risk-off’ mode
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Global tech stocks fall as Asian memory chipmakers hammered
+【发布时间】2026-07-13T11:34:45.000Z
+【链接】https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734
+
+------------------------------
+
+5. China-proofing European cleantech is a tricky business
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Crude tariffs won’t be enough to promote EU renewable energy
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】China-proofing European cleantech is a tricky business
+【发布时间】2026-07-13T11:31:05.000Z
+【链接】https://www.ft.com/content/ef38df5f-f800-48c0-ad1b-15e5c6de6a86
+
+------------------------------
+
+6. Trump’s plan for Europe is falling apart
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The US president has a genius for alienating existing and potential allies
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump’s plan for Europe is falling apart
+【发布时间】2026-07-13T11:30:55.000Z
+【链接】https://www.ft.com/content/23041bb7-4647-4efe-b790-b763d270fb72
+
+------------------------------
+
+7. US launches more strikes on Iran as ceasefire teeters
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Fighting escalates as Trump insists Strait of Hormuz remains open while Tehran says it is closed
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US launches more strikes on Iran as ceasefire teeters
+【发布时间】2026-07-13T11:21:54.000Z
+【链接】https://www.ft.com/content/c5beec47-ba53-412e-910e-6b9ab2f3238d
+
+------------------------------
+
+8. Ukraine’s drone swarms test Moscow air defences
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Kyiv intensifies deep-strike campaign against Russia after attacks on refineries sparked fuel crisis
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Ukraine’s drone swarms test Moscow air defences
+【发布时间】2026-07-13T10:29:38.000Z
+【链接】https://www.ft.com/content/4194d23f-4cce-4aaa-bf22-9bf4c953e04e
