@@ -1,0 +1,33 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-14T00:14:09.778Z - 2026-07-14T02:14:09.778Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. China’s vast air clean-up marred by wartime coal power surge
+2. Dr Reddy’s runs into trouble with its weight-loss drug
+
+==============================
+
+1. China’s vast air clean-up marred by wartime coal power surge
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】FT analysis shows extent of enormous progress since ‘airpocalypse’ — and latest emissions increase
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】China’s vast air clean-up marred by wartime coal power surge
+【发布时间】2026-07-14T01:30:22.000Z
+【链接】https://www.ft.com/content/e67f40b6-48d6-4057-8d57-a9f5f6b0a741
+
+------------------------------
+
+2. Dr Reddy’s runs into trouble with its weight-loss drug
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in this newsletter, the UK-India trade deal goes live this week
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Dr Reddy’s runs into trouble with its weight-loss drug
+【发布时间】2026-07-14T01:30:05.000Z
+【链接】https://www.ft.com/content/32b8dcfb-9b8d-416b-8e5b-6423f9d201ca
