@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-14T20:14:37.624Z - 2026-07-14T22:14:37.624Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 大银行打破业绩记录，但'構造性'風險隱現
+2. 5款新的過山車讓你這個夏天尖叫不已
+
+==============================
+
+1. 大银行打破业绩记录，但'構造性'風險隱現
+【相关股票】JPM、GS、BAC、WFC
+【利好股票】JPM、GS、BAC、WFC
+【利空股票】JPM、GS、BAC、WFC
+【摘要】季度結果反映了地緣政治不確定性與穩定的美國經濟之間的二元性。
+【依据】文章明確提及JPMorgan、Goldman Sachs、Bank of America和Wells Fargo等大銀行的業績，這些公司的股票代碼分別為JPM、GS、BAC、WFC。雖然業績創紀錄（積極因素），但同時伴有構造性風險（消極因素），因此股票列表同時出現在正面和負面分類中。
+【原标题】Big Banks Smash Earnings Records, but 'Tectonic' Risks Loom
+【发布时间】2026-07-14T21:15:05.000Z
+【链接】https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html
+
+------------------------------
+
+2. 5款新的過山車讓你這個夏天尖叫不已
+【相关股票】無法判断
+【利好股票】無法判断
+【利空股票】無法判断
+【摘要】在這些會將你射向高空、使你旋轉和頂倒的過山車上讓腎上腺素流動。你肯定會想再體驗一次。
+【依据】這是一篇旅遊娛樂類的文章，介紹新的過山車景點，並未明確涉及特定公司、行業或投資相關主題，無法判斷相關股票。
+【原标题】5 New Roller Coasters to Make You Scream This Summer
+【发布时间】2026-07-14T21:07:32.000Z
+【链接】https://www.nytimes.com/2026/07/13/travel/new-roller-coasters-six-flags-universal-legoland.html
