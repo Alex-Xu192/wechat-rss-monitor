@@ -1,0 +1,137 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-14T16:17:02.407Z - 2026-07-14T18:17:02.407Z
+【数量】10
+
+【本邮件新闻标题汇总】
+1. Buffett drops Gates Foundation from $6bn Berkshire donation
+2. US banks results as they happened: Wall Street banks post blockbuster profits as equities trading booms
+3. European defence groups plan interceptor system to destroy missiles in space
+4. Warsh does not hint at July tightening in Congress testimony
+5. US inflation fell more than expected to 3.5% in June as petrol prices tumbled
+6. Ann Widdecombe killed in ‘targeted attack’, counterterror police say
+7. IBM shares plunge 25% as customers shift spending to AI
+8. Wall Street banks smash records on stock trading boom
+9. Trump says US to abandon proposed Strait of Hormuz cargo fee
+10. New York becomes first US state to suspend data centre development
+
+==============================
+
+1. Buffett drops Gates Foundation from $6bn Berkshire donation
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Billionaire chair of conglomerate shifts personal charity plans after revelations about Microsoft co-founder’s Epstein ties
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Buffett drops Gates Foundation from $6bn Berkshire donation
+【发布时间】2026-07-14T17:12:59.000Z
+【链接】https://www.ft.com/content/ebc72869-a233-4710-a9a4-e398f567a5b2
+
+------------------------------
+
+2. US banks results as they happened: Wall Street banks post blockbuster profits as equities trading booms
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】JPMorgan, Goldman, Citi and BofA kick off earnings season with strong results
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US banks results as they happened: Wall Street banks post blockbuster profits as equities trading booms
+【发布时间】2026-07-14T17:08:35.000Z
+【链接】https://www.ft.com/content/f4231724-bb67-4cfd-81e2-d20f4badb82e
+
+------------------------------
+
+3. European defence groups plan interceptor system to destroy missiles in space
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Programme intended to plug gaps in air defence and will draw on lessons from war in Ukraine
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】European defence groups plan interceptor system to destroy missiles in space
+【发布时间】2026-07-14T17:00:42.000Z
+【链接】https://www.ft.com/content/8280d5cf-a117-4dd2-bf69-dbe3ac199a18
+
+------------------------------
+
+4. Warsh does not hint at July tightening in Congress testimony
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Fed chair suggests inflation was his main concern but stopped short of signalling imminent tightening
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Warsh does not hint at July tightening in Congress testimony
+【发布时间】2026-07-14T16:52:38.000Z
+【链接】https://www.ft.com/content/60c4ed49-216f-4f90-9bf9-94f305296f02
+
+------------------------------
+
+5. US inflation fell more than expected to 3.5% in June as petrol prices tumbled
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Traders rein in bets on Fed rate rises as easing energy costs help tame price surges spurred by Middle East war
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US inflation fell more than expected to 3.5% in June as petrol prices tumbled
+【发布时间】2026-07-14T16:30:26.000Z
+【链接】https://www.ft.com/content/cb3b2887-d805-402b-9c85-55e3b44d867b
+
+------------------------------
+
+6. Ann Widdecombe killed in ‘targeted attack’, counterterror police say
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ex-Conservative minister and Reform spokesperson was found dead at her home in Devon on Thursday
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Ann Widdecombe killed in ‘targeted attack’, counterterror police say
+【发布时间】2026-07-14T16:28:55.000Z
+【链接】https://www.ft.com/content/c0d3b183-06c6-4ad5-b6a5-6ef245ff2035
+
+------------------------------
+
+7. IBM shares plunge 25% as customers shift spending to AI
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Chief executive Arvind Krishna says company ‘faltered’ as clients raced to buy servers and storage
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】IBM shares plunge 25% as customers shift spending to AI
+【发布时间】2026-07-14T16:27:28.000Z
+【链接】https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95
+
+------------------------------
+
+8. Wall Street banks smash records on stock trading boom
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Earnings at JPMorgan, Goldman Sachs, Citigroup and BofA benefit from AI frenzy and SpaceX IPO
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Wall Street banks smash records on stock trading boom
+【发布时间】2026-07-14T16:23:20.000Z
+【链接】https://www.ft.com/content/137efc01-087f-4b1d-b2a4-e18ea61197f2
+
+------------------------------
+
+9. Trump says US to abandon proposed Strait of Hormuz cargo fee
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】President says he will ‘replace’ plan with investment from Gulf states into the US
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump says US to abandon proposed Strait of Hormuz cargo fee
+【发布时间】2026-07-14T16:20:34.000Z
+【链接】https://www.ft.com/content/359bc137-c375-4812-87a9-07fbba8e347f
+
+------------------------------
+
+10. New York becomes first US state to suspend data centre development
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Governor Kathy Hochul signs one-year moratorium on new construction amid backlash over infrastructure needs
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】New York becomes first US state to suspend data centre development
+【发布时间】2026-07-14T16:19:01.000Z
+【链接】https://www.ft.com/content/1c390476-9d93-4df5-9b41-7381db43b4ea
