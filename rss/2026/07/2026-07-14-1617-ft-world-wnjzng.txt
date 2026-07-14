@@ -1,0 +1,33 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-14T06:17:08.136Z - 2026-07-14T08:17:08.136Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Oil hits $85 as battle for Strait of Hormuz alarms energy markets
+2. India presses banks to court diaspora’s deposits as rupee weakens
+
+==============================
+
+1. Oil hits $85 as battle for Strait of Hormuz alarms energy markets
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stocks and bonds hit by higher oil price as fears rise over renewed inflation shock
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Oil hits $85 as battle for Strait of Hormuz alarms energy markets
+【发布时间】2026-07-14T07:39:44.000Z
+【链接】https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498
+
+------------------------------
+
+2. India presses banks to court diaspora’s deposits as rupee weakens
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Foreign exchange reserves have dwindled by $54bn since start of Iran war
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】India presses banks to court diaspora’s deposits as rupee weakens
+【发布时间】2026-07-14T06:40:14.000Z
+【链接】https://www.ft.com/content/2002358d-0311-404f-a560-d05cef19a53c
