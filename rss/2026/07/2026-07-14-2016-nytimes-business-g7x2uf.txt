@@ -1,0 +1,85 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-14T10:16:10.796Z - 2026-07-14T12:16:10.796Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 参数大 VS. 各州
+2. Chai Discovery，一家人工智能药物初创公司，筹集了 4 亿美元
+3. 大银行强劲打破盈利记录，但‘地质’风险依旧
+4. 了解本报告的关键内容
+5. 油价上涨至每桶 85 美元以上，作为海湾冲突加剧
+6. 中国因 Corruption 和性指控惩罚 Top 官员
+
+==============================
+
+1. 参数大 VS. 各州
+【相关股票】Paramount、Warner Bros. Discovery
+【利好股票】无法判断
+【利空股票】Paramount
+【摘要】试图阻止媒体巨头计划收购 Warner Bros. Discovery 的努力表明各州在反垄断监管中扮演了更积极的角色。
+【依据】与 Paramount 及 Warner Bros. Discovery 相关，由于反垄断限制可能影响收购，代表负面。
+【原标题】Paramount vs. the States
+【发布时间】2026-07-14T12:05:50.000Z
+【链接】https://www.nytimes.com/2026/07/14/business/dealbook/paramount-states-antitrust.html
+
+------------------------------
+
+2. Chai Discovery，一家人工智能药物初创公司，筹集了 4 亿美元
+【相关股票】Chai Discovery
+【利好股票】Chai Discovery
+【利空股票】无法判断
+【摘要】筹资额度使公司估值达到 38 亿美元，凸显投资者对利用人工智能解决药物发现问题的兴趣。
+【依据】作为人工智能药物领域的创新企业，代表积极前景。
+【原标题】Chai Discovery, an A.I. Drug Start-Up, Raises $400 Million
+【发布时间】2026-07-14T12:00:43.000Z
+【链接】https://www.nytimes.com/2026/07/14/business/dealbook/chai-discovery-ai-drug-development.html
+
+------------------------------
+
+3. 大银行强劲打破盈利记录，但‘地质’风险依旧
+【相关股票】JPMorgan Chase、Goldman Sachs、Bank of America、Wells Fargo
+【利好股票】JPMorgan Chase、Goldman Sachs、Bank of America、Wells Fargo
+【利空股票】无法判断
+【摘要】美国最大银行在第二季度共同实现了数十亿美元的利润，尽管伊朗战争和持续性通胀等挑战依然存在。
+【依据】银行业表现强劲代表积极，但宏观风险（伊朗战争、通胀）可能影响银行的长期业绩。
+【原标题】Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom
+【发布时间】2026-07-14T11:38:17.000Z
+【链接】https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html
+
+------------------------------
+
+4. 了解本报告的关键内容
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】了解本报告的关键内容。
+【依据】报告内容不明确，无法判断股票方向。
+【原标题】What to know about the report.
+【发布时间】2026-07-14T10:56:17.000Z
+【链接】https://www.nytimes.com/live/2026/07/14/business/cpi-inflation-warsh-fed/inflation-cpi
+
+------------------------------
+
+5. 油价上涨至每桶 85 美元以上，作为海湾冲突加剧
+【相关股票】Chevron、ExxonMobil、BP
+【利好股票】无法判断
+【利空股票】Chevron、ExxonMobil、BP
+【摘要】布伦特原油，国际基准价格，在一个月内首次突破 85 美元。
+【依据】油价上涨可能对受油价波动影响的行业（如航空、运输）产生负面影响。
+【原标题】Oil Rises Above $85 a Barrel as Gulf Clash Escalates
+【发布时间】2026-07-14T10:27:28.000Z
+【链接】https://www.nytimes.com/2026/07/14/business/oil-prices-iran-war.html
+
+------------------------------
+
+6. 中国因 Corruption 和性指控惩罚 Top 官员
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ma Xingrui 是自 2022 年以来第三名被清除的 Politburo 成员。他曾领导新疆地区，之前负责中国太空项目。
+【依据】国家政治事件，对特定中国股票可能有影响，但难以明确判断。
+【原标题】China Purges Top Official Over Corruption and Sex Charges
+【发布时间】2026-07-14T10:23:29.000Z
+【链接】https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html
