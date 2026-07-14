@@ -1,0 +1,163 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-14T16:13:27.313Z - 2026-07-14T18:13:27.313Z
+【数量】12
+
+【本邮件新闻标题汇总】
+1. 美国股市在通胀数据后保持更稳，尽管IBM下跌 - AP News
+2. ICE在波特福德、缅因和休士顿的枪击事件引发争议 - CNN
+3. 特朗普取消 Hormuz 过路费想法但继续推进对伊朗的封锁 - NPR
+4. 巴菲特在披露Microsoft联合创始人埃普斯坦丑闻后取消向比尔·盖茨基金会的捐赠 - The Guardian
+5. 埃林·哈兰德的浣熊手持装有酒精的瓶子从哪里来？ - The Washington Post
+6. FBI称‘浪费时间’调查林赛·格雷厄姆之死，特朗普表示 - Politico
+7. 斯利·苏伦伯格，‘奇迹之水鸟’飞行员表示他患有阿尔茨海默病 - NBC News
+8. 发现生命起源的关键糖在星际空间被发现 - CNN
+9. 安·威德科姆在‘有针对性的袭击’中被杀，反恐警方称 - BBC
+10. 2026年白天艾美奖提名名单全公开 - TV Insider
+11. E. Jean Carroll 在特朗普三年后收到超过500万美元，陪审团认定其liable for sexual abuse and defamation - NBC News
+12. 纽约州一年内不会建设大型数据中心，因为在权衡能源和气候风险 - AP News
+
+==============================
+
+1. 美国股市在通胀数据后保持更稳，尽管IBM下跌 - AP News
+【相关股票】IBM
+【利好股票】无法判断
+【利空股票】IBM
+【摘要】美国股市在通胀数据后保持更稳，尽管IBM下跌
+【依据】新闻提到IBM股价下跌，属于负面影响；整体美国股市因通胀数据表现稳健，可能被视为正面或中性影响，但具体到股票而言，IBM为负，其他美国股市难以判定为明确的正面或负面。
+【原标题】US stocks hold steadier after inflation data, even as IBM plunges - AP News
+【发布时间】2026-07-14T18:01:00.000Z
+【链接】https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEF6RnpLaF9jU0tsSVNGdDZ4SW41OGZhMlplaTl3cExkUUJlS1g5Y2JveDRTbWFwa2RRWXlEdDgwTE9HNzc2aXVrdEltZ1JVcHhCdW5kd2JxOTF5MTNTb1l6ZDZIXzUxVnZaWVRjbTMtWTlRZjRCV2xORzcxYi1wNzRPdDN4cnlicno2aUhZdS1mN2R3X0F3?oc=5
+
+------------------------------
+
+2. ICE在波特福德、缅因和休士顿的枪击事件引发争议 - CNN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】ICE在波特福德、缅因和休士顿的枪击事件引发争议
+【依据】此新闻主要涉及执法部门事件，未明确关联任何公开上市公司或行业股票，因此无法判断相关股票的涨跌方向。
+【原标题】Live updates: ICE shootings in Biddeford, Maine, and Houston spark outcry - CNN
+【发布时间】2026-07-14T17:54:00.000Z
+【链接】https://news.google.com/rss/articles/CBMie0FVX3lxTE80VVZHcWNfTGRQeFdTU1Nod2NFSFhURmdDQXVHY2s5Z1BSWnNtSW03cWJUWHM5dHFYbjRaSlVGZWdBRlBCcnhDN2tqUW80SV9FWjhULV9JYl9HMm14UzV5OHFYOVdwX3dmLWlQT0d3VGZMZUNNcFlTeFVOTQ?oc=5
+
+------------------------------
+
+3. 特朗普取消 Hormuz 过路费想法但继续推进对伊朗的封锁 - NPR
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】特朗普取消 Hormuz 过路费想法但继续推进对伊朗的封锁
+【依据】报道涉及对伊朗的封锁和 Hormuz 过路费，可能影响石油和航运相关行业，但未明确提及具体公司或股票，故无法判断。
+【原标题】Trump scraps his Hormuz shipping charge idea but presses ahead with an Iran blockade - NPR
+【发布时间】2026-07-14T17:43:22.000Z
+【链接】https://news.google.com/rss/articles/CBMibEFVX3lxTE9QQXhCN1ZGMlhtS1dkaktwR0lkTUxMenpNTGtBZjFudngySS00LUlUd0RHdy0xSHdVanN1clpBaS1vU1Qzbkc0RUo5bnVrQlk3RzBuZ1BPNERFMnFQZUpHUHRtWTNUX3lXYWhxeg?oc=5
+
+------------------------------
+
+4. 巴菲特在披露Microsoft联合创始人埃普斯坦丑闻后取消向比尔·盖茨基金会的捐赠 - The Guardian
+【相关股票】MSFT、BRK.B
+【利好股票】无法判断
+【利空股票】MSFT、BRK.B
+【摘要】巴菲特在披露Microsoft联合创始人埃普斯坦丑闻后取消向比尔·盖茨基金会的捐赠
+【依据】巴菲特取消对比尔·盖茨基金会的捐赠，可能因其与埃普斯坦丑闻相关的声誉风险，预计对Microsoft及其关联公司（如伯克希尔）产生负面影响，但具体股价影响难以确定，故正面影响无法判断。
+【原标题】Buffett omits gift to Bill Gates' foundation after Microsoft cofounder's Epstein ties disclosed - The Guardian
+【发布时间】2026-07-14T17:34:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiigFBVV95cUxOQWhOa1hPVEpiYkZQemkwOG12dkxPVHp0YTNFNHJLM1ZtdlhRUThpVEU1TV9nZTFfUjFiTkd5eUNSaklTdVZoN3kxWUZmbmp0WVgtdFBRQnNyTmRGdE8tTzZRX2Y2dW85ZEVjQURLaDNKN3RXRHE3Y3p6NE1OT2VCNVFQVWktaWF0U0E?oc=5
+
+------------------------------
+
+5. 埃林·哈兰德的浣熊手持装有酒精的瓶子从哪里来？ - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】埃林·哈兰德的浣熊手持装有酒精的瓶子从哪里来
+【依据】该新闻关于职业足球运动员与浣熊的趣事，未涉及任何公开上市公司或行业股票，无法判断相关股票的涨跌方向。
+【原标题】Where did Erling Haaland get that raccoon holding a bottle of booze? - The Washington Post
+【发布时间】2026-07-14T17:32:04.000Z
+【链接】https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEJZcGZVc1JPdDcwT0FhaU1pSVlCeEpYQUJqY0Z6d0dybjUta0UxVjFvNVIxTy1PNjZ1ZmxxRGRUOTNZcUxqdUExRUtpSlh5UkVrTTZDS3luTHhlaGl6Z042Z3FhV1F3amhlZnpqOXB3ZTBKemhLV1RWZ2RJTUFxMHhqQk1CZjFnZ2IzQ3dPZElQS2pHWjNhckJTSzJTZjFEeTlQYlFZOFpDaVh3R01ZN1pR?oc=5
+
+------------------------------
+
+6. FBI称‘浪费时间’调查林赛·格雷厄姆之死，特朗普表示 - Politico
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】FBI称‘浪费时间’调查林赛·格雷厄姆之死，特朗普表示
+【依据】报道涉及政治人物林赛·格雷厄姆的死亡调查，未提及任何与股票市场直接相关的公司或行业，无法判断。
+【原标题】FBI is ‘wasting their time’ investigating Lindsey Graham’s death, Trump says - Politico
+【发布时间】2026-07-14T17:16:00.000Z
+【链接】https://news.google.com/rss/articles/CBMihwFBVV95cUxQS3c4QjhPeHVHUUNGaXRWSk41SWYxUkJlSXM1azYtQlFHRVB6N0JMV2VkNTJKQU96a1BRN1kzUlRpWHpXa0JlNGFxaG5iOEFrVm9aTVlBa0YzY0Q2WEdZM0JSXzZrbk1tMzU2dU1HUEgwR2dYWDNMN1lpcjEzVGhXSEJsbjUxWTg?oc=5
+
+------------------------------
+
+7. 斯利·苏伦伯格，‘奇迹之水鸟’飞行员表示他患有阿尔茨海默病 - NBC News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】斯利·苏伦伯格，‘奇迹之水鸟’飞行员表示他患有阿尔茨海默病
+【依据】斯利·苏伦伯格宣布患阿尔茨海默病，属于个人健康新闻，未涉及任何公开上市公司或行业股票，无法判断。
+【原标题】Sully Sullenberger, ‘Miracle on the Hudson’ pilot, says he has Alzheimer’s disease - NBC News
+【发布时间】2026-07-14T17:00:05.000Z
+【链接】https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmxzeUl0VFNjblFrNDZaTVhhM0dnbUl5Q0xRVzdSYmdIU3Bya0wtcnhWQzJ5VUVWQ1pPbW9mY1phcFJ0elBubnZWNnBCVWtOT3JRUkFFbWFNRTFTNHYzbjB3eHFvXzZodTRvRUcteDhXRl9Za1lLbUl5MHMxXzhFV0ozZ0pkODM0cXZzYXNrVmlYcERBSl80MjdvUTNzUjNSRk9IOF9mc201WnlrV1NMNw?oc=5
+
+------------------------------
+
+8. 发现生命起源的关键糖在星际空间被发现 - CNN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】发现生命起源的关键糖在星际空间被发现
+【依据】新闻报道天文发现的关键糖，属于科学突破，未涉及任何公开上市公司或行业股票，无法判断。
+【原标题】A sugar key to the origins of life has been discovered in interstellar space - CNN
+【发布时间】2026-07-14T16:59:52.000Z
+【链接】https://news.google.com/rss/articles/CBMifEFVX3lxTFBlMnN0cGV6M1VOY2M5UlJLaW9vYzBtQnFuZnpQcW1jNEpjcnQ4RTBWa0Rfc3EzMXVRR2R6eWc2a0ljTnYwc05MMXRnVmx6bFF0MXRaQVp1bEZFMXN3MWxFS2xVeUduTzJpTGU3dVFuMGpKX01kM0RGT0NuQ24?oc=5
+
+------------------------------
+
+9. 安·威德科姆在‘有针对性的袭击’中被杀，反恐警方称 - BBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】安·威德科姆在‘有针对性的袭击’中被杀，反恐警方称
+【依据】安·威德科姆被杀害的新闻涉及恐怖袭击，未提及任何与股票市场直接相关的公司或行业，无法判断。
+【原标题】Ann Widdecombe killed in 'targeted attack', counter terror police say - BBC
+【发布时间】2026-07-14T16:53:55.000Z
+【链接】https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UMU5UbTFKdmhPNmZkNHhnYWN5Y0ptamZsTTFXTDhLT2MxOWV3ZGlPa3dFc1R2QVktWEFrNzhYRTJWakRBRTVaT1NyQkdTaWJoQjkwdw?oc=5
+
+------------------------------
+
+10. 2026年白天艾美奖提名名单全公开 - TV Insider
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】2026年白天艾美奖提名名单全公开
+【依据】白天艾美奖提名名单公布，属于娱乐行业事件，未明确关联具体公开上市公司或股票，无法判断。
+【原标题】Daytime Emmy Awards 2026 Nominations: Full List - TV Insider
+【发布时间】2026-07-14T16:41:15.000Z
+【链接】https://news.google.com/rss/articles/CBMie0FVX3lxTE5WSTJFVEFodVVuX3NvR1F0TDdpTVFlc0hnYXRkalJoaEc2amQyRXNkaTVDV3RpcklobEZrQTJGcWpTeDdyalRsTWd0RmwyNGQ4d183d0dDX1BnMXh1cDZWbUdrLVl4QUFhVkU1TUE2dzBxUnQzTWJYQzRTQQ?oc=5
+
+------------------------------
+
+11. E. Jean Carroll 在特朗普三年后收到超过500万美元，陪审团认定其liable for sexual abuse and defamation - NBC News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】E. Jean Carroll 在特朗普三年后收到超过500万美元，陪审团认定其liable for sexual abuse and defamation
+【依据】E. Jean Carroll 诉讼结果涉及特朗普，但未直接提及任何公开上市公司或行业股票，无法判断相关股票的涨跌方向。
+【原标题】E. Jean Carroll collects more than $5 million from Trump 3 years after a jury found him liable for sexual abuse and defamation - NBC News
+【发布时间】2026-07-14T16:28:20.000Z
+【链接】https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkZlbk40VUVUbnNoLVUyVUdHdnBpMjgtRFJ0ZGxpcm1sV3Z1UnZlLW5DSFd5M3hGczF2ZHhrSzB2YXBYdGJocnlKenN5YVVlb21VM3JqcVozYXdZeURmTXFpS2NGQV9SU09XMHlCLWE3bmdCVi1WczVidVBrNGZndDNsRVNXNHE0dWx0T1d4WU9LLU5haEQ2X0pkV255TDhsa1hvUnpPaXNpTFVFMWdPVEpVSC1LSl9kcTh4NzZtVG1nMVBqRXc?oc=5
+
+------------------------------
+
+12. 纽约州一年内不会建设大型数据中心，因为在权衡能源和气候风险 - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】纽约州一年内不会建设大型数据中心，因为在权衡能源和气候风险
+【依据】纽约州暂停大数据中心建设的决定涉及能源和气候政策，可能影响云计算和数据中心公司，但未明确指出具体股票，无法判断。
+【原标题】New York won’t build big data centers for a year as it weighs energy and climate risks - AP News
+【发布时间】2026-07-14T16:15:00.000Z
+【链接】https://news.google.com/rss/articles/CBMimwFBVV95cUxQNVRaXzVLMFptRnhEYVZSTUFMakZ2T0RJdjlNN2VCRGFweko3RVZUZzk1Q2JORXRhcjhyTW5ZRXA3cWRvM2NTaEcwbTJDQzJGWk5BdV9UbTBOM3JtX2xZN2RndVo1Qm1HTjdVREN0QV9uZHljanhQV1JFSVBzVjJWMnhKZ0M3S1o0OVowTlFFNHlVZzdTRFpFZ09Kbw?oc=5
