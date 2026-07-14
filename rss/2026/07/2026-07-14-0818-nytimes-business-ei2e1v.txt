@@ -1,0 +1,20 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-13T22:18:32.833Z - 2026-07-14T00:18:32.833Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. 特朗普对霍尔木兹海峡收取费用，可能使运费翻倍
+
+==============================
+
+1. 特朗普对霍尔木兹海峡收取费用，可能使运费翻倍
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】油品及其他货物通过该海峡的20%费用潜在产生的费用引发承运人的担忧。
+【依据】The article discusses a potential 20% fee on shipping through the Strait of Hormuz proposed by Trump, which could double shipping costs. This directly impacts the shipping industry and global oil transport, potentially raising costs for importers and increasing revenues for shipping firms. However, without specific company tickers, the impact cannot be precisely identified.
+【原标题】Trump’s Strait of Hormuz Fee Could Double the Cost of Shipping
+【发布时间】2026-07-13T23:00:14.000Z
+【链接】https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html
