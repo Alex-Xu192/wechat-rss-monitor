@@ -1,0 +1,85 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-14T20:13:36.636Z - 2026-07-14T22:13:36.636Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 狂热市场对IBM毫不留情
+2. FirstFT: 华尔街银行在AI股票交易狂热中创下纪录
+3. 英国青少年面临社交媒体平台的午夜宵禁
+4. 新西兰首相警告抵制阿德恩时代的‘糖衣经济’
+5. 米利班在争取成为布纳姆财政部长的竞选中落后于马哈茂德
+6. 特朗普称美国将放弃拟议的 Hormuz 海运费
+
+==============================
+
+1. 狂热市场对IBM毫不留情
+【相关股票】IBM
+【利好股票】无法判断
+【利空股票】IBM
+【摘要】据悉，失败将不会被容忍
+【依据】The article indicates that markets are unforgiving toward IBM, implying a negative impact on IBM's stock.
+【原标题】Manic markets show no mercy to IBM
+【发布时间】2026-07-14T22:07:17.000Z
+【链接】https://www.ft.com/content/cfec51c1-0435-457f-a140-f302ca6a4e0b
+
+------------------------------
+
+2. FirstFT: 华尔街银行在AI股票交易狂热中创下纪录
+【相关股票】Wall Street banks
+【利好股票】Wall Street banks
+【利空股票】无法判断
+【摘要】同时，今日时讯：IBM股价暴跌，DeepSeek考虑新融资
+【依据】The article reports record profits for Wall Street banks amid a surge in AI-driven stock trading, indicating a positive outlook for the banking sector.
+【原标题】FirstFT: Wall Street banks shatter records on AI-stock trading frenzy
+【发布时间】2026-07-14T21:57:17.000Z
+【链接】https://www.ft.com/content/6470bbd1-ec3b-44c7-a767-405b99d0b342
+
+------------------------------
+
+3. 英国青少年面临社交媒体平台的午夜宵禁
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】如自动播放视频和无限滚动等成瘾功能将在拟议法律下关闭
+【依据】The article concerns UK legislation on social media usage and does not involve any stock or market impact.
+【原标题】UK teenagers face midnight curfew on using social media platforms
+【发布时间】2026-07-14T21:30:04.000Z
+【链接】https://www.ft.com/content/e3dc6768-8c8a-4e1e-9efc-a431b739a929
+
+------------------------------
+
+4. 新西兰首相警告抵制阿德恩时代的‘糖衣经济’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】前阿尔巴尼航空首席执行官称，财政纪律使经济在疫情和衰退后重新走上正轨
+【依据】The article discusses New Zealand's economic policy and does not clearly relate to specific stock movements.
+【原标题】New Zealand PM warns against Ardern-era ‘sugar rush economics’
+【发布时间】2026-07-14T21:00:05.000Z
+【链接】https://www.ft.com/content/40418586-2324-4ae0-8023-9378886a32b5
+
+------------------------------
+
+5. 米利班在争取成为布纳姆财政部长的竞选中落后于马哈茂德
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】家务大臣成为关键职位的最受青睐者， amid 对能源大臣激进净零政策的批评
+【依据】The article covers a political contest for a local government position and does not involve any stock impact.
+【原标题】Miliband trails Mahmood in race to become Burnham’s chancellor
+【发布时间】2026-07-14T20:45:34.000Z
+【链接】https://www.ft.com/content/3a200651-ff72-4ebb-a5a2-bcf6abb55e7c
+
+------------------------------
+
+6. 特朗普称美国将放弃拟议的 Hormuz 海运费
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】美国军方在总统表示将用高加林投资取代费用计划后，发动第七轮打击
+【依据】The article reports a policy change regarding a cargo fee in the Strait of Hormuz, but does not specify any particular stock impact.
+【原标题】Trump says US to abandon proposed Strait of Hormuz cargo fee
+【发布时间】2026-07-14T20:19:08.000Z
+【链接】https://www.ft.com/content/359bc137-c375-4812-87a9-07fbba8e347f
