@@ -1,0 +1,124 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-14T08:19:56.491Z - 2026-07-14T10:19:56.491Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. FirstFT: Chinese car exports surge
+2. DeepSeek weighs new fundraising a month after closing first round
+3. The payments darling in Trump’s crosshairs
+4. We are not on course for a Nato divorce — yet
+5. Wall Street to report bumper quarter as dealmaking returns
+6. Oil hits $87 as battle for Strait of Hormuz alarms energy markets
+7. ECB recruits digital euro critics for pilot
+8. UK borrowing costs hit highest level since May as oil surges
+9. Andy Burnham’s theory of government
+
+==============================
+
+1. FirstFT: Chinese car exports surge
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in today’s newsletter: oil surges above $85 a barrel and Wall Street’s ‘Super Tuesday’
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】FirstFT: Chinese car exports surge
+【发布时间】2026-07-14T10:09:15.000Z
+【链接】https://www.ft.com/content/0ba42c5c-c097-4584-9387-a211d5234275
+
+------------------------------
+
+2. DeepSeek weighs new fundraising a month after closing first round
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Unusually swift pace of capital injection comes as Chinese AI start-up seeks to build out infrastructure
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】DeepSeek weighs new fundraising a month after closing first round
+【发布时间】2026-07-14T10:02:27.000Z
+【链接】https://www.ft.com/content/6deb470e-d152-43a2-be0d-cc1fde4f3db8
+
+------------------------------
+
+3. The payments darling in Trump’s crosshairs
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】US tariff threats against Brazil over payments platform Pix provoke a political storm ahead of elections
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】The payments darling in Trump’s crosshairs
+【发布时间】2026-07-14T10:00:11.000Z
+【链接】https://www.ft.com/content/efbec9a7-a3d9-45e6-8ade-c0660f31ecc7
+
+------------------------------
+
+4. We are not on course for a Nato divorce — yet
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The best possible case is US support in the short term and European rearmament over the next two to three years
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】We are not on course for a Nato divorce — yet
+【发布时间】2026-07-14T10:00:11.000Z
+【链接】https://www.ft.com/content/ba19dfcb-c4a6-4a8c-8638-ef7e351eb91a
+
+------------------------------
+
+5. Wall Street to report bumper quarter as dealmaking returns
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Resurgence in mega-mergers and the SpaceX IPO is expected to have generated total fees of about $11bn for six big banks
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Wall Street to report bumper quarter as dealmaking returns
+【发布时间】2026-07-14T09:29:58.000Z
+【链接】https://www.ft.com/content/f4231724-bb67-4cfd-81e2-d20f4badb82e
+
+------------------------------
+
+6. Oil hits $87 as battle for Strait of Hormuz alarms energy markets
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stocks and bonds hit by higher oil price as fears rise over renewed inflation shock
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Oil hits $87 as battle for Strait of Hormuz alarms energy markets
+【发布时间】2026-07-14T09:21:43.000Z
+【链接】https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498
+
+------------------------------
+
+7. ECB recruits digital euro critics for pilot
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Deutsche Bank, DZ Bank and Groupe BPCE among 36 institutions selected for test of digital currency next year
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】ECB recruits digital euro critics for pilot
+【发布时间】2026-07-14T09:17:35.000Z
+【链接】https://www.ft.com/content/0ddbf3c0-bbe9-4d83-95c0-40e9ccb14b9b
+
+------------------------------
+
+8. UK borrowing costs hit highest level since May as oil surges
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ten-year yield back above 5% just days before Andy Burnham set to become prime minister
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】UK borrowing costs hit highest level since May as oil surges
+【发布时间】2026-07-14T09:00:47.000Z
+【链接】https://www.ft.com/content/107fc895-14db-4003-baa0-d81ed29c477f
+
+------------------------------
+
+9. Andy Burnham’s theory of government
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】His commitment to reining in outsourcing reflects his frustration at poor accountability
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Andy Burnham’s theory of government
+【发布时间】2026-07-14T08:46:48.000Z
+【链接】https://www.ft.com/content/f73abf34-1bdc-4458-8dfd-5fbc5e2222f1
