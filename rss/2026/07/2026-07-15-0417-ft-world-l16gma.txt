@@ -1,0 +1,85 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-14T18:17:00.082Z - 2026-07-14T20:17:00.082Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. IBM shares plunge 25% as customers shift spending to AI
+2. US state department offers $3mn grants to Maga-aligned groups in Europe
+3. RIP the US state department
+4. Trump says US to abandon proposed Strait of Hormuz cargo fee
+5. Buffett drops Gates Foundation from $6bn Berkshire donation
+6. Trump pays E Jean Carroll $5.6mn in assault and defamation case
+
+==============================
+
+1. IBM shares plunge 25% as customers shift spending to AI
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Chief executive Arvind Krishna says company ‘faltered’ as clients raced to buy servers and storage
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】IBM shares plunge 25% as customers shift spending to AI
+【发布时间】2026-07-14T20:11:17.000Z
+【链接】https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95
+
+------------------------------
+
+2. US state department offers $3mn grants to Maga-aligned groups in Europe
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Agency seeks to repurpose foreign aid funds to help organisations that support Trump administration policies
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US state department offers $3mn grants to Maga-aligned groups in Europe
+【发布时间】2026-07-14T19:47:42.000Z
+【链接】https://www.ft.com/content/e2addd88-4361-43f1-94e2-9f0a808dd6a9
+
+------------------------------
+
+3. RIP the US state department
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】America’s diplomats used to have global sway. Now they are besieged by their own president
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】RIP the US state department
+【发布时间】2026-07-14T19:47:33.000Z
+【链接】https://www.ft.com/content/ae268a4e-5134-4d34-ba5e-a908cc74c52d
+
+------------------------------
+
+4. Trump says US to abandon proposed Strait of Hormuz cargo fee
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】US military launches seventh wave of strikes after the president said he will ‘replace’ fees plan with Gulf investment
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump says US to abandon proposed Strait of Hormuz cargo fee
+【发布时间】2026-07-14T19:40:00.000Z
+【链接】https://www.ft.com/content/359bc137-c375-4812-87a9-07fbba8e347f
+
+------------------------------
+
+5. Buffett drops Gates Foundation from $6bn Berkshire donation
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Billionaire chair of conglomerate shifts personal charity plans after revelations about Microsoft co-founder’s Epstein ties
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Buffett drops Gates Foundation from $6bn Berkshire donation
+【发布时间】2026-07-14T19:03:42.000Z
+【链接】https://www.ft.com/content/ebc72869-a233-4710-a9a4-e398f567a5b2
+
+------------------------------
+
+6. Trump pays E Jean Carroll $5.6mn in assault and defamation case
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Funds president owed had been in a government account as he appealed against the verdict and judgment
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump pays E Jean Carroll $5.6mn in assault and defamation case
+【发布时间】2026-07-14T18:20:52.000Z
+【链接】https://www.ft.com/content/33ad643c-18d8-41a8-a3a2-b2cfd8303d43
