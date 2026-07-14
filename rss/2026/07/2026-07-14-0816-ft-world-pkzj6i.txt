@@ -1,0 +1,33 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-13T22:16:34.714Z - 2026-07-14T00:16:34.714Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. US launches air strikes as Iran targets tankers with cruise missiles
+2. Judge says Trump’s IRS lawsuit had no ‘basis in law or fact’
+
+==============================
+
+1. US launches air strikes as Iran targets tankers with cruise missiles
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Donald Trump said Washington would hit the Islamic republic ‘hard’ on Monday and Tuesday nights
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US launches air strikes as Iran targets tankers with cruise missiles
+【发布时间】2026-07-13T23:59:07.000Z
+【链接】https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c
+
+------------------------------
+
+2. Judge says Trump’s IRS lawsuit had no ‘basis in law or fact’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ruling casts doubt on whether president and his family can benefit from immunity deal
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Judge says Trump’s IRS lawsuit had no ‘basis in law or fact’
+【发布时间】2026-07-13T22:31:40.000Z
+【链接】https://www.ft.com/content/c98f4108-7bb6-4a05-9742-8d7b56c78c4f
