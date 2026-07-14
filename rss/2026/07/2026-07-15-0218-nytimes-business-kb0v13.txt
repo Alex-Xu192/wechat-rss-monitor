@@ -1,0 +1,59 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-14T16:18:38.050Z - 2026-07-14T18:18:38.050Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Inflation Slowed During Pause in War With Iran
+2. Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom
+3. Warsh Reiterates Fed’s Pledge to Get Inflation Down but Doesn’t Specify How
+4. Oil Price Dips From High After Trump Changes Plans for Shipping Fees
+
+==============================
+
+1. Inflation Slowed During Pause in War With Iran
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Consumer Price Index fell to a 3.5 percent annual increase in June, and prices marked their biggest drop from a month earlier since 2020.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Inflation Slowed During Pause in War With Iran
+【发布时间】2026-07-14T18:11:39.000Z
+【链接】https://www.nytimes.com/2026/07/14/business/economy/inflation-cpi.html
+
+------------------------------
+
+2. Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The quarterly results reflect the dichotomy between geopolitical uncertainty and the stable American economy.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom
+【发布时间】2026-07-14T17:56:01.000Z
+【链接】https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html
+
+------------------------------
+
+3. Warsh Reiterates Fed’s Pledge to Get Inflation Down but Doesn’t Specify How
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Kevin M. Warsh, in his first testimony to Congress as chairman of the Federal Reserve, did not shed light on whether he supported higher interest rates to tame price pressures.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Warsh Reiterates Fed’s Pledge to Get Inflation Down but Doesn’t Specify How
+【发布时间】2026-07-14T17:51:22.000Z
+【链接】https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html
+
+------------------------------
+
+4. Oil Price Dips From High After Trump Changes Plans for Shipping Fees
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Brent crude, the international benchmark, breached $85 per barrel for the first time in a month.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Oil Price Dips From High After Trump Changes Plans for Shipping Fees
+【发布时间】2026-07-14T16:30:44.000Z
+【链接】https://www.nytimes.com/2026/07/14/business/oil-prices-iran-war.html
