@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-14T10:13:36.103Z - 2026-07-14T12:13:36.103Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Mathematics formula found on Maya wall rivals insights of ancient masters - Nature
+2. Live updates • Direct Israel-Lebanon talks commence in Rome - Haaretz
+3. JPMorgan and Wells Fargo earnings are out: Live updates - CNBC
+
+==============================
+
+1. Mathematics formula found on Maya wall rivals insights of ancient masters - Nature
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Mathematics formula found on Maya wall rivals insights of ancient masters  Nature
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Mathematics formula found on Maya wall rivals insights of ancient masters - Nature
+【发布时间】2026-07-14T11:37:30.000Z
+【链接】https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYUkVUa1VTNm1idVdrN3lnbXpUVXo0Nkdmb3FweVhBcmJvbjAwaGNXand2V2FQVTUzRXlGU0NYWlJRalE2czlqTXdFRWJoMzlRUVpSZ3hRY0NuRlJEODVZ?oc=5
+
+------------------------------
+
+2. Live updates • Direct Israel-Lebanon talks commence in Rome - Haaretz
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Live updates • Direct Israel-Lebanon talks commence in Rome  Haaretz
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Live updates • Direct Israel-Lebanon talks commence in Rome - Haaretz
+【发布时间】2026-07-14T11:13:00.000Z
+【链接】https://news.google.com/rss/articles/CBMikwJBVV95cUxNdF95bTYteGJKOW9DS3ZDWTY4RGEtTlB1c1czR0dZVlJVQVZndnhsZTZ5ZVZmRDduSWowWUYzZU1EMEtncXRrcnVIQVhRcU5rcGtnS3UxY0kxbmpOVWNvaWZISHNxbEhtUUxmWlFOSmV6VTdNQm5MUGxpM3RjemkyUExtVVYyR2ktbzZiOC10V1hfRVloLVNOXzNHekZicEVYbXQtR1c5YkV3Mm1ibEh0enlOb3dCYlV6YjVwckVBMHphSGxCVUVicVdkVEVuQTk2T3QtSS1oVVZRalBBVkZpWE4wMVlqRjN4dDEwRnVjZFlJeFdhOV93SmJjRWMwTGc5NVlSeTFZZTFGazAzc3lFRk1wVQ?oc=5
+
+------------------------------
+
+3. JPMorgan and Wells Fargo earnings are out: Live updates - CNBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】JPMorgan and Wells Fargo earnings are out: Live updates  CNBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】JPMorgan and Wells Fargo earnings are out: Live updates - CNBC
+【发布时间】2026-07-14T10:38:00.000Z
+【链接】https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVExbDBuR1dkY2F5X1Q1Zmw0SU5NbzlYek5xR2wycnhlTEZFdmhMcXRFNXdaMHhCMFBXbTdUNzhmM0NST1FTSHlOLXc4ZnkydThaaDBqeHExbTdoQWJiYjhxaW9uclUwTzliaWxSZzA2TkJLNnBXYi1kZGhfaTdVZkZpNk5aR0dJUXlZaTYyVTVUd9IBlwFBVV95cUxQV2FFWFhCVEREQjNxSEVKMVZ1VDgwLUx0ZDhpRkhIWmJ4VDVKSEpVV3ZHMkc4ZG1hMExEcDhKNExvcXkzc1RsMEUzcm5rVDBqSkpBcDg1WDdWTjVCYUdGd2pBb1dad3d4TDdHQXFYRzlDSG4xejRXZWdWdDVoa250Z012eEY0dVFEdlI4VHEtNGc2VEhXTGVJ?oc=5
