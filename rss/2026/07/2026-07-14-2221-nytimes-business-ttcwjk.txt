@@ -1,0 +1,137 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-14T12:21:08.516Z - 2026-07-14T14:21:08.516Z
+【数量】10
+
+【本邮件新闻标题汇总】
+1. Paramount 与州政府的对抗
+2. 新任联邦储备局主席在寻求建议
+3. 油价突破每桶85美元，高加索冲突升级
+4. 美国电动汽车销量下降，但电动车充电站繁荣
+5. 有前途的海军无人艇计划陷入政治泥沼
+6. 关于报告的要点
+7. 巴塞罗那新可持续旅游领导的讯息：‘不再增加一名游客。’
+8. AI药物初创公司Chai Discovery融资4亿美元
+9. Warsh 再次重申联邦储备局降低通胀的承诺
+10. 美国工人比历史任何时候都更高效，AI并非关键
+
+==============================
+
+1. Paramount 与州政府的对抗
+【相关股票】Paramount、Warner Bros. Discovery
+【利好股票】Warner Bros. Discovery
+【利空股票】Paramount
+【摘要】为了阻止媒体巨头计划收购华纳兄弟发现的行为，凸显了州政府在反垄断监管中扮演更积极的角色。
+【依据】Antitrust action may hurt Paramount stock, potentially boost Warner Bros. Discovery stock.
+【原标题】Paramount vs. the States
+【发布时间】2026-07-14T14:11:38.000Z
+【链接】https://www.nytimes.com/2026/07/14/business/dealbook/paramount-states-antitrust.html
+
+------------------------------
+
+2. 新任联邦储备局主席在寻求建议
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】五个新任务组专注于Kevin M. Warsh（联邦储备局主席）认为是“广泛货币政策的核心议题”。
+【依据】No specific company mentioned; macroeconomic impact uncertain.
+【原标题】The Fed’s new chairman is asking for advice.
+【发布时间】2026-07-14T14:07:55.000Z
+【链接】https://www.nytimes.com/live/2026/07/14/business/cpi-inflation-warsh-fed/the-feds-new-chairman-is-asking-for-advice
+
+------------------------------
+
+3. 油价突破每桶85美元，高加索冲突升级
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】布伦特原油，国际基准, 首次在一个月内突破每桶85美元。
+【依据】No specific company mentioned; oil price rise may benefit oil producers but harm other sectors.
+【原标题】Oil Rises Above $85 a Barrel as Gulf Clash Escalates
+【发布时间】2026-07-14T13:41:48.000Z
+【链接】https://www.nytimes.com/2026/07/14/business/oil-prices-iran-war.html
+
+------------------------------
+
+4. 美国电动汽车销量下降，但电动车充电站繁荣
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】电动车充电桩在南部州份遍布，快餐店、商店和其他企业试图吸引顾客。
+【依据】No clear company; EV charger growth may benefit charging network providers.
+【原标题】U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming
+【发布时间】2026-07-14T13:19:11.000Z
+【链接】https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html
+
+------------------------------
+
+5. 有前途的海军无人艇计划陷入政治泥沼
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】海军收购改革颠覆了21亿美元的合同竞争。竞争结束后，几家与特朗普政府有关联的公司入选。
+【依据】Defense contractors may be affected; political ties could influence contracts.
+【原标题】How a Promising Navy Drone Boat Program Got Mired in Politics
+【发布时间】2026-07-14T13:18:18.000Z
+【链接】https://www.nytimes.com/2026/07/14/us/politics/navy-drone-boat-acquisitions.html
+
+------------------------------
+
+6. 关于报告的要点
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】关于报告的要点。
+【依据】No company or sector; macro data.
+【原标题】What to know about the report.
+【发布时间】2026-07-14T13:15:35.000Z
+【链接】https://www.nytimes.com/live/2026/07/14/business/cpi-inflation-warsh-fed/inflation-cpi
+
+------------------------------
+
+7. 巴塞罗那新可持续旅游领导的讯息：‘不再增加一名游客。’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】作为可持续旅游专员，何塞安东尼奥·多纳雷的工作是降低近1600万年度访客对加泰罗尼亚首都的影响。以下是他的计划。
+【依据】Tourism impact may affect local businesses; no clear stock.
+【原标题】The Message From Barcelona’s New Sustainable Tourism Leader: ‘Not One Tourist More.’
+【发布时间】2026-07-14T13:06:49.000Z
+【链接】https://www.nytimes.com/2026/07/10/travel/barcelona-overtourism-jose-antonio-donaire.html
+
+------------------------------
+
+8. AI药物初创公司Chai Discovery融资4亿美元
+【相关股票】Chai Discovery
+【利好股票】Chai Discovery
+【利空股票】无
+【摘要】融资使公司估值达到38亿美元，凸显投资者对使用人工智能解决诸如药物发现等问题的兴趣。
+【依据】Funding is positive for Chai Discovery; may boost AI drug sector.
+【原标题】Chai Discovery, an A.I. Drug Start-Up, Raises $400 Million
+【发布时间】2026-07-14T13:02:16.000Z
+【链接】https://www.nytimes.com/2026/07/14/business/dealbook/chai-discovery-ai-drug-development.html
+
+------------------------------
+
+9. Warsh 再次重申联邦储备局降低通胀的承诺
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】自成为联邦储备局主席以来，Kevin M. Warsh 表示他不确定是否支持提高利率以抑制价格压力。
+【依据】No specific company; monetary policy impact uncertain.
+【原标题】Warsh to Reiterate Fed’s Pledge to Get Inflation Down
+【发布时间】2026-07-14T12:57:15.000Z
+【链接】https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html
+
+------------------------------
+
+10. 美国工人比历史任何时候都更高效，AI并非关键
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】公司多年来一直在从员工身上获得更多。紧缺的劳动力市场、数字化和远程工作是其中的原因。
+【依据】Productivity gains may benefit many sectors; AI not a key driver.
+【原标题】U.S. Workers Are More Productive Than Ever. A.I. Isn’t the Key.
+【发布时间】2026-07-14T12:25:43.000Z
+【链接】https://www.nytimes.com/2026/07/14/business/worker-productivity-artificial-intelligence-economy.html
