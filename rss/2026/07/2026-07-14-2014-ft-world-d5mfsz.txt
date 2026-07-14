@@ -1,0 +1,124 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-14T10:14:45.856Z - 2026-07-14T12:14:45.856Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. IBM shares plunge 23% on profit warning
+2. Dinosaurs are selling for millions. Do collectors know what they’re buying?
+3. Oil hits $87 as battle for Strait of Hormuz alarms energy markets
+4. Number of farms up for sale in England hits two-decade high
+5. The Fed and BoE have a trust deficit
+6. UK ‘wasted’ nearly £10bn on PPE during pandemic, inquiry says
+7. Commercial fusion race shifts from laboratories to supply chains
+8. Democrats are not in great shape
+9. UK borrowing costs hit highest level since May as oil surges
+
+==============================
+
+1. IBM shares plunge 23% on profit warning
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Company blames sluggish customer spending on AI infrastructure as tech group signals it will miss market expectations
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】IBM shares plunge 23% on profit warning
+【发布时间】2026-07-14T11:57:30.000Z
+【链接】https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95
+
+------------------------------
+
+2. Dinosaurs are selling for millions. Do collectors know what they’re buying?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】As heady prices make headlines, new collectors are plunging into a market with scant agreement on standards and transparency
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Dinosaurs are selling for millions. Do collectors know what they’re buying?
+【发布时间】2026-07-14T11:56:40.000Z
+【链接】https://www.ft.com/content/711be188-c3a4-429e-b87f-6243ed7e6747
+
+------------------------------
+
+3. Oil hits $87 as battle for Strait of Hormuz alarms energy markets
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stocks and bonds hit by higher oil price as fears rise over renewed inflation shock
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Oil hits $87 as battle for Strait of Hormuz alarms energy markets
+【发布时间】2026-07-14T11:54:34.000Z
+【链接】https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498
+
+------------------------------
+
+4. Number of farms up for sale in England hits two-decade high
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Rising costs, falling subsidies and inheritance tax changes have hit demand for agricultural land
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Number of farms up for sale in England hits two-decade high
+【发布时间】2026-07-14T11:53:47.000Z
+【链接】https://www.ft.com/content/38678f66-e226-4acf-b66b-8592ae53fbd3
+
+------------------------------
+
+5. The Fed and BoE have a trust deficit
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Loss of faith in central banks could be driving up long-run inflation expectations
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】The Fed and BoE have a trust deficit
+【发布时间】2026-07-14T11:30:05.000Z
+【链接】https://www.ft.com/content/db0fd0e9-73d0-4eaf-8b49-d21690733b9c
+
+------------------------------
+
+6. UK ‘wasted’ nearly £10bn on PPE during pandemic, inquiry says
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】‘Vast’ sums squandered in health crisis, report finds, as it criticises so-called VIP lane for procurement
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】UK ‘wasted’ nearly £10bn on PPE during pandemic, inquiry says
+【发布时间】2026-07-14T11:08:03.000Z
+【链接】https://www.ft.com/content/2a560efe-d808-499b-b4d0-827f62ad0d15
+
+------------------------------
+
+7. Commercial fusion race shifts from laboratories to supply chains
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Investment rises in the sector in the hope that it can provide abundant carbon-free electricity
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Commercial fusion race shifts from laboratories to supply chains
+【发布时间】2026-07-14T11:00:04.000Z
+【链接】https://www.ft.com/content/d71c06e5-413a-4468-9512-dbc5be5fe162
+
+------------------------------
+
+8. Democrats are not in great shape
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A fractious opposition is doing everything it can to spurn an open goal
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Democrats are not in great shape
+【发布时间】2026-07-14T10:55:23.000Z
+【链接】https://www.ft.com/content/bd5f3950-3c80-41af-852e-fe736da603ac
+
+------------------------------
+
+9. UK borrowing costs hit highest level since May as oil surges
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ten-year yield back above 5% just days before Andy Burnham set to become prime minister
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】UK borrowing costs hit highest level since May as oil surges
+【发布时间】2026-07-14T10:48:56.000Z
+【链接】https://www.ft.com/content/107fc895-14db-4003-baa0-d81ed29c477f
