@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-15T14:19:17.105Z - 2026-07-15T16:19:17.105Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 高盛前首席律师称爱泼斯坦为‘撒谎大师’
+2. 从推特到 X：20 年的迷因、运动与热门观点
+3. 科技投资者和长寿影响者支持 Neko Health 的巨额融资轮
+
+==============================
+
+1. 高盛前首席律师称爱泼斯坦为‘撒谎大师’
+【相关股票】GS
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】高盛前总法律顾问凯瑟琳·鲁姆勒周三在调查杰弗里·爱泼斯坦的国会闭门听证会上作证。
+【依据】新闻涉及高盛前高管就爱泼斯坦案作证，可能对高盛声誉产生负面影响，但直接财务影响不明。
+【原标题】Goldman’s Former Top Lawyer Calls Epstein a ‘Masterful Liar’
+【发布时间】2026-07-15T15:52:49.000Z
+【链接】https://www.nytimes.com/2026/07/15/business/goldman-kathy-ruemmler-epstein.html
+
+------------------------------
+
+2. 从推特到 X：20 年的迷因、运动与热门观点
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】公众的首条推文出现在 2006 年 7 月 15 日，软启动几个月后。在被埃隆·马斯克收购后，它被重新命名为 X。
+【依据】新闻回顾推特/X 20 年历史，未涉及具体上市公司财务动态，难以判断相关股票。
+【原标题】From Twitter to X: 20 Years of Memes, Movements and Hot Takes
+【发布时间】2026-07-15T14:47:58.000Z
+【链接】https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html
+
+------------------------------
+
+3. 科技投资者和长寿影响者支持 Neko Health 的巨额融资轮
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】由 Spotify 创始人丹尼尔·埃克共同创立的健康科技初创公司 Neko Health 在新一轮 7 亿美元融资后估值增加数十亿美元。
+【依据】新闻报道 Neko Health 融资，虽提及 Spotify 创始人丹尼尔·埃克，但 Neko Health 为私营公司，对 Spotify 等上市公司直接影响不确定。
+【原标题】Tech Investors and Longevity Influencers Back Neko Health’s Mega Round
+【发布时间】2026-07-15T14:42:21.000Z
+【链接】https://www.nytimes.com/2026/07/15/business/dealbook/neko-health-ek-funding.html
