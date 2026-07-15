@@ -1,0 +1,20 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-15T00:19:39.241Z - 2026-07-15T02:19:39.241Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Financing the AI boom: from cash flows to debt
+
+==============================
+
+1. Financing the AI boom: from cash flows to debt
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】BIS Bulletin on how surging AI-related investment is shifting funding from operating cash flow toward debt, with private credit playing a growing role. It examines the macroeconomic impact of AI infrastructure spending, the changing financing mix, and the financial stability risks if earnings fall short. [bis.org]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Financing the AI boom: from cash flows to debt
+【发布时间】2026-07-15T00:20:11.000Z
+【链接】https://flipso.com/p/au9kyx7gd?ref=rss
