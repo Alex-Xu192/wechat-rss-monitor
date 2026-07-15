@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-15T12:18:44.844Z - 2026-07-15T14:18:44.844Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Oil Prices Tick Higher as U.S. Reinstates Iran Blockade
+2. Is IBM a Canary in the Tech Coal Mine?
+
+==============================
+
+1. Oil Prices Tick Higher as U.S. Reinstates Iran Blockade
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The United States reinstated its blockade on Iranian ports in the Strait of Hormuz and shipping slowed to a crawl amid the renewed warfare in the critical waterway.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Oil Prices Tick Higher as U.S. Reinstates Iran Blockade
+【发布时间】2026-07-15T13:53:42.000Z
+【链接】https://www.nytimes.com/2026/07/15/business/oil-prices-stocks-gas.html
+
+------------------------------
+
+2. Is IBM a Canary in the Tech Coal Mine?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The company tumbled sharply after previewing quarterly results that were disappointing. It’s not good news for software and tech consulting companies.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Is IBM a Canary in the Tech Coal Mine?
+【发布时间】2026-07-15T12:31:21.000Z
+【链接】https://www.nytimes.com/2026/07/15/business/dealbook/ibm-ai-software-consulting.html
