@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-15T14:17:56.193Z - 2026-07-15T16:17:56.193Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Special police team to investigate killing of an anti-migrant leader in South Africa
+2. Dramatic video shows wildfire surround freight train in Canada
+
+==============================
+
+1. Special police team to investigate killing of an anti-migrant leader in South Africa
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The March and March provincial leader died of his injuries in hospital several days after being shot.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Special police team to investigate killing of an anti-migrant leader in South Africa
+【发布时间】2026-07-15T15:33:30.000Z
+【链接】https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Dramatic video shows wildfire surround freight train in Canada
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】CN Rail told the BBC that operations were temporarily suspended in the affected area in the province of Ontario.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Dramatic video shows wildfire surround freight train in Canada
+【发布时间】2026-07-15T15:11:00.000Z
+【链接】https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo?at_medium=RSS&at_campaign=rss
