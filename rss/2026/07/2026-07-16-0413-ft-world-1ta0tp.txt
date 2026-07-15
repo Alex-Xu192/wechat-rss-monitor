@@ -1,0 +1,124 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-15T18:13:06.559Z - 2026-07-15T20:13:06.559Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. SpaceX sell-off wipes $1tn from Musk’s rocket group
+2. Oil traders warn market is close to running on empty as Hormuz shuts again
+3. Pentagon to offer testosterone treatment to US troops
+4. Volodymyr Zelenskyy sacks Ukraine’s popular defence minister
+5. Vote on US aid to Israel set to lay bare divide in Democratic Party
+6. Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model
+7. European industries expected to win more time to emit carbon
+8. Canadian wildfires prompt air quality warnings as far as New York City
+9. Shabana Mahmood: the migration hardliner who refused to serve under Corbyn
+
+==============================
+
+1. SpaceX sell-off wipes $1tn from Musk’s rocket group
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock trades below $135 for first time since AI and space conglomerate’s Wall Street debut in June
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】SpaceX sell-off wipes $1tn from Musk’s rocket group
+【发布时间】2026-07-15T20:03:01.000Z
+【链接】https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede
+
+------------------------------
+
+2. Oil traders warn market is close to running on empty as Hormuz shuts again
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stockpiles that acted as shock absorbers early in Iran war are running low as crucial waterway closes again
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Oil traders warn market is close to running on empty as Hormuz shuts again
+【发布时间】2026-07-15T19:49:20.000Z
+【链接】https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf
+
+------------------------------
+
+3. Pentagon to offer testosterone treatment to US troops
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Defence secretary Pete Hegseth’s move comes amid focus on low sperm count and virility on American right
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Pentagon to offer testosterone treatment to US troops
+【发布时间】2026-07-15T19:33:26.000Z
+【链接】https://www.ft.com/content/c4c8b9e0-3149-4e0a-b585-5a5c8d2b878e
+
+------------------------------
+
+4. Volodymyr Zelenskyy sacks Ukraine’s popular defence minister
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Moderniser behind country’s drone development ousted in cabinet reshuffle after just six months in post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Volodymyr Zelenskyy sacks Ukraine’s popular defence minister
+【发布时间】2026-07-15T19:15:47.000Z
+【链接】https://www.ft.com/content/c2b9d7ff-ac32-4cea-82b2-b4dc0a64c014
+
+------------------------------
+
+5. Vote on US aid to Israel set to lay bare divide in Democratic Party
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Amendment to an annual defence spending bill would eliminate all $3.3bn the US provides to Israel
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Vote on US aid to Israel set to lay bare divide in Democratic Party
+【发布时间】2026-07-15T19:07:48.000Z
+【链接】https://www.ft.com/content/cb35e093-1f8e-4160-9597-80d54cf2eb8b
+
+------------------------------
+
+6. Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Former OpenAI CTO’s start-up raised $2bn last year at $12bn valuation
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Mira Murati’s Thinking Machines draws from Chinese rivals in debut AI model
+【发布时间】2026-07-15T18:57:43.000Z
+【链接】https://www.ft.com/content/ef486929-d2c2-480b-8b00-9cb98bda6acf
+
+------------------------------
+
+7. European industries expected to win more time to emit carbon
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Heavy lobbying by polluting companies and countries over review of EU emissions trading scheme
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】European industries expected to win more time to emit carbon
+【发布时间】2026-07-15T18:52:04.000Z
+【链接】https://www.ft.com/content/36f19b62-b42c-4f84-ac3c-d416f059472f
+
+------------------------------
+
+8. Canadian wildfires prompt air quality warnings as far as New York City
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Smoke from more than 100 ‘out of control’ blazes spread across region
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Canadian wildfires prompt air quality warnings as far as New York City
+【发布时间】2026-07-15T18:26:38.000Z
+【链接】https://www.ft.com/content/52dc189d-d9ac-4aed-ab26-a8fb87d19138
+
+------------------------------
+
+9. Shabana Mahmood: the migration hardliner who refused to serve under Corbyn
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Andy Burnham’s expected appointment as chancellor is seen as a tough operator, but has said little about economic policy
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Shabana Mahmood: the migration hardliner who refused to serve under Corbyn
+【发布时间】2026-07-15T18:23:02.000Z
+【链接】https://www.ft.com/content/fe73a410-5838-405f-9922-981d0084c857
