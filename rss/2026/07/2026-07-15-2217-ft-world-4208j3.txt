@@ -1,0 +1,33 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-15T12:17:49.942Z - 2026-07-15T14:17:49.942Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 巴菲特称盖茨与 Epstein 的关系‘令人不快’
+2. 油商警告，霍尔木兹再次关闭，市场已接近耗尽
+
+==============================
+
+1. 巴菲特称盖茨与 Epstein 的关系‘令人不快’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】亿万富翁伯克希尔董事长称，他在选择合作伙伴时可以‘想象’自己也会犯类似错误
+【依据】此新闻涉及个人关系，与股票关联不明确
+【原标题】Buffett describes Gates’s relationship with Epstein as ‘distasteful’
+【发布时间】2026-07-15T13:41:26.000Z
+【链接】https://www.ft.com/content/5a4ec9c3-e729-4e4b-892f-43e568402f26
+
+------------------------------
+
+2. 油商警告，霍尔木兹再次关闭，市场已接近耗尽
+【相关股票】XOM、CVX、BP
+【利好股票】XOM、CVX、BP
+【利空股票】无法判断
+【摘要】库存——在伊朗战争初期充当冲击吸收剂的库存正在耗尽，关键水道再次关闭
+【依据】油供应担忧可能提振能源股
+【原标题】Oil traders warn market is close to running on empty as Hormuz shuts again
+【发布时间】2026-07-15T13:02:43.000Z
+【链接】https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf
