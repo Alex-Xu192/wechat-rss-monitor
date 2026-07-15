@@ -1,0 +1,85 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-15T10:15:46.126Z - 2026-07-15T12:15:46.126Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. Iran threatens to block more trade routes as US launches fresh strikes
+2. Kenyan court dismisses Rastafarians' bid to legalise cannabis
+3. Sierra Leone drops treason charge against ex-president over attempted coup
+4. China economic growth falls sharply, missing target
+5. Celebrations as Gibraltar-Spain border fence removed
+6. Three killed as Russian bombing of Odesa continues
+
+==============================
+
+1. Iran threatens to block more trade routes as US launches fresh strikes
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Iran threatens to block more trade routes as US launches fresh strikes
+【发布时间】2026-07-15T11:08:59.000Z
+【链接】https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Kenyan court dismisses Rastafarians' bid to legalise cannabis
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The court acknowledged the need for a broader national debate on cannabis policy in Kenya.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Kenyan court dismisses Rastafarians' bid to legalise cannabis
+【发布时间】2026-07-15T10:50:09.000Z
+【链接】https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. Sierra Leone drops treason charge against ex-president over attempted coup
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ernest Bai Koroma was arrested in 2023 after gunmen broke into an armoury and some jails, freeing inmates.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Sierra Leone drops treason charge against ex-president over attempted coup
+【发布时间】2026-07-15T10:44:15.000Z
+【链接】https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+4. China economic growth falls sharply, missing target
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】China economic growth falls sharply, missing target
+【发布时间】2026-07-15T10:21:48.000Z
+【链接】https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+5. Celebrations as Gibraltar-Spain border fence removed
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The symbolic midnight ceremony was followed by large crowds crossing between Gibraltar and Spain without border checks.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Celebrations as Gibraltar-Spain border fence removed
+【发布时间】2026-07-15T10:19:34.000Z
+【链接】https://www.bbc.co.uk/news/videos/cpd3d0d6zqzo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+6. Three killed as Russian bombing of Odesa continues
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】In recent days, Russia and Ukraine have launched attacks on each others' infrastructure for shipping goods.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Three killed as Russian bombing of Odesa continues
+【发布时间】2026-07-15T10:17:38.000Z
+【链接】https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss
