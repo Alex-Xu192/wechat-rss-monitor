@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-15T02:19:22.906Z - 2026-07-15T04:19:22.906Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中国经济增速创多年来最慢
+2. 科技投资者与长寿网红支持 Neko Health 巨额融资轮
+3. 在与伊朗战争暂停期间通胀放缓
+
+==============================
+
+1. 中国经济增速创多年来最慢
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】第二季度经济同比增长4.3%，反映出该国出口导向型制造业实力之外领域的广泛低迷。
+【依据】报道中国第二季度GDP同比增长4.3%，为多年来最慢增速，反映出口制造业以外的广泛疲软。未提及具体上市公司或股票代码，无法判断相关个股。
+【原标题】China’s Economy Grows at Slowest Pace in Years
+【发布时间】2026-07-15T04:05:28.000Z
+【链接】https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html
+
+------------------------------
+
+2. 科技投资者与长寿网红支持 Neko Health 巨额融资轮
+【相关股票】Spotify (SPOT)
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】这家由 Spotify 的 Daniel Ek 共同创立的健康科技初创公司在完成新一轮7亿美元融资后，估值又增加了数十亿美元。
+【依据】新闻涉及由 Spotify 联合创始人 Daniel Ek 共同创立的健康科技初创公司 Neko Health 完成7亿美元融资。明确关联公司为 Spotify（NYSE: SPOT，通过创始人关联），但融资主体为私营公司，对 Spotify 股价影响不明确，故相关股票列 Spotify，正面/负面均无法判断。
+【原标题】Tech Investors and Longevity Influencers Back Neko Health’s Mega Round
+【发布时间】2026-07-15T04:00:06.000Z
+【链接】https://www.nytimes.com/2026/07/15/business/dealbook/neko-health-ek-funding.html
+
+------------------------------
+
+3. 在与伊朗战争暂停期间通胀放缓
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】6月消费者价格指数年率涨幅降至3.5%，且价格环比出现自2020年以来最大跌幅。
+【依据】报道美国6月CPI年率降至3.5%，环比出现2020年以来最大跌幅，与伊朗战争暂停期重合。属于宏观通胀数据，未提及具体公司或股票，无法判断相关个股。
+【原标题】Inflation Slowed During Pause in War With Iran
+【发布时间】2026-07-15T03:25:19.000Z
+【链接】https://www.nytimes.com/2026/07/14/business/economy/inflation-cpi.html
