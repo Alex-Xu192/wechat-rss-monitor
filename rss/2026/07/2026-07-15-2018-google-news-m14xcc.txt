@@ -1,0 +1,33 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-15T10:18:06.847Z - 2026-07-15T12:18:06.847Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 沃伦·巴菲特称比尔·盖茨与爱普斯坦的举动令人厌恶，但人们会犯错 - 财经网
+2. 摩根士丹利发布创纪录的收入和利润，权益交易激增69% - 财经网
+
+==============================
+
+1. 沃伦·巴菲特称比尔·盖茨与爱普斯坦的举动令人厌恶，但人们会犯错 - 财经网
+【相关股票】无法判断
+【利好股票】BRK.A
+【利空股票】MSFT
+【摘要】沃伦·巴菲特称比尔·盖茨与爱普斯坦的举动令人厌恶，但人们会犯错	财经网
+【依据】文章涉及沃伦·巴菲特和比尔·盖茨，提到比尔·盖茨与爱普斯坦的举动，属于负面新闻。巴菲特所属的伯克希尔哈撒韦公司（BRK.A）可能相对正面，而比尔·盖茨所属的微软公司（MSFT）可能受到负面影响。
+【原标题】Warren Buffett calls Bill Gates' actions with Epstein 'distasteful,' but people make mistakes - CNBC
+【发布时间】2026-07-15T11:16:59.000Z
+【链接】https://news.google.com/rss/articles/CBMixAFBVV95cUxPa0h1T0hxd1ZyRFIzYzR0eGdpZjBuQzNwYTZveENFcFdGZFdaRG1PYVN6QXNfREtkQnFsR0N4TWdZR0wtc1FWdGlZaVVPX2FPNGV1cXZXcThHbG1pTEV1TEF4YXJtOExGQjlJZVBwUEF1TGtXTHhsTF92ZkppNjRoMmdZUHVHTWFNaThDTGtlWmM4blppSGZDNmt5c1NSSm5zVENJLTV4ZExqeDBLUUwtZ0lycWtoSS1Celd2bDhpaHBua3I50gHKAUFVX3lxTE0yRWtPZW9NTlhFNjBJSmhzMVllWWhLbjJMWXJPWUlhNzV1bE95MktSeC1qSnNQcVp1X0pZVTY0QlYzTmZRN3BxQ1RaaUk3Z0FkYmViY0ZvMmNQR2sxLWhoWFYyRklPOEF4bGRscjdMWnhrSmx0VUdOX3ZublBrSmlJZFU3ZGJjZGVvSU5Oc1JfRDkyVUF4YXo1V21JNDNJYVpKZlpudXRuNjMtR0Q1MGlFTHYxZWF5TlZqRGlwcDR1ZTJ6cC1SRmhqdkE?oc=5
+
+------------------------------
+
+2. 摩根士丹利发布创纪录的收入和利润，权益交易激增69% - 财经网
+【相关股票】MS
+【利好股票】MS
+【利空股票】无法判断
+【摘要】摩根士丹利发布创纪录的收入和利润，权益交易激增69%	财经网
+【依据】文章直接报道摩根士丹利创纪录的收入和利润，权益交易激增69%，属于积极正面新闻。摩根士丹利的股票代码为MS（NYSE），这篇文章对摩根士丹利是积极的。
+【原标题】Morgan Stanley posts record revenue and profit as equities trading surges 69% - CNBC
+【发布时间】2026-07-15T11:05:14.000Z
+【链接】https://news.google.com/rss/articles/CBMifEFVX3lxTE9hSXVwR0YyTGJIeU13Z1NHYTY4aHFWTElUUzhIN2tRbkJkX2RNTE44UTlVV2YyaUhOaHZ3X1dXVlRLVE9ZT1ltcmZwLVpTLU9aRm84eVE4MHNOeVlwY05VYVJQcWRjQ2p0aFhJb3Z3SmczbmZiTFllTUE0TkjSAYIBQVVfeXFMTmVPLVhkN3VLM19tU2tOYU5vYzJIZWcwTTNkdmYtSC1FT2VsVzlYTTNNbUl2SUlFNFJKcHlOM0VtMzhCNHk3T052TmFVR2ZtclVha3ZGcnlGU0dkbnNiMlk2QXlja3FMSHBnY040eXB0LW5yQXNrbG82R2t0VXFFZ1ZQdw?oc=5
