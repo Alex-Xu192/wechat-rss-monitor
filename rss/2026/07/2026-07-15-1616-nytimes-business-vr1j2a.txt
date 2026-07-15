@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-15T06:16:53.164Z - 2026-07-15T08:16:53.164Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 科技投资者与长寿领域影响者支持 Neko Health 大规模融资
+2. 中国芯片冠军筹资数十亿美元，争夺 AI 控制权
+3. 中国经济增长放缓至多年最低水平
+
+==============================
+
+1. 科技投资者与长寿领域影响者支持 Neko Health 大规模融资
+【相关股票】Neko Health、Spotify
+【利好股票】Neko Health
+【利空股票】无法判断
+【摘要】这家由 Spotify 的 Daniel Ek 共同创立的健康科技初创公司，在新一轮 7 亿美元融资后，估值再次大幅上涨。
+【依据】文章明确提及了 Neko Health 公司和 Spotify 公司，涉及健康科技和音乐流媒体行业的融资进展。Neko Health 是融资的直接受益方，而 Spotify 的创始人参与该公司可能带来协同效应。
+【原标题】Tech Investors and Longevity Influencers Back Neko Health's Mega Round
+【发布时间】2026-07-15T08:13:37.000Z
+【链接】https://www.nytimes.com/2026/07/15/business/dealbook/neko-health-ek-funding.html
+
+------------------------------
+
+2. 中国芯片冠军筹资数十亿美元，争夺 AI 控制权
+【相关股票】CXMT
+【利好股票】CXMT
+【利空股票】无法判断
+【摘要】CXMT 是中国为发展本土人工智能技术所做出的关键举措，计划通过上海首次公开募股筹集近 100 亿美元巨额资金。
+【依据】文章明确提及中国芯片制造商 CXMT，这是中国在人工智能领域重要的本土企业。该公司通过上海股票市场筹集巨额资金，旨在发展本土的人工智能技术，对于中国科技行业的战略发展具有重要意义。
+【原标题】China's Chip Champion to Raise Billions in Race for A.I. Control
+【发布时间】2026-07-15T07:29:52.000Z
+【链接】https://www.nytimes.com/2026/07/15/business/china-chips-cxmt-ipo.html
+
+------------------------------
+
+3. 中国经济增长放缓至多年最低水平
+【相关股票】中国经济
+【利好股票】无法判断
+【利空股票】中国经济
+【摘要】今年二季度中国经济同比增长 4.3%，反映出除出口导向型制造业以外的广泛经济下滑态势。
+【依据】这则新闻涉及中国总体经济增长放缓，影响面广泛。除出口导向型制造业以外的多行业都出现了下滑，这对中国整体经济和市场情绪构成负面影响。
+【原标题】China's Economy Grows at Slowest Pace in Years
+【发布时间】2026-07-15T06:38:34.000Z
+【链接】https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html
