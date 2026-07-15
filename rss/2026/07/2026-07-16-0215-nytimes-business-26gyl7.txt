@@ -1,0 +1,85 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-15T16:15:27.369Z - 2026-07-15T18:15:27.369Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. China’s Chip Champion to Raise Billions in Race for A.I. Control
+2. China’s Economy Grows at Slowest Pace in Years
+3. Twitter Turns 20: Two Decades of Memes, Movements and Hot Takes
+4. Goldman’s Former Top Lawyer Calls Epstein a ‘Masterful Liar’
+5. The American E.V. Has Been Crushed. Will It Take the U.S. Auto Industry With It?
+6. SpaceX Falls Below I.P.O. Price of $135
+
+==============================
+
+1. China’s Chip Champion to Raise Billions in Race for A.I. Control
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】CXMT, a linchpin in China’s drive to develop homegrown artificial intelligence technology, is aiming to raise nearly $10 billion in a blockbuster public offering in Shanghai.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】China’s Chip Champion to Raise Billions in Race for A.I. Control
+【发布时间】2026-07-15T18:08:57.000Z
+【链接】https://www.nytimes.com/2026/07/15/business/china-chips-cxmt-ipo.html
+
+------------------------------
+
+2. China’s Economy Grows at Slowest Pace in Years
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】China’s Economy Grows at Slowest Pace in Years
+【发布时间】2026-07-15T17:58:17.000Z
+【链接】https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html
+
+------------------------------
+
+3. Twitter Turns 20: Two Decades of Memes, Movements and Hot Takes
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The first tweets from the public appeared on July 15, 2006, several months after a soft launch. It was rebranded as X after being acquired by Elon Musk.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Twitter Turns 20: Two Decades of Memes, Movements and Hot Takes
+【发布时间】2026-07-15T17:42:35.000Z
+【链接】https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html
+
+------------------------------
+
+4. Goldman’s Former Top Lawyer Calls Epstein a ‘Masterful Liar’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Kathryn Ruemmler, the former general counsel of Goldman Sachs, testified on Wednesday in a closed-door congressional hearing investigating Jeffery Epstein.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Goldman’s Former Top Lawyer Calls Epstein a ‘Masterful Liar’
+【发布时间】2026-07-15T17:25:00.000Z
+【链接】https://www.nytimes.com/2026/07/15/business/goldman-kathy-ruemmler-epstein.html
+
+------------------------------
+
+5. The American E.V. Has Been Crushed. Will It Take the U.S. Auto Industry With It?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The largest U.S. automakers have backed away from electric vehicles, even as global sales are booming. The decision may make them obsolete.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The American E.V. Has Been Crushed. Will It Take the U.S. Auto Industry With It?
+【发布时间】2026-07-15T17:06:49.000Z
+【链接】https://www.nytimes.com/2026/07/15/magazine/electric-cars-american-evs.html
+
+------------------------------
+
+6. SpaceX Falls Below I.P.O. Price of $135
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】After soaring in its stock market debut, the shares of Elon Musk’s rocket and A.I. company have been rocky.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】SpaceX Falls Below I.P.O. Price of $135
+【发布时间】2026-07-15T16:27:00.000Z
+【链接】https://www.nytimes.com/2026/07/15/business/spacex-ipo-price.html
