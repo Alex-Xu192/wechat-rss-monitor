@@ -1,0 +1,151 @@
+LTN - 中文结构化新闻汇总
+
+【来源】LTN
+【时间】2026-07-15T18:10:46.949Z - 2026-07-15T20:10:46.949Z
+【数量】10
+
+【本邮件新闻标题汇总】
+1. 不忘30年前救命之恩　黃仁勳親赴秋葉原感謝SEGA與恩人同框
+2. 《TAIPEI TIMES》NPA suspends use of ‘risky’ new system
+3. 《TAIPEI TIMES》Ministry to extend ban on pets in forest parks
+4. 《TAIPEI TIMES》New book touts ex-president Lee Teng-hui’s legacy
+5. 《TAIPEI TIMES》Reporters face increasingly repressive China: FCCC
+6. 《TAIPEI TIMES》FDA queries food recall processes after oil case
+7. 《TAIPEI TIMES》Taiwan must guard freedom, Lai says
+8. 《TAIPEI TIMES》Taiwan and US to jointly produce drone, source says
+9. 香港警方突襲2獨立書店 5人涉販售煽動刊物被捕
+10. 投資人狂熱消退　SpaceX跌破135美元IPO發行價
+
+==============================
+
+1. 不忘30年前救命之恩　黃仁勳親赴秋葉原感謝SEGA與恩人同框
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】美國人工智慧（AI）晶片大廠輝達（NVIDIA）執行長黃仁勳今天親赴日本東京秋葉原，出席輝達與日本電玩業巨擘SEGA的合作30年慶祝活動，並感謝SEGA前社長入交昭一郎當年的救命之恩。
+
+根...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 4572 (line 1 column 4573)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】不忘30年前救命之恩　黃仁勳親赴秋葉原感謝SEGA與恩人同框
+【发布时间】2026-07-15T19:54:03.000Z
+【链接】https://ec.ltn.com.tw/article/breakingnews/5506775
+
+------------------------------
+
+2. 《TAIPEI TIMES》NPA suspends use of ‘risky’ new system
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】REVIEW IN PROGRESS:The police agency said that no security incidents have been identified so far, bu...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 4572 (line 1 column 4573)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】《TAIPEI TIMES》NPA suspends use of ‘risky’ new system
+【发布时间】2026-07-15T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5506705
+
+------------------------------
+
+3. 《TAIPEI TIMES》Ministry to extend ban on pets in forest parks
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】By Jonathan Chin / Staff writer, with CNA
+
+The Ministry of Agriculture is to extend a ban on pets ...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 4572 (line 1 column 4573)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】《TAIPEI TIMES》Ministry to extend ban on pets in forest parks
+【发布时间】2026-07-15T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5506696
+
+------------------------------
+
+4. 《TAIPEI TIMES》New book touts ex-president Lee Teng-hui’s legacy
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】By Chen Yu-fu and Jake Chung / Staff reporter, with staff writer
+
+Former president Lee Teng-hui’s ...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 4572 (line 1 column 4573)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】《TAIPEI TIMES》New book touts ex-president Lee Teng-hui’s legacy
+【发布时间】2026-07-15T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5506699
+
+------------------------------
+
+5. 《TAIPEI TIMES》Reporters face increasingly repressive China: FCCC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】By Jonathan Chin / Staff writer
+
+Foreign journalists last year faced an increasingly “challenging ...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 4572 (line 1 column 4573)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】《TAIPEI TIMES》Reporters face increasingly repressive China: FCCC
+【发布时间】2026-07-15T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5506692
+
+------------------------------
+
+6. 《TAIPEI TIMES》FDA queries food recall processes after oil case
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】GUIDELINE REVIEW?The contamination of oil products from Central Union Oil led to a blanket recall be...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 4572 (line 1 column 4573)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】《TAIPEI TIMES》FDA queries food recall processes after oil case
+【发布时间】2026-07-15T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5506701
+
+------------------------------
+
+7. 《TAIPEI TIMES》Taiwan must guard freedom, Lai says
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】RESOLVE: Forgetting history is the greatest threat to democracy, Lai said, as he warned of China’s a...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 4572 (line 1 column 4573)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】《TAIPEI TIMES》Taiwan must guard freedom, Lai says
+【发布时间】2026-07-15T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5506690
+
+------------------------------
+
+8. 《TAIPEI TIMES》Taiwan and US to jointly produce drone, source says
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】By Lo Tien-pin and Jake Chung / Staff reporter, with staff writer
+
+Taiwan and the US have agreed t...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 4572 (line 1 column 4573)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】《TAIPEI TIMES》Taiwan and US to jointly produce drone, source says
+【发布时间】2026-07-15T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5506691
+
+------------------------------
+
+9. 香港警方突襲2獨立書店 5人涉販售煽動刊物被捕
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】香港警方15日突擊搜查由前媒體工作者創辦的獨立書店，並以涉嫌展示及出售具「煽動意圖」的物品為由逮捕5人；這是香港近期一連串針對獨立書店執法行動的最新一起。
+
+法新社記者目擊，警方將一名戴著手...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 4572 (line 1 column 4573)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】香港警方突襲2獨立書店 5人涉販售煽動刊物被捕
+【发布时间】2026-07-15T18:54:04.000Z
+【链接】https://news.ltn.com.tw/news/society/breakingnews/5506771
+
+------------------------------
+
+10. 投資人狂熱消退　SpaceX跌破135美元IPO發行價
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】隨著市場熱情消退，富豪馬斯克旗下SpaceX今天在美股盤中連續4個交易日股價呈跌勢，首次跌破其首次公開募股（IPO）135美元發行價。
+
+法新社報導，格林威治時間（GMT）16時15分左右，...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 4572 (line 1 column 4573)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】投資人狂熱消退　SpaceX跌破135美元IPO發行價
+【发布时间】2026-07-15T18:30:06.000Z
+【链接】https://ec.ltn.com.tw/article/breakingnews/5506770
