@@ -1,0 +1,137 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-15T16:12:21.844Z - 2026-07-15T18:12:21.844Z
+【数量】10
+
+【本邮件新闻标题汇总】
+1. US military denies striking civilian wheat storage in Iran after Trump threatens power plants and bridges – Middle East crisis live - The Guardian
+2. 1 Dead, Search Continues for 3 Missing After Boat Sinks Near Alcatraz - KQED
+3. French MPs approve assisted-dying law with strict rules after years of argument - BBC
+4. Wildfires in Northern Ontario bring world's worst air quality to Toronto - Reuters
+5. The Odyssey: Christopher Nolan film starring Matt Damon and Zendaya receives rave reviews - BBC
+6. Third-party app stores coming to Google Play next week as Epic settlement withdrawn - Ars Technica
+7. Watch Live: Todd Blanche, Trump's Attorney General Pick, Answers Questions at Confirmation Hearing - The New York Times
+8. US producer prices post largest drop in 14 months; inflation risks still tilted to the upside - Reuters
+9. French police make 98 arrests after chaos erupts in Paris following World Cup semifinal loss: report - Fox News
+10. Argentina vs. England odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-8 roll - CBS Sports
+
+==============================
+
+1. US military denies striking civilian wheat storage in Iran after Trump threatens power plants and bridges – Middle East crisis live - The Guardian
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】US military denies striking civilian wheat storage in Iran after Trump threatens power plants and bridges – Middle East crisis live  The Guardian
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】US military denies striking civilian wheat storage in Iran after Trump threatens power plants and bridges – Middle East crisis live - The Guardian
+【发布时间】2026-07-15T18:03:27.000Z
+【链接】https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ3JEdC0zZXMzTW5XMHpQcngxNGtwSGVOY2hNcDlKSkg4NTBYYXlURnNHT2ZVSFdLQ2lMZXlOanoyTTIzbWFrQ3llMnVNbWVGRkJDeXdya21JcGdSRjN6ZmhWdnVhVGs3blBJSzdHeTZlZFRONWw3XzJaOGhSU2RhUEZTSk9BVUE0MU5jMDNMek5rRmlMRDdSRVRBS09Fa3NLT3NVRUF0RFZOOENJVTIzQnRRZTh2VmlyZDIyaHU3SkNkcHA3WWw0TDNzTlBLVi1vaFdBVHEtUFk?oc=5
+
+------------------------------
+
+2. 1 Dead, Search Continues for 3 Missing After Boat Sinks Near Alcatraz - KQED
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】1 Dead, Search Continues for 3 Missing After Boat Sinks Near Alcatraz  KQED
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】1 Dead, Search Continues for 3 Missing After Boat Sinks Near Alcatraz - KQED
+【发布时间】2026-07-15T17:40:47.000Z
+【链接】https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHRYNk9zUkpPdTF0M2dDNTN0NF9MMzdnLWVOWXc2eTdnVTVQYnhjSTNFc0ROd1UxWHFIZ1Bibjc5ajBTV1Rfem9UcUw1WmlkYjkySndBOUJSWEU1dklEU3lJbEpLVnZiWC1aV3NzX1BobktiMGNKTzhMZG9JZXM4aVpobUt6UVlOR3dKZ2t3TzNtSy13YUpxWTZxb3hpRVZ0Wk9rNGxaV3BtbVR5SzdN?oc=5
+
+------------------------------
+
+3. French MPs approve assisted-dying law with strict rules after years of argument - BBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】French MPs approve assisted-dying law with strict rules after years of argument  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】French MPs approve assisted-dying law with strict rules after years of argument - BBC
+【发布时间】2026-07-15T17:29:26.000Z
+【链接】https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0MzlPa1c4TjQ4QWFiMFBGNEZuSVE1Q0xDRktnTl8zel9IMzM0WDZNLXhQTzdQOUpQM2Z3Wkp1MVlDTVA1Y2trUllXWm04Snhkd2JYcm9MYzJrZw?oc=5
+
+------------------------------
+
+4. Wildfires in Northern Ontario bring world's worst air quality to Toronto - Reuters
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Wildfires in Northern Ontario bring world's worst air quality to Toronto  Reuters
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Wildfires in Northern Ontario bring world's worst air quality to Toronto - Reuters
+【发布时间】2026-07-15T17:11:09.000Z
+【链接】https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzJJYm1wY0tiXzZPNGRRXzk4WVNDWDNnUklvSG5SRXAtMXhxcGRjZWtsUV9MZ1BXY09VMjZESVBjUDMtWlhab09yaU1yeTJaQXdWZHdhaXBRWWJsRnVrRS1NbzdZdmljMXBRQnVxVm41U0phQVJ5Vzl0ZWZWemlYeTBKNk5EMnlwOWk3ZC1taHdjcHU4aG11QkVUS3dpUElIbXdfMjVMOVM5VVJXSzJLb2V3QlB5emJOeXVJQkNZZw?oc=5
+
+------------------------------
+
+5. The Odyssey: Christopher Nolan film starring Matt Damon and Zendaya receives rave reviews - BBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Odyssey: Christopher Nolan film starring Matt Damon and Zendaya receives rave reviews  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】The Odyssey: Christopher Nolan film starring Matt Damon and Zendaya receives rave reviews - BBC
+【发布时间】2026-07-15T17:04:58.000Z
+【链接】https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUaVU3STFYTkIxQ3BZakhTbUY2U2xJMVUyUHFTR0ZRRHNSbVItZFI4RGRzNkdROElYcTJja1MwM0dVT3pIYWp2RE9BNW5LY3RqQUk1VGNFQjFlUQ?oc=5
+
+------------------------------
+
+6. Third-party app stores coming to Google Play next week as Epic settlement withdrawn - Ars Technica
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Third-party app stores coming to Google Play next week as Epic settlement withdrawn  Ars Technica
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Third-party app stores coming to Google Play next week as Epic settlement withdrawn - Ars Technica
+【发布时间】2026-07-15T16:55:12.000Z
+【链接】https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2VYZjh4Ul9YWXdxVVJwWGlqT05TZHFaclBWUVpHVWt5bThjNFItMlRmVGlwNmx6WEJQMm5DcDNjNnR5QzFJTTZEb1d5aTQtUFRPOGNTTVhQbHB3MmZOZkpjdEJXMnE0b1g3MlJSWm83TlI1OEZRU3RYTHZtaWpXSHBJcEE1bmVOR3NLVGtuMG1LbWI3anl5SFEtMnJYODJHakN3YnZ1eGlqTllwSVRLdlRKQ2JTTTF1TG1zb2JfY0cxUQ?oc=5
+
+------------------------------
+
+7. Watch Live: Todd Blanche, Trump's Attorney General Pick, Answers Questions at Confirmation Hearing - The New York Times
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Watch Live: Todd Blanche, Trump's Attorney General Pick, Answers Questions at Confirmation Hearing  The New York Times
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Watch Live: Todd Blanche, Trump's Attorney General Pick, Answers Questions at Confirmation Hearing - The New York Times
+【发布时间】2026-07-15T16:38:02.000Z
+【链接】https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnd0UTlNR09uejVqaGs5UVRfOFFoaW1uUV91MGhiLW5kV0RRZTlBMEdybml4VlhTcXNiMFdINllWa3Vua3Vzdk1yanA5ZDRaQ2JCMzlJdDhLWE1YUkxQNlhDeFMxcTVZRE9RRjh4N1UzU0J5WlF6VTZkS0lndEpweml0N1F5djQ?oc=5
+
+------------------------------
+
+8. US producer prices post largest drop in 14 months; inflation risks still tilted to the upside - Reuters
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】US producer prices post largest drop in 14 months; inflation risks still tilted to the upside  Reuters
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】US producer prices post largest drop in 14 months; inflation risks still tilted to the upside - Reuters
+【发布时间】2026-07-15T16:32:38.000Z
+【链接】https://news.google.com/rss/articles/CBMijwFBVV95cUxQakxCblFJX3pRLTFSM2t1Q0NXa3oxWTExeXlMREpyMU1UYlJEM29pN1ZjQUxUUVpPM2pQcWgwOU9zNTE4NUlrbmk5TWk3cm9vRWVITF9kLVo1TExxRWRfUGZVenlYSFIzdGZYZzFQMVFEaDdDWUNHVXQ3cnlJVHh5WGFNRmItVFcyajdsaG1NQQ?oc=5
+
+------------------------------
+
+9. French police make 98 arrests after chaos erupts in Paris following World Cup semifinal loss: report - Fox News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】French police make 98 arrests after chaos erupts in Paris following World Cup semifinal loss: report  Fox News
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】French police make 98 arrests after chaos erupts in Paris following World Cup semifinal loss: report - Fox News
+【发布时间】2026-07-15T16:30:17.000Z
+【链接】https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQkdoNEIzMVRWckRNTUMtVDRVSU9JbjV5YjlrQkwyeGtMMnhlYlAyUTJGMFlEX3VTMTFDUDJjSEdqUnZCdGFOWUVLeDlSOEJhSkJDb29IbmtGMjUxRnJVVUJGOWRyZnF1bGhXVWdQUlQwdGpudzh6NnZHbXZjdzFnc0tCYnQzZWlsNWhuaTY1YUh1ODRRaHZDVVc3dUNLdEV6WGFaUjNmU0E0c3cweEpvMFY4MGYtNzdWYnQ4?oc=5
+
+------------------------------
+
+10. Argentina vs. England odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-8 roll - CBS Sports
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Argentina vs. England odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-8 roll  CBS Sports
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Argentina vs. England odds, prediction, time: 2026 World Cup semifinal picks from expert on 19-8 roll - CBS Sports
+【发布时间】2026-07-15T16:27:13.000Z
+【链接】https://news.google.com/rss/articles/CBMivgFBVV95cUxNamFHLTVhX1ZWeGIwYWNLQlhmOVFoeEtlbGNkTERKVmNVZlB5MDlheGRzVko1T2RoNlh1UFdFb3hyeU42akljOWp2RzA5V1hxaHh5bzYtR1BrcE41aFA0TUpKNlJBSnUzaDk4M2ZpNElfUjBkSC10SDNDTENiMFZ2VlF5QnhfUDZJQkhtQlBjX2JNU0dEWXB5QllSaU9VWGRqWGNBUGRfb3BZdFBYZlhVcG8xNkFZaURETkNKOFZ3?oc=5
