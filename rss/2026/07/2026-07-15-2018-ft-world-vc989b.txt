@@ -1,0 +1,124 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-15T10:18:51.454Z - 2026-07-15T12:18:51.454Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. Thames Water warns over long-term future
+2. Zelenskyy expected to remove Ukraine’s popular defence minister
+3. Buffett describes Gates’s relationship with Epstein as ‘distasteful’
+4. What Wisconsin socialists tell us about the Democratic fightback
+5. One answer to EU strategic autonomy is orbiting overhead
+6. Top US lawmaker demands briefing from Nandy on ‘news prominence’ plan
+7. Brussels prepares fresh Google fines as Big Tech enforcement increases
+8. The US just passed the biggest housing law in 36 years. Will it help?
+9. Ukraine to buy Chinese drone parts with EU funds
+
+==============================
+
+1. Thames Water warns over long-term future
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Utility says it can survive 12 months but cautions that liquidity may fall short before recapitalisation
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Thames Water warns over long-term future
+【发布时间】2026-07-15T11:43:12.000Z
+【链接】https://www.ft.com/content/3654ea68-2f52-490f-8eaa-29119af4407e
+
+------------------------------
+
+2. Zelenskyy expected to remove Ukraine’s popular defence minister
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Moderniser behind country’s drone development at risk of being ousted in cabinet reshuffle after just six months in post
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Zelenskyy expected to remove Ukraine’s popular defence minister
+【发布时间】2026-07-15T11:34:56.000Z
+【链接】https://www.ft.com/content/c2b9d7ff-ac32-4cea-82b2-b4dc0a64c014
+
+------------------------------
+
+3. Buffett describes Gates’s relationship with Epstein as ‘distasteful’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Billionaire Berkshire chair says he could ‘picture’ himself making a similar mistake in choosing associates
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Buffett describes Gates’s relationship with Epstein as ‘distasteful’
+【发布时间】2026-07-15T11:33:10.000Z
+【链接】https://www.ft.com/content/5a4ec9c3-e729-4e4b-892f-43e568402f26
+
+------------------------------
+
+4. What Wisconsin socialists tell us about the Democratic fightback
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The gubernatorial primary is a test bed for a radical pitch to voters in Midwest Trump country
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】What Wisconsin socialists tell us about the Democratic fightback
+【发布时间】2026-07-15T11:18:53.000Z
+【链接】https://www.ft.com/content/f39b7807-0f0e-4597-b9ba-132522461d80
+
+------------------------------
+
+5. One answer to EU strategic autonomy is orbiting overhead
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Galileo satellite programme offers a model for funding joint defence projects and creating joint revenues
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】One answer to EU strategic autonomy is orbiting overhead
+【发布时间】2026-07-15T11:04:02.000Z
+【链接】https://www.ft.com/content/804a7991-8377-4748-a64c-b6f9158c7c80
+
+------------------------------
+
+6. Top US lawmaker demands briefing from Nandy on ‘news prominence’ plan
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Jim Jordan warns culture secretary on UK move to force social media companies to boost trusted news
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Top US lawmaker demands briefing from Nandy on ‘news prominence’ plan
+【发布时间】2026-07-15T10:59:04.000Z
+【链接】https://www.ft.com/content/3155371e-e6b7-4de8-bf19-dcb1af0b6f82
+
+------------------------------
+
+7. Brussels prepares fresh Google fines as Big Tech enforcement increases
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Decisions will test whether the EU can police digital markets without reigniting tensions with Washington
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Brussels prepares fresh Google fines as Big Tech enforcement increases
+【发布时间】2026-07-15T10:45:03.000Z
+【链接】https://www.ft.com/content/c5a880f1-aa6a-4336-b499-3ab95cf37857
+
+------------------------------
+
+8. The US just passed the biggest housing law in 36 years. Will it help?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Inside supply-side changes to the American market
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】The US just passed the biggest housing law in 36 years. Will it help?
+【发布时间】2026-07-15T10:37:45.000Z
+【链接】https://www.ft.com/content/dd52cee1-8a35-4065-a4d0-06df0d4f8613
+
+------------------------------
+
+9. Ukraine to buy Chinese drone parts with EU funds
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Brussels allows Kyiv to use part of €6bn tranche for items in short supply in Europe
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Ukraine to buy Chinese drone parts with EU funds
+【发布时间】2026-07-15T10:30:54.000Z
+【链接】https://www.ft.com/content/f6cf99e0-21f7-47c0-b5b1-64b77c18d204
