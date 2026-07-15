@@ -1,0 +1,85 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-14T22:14:49.914Z - 2026-07-15T00:14:49.914Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 佛罗里达州一名在逃离移民官员的男子被卡车撞死 - 卫报
+2. 美国在伊朗对海湾航运发动袭击后恢复对伊朗的封锁 - 美联社
+3. 实时更新：美国对伊朗进行更多袭击并开始封锁伊朗港口 - CNN
+4. 缅因州ICE枪击案中被杀的男子是25岁哥伦比亚父亲 - 《华盛顿邮报》
+5. 世界杯劲旅法国崩盘，西班牙轻松晋级决赛 - ESPN
+6. 微软的 Secure Boot 在十年内一直被破解，此前无人注意 - Ars Technica
+
+==============================
+
+1. 佛罗里达州一名在逃离移民官员的男子被卡车撞死 - 卫报
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】男子在逃离佛罗里达州的移民官员后被卡车撞死
+【依据】该新闻报道了一起佛罗里达州的交通事故，未涉及任何公司、行业或股票相关的信息，无法判断对股票的影响。
+【原标题】Man killed by semi after fleeing from immigration officials in Florida - The Guardian
+【发布时间】2026-07-14T23:27:00.000Z
+【链接】https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZNnlEYThhTkxnR1dTNmMyWXRweUVGRnFlbnR5X3E5c1NNT3ZjWTFpcVlIRE5fa1RKNy1oUVR6ZnJvLXE5VG50TTVuT1o1VjZKVFhIaUZmRjVFSTBZYndUMEFQR0F3QkJ0bWtXdE0xWG5Ed1F6OEQzdVREelB1aGc?oc=5
+
+------------------------------
+
+2. 美国在伊朗对海湾航运发动袭击后恢复对伊朗的封锁 - 美联社
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】美国在伊朗对海湾航运发动袭击后恢复对伊朗的封锁
+【依据】该新闻涉及美国对伊朗的封锁和海运攻击，属于地缘政治与物流领域，未明确提及具体公司或股票，无法判断对股票的影响。
+【原标题】US restores blockade on Iran after its attacks on ships in the Strait of Hormuz - AP News
+【发布时间】2026-07-14T22:54:00.000Z
+【链接】https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnBwMkRnYlE0eWdLanFlS1JwcWNwQW83YkJMbFJXdzZYRGFiZUtib0UzM1hRVFozX3RCTmwxUVQzV2RvNTU2ZE56RjZOYjRQbzF5SkJ1Y0RTQnktRmg1NjliM2pMcy1kY045dVQ4bk9sYkNDU2N6WTFnNV9NNjZMa21IYkxLX3NmWDF2NXMzUmRtRkN0eGlwRmx6SHdlakU?oc=5
+
+------------------------------
+
+3. 实时更新：美国对伊朗进行更多袭击并开始封锁伊朗港口 - CNN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】美国对伊朗进行更多袭击并开始封锁伊朗港口
+【依据】报道美国对伊朗的军事打击和封锁伊朗港口，属于地缘政治与物流领域，未提及具体公司或股票，无法判断对股票的影响。
+【原标题】Live updates: US carries out more strikes on Iran and begins blockade of Iranian ports - CNN
+【发布时间】2026-07-14T22:50:00.000Z
+【链接】https://news.google.com/rss/articles/CBMibkFVX3lxTE5mclRqN1M1Z0RvTWloR0xWUE5tdlJLQnNuMjVQNnlZNVpSWWgyUmtkMDVodVBzU1RKTnVPbUt6MDJ2Q1B0QS0xeWR1U0RLRW9feEdpQU1CbUw4S3VmMy1PREVGbl9KaFhaa3RFQTFB?oc=5
+
+------------------------------
+
+4. 缅因州ICE枪击案中被杀的男子是25岁哥伦比亚父亲 - 《华盛顿邮报》
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】缅因州ICE枪击案中被杀的男子是25岁哥伦比亚父亲
+【依据】该新闻报道了一起缅因州的执法枪击事件，涉及移民执法，未涉及任何公司或股票，无法判断对股票的影响。
+【原标题】Man killed in Maine ICE shooting was a 25-year-old Colombian father - The Washington Post
+【发布时间】2026-07-14T22:37:47.000Z
+【链接】https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT3ZoOXZLNWkwMW1PTFNKRkRfTlBHQlVaSjZoU2I3cjVrWXVWSzY1bWtNOTNweEx0a0xpV3NNS3Q4WGFHenRCS1cxX1haQkw5TzZJQWFiREw4Rk41OWR5dExzV0dhVngyeXlYMmhZN0JuOFI3VlpHRHFXMlljZHE3T3BjTFBaM2Y2NUdobEpvdXZtamtNS0lVSENNbUlDQ1lWZFdJQ3YxbzBxLUs1ZmdEWWt4WUFUbzda?oc=5
+
+------------------------------
+
+5. 世界杯劲旅法国崩盘，西班牙轻松晋级决赛 - ESPN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】世界杯劲旅法国崩盘，西班牙轻松晋级决赛
+【依据】该新闻报道世界杯足球比赛中法国队被淘汰，属于体育赛事，未涉及公司或股票，无法判断对股票的影响。
+【原标题】World Cup favorites France unravel as Spain book spot in final with ease - ESPN
+【发布时间】2026-07-14T22:36:00.000Z
+【链接】https://news.google.com/rss/articles/CBMirgFBVV95cUxPUE9jTGlucUl1SXFSZDhSQ2J3REhDM0Q3UkNodEIyaVdqSURzVENiT2R5UjRDZWVXZTFBOFhKWUJLVjNBZjVaU01BNmZaUGpKZzlJUDJadUZ2YnY3Zmw4Q3lSMGV4cDZ0Qnhsb3V4a1czOFphZDc5SUtzeTROWnkzdlFoUXZOQzVnckhaQ1Nrc2FWOGg4WnZMOWtUbE5GMHo4dkJjbWNzTmlGekF3V1E?oc=5
+
+------------------------------
+
+6. 微软的 Secure Boot 在十年内一直被破解，此前无人注意 - Ars Technica
+【相关股票】Microsoft
+【利好股票】无法判断
+【利空股票】Microsoft
+【摘要】微软的 Secure Boot 在十年内一直被破解，此前无人注意
+【依据】该新闻揭示微软 Secure Boot 安全漏洞长期未被发现，涉及微软公司，可能对其股价产生负面影响，因此相关股票为 Microsoft，负面影响为 Microsoft。
+【原标题】Microsoft’s Secure Boot has been broken for a decade and no one noticed until now - Ars Technica
+【发布时间】2026-07-14T22:20:48.000Z
+【链接】https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDdNWDRqSzRtV1JidlFxOWU2Yi15SXU0bnB4UHMwZ1hNenBJZXlGU2VDSnBOWWpBeGl4SUpIRHpEOGVFajRWRW83UF9SSFBSeGZ2LTZwM2t2Nmk2MExadHhoNnA5UHAzQmMyTF9ZNnlBUi1tOG5ZbEJ1eWxvblJiSExJa2R4TkFaQmlpTE14Nkhnc2JSS0FHelhKRmdURm03eHl6TWw2N2w?oc=5
