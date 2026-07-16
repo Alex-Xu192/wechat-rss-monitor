@@ -1,0 +1,59 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-16T14:12:16.207Z - 2026-07-16T16:12:16.207Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. More than 800 Canadian wildfires burning as air quality alerts extend to US
+2. Italian officials handed jail terms for Genoa bridge disaster that killed 43
+3. Children among dead at Algeria foster care home blaze - president
+4. Protests in Ukrainian cities against Zelensky's removal of defence minister
+
+==============================
+
+1. More than 800 Canadian wildfires burning as air quality alerts extend to US
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed "hazardous" by authorities.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】More than 800 Canadian wildfires burning as air quality alerts extend to US
+【发布时间】2026-07-16T15:30:43.000Z
+【链接】https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Italian officials handed jail terms for Genoa bridge disaster that killed 43
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Italian officials handed jail terms for Genoa bridge disaster that killed 43
+【发布时间】2026-07-16T14:57:13.000Z
+【链接】https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. Children among dead at Algeria foster care home blaze - president
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Eleven people have died and 19 other have suffered injuries in the overnight fire, the authorities say.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Children among dead at Algeria foster care home blaze - president
+【发布时间】2026-07-16T14:27:15.000Z
+【链接】https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+4. Protests in Ukrainian cities against Zelensky's removal of defence minister
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Protests in Ukrainian cities against Zelensky's removal of defence minister
+【发布时间】2026-07-16T14:22:11.000Z
+【链接】https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss
