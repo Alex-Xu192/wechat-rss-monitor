@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-16T16:13:55.218Z - 2026-07-16T18:13:55.218Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Twitter 迎来20周年：二十年回顾——表情包、运动与热评
+2. Mary-Dell Chilton 逝世，享年87岁；帮助创造首株转基因植物
+
+==============================
+
+1. Twitter 迎来20周年：二十年回顾——表情包、运动与热评
+【相关股票】Twitter (X)
+【利好股票】Twitter (X)
+【利空股票】无法判断
+【摘要】公众的第一条推文于2006年7月15日出现，几个月后才正式推出。随后在埃隆·马斯克收购后更名为 X。
+【依据】文章提及 Twitter 这家公司及其被收购的情况，暗示可能对其股票产生影响，因此可以判断相关股票。
+【原标题】Twitter Turns 20: Two Decades of Memes, Movements and Hot Takes
+【发布时间】2026-07-16T17:06:37.000Z
+【链接】https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html
+
+------------------------------
+
+2. Mary-Dell Chilton 逝世，享年87岁；帮助创造首株转基因植物
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】1982年，她率领研究团队成功实现植物基因工程，这一发现后来将全球农业转变。
+【依据】文章主要涉及一位科学家和植物基因工程，未提及任何公司或市场，因此无法判断相关股票。
+【原标题】Mary-Dell Chilton Dies at 87; Helped Create First Genetically Modified Plant
+【发布时间】2026-07-16T16:38:39.000Z
+【链接】https://www.nytimes.com/2026/07/16/science/mary-dell-chilton-dead.html
