@@ -1,0 +1,33 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-16T14:16:32.599Z - 2026-07-16T16:16:32.599Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. A Beautiful Theory Falls to Ugly Data
+2. The Act and the Outcome of Creation
+
+==============================
+
+1. A Beautiful Theory Falls to Ugly Data
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Alex Tabarrok discusses a new paper testing the Coase conjecture with e-book prices. The results reject the prediction that durable-goods monopoly pricing quickly collapses to marginal cost: prices stay above cost, sales continue over time, and prices do not fall monotonically. The post also compares two alternative explanations, including seller commitment and a model with consumer outside options. [marginalrevolution.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】A Beautiful Theory Falls to Ugly Data
+【发布时间】2026-07-16T15:20:10.000Z
+【链接】https://flipso.com/p/yay1ngvhq?ref=rss
+
+------------------------------
+
+2. The Act and the Outcome of Creation
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A reflective essay on why people create: the joy of making, following instinct and flow, and sharing work as a gift. It contrasts process-driven creation with outcome-driven success and treats creativity as a long-term source of meaning and delight. [ssp.sh]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The Act and the Outcome of Creation
+【发布时间】2026-07-16T14:23:14.000Z
+【链接】https://flipso.com/p/nyjbcb66c?ref=rss
