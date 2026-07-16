@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-15T22:23:13.647Z - 2026-07-16T00:23:13.647Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 纽约时报提起动议，要求撤销对其记者的传票
+2. NextEra和多米尼翁提出组建大型电力公司计划
+
+==============================
+
+1. 纽约时报提起动议，要求撤销对其记者的传票
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】司法部正在寻求传唤陪审团作证，调查《纽约时报》关于总统新空军一号机报道的一部分。
+【依据】新闻涉及司法部调查《纽约时报》的报道，但未提及具体的股票或公司
+【原标题】New York Times Files Motion to Quash Subpoenas of Its Journalists
+【发布时间】2026-07-15T23:58:01.000Z
+【链接】https://www.nytimes.com/2026/07/15/business/media/new-york-times-subpoenas-quash.html
+
+------------------------------
+
+2. NextEra和多米尼翁提出组建大型电力公司计划
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】他们要求三国和联邦机构的监管机构批准一项协议，将创建一个拥有东南部1000万客户的合并公司。
+【依据】新闻涉及能源公司合并，但未提及具体的股票代码
+【原标题】NextEra and Dominion File to Form a Huge Power Company
+【发布时间】2026-07-15T23:50:28.000Z
+【链接】https://www.nytimes.com/2026/07/15/business/nextera-dominion-regulators-filing.html
