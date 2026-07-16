@@ -1,0 +1,20 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-16T12:24:47.211Z - 2026-07-16T14:24:47.211Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Gaza and the Problem of Moral Stupidity
+
+==============================
+
+1. Gaza and the Problem of Moral Stupidity
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Abdaljawad Omar argues that the Gaza crisis is no longer hidden by a lack of evidence, but by a cultivated refusal to confront what that evidence means. He examines how propaganda, institutional caution, and “both-sides” reasoning can turn visibility into inaction while violence continues. [equator.org]
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Gaza and the Problem of Moral Stupidity
+【发布时间】2026-07-16T12:40:10.000Z
+【链接】https://flipso.com/p/miy0721v0?ref=rss
