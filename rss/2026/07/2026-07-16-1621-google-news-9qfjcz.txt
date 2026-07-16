@@ -1,0 +1,33 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-16T06:21:55.208Z - 2026-07-16T08:21:55.208Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Patients who suffer heart attack have more micro and nanoplastic in their blood - European Society of Cardiology
+2. Led by Messi, Argentina scores twice late to reach World Cup final again - The Washington Post
+
+==============================
+
+1. Patients who suffer heart attack have more micro and nanoplastic in their blood - European Society of Cardiology
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Patients who suffer heart attack have more micro and nanoplastic in their blood  European Society of Cardiology
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Patients who suffer heart attack have more micro and nanoplastic in their blood - European Society of Cardiology
+【发布时间】2026-07-16T07:00:30.000Z
+【链接】https://news.google.com/rss/articles/CBMiywFBVV95cUxNM1oyR0gyeTUwaGhCLVBiV25DWTZIR0xQemFZQXZuMy1pXzJsWXpyN0NWWDE4TjFPRUVxaWlicTN1R0psQkdKZk9zb2Q0UEdwZ09yazY0UEM1RU9wRkMtLThZMWI3cTdJb00xUTlOMHNtRzhxdHU4a0hPX3NFVmpuVjNkWTBSZlhJdU5KTHlNZUJlME1iMmF5RkNEZF9wd0NNY21pVlF3bmJpZ0o5OUxfWVBWUEg0a0ItYl9XaGx0bUR0M3lwYUk1OWFTMA?oc=5
+
+------------------------------
+
+2. Led by Messi, Argentina scores twice late to reach World Cup final again - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Led by Messi, Argentina scores twice late to reach World Cup final again  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Led by Messi, Argentina scores twice late to reach World Cup final again - The Washington Post
+【发布时间】2026-07-16T06:24:59.000Z
+【链接】https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGVMblBmbXRQY0M0NzB4V0c4ajJTNTA3LWlSMEwzOGdET0NZeC13ZlNiN0Zqd01DYnNramk0THRWdFIwdUVZNGdVLXhHeXFWdEYwVXdsWDczR0dCaHZYemdPc29nd3JZaTlrNW0xajZyY1ZIeU95NC1LMnJQWlgzLW1qcVJid3FjWEpiWElGbTVBdmMzTEVFZmhFTkU5SjZmeGxLRmt1QjhYUDRYbk5nOTNCVjNEMkppQ0E?oc=5
