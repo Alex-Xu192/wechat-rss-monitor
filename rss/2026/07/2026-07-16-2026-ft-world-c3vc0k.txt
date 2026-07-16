@@ -1,0 +1,33 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-16T10:26:03.552Z - 2026-07-16T12:26:03.552Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Varun Chandra to stay as Number 10 business adviser under Burnham
+2. UBS tries to crack the American market at last
+
+==============================
+
+1. Varun Chandra to stay as Number 10 business adviser under Burnham
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Former Hakluyt managing partner was instrumental in securing a US-UK trade deal
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Varun Chandra to stay as Number 10 business adviser under Burnham
+【发布时间】2026-07-16T10:32:29.000Z
+【链接】https://www.ft.com/content/cba000af-05a4-4af5-94c3-bf028bf27cb1
+
+------------------------------
+
+2. UBS tries to crack the American market at last
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Swiss group wants to be valued as a global wealth manager rather than a European bank but lags far behind Wall St rivals
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】UBS tries to crack the American market at last
+【发布时间】2026-07-16T10:26:44.000Z
+【链接】https://www.ft.com/content/1dcbc720-268d-4219-a08b-0be59968537a
