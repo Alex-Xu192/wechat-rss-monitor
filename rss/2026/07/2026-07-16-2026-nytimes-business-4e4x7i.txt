@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-16T10:26:30.875Z - 2026-07-16T12:26:30.875Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Google Ordered to Give A.I. Rivals More Access on Android Smartphones
+2. Anthropic Inches Toward a Mega-I.P.O.
+3. The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)
+4. Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War
+5. U.K. Nationalizes British Steel, Its Last Major Steel Mill
+
+==============================
+
+1. Google Ordered to Give A.I. Rivals More Access on Android Smartphones
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The decision by European Union regulators is a response to fears that Google will use its vast Android user base to gain an edge in A.I.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Google Ordered to Give A.I. Rivals More Access on Android Smartphones
+【发布时间】2026-07-16T12:18:33.000Z
+【链接】https://www.nytimes.com/2026/07/16/technology/google-ordered-to-give-ai-rivals-more-access-on-android-smartphones.html
+
+------------------------------
+
+2. Anthropic Inches Toward a Mega-I.P.O.
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The artificial intelligence lab is said to have taken more steps that are consistent with a company aiming to go public in the fall.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Anthropic Inches Toward a Mega-I.P.O.
+【发布时间】2026-07-16T12:17:39.000Z
+【链接】https://www.nytimes.com/2026/07/16/business/dealbook/anthropic-ipo-ai.html
+
+------------------------------
+
+3. The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)
+【发布时间】2026-07-16T12:10:17.000Z
+【链接】https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html
+
+------------------------------
+
+4. Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】U.S. diesel prices first surpassed $5 a gallon in March. Renewed fighting in the Persian Gulf and reduced refinery capacity is once again pushing up prices.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War
+【发布时间】2026-07-16T11:51:15.000Z
+【链接】https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html
+
+------------------------------
+
+5. U.K. Nationalizes British Steel, Its Last Major Steel Mill
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The government first intervened in British Steel last year to prevent its then-owner, the Chinese company Jingye Group, from shutting it down. No private sector buyers came forward.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】U.K. Nationalizes British Steel, Its Last Major Steel Mill
+【发布时间】2026-07-16T10:41:05.000Z
+【链接】https://www.nytimes.com/2026/07/16/business/britain-nationalizes-steel-mill.html
