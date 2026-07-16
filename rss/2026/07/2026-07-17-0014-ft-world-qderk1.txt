@@ -1,0 +1,85 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-16T14:14:58.251Z - 2026-07-16T16:14:58.251Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. Zelenskyy’s government plunged into turmoil by defence minister’s firing
+2. Russian strikes threaten Ukraine’s Black Sea grain trade
+3. Uber’s super app ‘synergies’ deserve some suspension of disbelief
+4. TfL hackers ‘central’ to Scattered Spider group, says NCA
+5. Varun Chandra to stay as Number 10 business adviser under Burnham
+6. We need humanities more than ever in the age of AI
+
+==============================
+
+1. Zelenskyy’s government plunged into turmoil by defence minister’s firing
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ukrainian president forced into concession after ousting of popular minister prompts public and political backlash
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Zelenskyy’s government plunged into turmoil by defence minister’s firing
+【发布时间】2026-07-16T15:57:54.000Z
+【链接】https://www.ft.com/content/06865b90-5b62-46c5-ae8d-147842b41cd0?syn-25a6b1a6=1
+
+------------------------------
+
+2. Russian strikes threaten Ukraine’s Black Sea grain trade
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Wheat prices have surged as heavy attacks disrupt shipments
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Russian strikes threaten Ukraine’s Black Sea grain trade
+【发布时间】2026-07-16T15:53:19.000Z
+【链接】https://www.ft.com/content/5c64e7a5-fe26-4f14-8d77-1d0f1d8a30d3?syn-25a6b1a6=1
+
+------------------------------
+
+3. Uber’s super app ‘synergies’ deserve some suspension of disbelief
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ride-hailing giant’s purchase of Delivery Hero may be more appetising than it looks
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Uber’s super app ‘synergies’ deserve some suspension of disbelief
+【发布时间】2026-07-16T15:48:11.000Z
+【链接】https://www.ft.com/content/aaa16c77-192f-412b-b123-1c4fcee5fb76?syn-25a6b1a6=1
+
+------------------------------
+
+4. TfL hackers ‘central’ to Scattered Spider group, says NCA
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Two men each sentenced to five years and six months in prison for 2024 cyber attack
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】TfL hackers ‘central’ to Scattered Spider group, says NCA
+【发布时间】2026-07-16T15:25:28.000Z
+【链接】https://www.ft.com/content/194a7f0d-92f5-41fd-abd2-72e2d20a1ad0
+
+------------------------------
+
+5. Varun Chandra to stay as Number 10 business adviser under Burnham
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Former Hakluyt managing partner was instrumental in securing a US-UK trade deal
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Varun Chandra to stay as Number 10 business adviser under Burnham
+【发布时间】2026-07-16T15:05:24.000Z
+【链接】https://www.ft.com/content/cba000af-05a4-4af5-94c3-bf028bf27cb1?syn-25a6b1a6=1
+
+------------------------------
+
+6. We need humanities more than ever in the age of AI
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Subjects like literature, languages and history are vital to a thoughtful and prosperous society
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】We need humanities more than ever in the age of AI
+【发布时间】2026-07-16T14:32:39.000Z
+【链接】https://www.ft.com/content/fbde3d46-0e53-47cb-8f0b-4988dbf22040
