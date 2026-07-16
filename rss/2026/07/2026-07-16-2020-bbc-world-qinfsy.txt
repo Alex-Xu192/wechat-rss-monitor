@@ -1,0 +1,98 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-16T10:20:48.937Z - 2026-07-16T12:20:48.937Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. Argentina face action over Falklands banner
+2. Iran targets military bases as US launches wave of strikes
+3. Protests in Ukraine's cities against Zelensky's removal of defence minister
+4. Fraud crackdown on Ghana ID cards makes digital checks compulsory - photocopies banned
+5. 'Moment of joy' as Uganda discharges last Ebola patient
+6. Eleven people die in fire at Algerian children's care home
+7. Chip giant TSMC pledges another $100bn to expand US production
+
+==============================
+
+1. Argentina face action over Falklands banner
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 3562 (line 1 column 3563)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Argentina face action over Falklands banner
+【发布时间】2026-07-16T12:01:37.000Z
+【链接】https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Iran targets military bases as US launches wave of strikes
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 3562 (line 1 column 3563)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Iran targets military bases as US launches wave of strikes
+【发布时间】2026-07-16T11:48:49.000Z
+【链接】https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. Protests in Ukraine's cities against Zelensky's removal of defence minister
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 3562 (line 1 column 3563)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Protests in Ukraine's cities against Zelensky's removal of defence minister
+【发布时间】2026-07-16T11:31:11.000Z
+【链接】https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+4. Fraud crackdown on Ghana ID cards makes digital checks compulsory - photocopies banned
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Companies are now required to verify a person's identity electronically to curb theft and forgery.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 3562 (line 1 column 3563)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Fraud crackdown on Ghana ID cards makes digital checks compulsory - photocopies banned
+【发布时间】2026-07-16T11:18:51.000Z
+【链接】https://www.bbc.co.uk/news/articles/cn4n9q538z2o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+5. 'Moment of joy' as Uganda discharges last Ebola patient
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Most of the recent cases were among travellers from the Democratic Republic of Congo.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 3562 (line 1 column 3563)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】'Moment of joy' as Uganda discharges last Ebola patient
+【发布时间】2026-07-16T11:16:31.000Z
+【链接】https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+6. Eleven people die in fire at Algerian children's care home
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Along with the fatalities, 19 people suffered injuries, the authorities say.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 3562 (line 1 column 3563)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Eleven people die in fire at Algerian children's care home
+【发布时间】2026-07-16T10:34:21.000Z
+【链接】https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+7. Chip giant TSMC pledges another $100bn to expand US production
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The company says it will create "high-tech, high-paying jobs", and raises its total commitment to the US to $265bn.
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or ']' after array element in JSON at position 3562 (line 1 column 3563)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Chip giant TSMC pledges another $100bn to expand US production
+【发布时间】2026-07-16T10:23:00.000Z
+【链接】https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss
