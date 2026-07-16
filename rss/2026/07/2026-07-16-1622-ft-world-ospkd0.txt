@@ -1,0 +1,33 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-16T06:22:24.649Z - 2026-07-16T08:22:24.649Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 英国经济在5月增长0.1%
+2. Uber同意以130亿欧元收购Delivery Hero
+
+==============================
+
+1. 英国经济在5月增长0.1%
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】数据发布之际，安迪·博恩汉姆（Andy Burnham）准备进入唐宁街 10 号
+【依据】这是关于英国5月经济增长数据的新闻，虽然提及英国经济但未明确涉及特定上市公司或股票代码
+【原标题】UK economy grew 0.1% in May
+【发布时间】2026-07-16T07:52:41.000Z
+【链接】https://www.ft.com/content/ab436c8d-6d21-466a-8337-3a7467c9aff8
+
+------------------------------
+
+2. Uber同意以130亿欧元收购Delivery Hero
+【相关股票】UBER、DHER
+【利好股票】UBER
+【利空股票】DHER
+【摘要】德国外卖公司将分拆土耳其和部分欧洲业务并赋予纽约-based SSW Partners
+【依据】Uber（NYSE: UBER）是一家上市公司，这笔收购可能对收购方股价产生正面影响；Delivery Hero（FSE: DHER）是德国上市的外卖公司，被收购通常可能导致股价波动或上涨
+【原标题】Uber agrees €13bn deal to acquire Delivery Hero
+【发布时间】2026-07-16T06:49:39.000Z
+【链接】https://www.ft.com/content/c15115ea-7386-4f44-9643-f95f58187514
