@@ -1,0 +1,72 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-17T00:14:22.872Z - 2026-07-17T02:14:22.872Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. US expands its airstrike campaign against Iran by hitting more bridges - AP News
+2. Trump to give primetime speech on elections as sources say he'll raise allegations about China - CBS News
+3. Texas flash floods leave at least 2 dead in region devastated a year ago - AP News
+4. Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post
+5. Wildfire smoke will worsen in the Northeast and Mid-Atlantic through Friday - The Washington Post
+
+==============================
+
+1. US expands its airstrike campaign against Iran by hitting more bridges - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】US expands its airstrike campaign against Iran by hitting more bridges  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】US expands its airstrike campaign against Iran by hitting more bridges - AP News
+【发布时间】2026-07-17T02:02:00.000Z
+【链接】https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXFnZWtOU1NXb01HY2FxbTBsUmJqNDlaa3NORmpyZ0pYVzhSVFZkaUNYTjczY0E1YjhpR1F1OGRoT3dJNnVTMjVuUGJyamVCckJwMi1WY0hJR2NyVGQ0ZDdzbF9LMzgteGZDRGtMd0ZQV211YWF3cHpYLWdhTXZjTXVhTG1zRkRmR3Q1NVdQRWNEb2xhZU0zRTFodmM4ZXc?oc=5
+
+------------------------------
+
+2. Trump to give primetime speech on elections as sources say he'll raise allegations about China - CBS News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump to give primetime speech on elections as sources say he'll raise allegations about China  CBS News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump to give primetime speech on elections as sources say he'll raise allegations about China - CBS News
+【发布时间】2026-07-17T02:01:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiggFBVV95cUxQUy1GdS1CWjY1N1dwWmhKNVhaZ1MtOVVsUGFxUXFiLVNPc0tmbWdvTnM0OFdzLVJLZVIwaVdoNXRXSHlmZzhmVG5LRVlQOWFXR0pSWjY1aGtKd09VcEg0bWhEODloY3FMNHBxRGEySGlKX1FZWU53U19IWXRtUDVleWln?oc=5
+
+------------------------------
+
+3. Texas flash floods leave at least 2 dead in region devastated a year ago - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Texas flash floods leave at least 2 dead in region devastated a year ago  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Texas flash floods leave at least 2 dead in region devastated a year ago - AP News
+【发布时间】2026-07-17T01:30:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiqAFBVV95cUxOakUzVndUVlBjeFBDRVU0SkZqQ29ORktDbHh1QV91NHlJZk5EU0FXSl9FbnRNeXgycG9zWDdJTHlaNFBuZVhncU1BS2xSZnlsR2ZWa3JKQnl2RHBod3lQanpYUUpsNEhJSGJPZDg0bnRTcVpsZjUwelJmcXVCRUVrQ1k2YVliT1ZTa2FoVlRGMXY3VHNEYUJ0YzNJTjVnaE13TExGa0M5TTU?oc=5
+
+------------------------------
+
+4. Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Zelensky ousts popular defense minister, an architect of Ukraine’s drone program  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Zelensky ousts popular defense minister, an architect of Ukraine’s drone program - The Washington Post
+【发布时间】2026-07-17T01:25:29.000Z
+【链接】https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzZQc0pQSWxFVUhpZ0V5TlR6dENhRFBsOFJnODNRblpweWNGNXYzaHpCS0FDV25PdjRMYUl0YWZLaFRscGtKNjRZUk83OGxVTUpvUDJqRHdwVWs3RmdLM010c3J2WVdCdGpVUTVqM2FZbGx4UE5MMUZfRmdPQll2czV4clZWSDZiZVQ0YXZYakdVX0x2ZENGUlRoR1FEa3E1SE5GY1lfM1BwZTBaT2hNZTNKTHNLdE9zeFpweXg4b2dMQQ?oc=5
+
+------------------------------
+
+5. Wildfire smoke will worsen in the Northeast and Mid-Atlantic through Friday - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Wildfire smoke will worsen in the Northeast and Mid-Atlantic through Friday  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Wildfire smoke will worsen in the Northeast and Mid-Atlantic through Friday - The Washington Post
+【发布时间】2026-07-17T01:06:17.000Z
+【链接】https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0hyNE9ucGs0MENHVVV1QXdVbThpaUVhX2hlYUlMTDJTb0xBTGN5TXVWWmJza2FFek14cndaclZGUWppdDhrUUVYc29tQmotNHlFYVhWT3BCSjhkSXlkODFsdE1hOUx3MUg3R2tma2VCUDNYaWtseU4xSEQ0VHFpMFI4a3B4aU9WQUdaWVB4RTh1b3R0djZUNFdyUVdUWjFXY1FFOHNDWExURHN1ZVMtUER1eTk3UQ?oc=5
