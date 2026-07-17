@@ -1,0 +1,59 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-17T10:20:54.106Z - 2026-07-17T12:20:54.106Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 波斯湾航运几近停滞，油价上涨
+2. Poolhouse，一家科技赋能的台球厅创业公司，融资5500万美元
+3. 新任首相面临老问题：如何让英国经济增长
+4. 中国领导人习近平呼吁“开放”，推动塑造人工智能发展路径
+
+==============================
+
+1. 波斯湾航运几近停滞，油价上涨
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】随着伊朗战争持续扰乱能源供应，航运交通量降至一个多月来的最低水平，油价走高。
+【依据】新闻涉及波斯湾航运、伊朗战争与油价上涨，明确影响能源与航运行业，但未提及具体公司或股票代码，无法判断受影响的具体股票。
+【原标题】Shipping in the Persian Gulf Nears a Halt and Oil Prices Rise
+【发布时间】2026-07-17T12:12:29.000Z
+【链接】https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html
+
+------------------------------
+
+2. Poolhouse，一家科技赋能的台球厅创业公司，融资5500万美元
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】由Topgolf创始团队创立、利用技术追踪玩家得分的Poolhouse，旨在将自身平台出售给其他人。
+【依据】新闻提及创业公司Poolhouse及Topgolf创始团队，但未涉及上市公司或具体股票代码，无法判断相关股票。
+【原标题】Poolhouse, a Tech-Infused Pool Hall Start-up, Raises $55 Million
+【发布时间】2026-07-17T12:03:03.000Z
+【链接】https://www.nytimes.com/2026/07/17/business/dealbook/poolhouse-fundraise-topgolf.html
+
+------------------------------
+
+3. 新任首相面临老问题：如何让英国经济增长
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】与经济学家及其身边人士的对话，揭示了安迪·伯纳姆可能如何应对根深蒂固的挑战。
+【依据】新闻涉及英国新任首相及英国经济增长政策，未提及具体公司或股票代码，无法判断相关股票。
+【原标题】New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow
+【发布时间】2026-07-17T11:39:36.000Z
+【链接】https://www.nytimes.com/2026/07/17/business/britain-andy-burnham-prime-minister.html
+
+------------------------------
+
+4. 中国领导人习近平呼吁“开放”，推动塑造人工智能发展路径
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】习近平表示，人工智能系统的发展应该是一场“全球协作的交响乐”。
+【依据】新闻涉及中国人工智能政策与领导层表态，未提及具体公司或股票代码，无法判断相关股票。
+【原标题】Xi Jinping of China Pitches ‘Openness’ in Push to Shape the Path of A.I.
+【发布时间】2026-07-17T11:04:51.000Z
+【链接】https://www.nytimes.com/2026/07/17/business/xi-jinping-china-ai.html
