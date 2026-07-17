@@ -1,0 +1,72 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-17T00:14:58.468Z - 2026-07-17T02:14:58.468Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. Trump claims ‘shocking vulnerabilities’ in US electoral system
+2. India eyes market comeback with $1bn IPO for SBI Funds Management
+3. Blanche meets Epstein’s victims after senator’s confirmation ultimatum
+4. Chinese AI start-up Moonshot launches model challenging Anthropic’s lead
+5. US escalates attacks on Iran as it expands range of targets
+
+==============================
+
+1. Trump claims ‘shocking vulnerabilities’ in US electoral system
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】President accuses China of election meddling as he seeks to pre-emptively undermine midterm polls
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Trump claims ‘shocking vulnerabilities’ in US electoral system
+【发布时间】2026-07-17T01:40:43.000Z
+【链接】https://www.ft.com/content/61909f37-b1b5-41af-bac0-3e64bbe0506d?syn-25a6b1a6=1
+
+------------------------------
+
+2. India eyes market comeback with $1bn IPO for SBI Funds Management
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in this newsletter: Aditya Birla goes big on renewables
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】India eyes market comeback with $1bn IPO for SBI Funds Management
+【发布时间】2026-07-17T01:30:09.000Z
+【链接】https://www.ft.com/content/fac7a8cc-f7b9-4183-b338-f217e0a66d81?syn-25a6b1a6=1
+
+------------------------------
+
+3. Blanche meets Epstein’s victims after senator’s confirmation ultimatum
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Thom Tillis had threatened to block acting AG’s appointment as scandal over sex offender overshadows nomination
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Blanche meets Epstein’s victims after senator’s confirmation ultimatum
+【发布时间】2026-07-17T01:03:28.000Z
+【链接】https://www.ft.com/content/51188c2d-a5f3-415d-a668-f3ec7e50c991?syn-25a6b1a6=1
+
+------------------------------
+
+4. Chinese AI start-up Moonshot launches model challenging Anthropic’s lead
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Kimi K3 shows narrowing gap between US and China on frontier AI
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Chinese AI start-up Moonshot launches model challenging Anthropic’s lead
+【发布时间】2026-07-17T00:58:59.000Z
+【链接】https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff?syn-25a6b1a6=1
+
+------------------------------
+
+5. US escalates attacks on Iran as it expands range of targets
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】American forces hit deeper inside the country as Islamic republic reports strikes on its infrastructure
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】US escalates attacks on Iran as it expands range of targets
+【发布时间】2026-07-17T00:56:37.000Z
+【链接】https://www.ft.com/content/119c8222-89ce-4c45-ad77-9bb4aab06bdd
