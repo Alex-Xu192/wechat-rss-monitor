@@ -1,0 +1,20 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-17T00:16:09.254Z - 2026-07-17T02:16:09.254Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Truth Social 母公司将出售更快获取特朗普帖子的权限
+
+==============================
+
+1. Truth Social 母公司将出售更快获取特朗普帖子的权限
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】该产品Truth API可让华尔街交易公司在特朗普所持部分社交媒体平台上查看他的帖子时获得优势。
+【依据】新闻仅提及Truth Social及其API产品，未明确涉及特定上市公司或股票代码，无法确定具体相关股票。
+【原标题】Truth Social Parent to Sell Faster Access to Trump's Posts
+【发布时间】2026-07-17T00:28:29.000Z
+【链接】https://www.nytimes.com/2026/07/16/business/energy-environment/trump-truth-social-api-access.html
