@@ -1,0 +1,59 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-07-17T04:14:57.421Z - 2026-07-17T06:14:57.421Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. A Pitt professor breaks down what to know about the diarrhea-causing cyclosporiasis - Pittsburgh Post-Gazette
+2. Xi Jinping says China must play leading role in AI - Financial Times
+3. Trump delivers primetime speech, claims declassified documents show US election vulnerabilities - CNN
+4. Japan’s parliament enshrines male-only succession for the shrinking imperial family - AP News
+
+==============================
+
+1. A Pitt professor breaks down what to know about the diarrhea-causing cyclosporiasis - Pittsburgh Post-Gazette
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A Pitt professor breaks down what to know about the diarrhea-causing cyclosporiasis  Pittsburgh Post-Gazette
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】A Pitt professor breaks down what to know about the diarrhea-causing cyclosporiasis - Pittsburgh Post-Gazette
+【发布时间】2026-07-17T05:50:15.000Z
+【链接】https://news.google.com/rss/articles/CBMipgFBVV95cUxPS0duWThEa201dXdMSDhGSGRCbi1iSlR3UVZ0WUUwS0dZNmVLTjMyTk5CSVRTaU9FSUFBN2RlOExKSVJHY0ZueFhlTWp6QWVQOTBOemx6X3dJamh5NmdMLWZhdTNRakxxaUpNNUlybVpTXy1JWTdvaUI4NllmUlFLcVltbG93MWZZcDFVRlFSUWVoTEd4SVRrZFd0cnBtc0ZzV19GTGZn?oc=5
+
+------------------------------
+
+2. Xi Jinping says China must play leading role in AI - Financial Times
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Xi Jinping says China must play leading role in AI  Financial Times
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Xi Jinping says China must play leading role in AI - Financial Times
+【发布时间】2026-07-17T05:26:15.000Z
+【链接】https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWpKaU03eUwzV3NNb1FzVnM2VlJsYjZnODdYMGhFVzBTZ1lqeEktRFZyZXpqbzljTWpiTHp6ZEt1NTd1M09OZkRJV2Izd0lTYmFCY3Z4U3U4TDFWTDZDWHRFWWFha2o0VDVIQnFzUmRxSU1ZWWtETU1hZ1N6VmQ4UG94S0g?oc=5
+
+------------------------------
+
+3. Trump delivers primetime speech, claims declassified documents show US election vulnerabilities - CNN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump delivers primetime speech, claims declassified documents show US election vulnerabilities  CNN
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Trump delivers primetime speech, claims declassified documents show US election vulnerabilities - CNN
+【发布时间】2026-07-17T05:02:00.000Z
+【链接】https://news.google.com/rss/articles/CBMie0FVX3lxTE1aQnV3X1h2cy1mWnJXVm93OGhGOThLZWNtem82SUJ1cm1CV2FHNlV3X2pmMGRkOC13cDFnWUNkUXJWdEdWbkkzdUpyT3RKRzNEQW1RT2V6UFhQZEViLXpOMnpDTkE2VUpFMUlXZ3B1V2JnVmJzX0ROUzFDSQ?oc=5
+
+------------------------------
+
+4. Japan’s parliament enshrines male-only succession for the shrinking imperial family - AP News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Japan’s parliament enshrines male-only succession for the shrinking imperial family  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Japan’s parliament enshrines male-only succession for the shrinking imperial family - AP News
+【发布时间】2026-07-17T04:49:00.000Z
+【链接】https://news.google.com/rss/articles/CBMirgFBVV95cUxOMktYczA0cTd0VkZwQXZpNnJSQkV5TFdfdV9HcXJUcGViRWc2amJQU29hUDlQd1NvcXZHMERFNE83cXNmc3ZnT1M1U29FejlQa2hpMFBlbXdQSjRJQmx3S0FFMXIyY2FqZVFld0Nlam5ocE9uTjBpcDlYUGZMNkJEYlBDcWJVdm95XzdFN2R0dWsyNHg1VG1MRG5tWjJSZ1FMQW1ZUjUzZG1pWlNrY3c?oc=5
