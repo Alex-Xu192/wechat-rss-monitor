@@ -1,0 +1,20 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-07-16T22:15:48.916Z - 2026-07-17T00:15:48.916Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Likweli: A new monkey species discovered in the Congo Basin
+
+==============================
+
+1. Likweli: A new monkey species discovered in the Congo Basin
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Yale researchers helped describe Likweli, a rare new Colobus monkey species from the Democratic Republic of Congo. The species was identified using physical traits, genetics, and vocalizations, and appears to have a small range in Lomami National Park and nearby forest. Researchers say the findings highlight both the region’s biodiversity and the need for conservation. [news.yale.edu]
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Likweli: A new monkey species discovered in the Congo Basin
+【发布时间】2026-07-16T23:20:08.000Z
+【链接】https://flipso.com/p/jspsmmoo7?ref=rss
