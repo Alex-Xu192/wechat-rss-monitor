@@ -1,0 +1,124 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-07-17T10:19:46.487Z - 2026-07-17T12:19:46.487Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. Burnham promises to be ‘pro-business’ as he is crowned Labour leader
+2. EU to give industry more time to pollute and more funds to clean up
+3. Global tech stocks fall as AI trade goes into reverse
+4. Trump envoy’s tour on $450mn superyacht stirs anger in Italy
+5. Submit your questions: How will Andy Burnham govern the UK?
+6. I’m suddenly not loving my UK shares like I used to
+7. Andy Burnham’s Britain in seven charts
+8. US escalates attacks on Iran as it expands range of targets
+9. ‘Handsome’ and ‘a great fighter’: Iraq’s new leader woos Washington
+
+==============================
+
+1. Burnham promises to be ‘pro-business’ as he is crowned Labour leader
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Incoming prime minister says he will ‘set a direction that is distinctively Labour’
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Burnham promises to be ‘pro-business’ as he is crowned Labour leader
+【发布时间】2026-07-17T12:17:44.000Z
+【链接】https://www.ft.com/content/8cbd0b07-d0db-4c1a-a985-c495bd7168b8?syn-25a6b1a6=1
+
+------------------------------
+
+2. EU to give industry more time to pollute and more funds to clean up
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Climate commissioner defends extension of free allowances to heavily polluting sectors
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】EU to give industry more time to pollute and more funds to clean up
+【发布时间】2026-07-17T11:57:37.000Z
+【链接】https://www.ft.com/content/c3c33e7b-8faf-4f06-b281-112117aeeb5a?syn-25a6b1a6=1
+
+------------------------------
+
+3. Global tech stocks fall as AI trade goes into reverse
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Index of US semiconductor stocks on track for its worst week since last year’s ‘liberation day’ rout
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Global tech stocks fall as AI trade goes into reverse
+【发布时间】2026-07-17T11:48:42.000Z
+【链接】https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1
+
+------------------------------
+
+4. Trump envoy’s tour on $450mn superyacht stirs anger in Italy
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Rome declines to reveal cost of security for billionaire businessman Tilman Fertitta’s ‘coastal diplomacy’
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Trump envoy’s tour on $450mn superyacht stirs anger in Italy
+【发布时间】2026-07-17T11:40:24.000Z
+【链接】https://www.ft.com/content/f5773412-4604-4078-9fc9-41b715326572?syn-25a6b1a6=1
+
+------------------------------
+
+5. Submit your questions: How will Andy Burnham govern the UK?
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Join a live Ask an Expert Q&A with the FT’s northern England correspondent Jennifer Williams, columnist and Inside Politics writer Stephen Bush and UK chief political commentator Robert Shrimsley on Thursday July 23 at 1pm (BST)
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Submit your questions: How will Andy Burnham govern the UK?
+【发布时间】2026-07-17T11:35:32.000Z
+【链接】https://www.ft.com/content/352943bc-6c51-4b5d-abf0-a964970ade6a?syn-25a6b1a6=1
+
+------------------------------
+
+6. I’m suddenly not loving my UK shares like I used to
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Global gyrations in stock prices and earnings favour other markets
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】I’m suddenly not loving my UK shares like I used to
+【发布时间】2026-07-17T11:00:08.000Z
+【链接】https://www.ft.com/content/478fe638-84d5-4eab-a2c5-5b43ec106bdf?syn-25a6b1a6=1
+
+------------------------------
+
+7. Andy Burnham’s Britain in seven charts
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The incoming prime minister promises to boost growth across the country but faces several obstacles
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Andy Burnham’s Britain in seven charts
+【发布时间】2026-07-17T11:00:08.000Z
+【链接】https://www.ft.com/content/2b9d2e63-9aff-4dce-a597-5494cbd12c2d?syn-25a6b1a6=1
+
+------------------------------
+
+8. US escalates attacks on Iran as it expands range of targets
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】American forces hit deeper inside the country as Islamic republic reports strikes on its infrastructure
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】US escalates attacks on Iran as it expands range of targets
+【发布时间】2026-07-17T10:57:22.000Z
+【链接】https://www.ft.com/content/119c8222-89ce-4c45-ad77-9bb4aab06bdd?syn-25a6b1a6=1
+
+------------------------------
+
+9. ‘Handsome’ and ‘a great fighter’: Iraq’s new leader woos Washington
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ali al-Zaidi is seeking to keep Donald Trump onside while not alienating longtime ally Tehran
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】‘Handsome’ and ‘a great fighter’: Iraq’s new leader woos Washington
+【发布时间】2026-07-17T10:37:14.000Z
+【链接】https://www.ft.com/content/56c86436-5e49-4a86-b4f8-22171363d548?syn-25a6b1a6=1
