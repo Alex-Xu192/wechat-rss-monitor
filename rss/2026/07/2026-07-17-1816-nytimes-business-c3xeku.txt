@@ -1,0 +1,85 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-07-17T08:16:11.829Z - 2026-07-17T10:16:11.829Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 中东海湾的航运几乎停摆，油价上涨
+2. 北京驳斥特朗普的干预指控，但避免对抗
+3. 当世界杯球队需要美容时，理发店上门服务
+4. 通胀降温可能不足以阻止美联储加息
+5. 企业放弃气候目标并自行免除责任
+6. 新首相面临旧问题：如何让英国经济增长
+
+==============================
+
+1. 中东海湾的航运几乎停摆，油价上涨
+【相关股票】能源公司、航运公司
+【利好股票】油气公司
+【利空股票】航运公司
+【摘要】航运交通水平降至一个月内的最低点，随着伊朗战争继续扰乱能源供应，油价上涨。
+【依据】涉及能源商品和物流行业，油价上涨可能推动能源股上涨，而航运延误则可能压制航运公司股价。
+【原标题】Shipping in the Persian Gulf Nears a Halt and Oil Prices Rise
+【发布时间】2026-07-17T09:58:34.000Z
+【链接】https://www.nytimes.com/2026/07/17/business/strait-hormuz-iran-oil-prices.html
+
+------------------------------
+
+2. 北京驳斥特朗普的干预指控，但避免对抗
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】中国官员称选举干预指控毫无根据，分析人士称北京试图维持脆弱的 détente。
+【依据】涉及中美政治关系，未明确提及公司或行业，故无法判断股票影响。
+【原标题】Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight
+【发布时间】2026-07-17T09:56:14.000Z
+【链接】https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html
+
+------------------------------
+
+3. 当世界杯球队需要美容时，理发店上门服务
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Maram Hammadi 在伊拉克的泥地上长大，随后在西雅图外开设理发店，听说埃及国家队需要理发师，他腾出时间。
+【依据】关于世界杯球队理发服务的故事属于体育和生活服务范畴，与股票市场无直接关系，故无法判断。
+【原标题】When a World Cup Team Needs a Trim, the Barbershop Comes to Them
+【发布时间】2026-07-17T09:02:18.000Z
+【链接】https://www.nytimes.com/2026/07/17/sports/world-cup-egypt-seattle-barbershop.html
+
+------------------------------
+
+4. 通胀降温可能不足以阻止美联储加息
+【相关股票】金融行业
+【利好股票】银行
+【利空股票】高利率风险
+【摘要】联邦储备局预计在七月会议上保持利率不变，但官员尚未排除稍后加息的可能性。
+【依据】涉及美联储货币政策，可能影响金融行业股价，尤其是利率变动对银行和保险公司的影响。
+【原标题】Cooler Inflation May Not Be Enough to Stave Off Fed Rate Increases
+【发布时间】2026-07-17T09:02:15.000Z
+【链接】https://www.nytimes.com/2026/07/17/business/cooler-inflation-federal-reserve-interest-rates.html
+
+------------------------------
+
+5. 企业放弃气候目标并自行免除责任
+【相关股票】能源公司、制造业
+【利好股票】环保科技公司
+【利空股票】石油公司
+【摘要】大企业做出了拯救地球的宏大承诺，但实现并不容易。
+【依据】聚焦企业气候承诺履行情况，涉及多个行业公司，可能对环保相关股票产生正面或负面影响。
+【原标题】How Companies Have Abandoned Their Climate Goals and Let Themselves Off the Hook
+【发布时间】2026-07-17T09:00:07.000Z
+【链接】https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html
+
+------------------------------
+
+6. 新首相面临旧问题：如何让英国经济增长
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】与经济学家及其身边的人的对话揭示了安迪·本汉姆可能如何应对 entrenched challenges。
+【依据】关于英国新首相和经济增长的讨论，主要涉及宏观政策，未明确提及具体公司或行业，故无法判断。
+【原标题】New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow
+【发布时间】2026-07-17T08:46:31.000Z
+【链接】https://www.nytimes.com/2026/07/17/business/britain-andy-burnham-prime-minister.html
