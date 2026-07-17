@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-07-17T08:13:17.713Z - 2026-07-17T10:13:17.713Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Trump accuses China of election meddling and questions voting security ahead of midterms
+2. China hits out at British Steel nationalisation
+
+==============================
+
+1. Trump accuses China of election meddling and questions voting security ahead of midterms
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump accuses China of election meddling and questions voting security ahead of midterms
+【发布时间】2026-07-17T09:12:06.000Z
+【链接】https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. China hits out at British Steel nationalisation
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The UK government said taking the firm into public hands would safeguard "a vital national capability".
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】China hits out at British Steel nationalisation
+【发布时间】2026-07-17T08:25:55.000Z
+【链接】https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss
