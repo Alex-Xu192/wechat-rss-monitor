@@ -1,0 +1,22 @@
+Zaobao World - 中文结构化新闻汇总
+
+【来源】Zaobao World
+【时间】2026-07-18T20:15:21.750Z - 2026-07-18T22:15:21.750Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. 国际特稿：AI算力耗电力 数据中心跑遍世界找插座
+
+==============================
+
+1. 国际特稿：AI算力耗电力 数据中心跑遍世界找插座
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】当你在深夜点开聊天机器人ChatGPT，敲下指令让它为你规划一趟向往已久的异国旅程，只需短短几秒，详尽的路线与酒店推荐便跃然屏上。这样一次典型的文字查询，约消耗0.3瓦时电力，相当于家用烤箱开半秒所用的电。
+单看一次使用，耗电量似乎微不足道，但当数以亿计的指令不断涌入，屏幕后方的服务器和冷却系统便会承受沉重的能源负担。
+国际能源署的数据显示，全球数据中心用电量在2025年增长17％，远高于全球整体电力需求约3％的增幅。国际能源署预测，全球数据中心用电量将从2024年的约415太瓦时，增至2030年的约945太瓦时，增加一倍以上。
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 13 (line 1 column 14)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】国际特稿：AI算力耗电力 数据中心跑遍世界找插座
+【发布时间】2026-07-18T21:00:00.000Z
+【链接】https://www.zaobao.com/news/world/story20260719-9361201
