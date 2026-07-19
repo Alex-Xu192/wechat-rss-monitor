@@ -1,0 +1,538 @@
+LTN - 中文结构化新闻汇总
+
+【来源】LTN
+【时间】2026-07-19T06:10:46.509Z - 2026-07-19T08:10:46.509Z
+【数量】40
+
+【本邮件新闻标题汇总】
+1. 巧虎不是老虎？官方親揭真相 網全傻眼：童年被顛覆
+2. 登山》70歲登山狂人羅明原 補立百年三角點守護台灣山林地標
+3. 被問致癌油潘孟安擋記者 許宇甄：推開人民對真相的追問
+4. 網球》艾卡拉茲、辛納以來第3年輕！西班牙新星在烏馬格勇奪首冠
+5. 中職明星賽》決賽繼續狂轟！曾頌恩衛冕全壘打大賽冠軍
+6. 陰道口腫塊竟是骨盆腔器官脫垂 75歲婦求診解惑
+7. 世足》泰國人氣侏儒河馬「彈跳豬」 預測阿根廷蟬聯冠軍
+8. 「今年超了沒」全台腹超篩檢 彰化場6成民眾有脂肪肝
+9. 太幸運！台中10歲女童跌出4樓窗戶 2樓防護網接住她
+10. 北市調查官失聯陳屍辦公室 斷層掃描釐清死因
+11. 台南寵物同樂會變裝走秀 寵物雞也來逗鬧熱
+12. 日本高齡駕駛釀禍！ 7旬翁開車把女國中生撞進超商
+13. 偷美技術慘被抓包！中國AI模型Kimi K3宣稱自己是Claude
+14. A-Lin不忍了！師妹助陣忘退場「以為是升降」 狂虧：自己下台啦
+15. 陳世軒新莊辦水樂園與親子同歡消暑 黃國昌扮大魔王慘被水槍攻擊
+16. 黑嘉嘉是親姪女？江宏恩親揭26年都市傳說「誤會大了」 1鐵證打臉傳聞
+17. 7月19日至25日生肖運勢曝光 這3天大吉、2天要特別小心
+18. 彰化男搭訕襲胸逼到牆角 被罵「肖豬哥」成定罪關鍵
+19. 「台灣變富強，中國手伸越長！」 卓榮泰誓言保護國人與外國人安全
+20. 柯志恩支持上街頭抗議食安 尹立：藍白國會多數卻要人民曬太陽？
+21. 率19縣市長戰將拚勝！賴清德頒3「軍令」：新世代扛新時代
+22. 中職明星賽》在大巨蛋打擊練習開轟 李超：很爽啊！
+23. 《成語不只是四個字》走進生活 陳育慧推廣親子共讀
+24. 文化預算亂刪忍無可忍 畫協4點呼籲全踩翁曉玲盲點
+25. 預告「食安法」大修法！ 卓榮泰：明公布食用油全面檢驗報告
+26. 世足》從梅西到貝林漢姆 美媒盤點本屆11組12大好球
+27. 竹市名產其他縣市驗出毒 議員：市府「慢7週」早被吃下肚
+28. 中職明星賽》巧打能力展現！富邦江國豪拿下「連連看打擊戰」冠軍
+29. 國軍聯合防禦操演一次回顧！ 軍民互助、跨區增援、反資情操演成亮點
+30. 健康網》情侶、夫妻永遠吵一樣的事 諮商師提建議
+31. 高雄大港閱冰首日逾2萬人潮 49家冰品美食攤今還有一天！
+32. Nissan 主力掀背車明年推新一代車型！油耗上看每公升 30 公里
+33. 嘉義太保市拍板「肥料補助每公頃4千」 克服預算僵局正式上路
+34. 「厭女祖師爺」兄弟檔在美落網 涉性侵、人口販運、兒童不雅照
+35. 反對紅色恐怖威脅！ 賴清德：絕不讓民主台灣變「中國台灣」
+36. 潘孟安被問致癌油手揮開記者 林沛祥：解決不了毒油就用手肘解決記者？
+37. 歐洲跑透透！ 林佳龍今證實上月曾密訪德國
+38. 被台灣狠甩！韓人均GDP將破4萬美元 韓媒仍悲嘆「 韓台差距再擴大」
+39. 宣明智傳術後進加護觀察 林碩彥：2天前才通話、盼外界不打擾
+40. 雲林這間廟爆紅！每週日免費供平安餐 3年吸引逾500人接力贊助
+
+==============================
+
+1. 巧虎不是老虎？官方親揭真相 網全傻眼：童年被顛覆
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】〔娛樂頻道／綜合報導〕許多人的童年時光都有「巧虎」陪伴在身邊長大，不過，網友一直以為巧虎是隻老虎，巧連智官方帳號出面表示，巧虎不是老虎，而是長得像老虎的孩子，而且今年5歲。知道真相後數十萬網友都...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】巧虎不是老虎？官方親揭真相 網全傻眼：童年被顛覆
+【发布时间】2026-07-19T08:03:49.000Z
+【链接】https://ent.ltn.com.tw/news/breakingnews/5510508
+
+------------------------------
+
+2. 登山》70歲登山狂人羅明原 補立百年三角點守護台灣山林地標
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】登山界奇人羅明原完攀台灣273座3000公尺以上高山（上河地圖有命名的258座，後又增至273座），3000公尺百岳已經二刷，加上小百岳完攀，連日治時代繪製台灣地圖的一等...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】登山》70歲登山狂人羅明原 補立百年三角點守護台灣山林地標
+【发布时间】2026-07-19T08:03:35.000Z
+【链接】https://sports.ltn.com.tw/news/breakingnews/5510509
+
+------------------------------
+
+3. 被問致癌油潘孟安擋記者 許宇甄：推開人民對真相的追問
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】總統府秘書長潘孟安今日遭電視台記者追問「中聯致癌油案」時，以手臂揮開記者。國民黨團首席副書記長許宇甄表示，這不是單純的動線誤會，而是權力面對監督時，最直接、最真實的傲慢反應，正...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】被問致癌油潘孟安擋記者 許宇甄：推開人民對真相的追問
+【发布时间】2026-07-19T08:00:45.000Z
+【链接】https://news.ltn.com.tw/news/politics/breakingnews/5510490
+
+------------------------------
+
+4. 網球》艾卡拉茲、辛納以來第3年輕！西班牙新星在烏馬格勇奪首冠
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】西班牙新星梅里達（Daniel Merida）歷經3盤激戰，終以6：2、5：7、6：2力退波士尼亞與赫塞哥維納34歲老將德祖赫（Damir Dzumhur），不但在烏馬格...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】網球》艾卡拉茲、辛納以來第3年輕！西班牙新星在烏馬格勇奪首冠
+【发布时间】2026-07-19T08:00:32.000Z
+【链接】https://sports.ltn.com.tw/news/breakingnews/5510499
+
+------------------------------
+
+5. 中職明星賽》決賽繼續狂轟！曾頌恩衛冕全壘打大賽冠軍
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】中職明星賽全壘打大賽昨天預賽，總計8人參賽，「魚住」曾頌恩12轟高居榜首，王政順與宋晟睿同為6轟，加上宋柏翰5轟，4人攜手晉級今天決賽。曾頌恩昨天12轟，今天決賽以10轟...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】中職明星賽》決賽繼續狂轟！曾頌恩衛冕全壘打大賽冠軍
+【发布时间】2026-07-19T07:57:26.000Z
+【链接】https://sports.ltn.com.tw/news/breakingnews/5510504
+
+------------------------------
+
+6. 陰道口腫塊竟是骨盆腔器官脫垂 75歲婦求診解惑
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】75歲林姓婦人最近發現陰道口摸到1個腫塊，排尿常有解不乾淨的感覺，到成大醫院婦產部檢查診斷是「骨盆腔器官脫垂」，婦人詢問「如要開刀，是否一定切除子宮？」婦產部醫師許瑋倫說...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】陰道口腫塊竟是骨盆腔器官脫垂 75歲婦求診解惑
+【发布时间】2026-07-19T07:56:16.000Z
+【链接】https://health.ltn.com.tw/article/breakingnews/5510491
+
+------------------------------
+
+7. 世足》泰國人氣侏儒河馬「彈跳豬」 預測阿根廷蟬聯冠軍
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】2026世界盃足球賽冠軍戰即將開踢，各國球迷熱議獎落誰家。風靡全球的泰國侏儒河馬「彈跳豬」（Moo Deng）也搭上世界盃熱潮，昨（18）日預測誰會是本屆世界盃的冠軍時，在大批遊...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】世足》泰國人氣侏儒河馬「彈跳豬」 預測阿根廷蟬聯冠軍
+【发布时间】2026-07-19T07:55:10.000Z
+【链接】https://news.ltn.com.tw/news/world/breakingnews/5510438
+
+------------------------------
+
+8. 「今年超了沒」全台腹超篩檢 彰化場6成民眾有脂肪肝
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】為喚起國人對肝臟健康的重視，肝病防治學術基金會連續第六年舉辦「今年超了沒」免費腹部超音波檢查活動，今（19）日於全國31家醫院同步登場。彰化場次在衛生福利部彰化醫院舉行，...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】「今年超了沒」全台腹超篩檢 彰化場6成民眾有脂肪肝
+【发布时间】2026-07-19T07:54:37.000Z
+【链接】https://health.ltn.com.tw/article/breakingnews/5510476
+
+------------------------------
+
+9. 太幸運！台中10歲女童跌出4樓窗戶 2樓防護網接住她
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】台中北屯一名10歲女童，今天上午10點多，不知何故從家中4樓的窗戶墜落，剛好掉在社區2樓架設的防護網上，社區住戶發現趕緊報案，台中市消防局獲報派人到場搶救，發現女童僅身體多處擦...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】太幸運！台中10歲女童跌出4樓窗戶 2樓防護網接住她
+【发布时间】2026-07-19T07:52:02.000Z
+【链接】https://news.ltn.com.tw/news/society/breakingnews/5510493
+
+------------------------------
+
+10. 北市調查官失聯陳屍辦公室 斷層掃描釐清死因
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】調查局台北市調查處60歲金姓調查官前天（17日）失聯1天1夜未返家，昨天（18日）被同事發現坐在基隆路二段的辦公室椅子身亡，經轄區大安分局警方勘驗，已排除有外力介入，而檢警今相...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】北市調查官失聯陳屍辦公室 斷層掃描釐清死因
+【发布时间】2026-07-19T07:48:29.000Z
+【链接】https://news.ltn.com.tw/news/society/breakingnews/5510484
+
+------------------------------
+
+11. 台南寵物同樂會變裝走秀 寵物雞也來逗鬧熱
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】阿嬤妳看寵物市集開市熱鬧登場，寵物走秀成為亮點，不只犬、貓，就連寵物雞也來逗熱鬧。
+台南市北區振興社區發展協會、台南市議會議長邱莉莉合辦的「115年防暴婦幼宣導暨友善寵物同樂...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】台南寵物同樂會變裝走秀 寵物雞也來逗鬧熱
+【发布时间】2026-07-19T07:47:35.000Z
+【链接】https://news.ltn.com.tw/news/life/breakingnews/5510492
+
+------------------------------
+
+12. 日本高齡駕駛釀禍！ 7旬翁開車把女國中生撞進超商
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】老人開車真的要注意！日本滋賀縣守山市水保町的勞森便利商店，18日下午1時30分許有1名70歲老翁開車把女國中生撞入店內，所幸學生沒有生命危險。
+
+據《TBS》報導，警方透露，...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】日本高齡駕駛釀禍！ 7旬翁開車把女國中生撞進超商
+【发布时间】2026-07-19T07:44:02.000Z
+【链接】https://news.ltn.com.tw/news/world/breakingnews/5510466
+
+------------------------------
+
+13. 偷美技術慘被抓包！中國AI模型Kimi K3宣稱自己是Claude
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】〔財經頻道／綜合報導〕中國新創公司「月之暗面」（Moonshot AI）發布最新AI模型Kimi K3，傳出技術水準似已縮小與資本雄厚的美國競爭對手間差距，卻被抓包在對話中竟回答：「我是Clau...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】偷美技術慘被抓包！中國AI模型Kimi K3宣稱自己是Claude
+【发布时间】2026-07-19T07:43:32.000Z
+【链接】https://ec.ltn.com.tw/article/breakingnews/5510465
+
+------------------------------
+
+14. A-Lin不忍了！師妹助陣忘退場「以為是升降」 狂虧：自己下台啦
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】金曲歌后A-Lin日前雙喜臨門，零負評完成「金曲37」主持人大任，更以《幸福在歌唱》勇奪年度歌曲獎，17日起一連三天在北京舉辦《A-Lin Journey 歌跡 世界巡迴演唱會...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】A-Lin不忍了！師妹助陣忘退場「以為是升降」 狂虧：自己下台啦
+【发布时间】2026-07-19T07:43:01.000Z
+【链接】https://ent.ltn.com.tw/news/breakingnews/5510483
+
+------------------------------
+
+15. 陳世軒新莊辦水樂園與親子同歡消暑 黃國昌扮大魔王慘被水槍攻擊
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】新北市議員陳世軒在新莊區中平國中舉辦「Jimmy搖滾水樂園」，民眾黨主席黃國昌今早也參加活動，親子玩水同樂，2人擔任大魔王，與小朋友們展開水槍大戰，卻被孩子拿著水槍追著跑，眾人...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】陳世軒新莊辦水樂園與親子同歡消暑 黃國昌扮大魔王慘被水槍攻擊
+【发布时间】2026-07-19T07:41:07.000Z
+【链接】https://news.ltn.com.tw/news/politics/breakingnews/5510419
+
+------------------------------
+
+16. 黑嘉嘉是親姪女？江宏恩親揭26年都市傳說「誤會大了」 1鐵證打臉傳聞
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】32歲「圍棋女神」黑嘉嘉近日被挖出童年時曾跟著江宏恩上節目，還曾以「叔叔」相稱，外界因此瘋傳兩人有親戚關係。江宏恩今（19日）出席健康論壇，親自解開這個流傳26年的「都市...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】黑嘉嘉是親姪女？江宏恩親揭26年都市傳說「誤會大了」 1鐵證打臉傳聞
+【发布时间】2026-07-19T07:41:02.000Z
+【链接】https://ent.ltn.com.tw/news/breakingnews/5510464
+
+------------------------------
+
+17. 7月19日至25日生肖運勢曝光 這3天大吉、2天要特別小心
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】〔娛樂頻道／綜合報導〕臉書粉絲專頁《興趣使然的解籤師》分享2026年7月19至25日12生肖運勢籤詩，籤詩乃心意相傳，因此解籤不只是看籤詩說故事，更是與神明締結因緣，籤詩看「勢」不看「人」，吉籤...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】7月19日至25日生肖運勢曝光 這3天大吉、2天要特別小心
+【发布时间】2026-07-19T07:40:16.000Z
+【链接】https://ent.ltn.com.tw/news/breakingnews/5510487
+
+------------------------------
+
+18. 彰化男搭訕襲胸逼到牆角 被罵「肖豬哥」成定罪關鍵
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】彰化縣林姓男子騎腳踏車外出，見同村一名女子獨自散步，竟突然伸手抓握女子胸部，女子奮力反抗，還拿走林男口袋內的手機敲打其手部，才得以掙脫；林男否認猥褻，辯稱因女子罵他「肖豬哥」，...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】彰化男搭訕襲胸逼到牆角 被罵「肖豬哥」成定罪關鍵
+【发布时间】2026-07-19T07:39:29.000Z
+【链接】https://news.ltn.com.tw/news/society/breakingnews/5510478
+
+------------------------------
+
+19. 「台灣變富強，中國手伸越長！」 卓榮泰誓言保護國人與外國人安全
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】民進黨今日舉行全國黨代表大會，行政院長卓榮泰致詞時提及，台灣去年創造了8.76%的經濟成長率舉世矚目，台灣變得更富強，中國的手伸得越長。面對中共軍艦侵擾、阻撓我國總統出訪、通過...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】「台灣變富強，中國手伸越長！」 卓榮泰誓言保護國人與外國人安全
+【发布时间】2026-07-19T07:36:16.000Z
+【链接】https://news.ltn.com.tw/news/politics/breakingnews/5510440
+
+------------------------------
+
+20. 柯志恩支持上街頭抗議食安 尹立：藍白國會多數卻要人民曬太陽？
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】國民黨高雄市長參選人柯志恩認同上街頭抗議食安問題，民進黨高市議員參選人尹立質疑手握國會多數、卻要人民上街曬太陽？這不是為解決食安，是「高度的政治動員」。
+
+尹立指出，看到柯...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】柯志恩支持上街頭抗議食安 尹立：藍白國會多數卻要人民曬太陽？
+【发布时间】2026-07-19T07:31:36.000Z
+【链接】https://news.ltn.com.tw/news/politics/breakingnews/5510463
+
+------------------------------
+
+21. 率19縣市長戰將拚勝！賴清德頒3「軍令」：新世代扛新時代
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】民進黨全國黨員代表大會今天（19日）登場，總統兼黨主席賴清德率19位縣市長參選人同台造勢，吹響2026熱戰號角。賴清德強調，民進黨秉持3大原則全力爭取人民的支持，一是新世代扛起...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】率19縣市長戰將拚勝！賴清德頒3「軍令」：新世代扛新時代
+【发布时间】2026-07-19T07:30:09.000Z
+【链接】https://news.ltn.com.tw/news/politics/breakingnews/5510474
+
+------------------------------
+
+22. 中職明星賽》在大巨蛋打擊練習開轟 李超：很爽啊！
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】味全龍投手李超今天要參加戰技挑戰賽連連看打擊戰，賽前特地進打擊區練習打擊，竟然一棒把球轟出全壘打牆，讓台灣隊教練與隊友驚呼連連，他也開心地說：「雖然只是練習，能在台北大巨...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】中職明星賽》在大巨蛋打擊練習開轟 李超：很爽啊！
+【发布时间】2026-07-19T07:27:52.000Z
+【链接】https://sports.ltn.com.tw/news/breakingnews/5510477
+
+------------------------------
+
+23. 《成語不只是四個字》走進生活 陳育慧推廣親子共讀
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】教育工作者陳育慧《成語不只是四個字》新書發表會，今天下午2點在新竹縣文化局演藝廳，集結了百位家長與孩子齊聚共讀，透過小作家聯展、老照片說故事及新書分享，陳育慧希望推廣成語從課本...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】《成語不只是四個字》走進生活 陳育慧推廣親子共讀
+【发布时间】2026-07-19T07:25:48.000Z
+【链接】https://news.ltn.com.tw/news/life/breakingnews/5510453
+
+------------------------------
+
+24. 文化預算亂刪忍無可忍 畫協4點呼籲全踩翁曉玲盲點
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】國民黨立委翁曉玲在立院2輪提案中，針對文化部砍光媒宣費4738萬元，並加碼刪減業務、人事、行政運作、設備與獎補助經費等30餘項預算，減列金額總數逾10億元。文化部認為此舉...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】文化預算亂刪忍無可忍 畫協4點呼籲全踩翁曉玲盲點
+【发布时间】2026-07-19T07:23:46.000Z
+【链接】https://news.ltn.com.tw/news/art/breakingnews/5510475
+
+------------------------------
+
+25. 預告「食安法」大修法！ 卓榮泰：明公布食用油全面檢驗報告
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】中聯致癌油風波，民進黨今日舉行全國黨代表大會，行政院長卓榮泰致詞時預告，「食安法」修法將會在明天向國人做清楚報告，將明確中央與地方的權限、未來通報機關的各種即時責任跟義務；市面...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】預告「食安法」大修法！ 卓榮泰：明公布食用油全面檢驗報告
+【发布时间】2026-07-19T07:22:10.000Z
+【链接】https://news.ltn.com.tw/news/politics/breakingnews/5510452
+
+------------------------------
+
+26. 世足》從梅西到貝林漢姆 美媒盤點本屆11組12大好球
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】本屆世界盃擴軍至48隊，賽事總數增至史上最多的104場；在明天冠軍戰登場前，進球數也已累積至歷屆新高的307球，其中英格蘭、法國各攻進20球，阿根廷則有19球。美媒《Ya...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】世足》從梅西到貝林漢姆 美媒盤點本屆11組12大好球
+【发布时间】2026-07-19T07:21:51.000Z
+【链接】https://sports.ltn.com.tw/news/breakingnews/5510469
+
+------------------------------
+
+27. 竹市名產其他縣市驗出毒 議員：市府「慢7週」早被吃下肚
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】新竹市的農耕牌炊粉含甲醛，由台南市府5月底抽驗到通知新竹市衛生局，而去年知名品牌花生醬含黃麴毒素，同樣是先由台北市及桃園市驗出來，市議員廖子齊說，米粉及花生醬是竹市2項重要的代...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】竹市名產其他縣市驗出毒 議員：市府「慢7週」早被吃下肚
+【发布时间】2026-07-19T07:21:08.000Z
+【链接】https://news.ltn.com.tw/news/life/breakingnews/5510451
+
+------------------------------
+
+28. 中職明星賽》巧打能力展現！富邦江國豪拿下「連連看打擊戰」冠軍
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】明星賽正賽前，首次舉辦的「連連看打擊戰」，4位投手輪番上陣展現打擊能力，最終，富邦悍將江國豪完成4條連線，帶走冠軍。
+
+將內、外野區域規劃為9宮格目標區，選手透過打擊將...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】中職明星賽》巧打能力展現！富邦江國豪拿下「連連看打擊戰」冠軍
+【发布时间】2026-07-19T07:19:28.000Z
+【链接】https://sports.ltn.com.tw/news/breakingnews/5510467
+
+------------------------------
+
+29. 國軍聯合防禦操演一次回顧！ 軍民互助、跨區增援、反資情操演成亮點
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】國軍首度舉行的「聯合防禦操演」在上周落幕，這場5天4夜的仿真練兵，出現了部分以往較少曝光的演訓內容。例如，國軍戰甲車開進民間加油站、榮民之家協助收治傷兵，駐守東台灣的部隊前推到...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】國軍聯合防禦操演一次回顧！ 軍民互助、跨區增援、反資情操演成亮點
+【发布时间】2026-07-19T07:18:16.000Z
+【链接】https://news.ltn.com.tw/news/def/breakingnews/5510468
+
+------------------------------
+
+30. 健康網》情侶、夫妻永遠吵一樣的事 諮商師提建議
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】〔健康頻道／綜合報導〕看過台劇《欠妳的那場婚禮》後，也許不少人在劇中看到自己與伴侶吵架的樣貌，對現在的感情與婚姻，有很大的共鳴。心理諮商師在臉書粉專「象家園心理諮商所」表示，很多人來談伴侶關係時...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】健康網》情侶、夫妻永遠吵一樣的事 諮商師提建議
+【发布时间】2026-07-19T07:18:00.000Z
+【链接】https://health.ltn.com.tw/article/breakingnews/5502103
+
+------------------------------
+
+31. 高雄大港閱冰首日逾2萬人潮 49家冰品美食攤今還有一天！
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】高雄大港閱冰週六開場，舒爽天氣吸引逾兩萬人潮湧入，觀光局官員指出，沒有太陽的下午吃冰更暢快，市長陳其邁形容，夏天吃冰是最愉快的事情，今還有一天、歡迎大家把握機會。
+
+陳其邁...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】高雄大港閱冰首日逾2萬人潮 49家冰品美食攤今還有一天！
+【发布时间】2026-07-19T07:18:00.000Z
+【链接】https://news.ltn.com.tw/news/life/breakingnews/5510454
+
+------------------------------
+
+32. Nissan 主力掀背車明年推新一代車型！油耗上看每公升 30 公里
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】擔任 Nissan 入門掀背的 Note 最快明年就會迎來大改款，日媒指出將導入類似於 Elgrand 的設計語彙，身形上更寬讓視覺更具氣勢，同時換上第三代 e-Power 系統，排氣量從 1.2 升增加至 1.4 升，車內則預期導入雙螢幕的科技座艙。…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】Nissan 主力掀背車明年推新一代車型！油耗上看每公升 30 公里
+【发布时间】2026-07-19T07:15:00.000Z
+【链接】https://auto.ltn.com.tw/news/32365
+
+------------------------------
+
+33. 嘉義太保市拍板「肥料補助每公頃4千」 克服預算僵局正式上路
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】為減輕農民生產成本負擔，嘉義縣太保市公所今（19）日宣布推動全國首創的「農民肥料補助措施」，凡符合資格的太保市農民，每年每公頃最高可獲得4000元的補助。
+
+太保市長鄭淑分...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】嘉義太保市拍板「肥料補助每公頃4千」 克服預算僵局正式上路
+【发布时间】2026-07-19T07:14:58.000Z
+【链接】https://news.ltn.com.tw/news/life/breakingnews/5510458
+
+------------------------------
+
+34. 「厭女祖師爺」兄弟檔在美落網 涉性侵、人口販運、兒童不雅照
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】擁有千萬粉絲、被視為「極端厭女網紅祖師爺」的安德魯‧泰特（Andrew Tate）與胞弟崔斯坦‧泰特（Tristan Tate），18日在美國邁阿密落網。兄弟兩人涉及性侵、人口...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】「厭女祖師爺」兄弟檔在美落網 涉性侵、人口販運、兒童不雅照
+【发布时间】2026-07-19T07:11:44.000Z
+【链接】https://news.ltn.com.tw/news/world/breakingnews/5510443
+
+------------------------------
+
+35. 反對紅色恐怖威脅！ 賴清德：絕不讓民主台灣變「中國台灣」
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】民進黨今（19日）召開第22屆第1次全國黨員代表大會，訴求「台灣好生活，團結拚未來」主軸。兼任黨主席的總統賴清德強調，民進黨反對中國「紅色恐怖」對台灣社會的威脅，守護民主自由的...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】反對紅色恐怖威脅！ 賴清德：絕不讓民主台灣變「中國台灣」
+【发布时间】2026-07-19T07:10:28.000Z
+【链接】https://news.ltn.com.tw/news/politics/breakingnews/5510450
+
+------------------------------
+
+36. 潘孟安被問致癌油手揮開記者 林沛祥：解決不了毒油就用手肘解決記者？
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】針對總統府秘書長潘孟安今日遭電視台記者追問「中聯致癌油案」時以手臂揮開記者一事，國民黨團書記長林沛祥痛批，潘孟安面對媒體中性詢問總統對毒油事件與群眾上街的看法，不僅傲慢拒答，竟...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】潘孟安被問致癌油手揮開記者 林沛祥：解決不了毒油就用手肘解決記者？
+【发布时间】2026-07-19T07:07:21.000Z
+【链接】https://news.ltn.com.tw/news/politics/breakingnews/5510444
+
+------------------------------
+
+37. 歐洲跑透透！ 林佳龍今證實上月曾密訪德國
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】外交部長林佳龍上月下旬率團訪問波蘭。除了波蘭之外，林佳龍今（19）日首度透過臉書證實，上月也曾訪問德國，參訪柏林圍牆、霍恩舍豪森紀念館（Hohenschönhausen）等地。...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】歐洲跑透透！ 林佳龍今證實上月曾密訪德國
+【发布时间】2026-07-19T07:06:32.000Z
+【链接】https://news.ltn.com.tw/news/politics/breakingnews/5510446
+
+------------------------------
+
+38. 被台灣狠甩！韓人均GDP將破4萬美元 韓媒仍悲嘆「 韓台差距再擴大」
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】〔財經頻道／綜合報導〕南韓今年人均國內生產毛額（GDP）預估可達3萬9164美元，創下近5年最大增幅，距離正式突破4萬美元大關僅一步之遙。不過，韓媒關注同樣受惠於全球半導體景氣熱潮的台灣，預估今...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】被台灣狠甩！韓人均GDP將破4萬美元 韓媒仍悲嘆「 韓台差距再擴大」
+【发布时间】2026-07-19T07:05:14.000Z
+【链接】https://ec.ltn.com.tw/article/breakingnews/5510398
+
+------------------------------
+
+39. 宣明智傳術後進加護觀察 林碩彥：2天前才通話、盼外界不打擾
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】​聯電榮譽副董事長宣明智傳出因病手術、目前轉入加護病房觀察的消息，曾是竹科聯電製程整合工程師背景的新竹縣議員林碩彥表示，兩天前才與宣董通話請益，今日獲悉消息後第一時間表達深切關...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】宣明智傳術後進加護觀察 林碩彥：2天前才通話、盼外界不打擾
+【发布时间】2026-07-19T07:04:38.000Z
+【链接】https://news.ltn.com.tw/news/politics/breakingnews/5510439
+
+------------------------------
+
+40. 雲林這間廟爆紅！每週日免費供平安餐 3年吸引逾500人接力贊助
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】雲林縣元長鄉近期出現1處熱門景點，位在鹿北村武安洲廟，每週日固定免費平安午餐讓民眾享用，經由各大網紅介紹，成為不少遊客造訪之地。廟方主委陳健忠指出，此項行動源自照顧當地弱勢長輩...…
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 16994 (line 2 column 1)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】雲林這間廟爆紅！每週日免費供平安餐 3年吸引逾500人接力贊助
+【发布时间】2026-07-19T07:03:49.000Z
+【链接】https://news.ltn.com.tw/news/life/breakingnews/5510442
