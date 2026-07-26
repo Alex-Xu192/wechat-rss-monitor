@@ -1,0 +1,90 @@
+Zaobao World - 中文结构化新闻汇总
+
+【来源】Zaobao World
+【时间】2026-07-26T12:15:30.674Z - 2026-07-26T14:15:30.674Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 马斯克谈AI风险：无法阻挡 不如享受这段旅程
+2. 以军空袭加沙中部 哈马斯高级安全官员身亡
+3. 韩国5月旅行收入超支出 顺差逾2亿美元
+4. 伊朗称油轮在霍尔木兹海峡触雷爆炸
+5. 日本英国意大利共同开发下一代战机
+
+==============================
+
+1. 马斯克谈AI风险：无法阻挡 不如享受这段旅程
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】在人工智能（AI）快速发展、失控风险引发关注之际，美国企业家马斯克说，人们应该“享受这段旅程”。他认为，AI和机器人技术最可能带来的结果，是让所有人进入一个物质极度充裕的时代。
+英国广播公司（BBC）报道，马斯克接受《经济学人》访问时说，他过去也担心AI会威胁人类，但最后选择“往好处看”。他说，技术发展太快，“即使我想阻止，也阻止不了”。
+这次访问是在OpenAI披露安全测试事故前一天录制的。OpenAI星期二（7月21日）说，部分先进模型在测试期间突破限制，并入侵一家初创企业，引发外界担心AI系统可能偏离人类目标。但也有人认为，准备上市的OpenAI是在刻意强调模型能力。
+马斯克说，随着OpenAI和Anthropic等竞争者加快研发，“所有道路似乎都通向AI加速发展”。面对这种趋势，人们要么感到沮丧，要么选择加入。他还预测，科技将大幅提高生产力，十年后金钱可能不再那么重要。
+这次访问也谈到马斯克介入欧洲政治，以及被指支持极右翼立场等争议。他否认自己有种族歧视，称旗下企业高层来自不同族群。但被问到是否反穆斯林时，他说，他反对那些持有与西方社会价值观相冲突观念的人进入相关国家。
+对于外界的评价，马斯克承认有些人讨厌他，但称并不在意。他以社交媒体平台X上拥有近2亿5000万名追随者为例，认为喜欢他的人仍多过讨厌他的人。
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 44 (line 1 column 45)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】马斯克谈AI风险：无法阻挡 不如享受这段旅程
+【发布时间】2026-07-26T13:20:09.000Z
+【链接】https://www.zaobao.com/news/world/story20260726-9423518
+
+------------------------------
+
+2. 以军空袭加沙中部 哈马斯高级安全官员身亡
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】以色列星期天（7月26日）空袭加沙地带中部代尔拜拉赫一辆汽车，造成哈马斯控制的巴勒斯坦内部安全部门一名高级官员及一名同僚身亡。
+路透社报道，加沙医务人员和哈马斯控制的内政部说，死者包括负责加沙中部内部安全事务的上校莱达维，以及少校阿布兹赖克。
+以色列军方证实曾发动空袭，称目标是一名哈马斯武装人员，但没有透露更多细节。
+近几个月来，以军已打死数十名哈马斯领导的警察部队成员，包括多名高级官员。以方指其中不少人同时隶属于哈马斯武装派别，并对以色列和驻加沙以军构成迫切威胁。
+哈马斯则指，以军袭击警察部队及相关总部，目的是在加沙制造混乱，也违反美国斡旋达成的去年10月停火协议。
+停火协议虽结束大规模交战，但加沙几乎每天仍传出以军袭击。加沙卫生官员说，停火生效以来，已有超过1190名巴勒斯坦人被以军打死，多数为平民；同期也有四名以色列士兵在加沙遭武装人员袭击身亡。
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 44 (line 1 column 45)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】以军空袭加沙中部 哈马斯高级安全官员身亡
+【发布时间】2026-07-26T13:07:33.000Z
+【链接】https://www.zaobao.com/news/world/story20260726-9423122
+
+------------------------------
+
+3. 韩国5月旅行收入超支出 顺差逾2亿美元
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】韩国旅游发展局星期天（7月26日）发布的数据显示，韩国今年5月旅行收支实现2亿2050万美元（约2亿8459万新元）顺差，连续三个月保持顺差。想、
+韩联社报道，韩国旅行收支曾长期承压。自2020年3月至今年2月，旅行收支连续72个月出现逆差，其中2024年2月逆差规模一度扩大至13亿3920万美元。今年3月起，旅行收支转为顺差，并延续至5月。
+数据显示，韩国5月旅行收入为25亿7720万美元，旅行支出为23亿5670万美元。访韩外国人人均支出为1324美元，高于韩国居民境外人均支出的1007美元。
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 44 (line 1 column 45)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】韩国5月旅行收入超支出 顺差逾2亿美元
+【发布时间】2026-07-26T13:01:34.000Z
+【链接】https://www.zaobao.com/news/world/story20260726-9422310
+
+------------------------------
+
+4. 伊朗称油轮在霍尔木兹海峡触雷爆炸
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】伊朗媒体报道，一艘在霍尔木兹海峡偏离伊朗指定航线的油轮星期天（7月26日）触雷爆炸。
+伊朗伊斯兰革命卫队海军说，伊方已加强对波斯湾和霍尔木兹海峡水域的管控，过去24小时内有六艘船只在收到伊方警告后抛锚，并接受伊方的航行管制指令。
+新华社引述伊朗塔斯尼姆通讯社报道，声明指出，伊方持续对波斯湾和霍尔木兹海峡约24万平方公里海域实施监控，任何船只若不遵守伊方制定的航行秩序和规定，将无法通过相关水域。
+声明还称，美军曾试图改变部分船只航线，但相关行动遭到伊方警告射击，涉事船只被迫返回。
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 44 (line 1 column 45)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】伊朗称油轮在霍尔木兹海峡触雷爆炸
+【发布时间】2026-07-26T12:30:37.000Z
+【链接】https://www.zaobao.com/news/world/story20260726-9423377
+
+------------------------------
+
+5. 日本英国意大利共同开发下一代战机
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】日本、英国和意大利共同推进的下一代战机开发计划“全球战斗航空计划”（GCAP），目前正协调把爱知县丰山町的三菱重工业小牧南工厂作为日本生产基地。
+共同社报道，多名相关人士透露，小牧南工厂有望负责机体组装的核心工作。
+小牧南工厂此前曾组装日本航空自卫队主力战机F-35A，具备相关技术和生产经验。不过，三国目前仍在商讨设计和制造分工，英国和意大利的生产基地也可能承担部分关键组装工序。
+三菱重工2023年2月宣布退出日本首款国产喷气式客机“SpaceJet”（原MRJ）开发后，把下一代战机项目列为重点工程。此前参与SpaceJet开发的技术人员也已被调到相关岗位，继续发挥专长。
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 44 (line 1 column 45)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】日本英国意大利共同开发下一代战机
+【发布时间】2026-07-26T12:20:57.000Z
+【链接】https://www.zaobao.com/news/world/story20260726-9423134
