@@ -1,0 +1,56 @@
+Zaobao World - 中文结构化新闻汇总
+
+【来源】Zaobao World
+【时间】2026-07-27T06:15:24.937Z - 2026-07-27T08:15:24.937Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 日本作家东野圭吾去世
+2. 伊朗革命卫队在霍尔木兹海峡遣返六艘船只
+3. 尹锡悦涉嫌违反公职选举法案 判监一年六个月缓刑三年
+
+==============================
+
+1. 日本作家东野圭吾去世
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】共同社星期一（7月27日）报道，日本畅销书作家东野圭吾于7月23日因大肠癌去世，享年68岁。
+东野圭吾于1958年出生于大阪府，是知名的推理小说家。东野圭吾著有《嫌疑人X的献身》、《白夜行》等众多畅销小说，在日本国内外广受欢迎。
+东野圭吾早期以校园推理起家，并以缜密细致的剧情布局获得“写实本格派”美名。后期他的创作逐渐突破传统推理的框架，同时作品亦能兼具文学和娱乐。由于本身具有理工基础，东野圭吾曾表示受到想活用科学知识的念头驱使而写出科学推理系列。
+东野圭吾的作品也颇受影视界青睐，绝大多数长篇作品皆被改编成电影、电视剧或舞台剧，短篇作品集几乎都有漫画之改编。
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 528 (line 1 column 529)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】日本作家东野圭吾去世
+【发布时间】2026-07-27T07:38:43.000Z
+【链接】https://www.zaobao.com/news/world/story20260727-9426583
+
+------------------------------
+
+2. 伊朗革命卫队在霍尔木兹海峡遣返六艘船只
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】伊朗国家电视台报道，伊朗革命卫队海军拦截六艘在霍尔木兹海峡航行的船只，因为这些船只使用未经伊朗当局批准的航线。
+法新社报道，伊朗国家电视台记者星期一（7月27日）从海湾地区报道称：“昨晚（26日），六艘试图经由非指定航线通过的船只，被革命卫队海军鸣枪示警后拦截并遣返。”
+此前，国家电视台称，有一艘船只卷入一起“事件”，但未作详细说明。
+革命卫队星期六（25日）说，他们在鸣枪示警后，拦截四艘试图通过霍尔木兹海峡南部海域的船只。
+自2月底中东战争爆发以来，伊朗实际上已经封锁霍尔木兹海峡。
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 528 (line 1 column 529)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】伊朗革命卫队在霍尔木兹海峡遣返六艘船只
+【发布时间】2026-07-27T07:28:03.000Z
+【链接】https://www.zaobao.com/news/world/story20260727-9426481
+
+------------------------------
+
+3. 尹锡悦涉嫌违反公职选举法案 判监一年六个月缓刑三年
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】韩国前总统尹锡悦涉嫌违反《公职选举法》案作出一审判决，判处尹锡悦有期徒刑一年六个月，缓刑三年。
+新华社报道，当地法院星期一（7月27日）作出上述裁决。
+按照韩国《公职选举法》，如果候选人因为违反选举法，最终被判坐牢或被罚款超过100万韩元（约880新元），他的当选资格就会被取消，而且还要把之前从中央选举管理委员会拿到的竞选补贴退回去。如果是总统选举，而且候选人是由政党提名的，那这笔钱就要由提名他的政党来负责归还。
+若尹锡悦在本案终审中被判处有期徒刑或100万韩元以上罚金，最大在野党国民力量党须向中央选举管理委员会返还当时获补偿的竞选费用等共计397亿韩元。
+【依据】AI 结构化失败，未做股票判断。{"error":"Failed to parse tool arguments from chat model response. Text: \"[]\". SyntaxError: Expected ',' or '}' after property value in JSON at position 528 (line 1 column 529)\n\nTroubleshooting URL: https://docs.langchain.com/oss/javascript/langchain/errors/OUTPUT_PARSING_FAILURE/\n"}
+【原标题】尹锡悦涉嫌违反公职选举法案 判监一年六个月缓刑三年
+【发布时间】2026-07-27T06:35:48.000Z
+【链接】https://www.zaobao.com/news/world/story20260727-9425924
