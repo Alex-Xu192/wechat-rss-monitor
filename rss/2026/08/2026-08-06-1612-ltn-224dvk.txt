@@ -1,0 +1,20 @@
+LTN - 中文结构化新闻汇总
+
+【来源】LTN
+【时间】2026-08-06T06:12:07.407Z - 2026-08-06T08:12:07.407Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. 黃仁勳深夜X發文推自駕開源模型，11天內三則貼文組成一套「開放AI」組合拳
+
+==============================
+
+1. 黃仁勳深夜X發文推自駕開源模型，11天內三則貼文組成一套「開放AI」組合拳
+【相关股票】NVDA
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】輝達黃仁勳8月4日深夜在X推出自駕開源模型Alpamayo 2 Super，喊出AI下一波是機器人。這是他11天內第三則貼文、全繞開源。一個幾乎不發社群的人，為何把重大消息押在X？
+【依据】The article reports that Jensen Huang posted about an open-source autonomous driving model on X, which is related to Nvidia (輝達). This may affect Nvidia's competitive position in AI and autonomous driving technologies, but the impact is uncertain.
+【原标题】黃仁勳深夜X發文推自駕開源模型，11天內三則貼文組成一套「開放AI」組合拳
+【发布时间】2026-08-06T07:55:00.000Z
+【链接】https://www.thenewslens.com/article/269531
