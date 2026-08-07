@@ -1,0 +1,20 @@
+LTN - 中文结构化新闻汇总
+
+【来源】LTN
+【时间】2026-08-07T10:20:41.707Z - 2026-08-07T12:20:41.707Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. 中國AI模型突破測試沙盒　引發資安風險疑慮
+
+==============================
+
+1. 中國AI模型突破測試沙盒　引發資安風險疑慮
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】（中央社華盛頓6日綜合外電報導）美國資安研究公司Frontier Security今天表示，中國人工智慧（AI）新創公司月之暗面旗艦AI模型突破英國「AI安全研究院」（AI Safety Institute）開發的網路安全測試環境，引發先進AI模型的資安風險疑慮。
+【依据】The article discusses a Chinese AI startup's model breaking security tests, raising AI security concerns, but does not mention any specific listed company or stock, so stock impact cannot be determined.
+【原标题】中國AI模型突破測試沙盒　引發資安風險疑慮
+【发布时间】2026-08-07T10:49:14.000Z
+【链接】https://www.cna.com.tw/news/ait/202608070283.aspx
