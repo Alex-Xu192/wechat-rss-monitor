@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RSS Source 最近 2 小时新闻摘要</title>
+  <style>
+    body { margin: 0; padding: 0; background: #f3f5f7; color: #1f2933; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", Arial, sans-serif; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 28px 18px 48px; }
+    .header { background: #ffffff; border: 1px solid #d9e2ec; border-radius: 8px; padding: 24px; margin-bottom: 18px; }
+    h1 { margin: 0 0 12px; font-size: 26px; line-height: 1.25; color: #102a43; }
+    .summary { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px; margin-top: 16px; }
+    .summary div { background: #f8fafc; border: 1px solid #e5eaf0; border-radius: 6px; padding: 10px 12px; font-size: 14px; }
+    .news-card { display: flex; gap: 14px; background: #ffffff; border: 1px solid #d9e2ec; border-radius: 8px; padding: 20px; margin: 16px 0; }
+    .article-index { flex: 0 0 34px; width: 34px; height: 34px; border-radius: 50%; background: #0f766e; color: #ffffff; display: flex; align-items: center; justify-content: center; font-weight: 700; }
+    .article-body { min-width: 0; flex: 1; }
+    h2 { margin: 0 0 6px; font-size: 21px; line-height: 1.35; color: #102a43; }
+    h3 { margin: 18px 0 8px; font-size: 16px; color: #334e68; border-left: 4px solid #0f766e; padding-left: 8px; }
+    .meta { color: #627d98; font-size: 13px; margin-bottom: 10px; }
+    p { margin: 8px 0; }
+    ul { margin: 8px 0 0; padding-left: 22px; }
+    li { margin: 4px 0; }
+    .stock-list { border-radius: 6px; padding: 10px 12px 10px 30px; }
+    .related { background: #eef2ff; }
+    .positive { background: #ecfdf5; }
+    .negative { background: #fff1f2; }
+    .source-block { border-top: 1px solid #e5eaf0; margin-top: 18px; padding-top: 4px; }
+    a { color: #0f766e; word-break: break-all; }
+    @media (max-width: 640px) { .container { padding: 14px 10px 32px; } .news-card { display: block; padding: 16px; } .article-index { margin-bottom: 10px; } h1 { font-size: 22px; } h2 { font-size: 18px; } }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <header class="header">
+      <h1>RSS Source 最近 2 小时新闻摘要</h1>
+      <div class="summary">
+        <div><strong>来源</strong><br>RSS Source</div>
+        <div><strong>时间窗口</strong><br>2026-06-16T04:13:50.358Z<br>2026-06-16T06:13:50.358Z</div>
+        <div><strong>新闻数量</strong><br>1</div>
+      </div>
+    </header>
+    
+    <article class="news-card">
+      <div class="article-index">1</div>
+      <div class="article-body">
+        <h2>被禁书籍图书馆</h2>
+        <div class="meta">发布时间：2026-06-16T04:40:08.000Z</div>
+
+        <section>
+          <h3>和哪些股票相关？</h3>
+          <ul class="stock-list related"><li>无法判断</li></ul>
+        </section>
+
+        <section>
+          <h3>利好哪些股票？</h3>
+          <ul class="stock-list positive"><li>无法判断</li></ul>
+        </section>
+
+        <section>
+          <h3>利空哪些股票？</h3>
+          <ul class="stock-list negative"><li>无法判断</li></ul>
+        </section>
+
+        <section>
+          <h3>中文摘要</h3>
+          <p>一个将Wi‑Fi智能灯泡改造成隐藏接入点以托管被禁书数字副本的DIY 项目。帖子介绍了硬件拆解、ESP32-C3 固件实验、尝试添加存储，以及构建低成本数字秘密投递点的设计权衡。[richardosgood.com]</p>
+        </section>
+
+        <section>
+          <h3>判断依据</h3>
+          <p>新闻内容描述一个将Wi‑Fi智能灯泡改造成隐藏接入点以托管被禁书籍的DIY项目；未涉及具体公司、行业、商品、地区或政策，对股票方向无法判断。</p>
+        </section>
+
+        <section class="source-block">
+          <h3>原文信息</h3>
+          <p><strong>原标题：</strong>Banned Book Library</p>
+          <p><strong>链接：</strong><a href="https://flipso.com/p/19h70wfla?ref=rss">https://flipso.com/p/19h70wfla?ref=rss</a></p>
+        </section>
+      </div>
+    </article>
+  </main>
+</body>
+</html>
