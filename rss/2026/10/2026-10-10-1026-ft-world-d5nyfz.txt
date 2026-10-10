@@ -1,0 +1,20 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-10T00:26:05.892Z - 2026-10-10T02:26:05.892Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. Chinese camera rivals battle for dominance after GoPro’s decline
+
+==============================
+
+1. Chinese camera rivals battle for dominance after GoPro’s decline
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】DJI and Insta360 engaged in ‘civil war’ to become world’s top smart camera maker
+【依据】AI 结构化失败，未做股票判断。{"error":"Cannot read properties of undefined (reading 'message')"}
+【原标题】Chinese camera rivals battle for dominance after GoPro’s decline
+【发布时间】2026-10-10T01:00:03.000Z
+【链接】https://www.ft.com/content/b2730098-0767-401f-99b5-a53bd27bd659?syn-25a6b1a6=1
