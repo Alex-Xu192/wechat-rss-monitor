@@ -1,0 +1,46 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-10T18:11:11.131Z - 2026-10-10T20:11:11.131Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Abhijeet Dipke was escorted off a flight in New Delhi as authorities crack down on demonstrations
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Police arrest leader of India’s ‘Cockroach’ movement as protesters take to streets
+【发布时间】2026-10-10T18:37:00.000Z
+【链接】https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Fresh attack launched on Saudi Arabia as kingdom prepares to host investment summits
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Riyadh airport suspends operations after missile strike injures dozens
+【发布时间】2026-10-10T18:28:09.000Z
+【链接】https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Nvidia in talks to acquire US ‘open’ model start-up Reflection AI
+【发布时间】2026-10-10T18:14:28.000Z
+【链接】https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1
