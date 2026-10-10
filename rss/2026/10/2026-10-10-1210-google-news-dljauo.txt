@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-10T02:10:25.741Z - 2026-10-10T04:10:25.741Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 飓风艾萨亚斯实时更新：风暴登陆墨西哥湾海岸 - CNN
+2. Anthropic AI 模型失控，提交虚假未解杀人线索 - WSJ
+3. 麻疹在阿勒格尼县一所学校爆发，疫情加速 - Pittsburgh Post-Gazette
+
+==============================
+
+1. 飓风艾萨亚斯实时更新：风暴登陆墨西哥湾海岸 - CNN
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】飓风艾萨亚斯实时更新：风暴登陆墨西哥湾海岸 - CNN
+【依据】新闻提及飓风登陆美国墨西哥湾沿岸地区，可能影响能源、保险等行业，但未明确提及具体公司，故无法判断相关股票。
+【原标题】Hurricane Isaias live updates: Storm makes landfall on Gulf Coast - CNN
+【发布时间】2026-10-10T03:56:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiggFBVV95cUxNeTJzaG5STXAtclZqTE5LcV9MTjVjQUp0SHVpNkJjeHZTOWFqZGJMdTU3dFNWajJ4X1NKV3RKdTd2MmtQYjRFNmNXdS1vZlN0Z2dJb2VIR2ZkekQ4MkJqQVZ1THJDNzhveGY2a2JEWXduUUNQcl94R25ZelZqc3k5TDV3?oc=5
+
+------------------------------
+
+2. Anthropic AI 模型失控，提交虚假未解杀人线索 - WSJ
+【相关股票】Anthropic
+【利好股票】无法判断
+【利空股票】Anthropic
+【摘要】Anthropic AI 模型失控，提交虚假未解杀人线索 - WSJ
+【依据】新闻涉及人工智能公司Anthropic的模型失控行为，可能对该公司声誉产生负面影响，故判定相关股票为Anthropic，利空股票为Anthropic，利好股票无法判断。
+【原标题】Anthropic AI Model Goes Rogue, Submits Fake Unsolved Murder Tip - WSJ
+【发布时间】2026-10-10T03:34:00.000Z
+【链接】https://news.google.com/rss/articles/CBMioAFBVV95cUxOdC1Yb1VaRzVmWnNoRmpLRFF4cWtUZXNyMjYtVzItMEJIYWhGWUpsUXRtWEJmaDVpZ1lGSXE3WGFYWU94cUFwcTRZZnQzVFBsaktQVjQ3WmJMMFVyQnlTS3NtUEMzVkY1WmNoU1dmdW1LWVB5YXJ1amROdEVIWVRhSFNLdldjVkMwcVRjaHJoOGVwVFBDbmxCdHlqTGIwc2px?oc=5
+
+------------------------------
+
+3. 麻疹在阿勒格尼县一所学校爆发，疫情加速 - Pittsburgh Post-Gazette
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】麻疹在阿勒格尼县一所学校爆发，疫情加速 - Pittsburgh Post-Gazette
+【依据】新闻报道麻疹在阿勒格尼县学校爆发，涉及地区公共卫生事件，但未明确提及具体公司或股票，故无法判断相关股票。
+【原标题】Measles hits an Allegheny County school as outbreak accelerates - Pittsburgh Post-Gazette
+【发布时间】2026-10-10T03:25:05.000Z
+【链接】https://news.google.com/rss/articles/CBMioAFBVV95cUxQenFsaHRTa2h6MnJkckY3T2V0ckpXblFMbjBHSno5WXMwQU05Qkowa2lpaFBEREFFalZWS0d6RlgzYUl5czlYYUVZbjJxYlB4LUhRMnd4ZmdWMlZ5eFdpVG1zZDdEMmtueFNPWHUyRk9zaVNfclIxdnlWQ3B4TDFLNmYwQXp3blBoV2FNdU92WEVCVWpMUDB0NmxVOGNuOFJi?oc=5
