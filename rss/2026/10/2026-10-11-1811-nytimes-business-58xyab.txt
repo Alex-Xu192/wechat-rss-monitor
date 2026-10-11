@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-11T08:11:22.051Z - 2026-10-11T10:11:22.051Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 对顶灯具有传染性的厌恶
+2. 三个马克·扎克伯格，三个截然不同的男人
+3. 旧金山仍在推动将办公室转变为住宅
+
+==============================
+
+1. 对顶灯具有传染性的厌恶
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】此外：为了同事可以走多远，以及现在你有机会给某人提供建议。
+【依据】新闻未提及具体公司、股票或行业，无法判断相关股票。
+【原标题】A Contagious Aversion to Overhead Lights
+【发布时间】2026-10-11T09:01:32.000Z
+【链接】https://www.nytimes.com/2026/10/11/business/office-lighting-work-advice.html
+
+------------------------------
+
+2. 三个马克·扎克伯格，三个截然不同的男人
+【相关股票】META
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】杰里米·斯特朗在《社交reckoning》中，杰西·艾森伯格在《社交网络》中，以及真实的Meta高管都在扮演角色。但只有一人改变了他的方式。
+【依据】新闻涉及Meta（前身Facebook）及其创始人马克·扎克伯格，对应股票代码META；但未明确表示股票走势，故无法判断正面或负面影响。
+【原标题】Three Mark Zuckerbergs, Three Surprisingly Different Men
+【发布时间】2026-10-11T09:01:17.000Z
+【链接】https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html
+
+------------------------------
+
+3. 旧金山仍在推动将办公室转变为住宅
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】尽管城市希望满足住房需求并为空荡的市中心注入活力，但它尚未完成任何办公室转住宅的项目。
+【依据】新闻讨论的是旧金山的办公室转住房政策，未点名具体公司或股票，无法判断相关股票。
+【原标题】San Francisco Is Still Pushing to Turn Offices Into Homes
+【发布时间】2026-10-11T09:00:15.000Z
+【链接】https://www.nytimes.com/2026/10/11/business/san-francisco-housing-conversions.html
