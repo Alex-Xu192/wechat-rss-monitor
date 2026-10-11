@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-11T12:10:24.242Z - 2026-10-11T14:10:24.242Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 教皇利奥因肺部发现结节将接受手术
+2. 乌克兰再次袭击俄罗斯数据中心，特朗普警告无效
+
+==============================
+
+1. 教皇利奥因肺部发现结节将接受手术
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】这位71岁的教皇表示，该结节是在“非常早期”被发现的。
+【依据】新闻涉及教皇健康状况，未提及任何具体公司、行业、商品或政策，无法关联股票。
+【原标题】Pope Leo to have surgery after lump found on lung
+【发布时间】2026-10-11T12:52:38.000Z
+【链接】https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 乌克兰再次袭击俄罗斯数据中心，特朗普警告无效
+【相关股票】YNDX
+【利好股票】无法判断
+【利空股票】YNDX
+【摘要】这是本周第三次乌克兰针对俄罗斯科技巨头Yandex的袭击，迫使该公司暂停运营。
+【依据】新闻明确点名俄罗斯科技巨头Yandex，因乌克兰袭击导致其运营暂停，预计对其股价产生负面影响。
+【原标题】Ukraine strikes Russian data centre again despite Trump warning
+【发布时间】2026-10-11T12:50:46.000Z
+【链接】https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss
