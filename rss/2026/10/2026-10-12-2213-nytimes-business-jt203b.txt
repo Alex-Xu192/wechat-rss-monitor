@@ -1,0 +1,59 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-12T12:13:53.529Z - 2026-10-12T14:13:53.529Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 罗伯特·E·霍尔和迈克尔·伍德福德获得诺贝尔经济学奖
+2. 世界能源秩序再次受考验，伊朗战争影响范围扩大
+3. 埃隆·马斯克、达美航空与机上Wi‑Fi纠纷
+4. 罢工给沙特阿拉伯经济带来压力
+
+==============================
+
+1. 罗伯特·E·霍尔和迈克尔·伍德福德获得诺贝尔经济学奖
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】委员会表示，罗伯特·E·霍尔和迈克尔·伍德福德获得此奖项是因为他们的见解帮助政策制定者更好地应对经济冲击。
+【依据】新闻涉及诺贝尔经济学奖得主，未提及具体公司或股票，无法判断相关股票。
+【原标题】Robert E. Hall and Michael Woodford Awarded Nobel for Economics
+【发布时间】2026-10-12T13:49:15.000Z
+【链接】https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html
+
+------------------------------
+
+2. 世界能源秩序再次受考验，伊朗战争影响范围扩大
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】一位前美国能源官员表示，‘我们正进入一个长期不安全的时代’，指的是中东能源核心所面临的慢性威胁。
+【依据】新闻讨论中东能源秩序与伊朗战争影响，虽涉及石油商品但未明确指出具体公司，无法判断相关股票。
+【原标题】World’s Energy Order Tested Again as Iran War’s Reach Extends Further
+【发布时间】2026-10-12T13:15:38.000Z
+【链接】https://www.nytimes.com/2026/10/12/business/middle-east-oil-exports-houthi-saudi.html
+
+------------------------------
+
+3. 埃隆·马斯克、达美航空与机上Wi‑Fi纠纷
+【相关股票】TSLA、DAL
+【利好股票】TSLA
+【利空股票】DAL
+【摘要】马斯克的公司SpaceX拥有星链（Starlink），他批评达美航空的首席执行官未选择该互联网服务提供商。
+【依据】新闻明确提及埃隆·马斯克（关联特斯拉TSLA）和达美航空（DAL），马斯克批评达美未选择星链服务，暗示对达美不利，对特斯拉可能正面。
+【原标题】Elon Musk, Delta Airlines and a Feud Over In-Flight Wi-Fi
+【发布时间】2026-10-12T12:58:46.000Z
+【链接】https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html
+
+------------------------------
+
+4. 罢工给沙特阿拉伯经济带来压力
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】对沙特阿拉伯主要机场的致命袭击增加了该国面临的挑战，因为该国正努力维持能源生产并使主要活动保持正轨。
+【依据】新闻涉及沙特阿拉伯罢工及能源生产，未点名具体公司，无法判断相关股票。
+【原标题】Strikes Put Saudi Arabia’s Economy Under Pressure
+【发布时间】2026-10-12T12:44:16.000Z
+【链接】https://www.nytimes.com/2026/10/12/business/dealbook/saudi-arabia-strikes-energy-airport.html
