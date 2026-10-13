@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-13T10:12:42.471Z - 2026-10-13T12:12:42.471Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 范斯、奥特曼、马斯克、曼达尼、比伯等人将参加DealBook峰会
+2. 六旗乐园在佐治亚州过山车事故后关闭多项游乐设施
+
+==============================
+
+1. 范斯、奥特曼、马斯克、曼达尼、比伯等人将参加DealBook峰会
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】11月18日的会议将汇聚商业、政治、文化等领域的顶尖人物
+【依据】新闻仅列出峰会嘉宾，未涉及具体公司或行业的股票影响，无法判断相关股票。
+【原标题】Vance, Altman, Musk, Mamdani, Bieber and More at the DealBook Summit
+【发布时间】2026-10-13T11:43:28.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/dealbook/dealbook-summit-lineup.html
+
+------------------------------
+
+2. 六旗乐园在佐治亚州过山车事故后关闭多项游乐设施
+【相关股票】SIX
+【利好股票】无法判断
+【利空股票】SIX
+【摘要】警方表示，佐治亚州六旗乐园一名乘客死亡，另有多人受伤。公司表示，作为预防措施，将暂时关闭美国和加拿大的九项游乐设施。
+【依据】新闻明确提到Six Flags公司因事故关闭游乐设施，利空其股票。
+【原标题】Six Flags Closes Multiple Rides After Death on Georgia Roller Coaster
+【发布时间】2026-10-13T11:38:35.000Z
+【链接】https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html
