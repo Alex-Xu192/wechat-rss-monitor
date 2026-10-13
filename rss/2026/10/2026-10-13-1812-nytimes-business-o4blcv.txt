@@ -1,0 +1,98 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-13T08:12:10.066Z - 2026-10-13T10:12:10.066Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 芯片股票因AI支出担忧和中方竞争加剧而暴跌
+2. 希拉里·克林顿走上播客麦克风，中期选举临近
+3. 气候变化如何导致‘海产品的绅士化’
+4. 推动债券收益率上升的力量出现令人担忧的转折
+5. 两位加密货币亿万富翁如何让英国政治更具美国特色
+6. 各州现在必须决定如何花费Meta的和解数十亿美元
+7. 六旗主题公园因佐治亚州过山车死亡事件关闭多项游乐设施
+
+==============================
+
+1. 芯片股票因AI支出担忧和中方竞争加剧而暴跌
+【相关股票】半导体
+【利好股票】无法判断
+【利空股票】半导体
+【摘要】尤其是韩国股票暴跌，因为有关中国芯片竞争对手取得突破的报道加剧了人们对竞争的担忧。
+【依据】新闻明确提到芯片股票下跌，涉及半导体行业，因此判定半导体板块为相关股票且受利空影响。
+【原标题】Chip Stocks Tumble on A.I. Spending Fears and Rising Chinese Competition
+【发布时间】2026-10-13T09:55:09.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/technology-stocks-ai-nasdaq.html
+
+------------------------------
+
+2. 希拉里·克林顿走上播客麦克风，中期选举临近
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】在《High Stakes》节目中，克林顿夫人与《Pivot》联合主持人卡拉·斯维舍合作，分析众议院和参议院选举的关键战局。
+【依据】新闻聚焦于政治媒体内容，未涉及具体公司或行业股票，无法判断相关股票。
+【原标题】Hillary Clinton Steps to the Podcast Mic as Midterms Approach
+【发布时间】2026-10-13T09:03:18.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/media/hillary-clinton-kara-swisher-podcast.html
+
+------------------------------
+
+3. 气候变化如何导致‘海产品的绅士化’
+【相关股票】海产品
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】随着环境因素使得捕鱼和采集变得更加昂贵，曾经日常的鱼类价格已经飙升。
+【依据】新闻讨论气候变化导致海产品价格上升，涉及海产品行业，但未明确指出哪些公司受利好或利空影响。
+【原标题】How Climate Change Is Causing ‘the Gentrification of Seafood’
+【发布时间】2026-10-13T09:02:20.000Z
+【链接】https://www.nytimes.com/2026/10/13/dining/seafood-prices-shellfish-climate-change.html
+
+------------------------------
+
+4. 推动债券收益率上升的力量出现令人担忧的转折
+【相关股票】债券
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】一些分析师表示，投资者要求更高的‘期限溢价’来购买政府债务，这反映出人们对债务水平和赤字的担忧日益增加。
+【依据】新闻指出债券收益率上升反映市场对债务担忧增加，涉及债券市场，但未具体指向哪些公司股票受影响。
+【原标题】The Forces Driving Up Bond Yields Take a Troubling Turn
+【发布时间】2026-10-13T09:02:15.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/term-premium-bond-yields.html
+
+------------------------------
+
+5. 两位加密货币亿万富翁如何让英国政治更具美国特色
+【相关股票】加密货币
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】两位低调的企业家向奈杰尔·法拉奇的英国改革党捐赠了1亿美元。这一制度可能永远不会再相同。
+【依据】新闻涉及加密货币企业家对英国政治的影响，关联加密货币行业，但未提及具体受利好或利空的股票。
+【原标题】How Two Crypto Billionaires Are Making British Politics More American
+【发布时间】2026-10-13T09:00:53.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/nigel-farage-crypto-uk-politics.html
+
+------------------------------
+
+6. 各州现在必须决定如何花费Meta的和解数十亿美元
+【相关股票】Meta
+【利好股票】无法判断
+【利空股票】Meta
+【摘要】之前与烟草和阿片类药物行业的协议表明，将这些资金放置到正确手中并不容易。
+【依据】新闻围绺Meta的巨额和解款项，明确涉及Meta公司，且和解构成财务负担，判定Meta股票受利空影响。
+【原标题】States Now Have to Decide How to Spend Meta’s Settlement Billions
+【发布时间】2026-10-13T09:00:44.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/meta-settlement-children-tobacco-opioids.html
+
+------------------------------
+
+7. 六旗主题公园因佐治亚州过山车死亡事件关闭多项游乐设施
+【相关股票】Six Flags
+【利好股票】无法判断
+【利空股票】Six Flags
+【摘要】警方称，一名乘客在佐治亚州六旗主题公园过山车上死亡，另有几人受伤。公司表示，作为预防措施，将暂时关闭美国和加拿大的九项游乐设施。
+【依据】新闻报道Six Flags因事故暂停游乐设施，直接涉及Six Flags公司，预计对其股票产生负面影响。
+【原标题】Six Flags Closes Multiple Rides After Death on Georgia Roller Coaster
+【发布时间】2026-10-13T08:43:48.000Z
+【链接】https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html
