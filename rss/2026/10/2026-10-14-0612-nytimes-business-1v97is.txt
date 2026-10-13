@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-13T20:12:22.135Z - 2026-10-13T22:12:22.135Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 美联储理事库克的律师谴责特朗普的新调查
+2. 莉娜·邓纳姆的《Girls》将回归HBO，制作五集新集
+3. 警方确认佐治亚州Six Flags过山车事故中身亡的42岁男子身份
+4. 芝加哥广播资深主持人朱迪·马锡逝世，享年82
+5. 《纽约客》漫画家P.C. Vey逝世，享年70
+
+==============================
+
+1. 美联储理事库克的律师谴责特朗普的新调查
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】丽莎·库克的律师对总统特朗普为撤除她作为联邦储备理事职务而组建的委员会的“客观性和适任性”提出了“重大担忧”。
+【依据】新闻涉及美联储理事和特朗普调查，属于政策层面，但未明确点名具体上市公司，故无法判断相关股票及其正面或负面影响。
+【原标题】Lawyer for Fed Governor Cook Denounces Trump’s New Investigation
+【发布时间】2026-10-13T21:55:45.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html
+
+------------------------------
+
+2. 莉娜·邓纳姆的《Girls》将回归HBO，制作五集新集
+【相关股票】WBD
+【利好股票】WBD
+【利空股票】无法判断
+【摘要】HBO宣布，莉娜·邓纳姆创作的节目将于明年開始製作五集新剧集，这距离Finale已经十年。
+【依据】新闻明确涉及HBO及其母公司华纳兄弟探索（WBD），新剧集有望提升其内容价值和广告收入，故判定为正面影响。
+【原标题】Lena Dunham’s ‘Girls’ to Return to HBO for 5 New Episodes
+【发布时间】2026-10-13T21:38:31.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/media/girls-lena-dunham-hbo.html
+
+------------------------------
+
+3. 警方确认佐治亚州Six Flags过山车事故中身亡的42岁男子身份
+【相关股票】SIX
+【利好股票】无法判断
+【利空股票】SIX
+【摘要】警方确认了这名在周一于佐治亚州Six Flags过山车事故中身亡的42岁男子。公司表示，作为预防措施，将暂时关闭美国和加拿大的多个游乐设施。
+【依据】新闻涉及Six Flags（股票代码SIX）因事故暂时关闭游乐设施，可能对其短期业绩产生负面影响。
+【原标题】Police Identify 42-Year Old Man Killed at Six Flags Over Georgia
+【发布时间】2026-10-13T20:51:51.000Z
+【链接】https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html
+
+------------------------------
+
+4. 芝加哥广播资深主持人朱迪·马锡逝世，享年82
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】她和凯西·奥马利——被称为‘女友们’——是该主要市场中罕见的女性主持人。她们的节目内容包括‘性爱星期四’等。
+【依据】新闻仅涉及个人讣告，未点明具体公司或行业，无法判断相关股票。
+【原标题】Judy Markey, Frank and Funny Voice on Chicago Radio, Dies at 82
+【发布时间】2026-10-13T20:26:14.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/media/judy-markey-dead.html
+
+------------------------------
+
+5. 《纽约客》漫画家P.C. Vey逝世，享年70
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】他的作品曾为《纽约客》尖锐地讽刺日常生活的荒谬之处。他享年70岁。
+【依据】新闻涉及已故漫画家个人，《纽约客》为非上市公司康德纳斯特旗下出版物，无法判断相关上市股票。
+【原标题】The New Yorker Cartoonist P.C. Vey Has Died
+【发布时间】2026-10-13T20:20:28.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/media/peter-christopher-pc-vey-dead.html
