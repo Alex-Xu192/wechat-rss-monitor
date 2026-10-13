@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-13T14:12:31.444Z - 2026-10-13T16:12:31.444Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 利率上升冲击一些华尔街银行
+2. 警方识别出在Six Flags Over Georgia丧生的42岁男子
+3. 芯片股票因人工智能支出担忧和中国竞争加剧而下跌
+4. 气候变化如何导致海鲜的‘绅士化’
+5. 朱迪·马尔基，芝加哥广播界幽默声音，享年82岁去世
+
+==============================
+
+1. 利率上升冲击一些华尔街银行
+【相关股票】JPM、GS、C
+【利好股票】GS、C
+【利空股票】JPM
+【摘要】摩根大通发布了第三季度令人意外的不佳业绩，而高盛和花旗则交付了超出预期的结果，反映出交易环境波动不定。
+【依据】新闻提到摩根大通（JPM）、高盛（GS）和花旗（C）等具体银行业绩，摩根大通业绩不佳视为负面，高盛和花旗业绩超预期视为正面。
+【原标题】Rising Interest Rates Bite Some Wall Street Banks
+【发布时间】2026-10-13T16:10:37.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/bank-earnings-jpmorgan-chase-interest-rates.html
+
+------------------------------
+
+2. 警方识别出在Six Flags Over Georgia丧生的42岁男子
+【相关股票】SIX
+【利好股票】无法判断
+【利空股票】SIX
+【摘要】警方周一确认了在Six Flags Over Georgia遇难的42岁男子身份。该公司表示，作为预防措施，正在美国和加拿大临时关闭多项游乐设施。
+【依据】新闻提到Six Flags（SIX）公司因事故临时关闭游乐设施，这对其业绩构成负面影响，故判定为负面股票；未提及受益公司，故正面股票无法判断。
+【原标题】Police Identify 42-Year Old Man Killed at Six Flags Over Georgia
+【发布时间】2026-10-13T15:57:40.000Z
+【链接】https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html
+
+------------------------------
+
+3. 芯片股票因人工智能支出担忧和中国竞争加剧而下跌
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】韩国股票尤其下跌，因为有关中国芯片竞争对手取得突破的报道加剧了对竞争的担忧。
+【依据】新闻仅提及芯片股票整体下跌和韩国股票受影响，未点名具体公司代码，故无法判断相关、正面或负面股票。
+【原标题】Chip Stocks Tumble on A.I. Spending Fears and Rising Chinese Competition
+【发布时间】2026-10-13T15:40:50.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/technology-stocks-ai-nasdaq.html
+
+------------------------------
+
+4. 气候变化如何导致海鲜的‘绅士化’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】随着环境因素使捕捞和采摘变得更加昂贵，曾经日常的鱼类价格已经飙升。
+【依据】新闻论述气候变化对海鲜价格的影响，未提及具体公司或股票代码，故无法判断相关、正面或负面股票。
+【原标题】How Climate Change Is Causing ‘the Gentrification of Seafood’
+【发布时间】2026-10-13T15:05:14.000Z
+【链接】https://www.nytimes.com/2026/10/13/dining/seafood-prices-shellfish-climate-change.html
+
+------------------------------
+
+5. 朱迪·马尔基，芝加哥广播界幽默声音，享年82岁去世
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】她和Kathy O’Malley — 被称为‘女友们’ — 是 major market 中罕见的女性主持人。他们的随心所欲节目包括‘性爱星期四’。
+【依据】新闻为讣闻，仅提及个人及广播行业，未涉及具体上市公司，故无法判断相关、正面或负面股票。
+【原标题】Judy Markey, Frank and Funny Voice on Chicago Radio, Dies at 82
+【发布时间】2026-10-13T15:02:02.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/media/judy-markey-dead.html
