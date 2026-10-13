@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-13T12:12:55.614Z - 2026-10-13T14:12:55.614Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 战争与沙特雄心在石油强国聚会中碰撞
+2. 芯片股票因AI支出担忧和中国竞争加剧而暴跌
+3. 世界能源秩序再受考验，伊朗战争影响扩大
+4. 两位加密货币亿万富翁如何让英国政治更具美国特色
+5. 较高利率削减摩根大通的利润
+
+==============================
+
+1. 战争与沙特雄心在石油强国聚会中碰撞
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】本周在利雅得举行的WPC能源大会基调坚定，尽管代表们被迫改变旅行计划或远程向观众发表讲话。
+【依据】新闻涉及沙特阿拉伯和石油行业，但未明确提及具体公司，因此无法判断相关股票。
+【原标题】War Collides With Saudi Ambition at a Gathering of Oil Powers
+【发布时间】2026-10-13T13:54:41.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/saudi-arabia-houthi-oil.html
+
+------------------------------
+
+2. 芯片股票因AI支出担忧和中国竞争加剧而暴跌
+【相关股票】芯片股票
+【利好股票】无法判断
+【利空股票】芯片股票
+【摘要】韩国股票尤其下跌，因为有报道称中国芯片竞争对手取得突破，加剧了人们对竞争的担忧。
+【依据】新闻明确提及芯片行业和股票下跌，可判断为芯片股票受利空影响。
+【原标题】Chip Stocks Tumble on A.I. Spending Fears and Rising Chinese Competition
+【发布时间】2026-10-13T13:54:41.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/technology-stocks-ai-nasdaq.html
+
+------------------------------
+
+3. 世界能源秩序再受考验，伊朗战争影响扩大
+【相关股票】能源股票
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】“我们正进入一个长期不安全的时代，”一名前美国能源官员表示，这是对中东能源核心的持续威胁。
+【依据】新闻涉及能源行业和地缘政治风险，但未点名具体公司，故无法判断相关股票。
+【原标题】World’s Energy Order Tested Again as Iran War’s Reach Extends Further
+【发布时间】2026-10-13T13:24:40.000Z
+【链接】https://www.nytimes.com/2026/10/12/business/middle-east-oil-exports-houthi-saudi.html
+
+------------------------------
+
+4. 两位加密货币亿万富翁如何让英国政治更具美国特色
+【相关股票】加密货币股票
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】一对低调的企业家向尼格尔·法拉日的改革英国党捐赠了1亿美元。该体系可能永远不同。
+【依据】新闻提及加密货币亿万富翁和英国政治，但未点名具体加密货币公司，故无法判断相关股票。
+【原标题】How Two Crypto Billionaires Are Making British Politics More American
+【发布时间】2026-10-13T13:19:24.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/nigel-farage-crypto-uk-politics.html
+
+------------------------------
+
+5. 较高利率削减摩根大通的利润
+【相关股票】摩根大通、高盛
+【利好股票】高盛
+【利空股票】摩根大通
+【摘要】在一段强劲表现之后，该行发布了令人意外的零散第三季度业绩。其竞争对手高盛则交付了好于预期的结果。
+【依据】新闻明确点名摩根大通和高盛，利率上升对摩根大通构成利空，对高盛则可能利好。
+【原标题】Higher Interest Rates Take Bite Out of JPMorgan’s Profits
+【发布时间】2026-10-13T13:16:29.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/bank-earnings-jpmorgan-chase-interest-rates.html
