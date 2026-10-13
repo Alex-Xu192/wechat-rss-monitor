@@ -1,0 +1,59 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-13T16:11:21.390Z - 2026-10-13T18:11:21.390Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 气候变化如何导致海鲜的‘绅士化’
+2. 警方识别出在佐治亚州Six Flags Over Georgia遇害的42岁男子
+3. 利率上升冲击部分华尔街银行
+4. 两位加密货币亿万富翁如何让英国政治更美国化
+
+==============================
+
+1. 气候变化如何导致海鲜的‘绅士化’
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】随着环境因素使捕捞和收获变得更昂贵，曾经日常的鱼类价格已经飙升。
+【依据】新闻讨论气候变化对海鲜价格的影响，未提及具体上市公司，无法判断相关股票。
+【原标题】How Climate Change Is Causing ‘the Gentrification of Seafood’
+【发布时间】2026-10-13T18:07:02.000Z
+【链接】https://www.nytimes.com/2026/10/13/dining/seafood-prices-shellfish-climate-change.html
+
+------------------------------
+
+2. 警方识别出在佐治亚州Six Flags Over Georgia遇害的42岁男子
+【相关股票】SIX
+【利好股票】无法判断
+【利空股票】SIX
+【摘要】警方识别出星期一在佐治亚州Six Flags Over Georgia乐园遇害的42岁男子。该公司表示，作为预防措施，美国和加拿大的多个游乐设施将暂时关闭。
+【依据】新闻涉及Six Flags Over Georgia事故，公司为Six Flags（股票代码SIX），事故可能对公司产生负面影响，故判定为相关且利空股票。
+【原标题】Police Identify 42-Year Old Man Killed at Six Flags Over Georgia
+【发布时间】2026-10-13T17:20:20.000Z
+【链接】https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html
+
+------------------------------
+
+3. 利率上升冲击部分华尔街银行
+【相关股票】JPM、GS、C
+【利好股票】GS、C
+【利空股票】JPM
+【摘要】摩根大通公布了第三季度令人惊讶的零散业绩，而高盛和花旗则交出了好于预期的业绩，反映出交易环境波动。
+【依据】新闻提及摩根大通（JPM）、高盛（GS）和花旗（C）的业绩表现，摩根大通业绩不佳属利空，高盛和花旗业绩超预期属利好，因此相关股票为JPM、GS、C，利好股票为GS、C，利空股票为JPM。
+【原标题】Rising Interest Rates Bite Some Wall Street Banks
+【发布时间】2026-10-13T17:02:34.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/bank-earnings-jpmorgan-chase-interest-rates.html
+
+------------------------------
+
+4. 两位加密货币亿万富翁如何让英国政治更美国化
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】一对低调的企业家向奈杰尔·法拉奇的英国改革党捐赠了1亿美元。该体系可能永远不同了。
+【依据】新闻讨论加密货币亿万富翁对英国政治的捐赠，未指出具体上市公司或代币，无法判断相关股票。
+【原标题】How Two Crypto Billionaires Are Making British Politics More American
+【发布时间】2026-10-13T16:16:29.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/nigel-farage-crypto-uk-politics.html
