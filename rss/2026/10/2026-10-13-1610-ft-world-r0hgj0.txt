@@ -1,0 +1,20 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-13T06:10:36.175Z - 2026-10-13T08:10:36.175Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. 博通老板的‘赌场’言论导致芯片股下跌
+
+==============================
+
+1. 博通老板的‘赌场’言论导致芯片股下跌
+【相关股票】Samsung、SK Hynix、Broadcom
+【利好股票】无法判断
+【利空股票】Samsung、SK Hynix、Broadcom
+【摘要】三星和SK海力士股价下跌拖累韩国Kospi指数大幅下跌，投资者担心AI投资规模过大
+【依据】新闻提到博通高管发表‘赌场’言论导致芯片股整体下跌，并指出三星和SK海力士的下跌拖累韩国Kospi指数，表明这些公司股票受到负面影响；未见文中提及任何受益公司，故正面股票无法判断。
+【原标题】Chip stocks slide in wake of ‘casino’ comment by Broadcom boss
+【发布时间】2026-10-13T07:52:09.000Z
+【链接】https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1
