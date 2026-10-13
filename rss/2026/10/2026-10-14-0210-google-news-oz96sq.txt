@@ -1,0 +1,124 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-13T16:10:24.473Z - 2026-10-13T18:10:24.473Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+9. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stocks fall after bank earnings deluge; chipmakers slide: Live updates  CNBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Stocks fall after bank earnings deluge; chipmakers slide: Live updates - CNBC
+【发布时间】2026-10-13T17:57:31.000Z
+【链接】https://news.google.com/rss/articles/CBMid0FVX3lxTE5vWkJFUkNSVTNpSXFUNGgxZWtlWUdXSmt3eC04ZllUYm9ma3UtYUNMS1ZQbDhDX0R1am5LZlZDcmx5Q2ZkR1pUTVBaOFR1WHgtY0FTakRvVkNpY1dnSDljcEp4SGpHYkw1cVF4LUhYZndrbmY5MlRR0gF8QVVfeXFMTmZhUmNzY2Z3a2tVNVlDdHVPZXUzeUQ2a3Vjc2Y4OGZuUTdmYlRvdDhSZXhVZmN0MWpoRjNkd19QYzQxZjN6RXlLcGZGYk5jLUQ1ZUdUZVpQSHp6eDh5X05pN1lWY2JpRWlpenZDNDFGQTJSdGtaOVFrczZUdQ?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】As Houthis strike Riyadh, Saudi Arabia confronts the costs of U.S. war on Iran  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】As Houthis strike Riyadh, Saudi Arabia confronts the costs of U.S. war on Iran - The Washington Post
+【发布时间】2026-10-13T17:42:33.000Z
+【链接】https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXU0Wi0tVm5aMk5WYWZNYTBlLW9uVktRN2VyRUxPQUpUazM3cXVLRnZNMF9ad01tVWFZUlBRWV9WVU9BOGoxXzdFWWMyQndhclVId3R5VlBIeTBOTF9JbnN4eVdnWThmd19ZWktfYlJwYTdHNkRZaGFtX3Roci12TWR3OE5EVi1ERDhWOHlGSV9XTDRScG9uakVjRlVzTnBpYk0zZWthdHg4SG9tRmVkVkZsWDM?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Cornell suspends fraternity parties for rest of academic year amid sexual assault controversy  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Cornell suspends fraternity parties for rest of academic year amid sexual assault controversy - AP News
+【发布时间】2026-10-13T17:25:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0hlOWdLdXpsRFVLdTZoNXN0NWxfMXlTSHRTRXBJa2xBeERmME5WMUhuWXlTc2RhNThCREt4ZjBmRngzbThSYnR6Q0ZVdEM4eHpMalpHTXo5dWxQN0d1WHFSTHViT1NJZzZNbWV3MjBsYVdhclBSMnZSOHJYUGRBcGVhcXRZYmwyaHM1ekV2NjNIQmlGeHpnNnZUajN4cVV5aC1n?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Did you spot the ‘space jellyfish’ cloud in the sky this morning?  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Did you spot the ‘space jellyfish’ cloud in the sky this morning? - The Washington Post
+【发布时间】2026-10-13T17:16:33.000Z
+【链接】https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeW9XNWVtTW9oOWpYcXBITjlYamlqa3M2YzBuS1JuejUwcFlqY1FtUzAtb0hHb1FSY01BRU1HdENEWURvM2tablZIWWh1dUhQbHVRSTV3bVc0S25xVnNhM1Q3WmthTFIycnJWWTc0OGwzRHFfUUNWNlN0TXhaSGxDUGJZbmdZamRMMVE0YmVXc1BxeldQM2gyZldOWmhUbDdqMHk1QmhVTmFkaHc?oc=5
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】‘Crystal Lake’ Rotten Tomatoes Reviews Laud ‘Friday The 13th’ Prequel Series  Forbes
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】‘Crystal Lake’ Rotten Tomatoes Reviews Laud ‘Friday The 13th’ Prequel Series - Forbes
+【发布时间】2026-10-13T17:11:31.000Z
+【链接】https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUXZOMlVVNGhwYWhZdGhBSkwtTm5VeHNRVC15Wjg2RFFLNWp0NDk4eXVfMTEycFpkLTM1SElGUHRlR1ZiTEtQeXVjTUp6MjN2RDhTRC0tZHFRTzRGemp4NXdYT24xaGExVjFKcTJ5X0hDX3l5NFZnZURVSG52MjVFMmVyT2Vqb3h3ZXFIX0pGazlabkNmUjJVY3o0TUtNM0EzT3VUSUlrUU9ScjcwVmJnQm5yQ0toaHBoYjkxQkhOTFZOd00?oc=5
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Investigators hunt French supermarket fridge hackers, no claim of responsibility  Reuters
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Investigators hunt French supermarket fridge hackers, no claim of responsibility - Reuters
+【发布时间】2026-10-13T17:01:10.000Z
+【链接】https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ3JqLV9RU0d1X0RtU05YMURYUGhhVlBQSWY5WENLX20zTVlsczlMejdNbGVrWHd2amxyeVdMVERzS3Z1blYtQUV2LVJ0d1FGY0cyUGlPZnRYNkVNXzdMVEYxaHJNQ0k1OU4wZTZVY2ZVQWg1aUtHWFh2TmY1bjlTRUpDcS1jTGRRMjB6V1ZCRWc0NzdKeFRHVVpRWjI3VzhLeXk5OEhvN3dkUHAwTlAwamIwa1FVZ1N1TWtmX1VYUGJMQVoxMkpjYg?oc=5
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】RJ Mitte, actor best known for ‘Breaking Bad,’ dies at 34  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】RJ Mitte, actor best known for ‘Breaking Bad,’ dies at 34 - The Washington Post
+【发布时间】2026-10-13T16:43:53.000Z
+【链接】https://news.google.com/rss/articles/CBMiakFVX3lxTFBFRFVCWm1aZmJGYlYwbzd3TWViZDFOc1lPc2J1RDBKWnI4NzU2T2FkanotSGpfZGFwUlpIUzFiOU1CamgyZ0VCenp6dGx6dDV2RlBDcmZNQTktUTc2UjVyUEVSbHJ5VXZOQnc?oc=5
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Six Flags closes nine rides across country after man dies falling off roller coaster in Georgia - live updates  CNN
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Six Flags closes nine rides across country after man dies falling off roller coaster in Georgia - live updates - CNN
+【发布时间】2026-10-13T16:41:00.000Z
+【链接】https://news.google.com/rss/articles/CBMinwFBVV95cUxNTklWODB1cndLTFFPbV9ReHpLN0MzMWFzNGFWUkdPQXNYZDI3R2poZWdzNEo1NFI2bm80XzhDUVg2cWp1RktIVmUybUdXbzRqbzRfN3FMU3dqN2V5bXhObFJEQXpJd25kZnBiOFNNdlRLMXZZUkpEWTIwZnNwQTNRcEk5Qmg1WlJCSGtaM0dQN2hwMzJ2Mk4wOHNMQll6a2c?oc=5
+
+------------------------------
+
+9. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】NFL Power Rankings, Week 6: Vikings, Patriots enter top 10; Eagles, Saints in free fall  NFL.com
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】NFL Power Rankings, Week 6: Vikings, Patriots enter top 10; Eagles, Saints in free fall - NFL.com
+【发布时间】2026-10-13T16:16:19.000Z
+【链接】https://news.google.com/rss/articles/CBMidEFVX3lxTE9ucU5oWGdjM2JoUy1xNFh5M1c2VHJKV1JtVG9Nc3pEOW5EeUF0MWU5VFNnUFh3NUNWRUF0dGFOQzRjclEyMTFmQmdzcm03NGE2V2U5MWkxU2NHV3BRc240Y1VjY3laQWFRelIwMTBmeW5UQ1g2?oc=5
