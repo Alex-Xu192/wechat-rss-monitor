@@ -1,0 +1,163 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-13T08:11:17.005Z - 2026-10-13T10:11:17.005Z
+【数量】12
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+9. 中文标题翻译失败
+10. 中文标题翻译失败
+11. 中文标题翻译失败
+12. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Declines for Samsung and SK Hynix drag Kospi sharply lower as investors fret over scale of AI investment
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Chip stocks slide in wake of ‘casino’ comment by Broadcom boss
+【发布时间】2026-10-13T10:03:04.000Z
+【链接】https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Inflation, war and the crackdown on immigrant communities draw the crucial swing voters back to the Democrats ahead of the midterms
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】‘I think a lot of people are waking up’: Trump’s Latino vote starts to unravel
+【发布时间】2026-10-13T10:00:10.000Z
+【链接】https://www.ft.com/content/883fc906-7ca8-4395-b68a-000b79a270ee?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A CEO golfs with Trump’s son as an industry once shut out of Washington turns access into policy
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】How US coal mined ties to Trump — and got much of its ‘wish list’
+【发布时间】2026-10-13T10:00:10.000Z
+【链接】https://www.ft.com/content/03e29a9f-1f03-46d0-9855-3b9d5081c29d?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】World’s largest majority-Muslim country to force companies to explain how products from clothes to toilet paper are permissible under Islam
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Business backlash over sweeping halal rules in world’s biggest Muslim nation
+【发布时间】2026-10-13T10:00:09.000Z
+【链接】https://www.ft.com/content/630328ea-829d-4e5f-a3a8-7ffc33946ef7
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Announcement likely to hinder efforts by US to broker peace in country
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Former DR Congo leader Joseph Kabila to lead new rebel alliance
+【发布时间】2026-10-13T09:58:46.000Z
+【链接】https://www.ft.com/content/1a326f59-e28a-416a-9a78-8b013672e1b2?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Wall Street banks expected to report worst trading results of year following record second quarter
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Goldman and JPMorgan to report on trading slowdown as earnings season kicks off
+【发布时间】2026-10-13T09:42:00.000Z
+【链接】https://www.ft.com/content/56f4a46e-3ae5-4aea-8cf3-71506b286091
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】News network targets $1bn in annual digital subscription revenue by 2030 as traditional cable television declines
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】CNN launches international streaming push as David Ellison takes control
+【发布时间】2026-10-13T09:30:07.000Z
+【链接】https://www.ft.com/content/1e190204-ebe8-48d7-936e-72835fc49742?syn-25a6b1a6=1
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Billionaire investor hits out after data centre operator abandoned plans to raise $5bn in Sydney
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】James Packer says Australia ‘tends to tear down’ entrepreneurs after Firmus fiasco
+【发布时间】2026-10-13T09:17:43.000Z
+【链接】https://www.ft.com/content/fccaa841-ffdb-4e59-b947-8ff1e1b40a7f?syn-25a6b1a6=1
+
+------------------------------
+
+9. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UK proposal had been backed by senior Labour figures, triggering nervousness among entrepreneurs and investors
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Healey rejects calls to equalise capital gains and income tax rates
+【发布时间】2026-10-13T09:06:17.000Z
+【链接】https://www.ft.com/content/d63348fb-901d-4ff3-9cdc-0d023778dbc2?syn-25a6b1a6=1
+
+------------------------------
+
+10. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stand-off between Washington and Kyiv over Russian diesel and approach of cold weather boost prices
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】European gas hits Iran wartime high
+【发布时间】2026-10-13T08:45:39.000Z
+【链接】https://www.ft.com/content/787acc7e-f0d3-4552-a369-4b4c967e4ca5?syn-25a6b1a6=1
+
+------------------------------
+
+11. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Despite encouraging local initiatives and key appointments, sector figures have criticised the culture department’s lack of strategy
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Labour’s vision for the arts risks losing its audience
+【发布时间】2026-10-13T08:30:10.000Z
+【链接】https://www.ft.com/content/20063237-6826-43b2-b7dc-0b1f3f52b680?syn-25a6b1a6=1
+
+------------------------------
+
+12. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】US payments giant has sought market access for more than a decade
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Visa gets approval for China card business ahead of Trump-Xi summit
+【发布时间】2026-10-13T08:15:36.000Z
+【链接】https://www.ft.com/content/6c5ee2f8-a26c-4655-9389-f877bb5b42db?syn-25a6b1a6=1
