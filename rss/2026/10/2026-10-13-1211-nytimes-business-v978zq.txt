@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-13T02:11:17.337Z - 2026-10-13T04:11:17.337Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 国际货币基金组织警告中东战争将扩大富国和贫穷国家之间的差距
+2. 乔治亚州过山车骑手死亡，多人受伤
+
+==============================
+
+1. 国际货币基金组织警告中东战争将扩大富国和贫穷国家之间的差距
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】持续冲突、高昂的能源成本和技术颠覆将放缓全球增长并推高物价，该组织预测。
+【依据】本文未提及具体公司或股票，无法判断相关股票。
+【原标题】I.M.F. Warns Mideast War Will Widen Gap Between Rich and Poor Countries
+【发布时间】2026-10-13T02:58:49.000Z
+【链接】https://www.nytimes.com/2026/10/12/business/economy/imf-global-economic-outlook.html
+
+------------------------------
+
+2. 乔治亚州过山车骑手死亡，多人受伤
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】警方称，此事发生在周一下午，乔治亚州六旗主题公园。目前尚不清楚导致骑手死亡的具体原因。
+【依据】本文未提及具体公司或股票，无法判断相关股票。
+【原标题】Rider on Georgia Roller Coaster Dies and Several Others Are Injured
+【发布时间】2026-10-13T02:26:40.000Z
+【链接】https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html
