@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-13T02:10:24.517Z - 2026-10-13T04:10:24.517Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 特朗普表示他正在考虑解除金伯利·吉尔福耶在雅典的职务 - The Washington Post
+2. 《绝命毒师》演员RJ Mitte去世，年仅34岁 - CBS News
+3. 乔治亚州六旗过山车发生事故，一人死亡多人受伤 - BBC
+
+==============================
+
+1. 特朗普表示他正在考虑解除金伯利·吉尔福耶在雅典的职务 - The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】特朗普表示他正在考虑解除金伯利·吉尔福耶在雅典的职务
+【依据】新闻涉及美国前总统特朗普的个人人事考虑，未提及任何上市公司、股票或具有明确股票相关影响的行业、产品或政策，因此无法判断相关股票。
+【原标题】Trump says he’s ‘looking at’ firing Kimberly Guilfoyle from Athens post - The Washington Post
+【发布时间】2026-10-13T03:41:22.000Z
+【链接】https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTnJrVlBvS1VGNzFhT3MwVDZqZUFvX3J0Yk1iWDFrNG1ZQWxQVGxXdUJWVTdnZk1rVXNPYUtmYlU1aHpCLTd2UVVwaDBEQ2RzLVhYZVR1NV9US1cyQTVWdlkzZ0xTTWlhTDNRUnduZk5mX2ZfUXkyZTRTUk50R3QtcVNzX2kwZ0wxZ0s3MThwZmNod21YX2RFR3FWWWpvcWloTmx5aWlfdy0yam5sMnc1RjFJU1lTaWdk?oc=5
+
+------------------------------
+
+2. 《绝命毒师》演员RJ Mitte去世，年仅34岁 - CBS News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】《绝命毒师》演员RJ Mitte去世，年仅34岁
+【依据】新闻报道演员RJ Mitte的去世，属于娱乐新闻，未涉及任何上市公司、股票或具有明确股票相关影响的行业、产品或政策，因此无法判断相关股票。
+【原标题】RJ Mitte, "Breaking Bad" actor, dies at age 34 - CBS News
+【发布时间】2026-10-13T02:48:04.000Z
+【链接】https://news.google.com/rss/articles/CBMieEFVX3lxTFBLcjB0MFdVN20tMFU1ekhHVkZnYVV5RktMMDRTZEQtQkxabkxiNTR5ZmlVRHVybjJycnJNa0R1V0R3MHJGZlhmZHl6M2puTi1kdGtOc0JIakRPbDRON0RwdUx1VHFnZ0Z1ZdQWmtON3NpUTZkamx0dw?oc=5
+
+------------------------------
+
+3. 乔治亚州六旗过山车发生事故，一人死亡多人受伤 - BBC
+【相关股票】SIX
+【利好股票】无法判断
+【利空股票】SIX
+【摘要】乔治亚州六旗过山车发生事故，一人死亡多人受伤
+【依据】新闻提到Six Flags过山车事故，Six Flags为上市公司（股票代码SIX）。此类安全事故通常会对公司股价产生负面影响，故判断为相关股票且利空。
+【原标题】One dead, several others hurt on Six Flags rollercoaster in Georgia - BBC
+【发布时间】2026-10-13T02:26:21.000Z
+【链接】https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iSC05MjV3SmhMT1BEZkswVERTTVpRMXRKYU1TSjNyTWQwNTdEV3R0NTBDM19tWVkyR2xGOFBvMDBiN2h1STctZW5UNkg4MVJEZGxDNldZSW9aQU0?oc=5
