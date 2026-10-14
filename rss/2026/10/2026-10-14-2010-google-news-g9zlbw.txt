@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-14T10:10:43.013Z - 2026-10-14T12:10:43.013Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 这些常见感染可导致癌症。以下是降低风险的方法。- The Washington Post
+2. Morgan Stanley 超出估值，因股票交易收入超出预期 9.09 亿美元 - CNBC
+3. Cornell 取消兄弟会聚会，因性侵案 - BBC
+
+==============================
+
+1. 这些常见感染可导致癌症。以下是降低风险的方法。- The Washington Post
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】这些常见感染可导致癌症。以下是降低风险的方法。  The Washington Post
+【依据】新闻涉及常见感染与癌症风险，未提及具体公司或行业，无法判断相关股票。
+【原标题】These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post
+【发布时间】2026-10-14T12:02:10.000Z
+【链接】https://news.google.com/rss/articles/CBMitwFBVV95cUxPVS1uWEVvQS0tQkU5dG43X2JNV2szU3E5LVBpV1IzRTdfNVI1N2VKdklwYXBEX0RkdUxyZlBqU2JpbTN1alZLQkhTYlB6cEZOZTZ6XzNybktldjNqTmlYeW9uaUFUWk1XMkRhOTR5UncyenFDcmZ5OS1Dd2FCTnZpZVdUWEdwYXpWckZlTnF3STMwWkJnanR6Rm82OHJOem15NDcybl94dlhLbmZPdngtSXZiZVpQX2c?oc=5
+
+------------------------------
+
+2. Morgan Stanley 超出估值，因股票交易收入超出预期 9.09 亿美元 - CNBC
+【相关股票】MS
+【利好股票】MS
+【利空股票】无法判断
+【摘要】Morgan Stanley 超出估值，因股票交易收入超出预期 9.09亿美元  CNBC
+【依据】新闻明确涉及摩根士丹利业绩超预期，可判断为摩根士丹利股票（MS）正面影响。
+【原标题】Morgan Stanley tops estimates as equities trading revenue exceeds expectations by $909 million - CNBC
+【发布时间】2026-10-14T11:16:28.000Z
+【链接】https://news.google.com/rss/articles/CBMie0FVX3lxTE9icDREeUpWYi1TMEZvdVI1d3VncENvMDlWSmE4ajlkYzIySTkzM0hjSm1qZVNoZzNTZHRfRTNnOEJ5Mi05TjB3UngwUWlYeWthY29yX0RlUHZyejRSVTY1NE44N3gydUJxbE12Z0o3aVJubjZ5RXN6VGdJQdIBgAFBVV95cUxNWjROMXo2VllzTW9ybGxaRmJkUGVPVzI3WEdyLVFxSGFueGFJTFdGT1NWZUR1dkcxN3NaSDc2ZVdyRERjS2h4Q1duLVdMdklBNUZGZ1lzd3I4MFFrNDJfcFRfZng5M1dwLXNRYTN1elR4QnNJQk9mZUNvYmI1Z01VZg?oc=5
+
+------------------------------
+
+3. Cornell 取消兄弟会聚会，因性侵案 - BBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Cornell 取消兄弟会聚会，因性侵案  BBC
+【依据】新闻涉及康奈尔大学事件，未提及具体上市公司或行业，无法判断相关股票。
+【原标题】Cornell cancels fraternity parties over sexual assault case - BBC
+【发布时间】2026-10-14T11:08:47.000Z
+【链接】https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TdFdicHc1RGgzRGItZGE4NmpUVnNqU0l4YXlzMWpmdGRHUVQtMXpRRlJfcWNlLWxhNG5ZMmcyTGdXRHAyQW5ydnV6RU83NEJBMFJ1UF9iQnRBRlE?oc=5
