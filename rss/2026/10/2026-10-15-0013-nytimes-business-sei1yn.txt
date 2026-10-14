@@ -1,0 +1,150 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-14T14:13:15.816Z - 2026-10-14T16:13:15.816Z
+【数量】11
+
+【本邮件新闻标题汇总】
+1. 奈飞面临增长放缓，裁员6%的员工
+2. 联邦法官再次阻止特朗普对CNN、MS NOW和Politico的禁令
+3. 中国出口激增，贸易顺差有望创纪录
+4. 飙升的通胀使特朗普向选民推销强劲经济的最后努力变得复杂
+5. 民主党人在CPI报告显示能源价格推高通胀后指责特朗普
+6. 什么是星盾？SpaceX的军事级卫星互联网服务，乌克兰依赖该服务
+7. 能源价格上涨推高美国通胀，中期选举临近
+8. 随着通胀上升，美国人正在为这五项成本支付更多费用
+9. 这里是最新消息。
+10. 2027年社会保障生活成本调整将为3.6%
+11. 汽油价格较去年同期上涨34%，加剧通胀压力
+
+==============================
+
+1. 奈飞面临增长放缓，裁员6%的员工
+【相关股票】NFLX
+【利好股票】无法判断
+【利空股票】NFLX
+【摘要】该流媒体公司的股价在过去一年内下跌了超过40%，因为公司一直在努力应对用户参与度停滞不前。
+【依据】新闻指出奈飞因增长放缓裁员6%，这可能被投资者视为公司面临挑战的信号，因而对奈飞股票（NFLX）产生负面预期。
+【原标题】Netflix, Facing Slowing Growth, Cuts 6% of Its Work Force
+【发布时间】2026-10-14T15:56:55.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html
+
+------------------------------
+
+2. 联邦法官再次阻止特朗普对CNN、MS NOW和Politico的禁令
+【相关股票】WBD、CMCSA
+【利好股票】WBD、CMCSA
+【利空股票】无法判断
+【摘要】此次裁决将允许这些媒体进入白宫场地，同时他们正在起诉以推翻该禁令。但这并未解决他们所有的准入问题。
+【依据】法院阻止特朗普对CNN、MSNBC和Politico的禁令，使这些媒体机构能够重新获得白宫准入，利好其母公司股票，如华纳兄弟探索（WBD）和康卡斯特（CMCSA）。
+【原标题】Federal Judge Again Blocks Trump’s Ban on CNN, MS NOW and Politico
+【发布时间】2026-10-14T15:46:23.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html
+
+------------------------------
+
+3. 中国出口激增，贸易顺差有望创纪录
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】中国上月出口增速几乎达到自全球金融危机结束以来的最高水平。
+【依据】新闻仅描述中国出口增长及贸易顺差前景，未提及具体上市公司，故无法判断相关股票。
+【原标题】China’s Exports Soar, Putting Its Trade Surplus on Track for a Record
+【发布时间】2026-10-14T15:41:20.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html
+
+------------------------------
+
+4. 飙升的通胀使特朗普向选民推销强劲经济的最后努力变得复杂
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】2026年大选前的最后一份通胀报告显示价格上涨和工资停滞，这对白宫而言是不利的政治消息。
+【依据】文章讨论通胀上升对特朗普选举前景的影响，但未点名具体公司或行业股票，故无法判断。
+【原标题】Surging Inflation Complicates Trump’s Final Push to Sell Voters on Strong Economy
+【发布时间】2026-10-14T15:35:02.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html
+
+------------------------------
+
+5. 民主党人在CPI报告显示能源价格推高通胀后指责特朗普
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】通胀和经济不满已经扩大了竞争激烈的中期选区范围，深入共和党腹地。
+【依据】同上，文中提到通胀和能源价格对选举格局的影响，未涉及具体上市公司，故无法判断。
+【原标题】Democrats Blame Trump After CPI Report Shows Energy Prices Drove Up Inflation
+【发布时间】2026-10-14T15:25:31.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/economy/inflation-trump-democrats-midterms-energy.html
+
+------------------------------
+
+6. 什么是星盾？SpaceX的军事级卫星互联网服务，乌克兰依赖该服务
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】多年来，乌克兰武装部队一直依赖由埃隆·马斯克的SpaceX开发的卫星通信服务。最近的限制阻碍了其战争努力。
+【依据】文章介绍SpaceX的星盾服务，但SpaceX为私人公司，未提供可交易的股票代码，故无法判断。
+【原标题】What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?
+【发布时间】2026-10-14T15:23:07.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html
+
+------------------------------
+
+7. 能源价格上涨推高美国通胀，中期选举临近
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】9月份的消费者价格指数报告将继续对特朗普总统和美联储施加压力，以遏制日益加剧的价格压力。
+【依据】新闻描述能源价格上涨推高通胀，但未指明具体受益或受害的上市公司，故无法判断。
+【原标题】Higher Energy Prices Lift U.S. Inflation Ahead of Midterm Elections
+【发布时间】2026-10-14T15:12:43.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html
+
+------------------------------
+
+8. 随着通胀上升，美国人正在为这五项成本支付更多费用
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】消费者正在为日常商品和服务支付更多费用，如食品、电脑和流媒体。
+【依据】文章列举通胀导致的五类成本上升，未指出相关上市公司，故无法判断。
+【原标题】5 Costs Americans Are Paying More for as Inflation Rises
+【发布时间】2026-10-14T14:52:43.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/prices-inflation-food-airfare-car-rentals.html
+
+------------------------------
+
+9. 这里是最新消息。
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】这里是最新消息。
+【依据】这是一个实时更新的简短提示，没有具体内容，故无法判断。
+【原标题】Here’s the latest.
+【发布时间】2026-10-14T14:43:17.000Z
+【链接】https://www.nytimes.com/live/2026/10/14/business/inflation-cpi-report-september/heres-the-latest
+
+------------------------------
+
+10. 2027年社会保障生活成本调整将为3.6%
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】明年的生活成本调整（COLA）将是自2023年以来的最大幅度。退休人员将从1月起在其福利支票中看到额外增加的金额。
+【依据】文章讨论社会保障COLA增加，虽然可能影响退休人员消费，但未点名具体公司股票，故无法判断。
+【原标题】Social Security COLA for 2027 Will Be 3.6%
+【发布时间】2026-10-14T14:31:11.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html
+
+------------------------------
+
+11. 汽油价格较去年同期上涨34%，加剧通胀压力
+【相关股票】XOM、CVX
+【利好股票】XOM、CVX
+【利空股票】无法判断
+【摘要】自伊朗战争爆发以来，能源价格急剧上涨，推高了美国的通胀。
+【依据】新闻指出汽油价格大幅上涨，这通常有利于油气生产商，如埃克森美孚（XOM）和雪佛龙（CVX），因此可以认为这些股票受到正面影响。
+【原标题】Gas Prices Are Up 34% From a Year Ago, Adding to Inflation Pressures
+【发布时间】2026-10-14T14:18:28.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/economy/gas-prices-inflation-cpi.html
