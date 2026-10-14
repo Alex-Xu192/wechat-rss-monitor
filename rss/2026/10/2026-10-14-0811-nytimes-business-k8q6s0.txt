@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-13T22:11:52.496Z - 2026-10-14T00:11:52.496Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 美联储库克州长律师谴责特朗普的新调查
+2. 美国银行因洗钱监管不力被处以18亿美元罚款
+3. 警方确认佐治亚州六旗乐园遇害的42岁男子身份
+
+==============================
+
+1. 美联储库克州长律师谴责特朗普的新调查
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】库克律师对总统特朗普组建的委员会的“客观性和适合性”提出了“重大担忧”，认为这是为了将她罢免联邦储备委员会委员的手段。
+【依据】该新闻涉及美联储政策和政治调查，但未明确提及具体公司、行业或商品，无法判断相关股票。
+【原标题】Lawyer for Fed Governor Cook Denounces Trump’s New Investigation
+【发布时间】2026-10-14T00:04:56.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html
+
+------------------------------
+
+2. 美国银行因洗钱监管不力被处以18亿美元罚款
+【相关股票】BAC
+【利好股票】无法判断
+【利空股票】BAC
+【摘要】联邦监管机构称，该行在没有充分审查的情况下放过了可疑交易。
+【依据】新闻明确涉及公司美国银行（Bank of America），因此关联股票为BAC。罚款为负面消息，故将BAC列为负面股票；未见正面影响。
+【原标题】Bank of America Pays $1.8 Billion Fine for Lax Money-Laundering Oversight
+【发布时间】2026-10-13T22:57:46.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html
+
+------------------------------
+
+3. 警方确认佐治亚州六旗乐园遇害的42岁男子身份
+【相关股票】SIX
+【利好股票】无法判断
+【利空股票】SIX
+【摘要】警方确认了在周一于佐治亚州六旗乐园遇害的42岁男子。该公司表示，作为预防措施，暂时关闭了美国和加拿大的多个游乐设施。
+【依据】新闻明确涉及公司Six Flags Over Georgia（Six Flags），关联股票为SIX。事件及随后的游乐设施关闭对公司形成负面影响，故将SIX列为负面股票；未见正面影响。
+【原标题】Police Identify 42-Year Old Man Killed at Six Flags Over Georgia
+【发布时间】2026-10-13T22:47:17.000Z
+【链接】https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html
