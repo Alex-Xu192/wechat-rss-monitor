@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-14T04:12:35.618Z - 2026-10-14T06:12:35.618Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 联邦法官再次阻止特朗普对 CNN、MS NOW 和 Politico 的禁令
+2. 中国出口激增，贸易顺差有望创下纪录
+
+==============================
+
+1. 联邦法官再次阻止特朗普对 CNN、MS NOW 和 Politico 的禁令
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】该裁决将允许这些媒体进入白宫范围，而在他们起诉推翻该禁令期间。但这并未解决他们所有的准入问题。
+【依据】新闻仅提及具体媒体机构，未明确涉及上市公司或具体股票，无法判断相关股票。
+【原标题】Federal Judge Again Blocks Trump’s Ban on CNN, MS NOW and Politico
+【发布时间】2026-10-14T05:33:02.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html
+
+------------------------------
+
+2. 中国出口激增，贸易顺差有望创下纪录
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】中国上月出口增长速度几乎是自全球金融危机结束以来最快的。
+【依据】新闻讨论中国出口总体增长和贸易顺差，未提及具体公司或行业股票，无法判断相关股票。
+【原标题】China’s Exports Soar, Putting Its Trade Surplus on Track for a Record
+【发布时间】2026-10-14T04:50:55.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html
