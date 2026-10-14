@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-14T16:10:24.684Z - 2026-10-14T18:10:24.684Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Netflix 计划裁员 1,000 人，为 2022 年以来最大幅度裁员
+2. Kenya 确认第二例埃博拉病例，为该国首例患者的亲属
+
+==============================
+
+1. Netflix 计划裁员 1,000 人，为 2022 年以来最大幅度裁员
+【相关股票】NFLX
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】这些裁员相当于该流媒体巨头全球总员工约 6%。
+【依据】新闻明确提到公司 Netflix，因此关联股票为 NFLX；由于裁员对股价影响方向不明确，正面和负面股票均判定为无法判断。
+【原标题】Netflix to lay off 1,000 staff in steepest cuts since 2022
+【发布时间】2026-10-14T16:47:32.000Z
+【链接】https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Kenya 确认第二例埃博拉病例，为该国首例患者的亲属
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】这紧随上周一名男子在从刚果（DRC）旅行后抵达肯尼亚而逝世的事件。
+【依据】新闻涉及地区事件且未提及具体公司或股票，无法判断关联股票，正面和负面股票亦无法判断。
+【原标题】Kenya confirms second Ebola case as relative of country's first victim
+【发布时间】2026-10-14T16:23:40.000Z
+【链接】https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss
