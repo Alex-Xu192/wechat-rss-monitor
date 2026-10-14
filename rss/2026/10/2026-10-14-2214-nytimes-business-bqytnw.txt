@@ -1,0 +1,137 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-14T12:14:04.112Z - 2026-10-14T14:14:04.112Z
+【数量】10
+
+【本邮件新闻标题汇总】
+1. 通胀飙升使特朗普推销强劲经济给选民的最后努力变得复杂
+2. 成本上升使近一半美国人的必需品触手不可及
+3. 2027年社会保障生活成本调整（COLA）将为3.6%
+4. 马斯克指责富豪导致印度卫星互联网接入受阻
+5. 中国出口激增，贸易盈余有望创纪录
+6. 燃气成本比一年前高三分之一
+7. 这里是最新消息。
+8. 伊朗加大攻击和胡塞-沙特冲突升级导致油价上涨
+9. 好莱坞代理人和制片人推动恢复独立电视的黄金时代
+10. OpenAI 被指控间谍行为对人工智能行业意味着什么
+
+==============================
+
+1. 通胀飙升使特朗普推销强劲经济给选民的最后努力变得复杂
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】在2026年大选前的最后一份通胀报告 —  — 显示物价上涨和工资停滞 —  — 对白宫来说是不利的政治新闻。
+【依据】新闻仅讨论通胀和选举政治，未提及具体公司、股票或行业。
+【原标题】Surging Inflation Complicates Trump’s Final Push to Sell Voters on Strong Economy
+【发布时间】2026-10-14T14:01:19.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html
+
+------------------------------
+
+2. 成本上升使近一半美国人的必需品触手不可及
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】通胀使基本商品难以负担，对不平等的态度也发生了变化，皮尤研究中心的研究表明。
+【依据】新闻涉及通胀对基本生活成本的影响，未点名任何公司或股票。
+【原标题】Rising Costs Push Necessities Out of Reach for Nearly Half of Americans
+【发布时间】2026-10-14T14:00:05.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/economy/high-prices-cost-of-living-pew-research.html
+
+------------------------------
+
+3. 2027年社会保障生活成本调整（COLA）将为3.6%
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】明年的生活成本调整（COLA）将是自2023年以来的最大幅度。退休人员将从1月起在他们的福利支票中看到额外的钱。
+【依据】新闻讨论社会福利政策，未涉及具体上市公司股票。
+【原标题】Social Security COLA for 2027 Will Be 3.6%
+【发布时间】2026-10-14T13:50:02.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html
+
+------------------------------
+
+4. 马斯克指责富豪导致印度卫星互联网接入受阻
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】随着星链（Starlink）寻求在印度运营的许可，新德里最近的一次抗议表明当局可以迅速切断移动互联网接入。
+【依据】新闻提到马斯克和星链，但星链为非上市公司，无法确定相关股票。
+【原标题】Musk Blames Tycoon for Stalling Satellite Internet Access in India
+【发布时间】2026-10-14T13:41:22.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html
+
+------------------------------
+
+5. 中国出口激增，贸易盈余有望创纪录
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】中国上月出口增长速度几乎是自全球金融危机结束以来的最快。
+【依据】新闻描述中国出口整体情况，未点名具体企业或股票。
+【原标题】China’s Exports Soar, Putting Its Trade Surplus on Track for a Record
+【发布时间】2026-10-14T13:29:45.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html
+
+------------------------------
+
+6. 燃气成本比一年前高三分之一
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】自伊朗战争开始以来，能源价格飙升，推高了美国的通胀。
+【依据】新闻涉及能源价格和地缘政治冲突，未明确提及具体能源公司股票。
+【原标题】Gas Costs a Third More Than a Year Ago
+【发布时间】2026-10-14T13:25:07.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/economy/gas-prices-inflation-cpi.html
+
+------------------------------
+
+7. 这里是最新消息。
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】这里是最新消息。
+【依据】内容为占位提示，无实际新闻信息，无法判断相关股票。
+【原标题】Here’s the latest.
+【发布时间】2026-10-14T13:19:33.000Z
+【链接】https://www.nytimes.com/live/2026/10/14/business/inflation-cpi-report-september/inflation-cpi
+
+------------------------------
+
+8. 伊朗加大攻击和胡塞-沙特冲突升级导致油价上涨
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】在能源市场动荡时期，越来越多的船只在霍尔莫兹海峡 transit 时被击中，胡塞武装和沙特阿拉伯互相发动攻击。
+【依据】新闻讨论油价受地缘政治影响，未点名具体油气公司股票。
+【原标题】Oil Prices Rise as Iran Steps Up Attacks and Houthi-Saudi Fighting Intensifies
+【发布时间】2026-10-14T13:08:40.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html
+
+------------------------------
+
+9. 好莱坞代理人和制片人推动恢复独立电视的黄金时代
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】一个新联盟寻求立法，迫使最大的娱乐和流媒体公司将其一半内容预算用于美国的独立制片人。
+【依据】新闻提及娱乐和流媒体行业，但未明确点名具体上市公司股票。
+【原标题】Hollywood Agents and Producers Push to Restore Glory Days of Indie TV
+【发布时间】2026-10-14T13:00:06.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/media/hollywood-agents-producers-ron-howard.html
+
+------------------------------
+
+10. OpenAI 被指控间谍行为对人工智能行业意味着什么
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】一名前 OpenAI 员工因被指控在人工智能巨头的办公室植入窃听设备而被逮捕，这凸显了行业的另一担忧。
+【依据】新闻涉及 OpenAI 及人工智能行业，但 OpenAI 为私营公司，无法确定相关公开股票。
+【原标题】What Allegations of Spying at OpenAI Mean for the A.I. Industry
+【发布时间】2026-10-14T12:39:24.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/dealbook/openai-espionage.html
