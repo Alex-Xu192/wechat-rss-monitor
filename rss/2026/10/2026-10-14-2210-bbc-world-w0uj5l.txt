@@ -1,0 +1,59 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-14T12:10:24.281Z - 2026-10-14T14:10:24.281Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. Starlink限制影响乌克兰前线行动，基辅表示
+2. 伯恩汉姆表示希望修复乌克兰与美国之间的关系
+3. 德国审判乌克兰人，指控其策划炸毁北溪管道
+4. 胡塞导弹击中阿美建筑，此前沙特领导的联盟对也门燃料库发动打击
+
+==============================
+
+1. Starlink限制影响乌克兰前线行动，基辅表示
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】埃隆·马斯克的系统使基辅能够保护乌克兰领空，并有效引导无人机袭击俄罗斯目标。
+【依据】新闻涉及Starlink（SpaceX卫星互联网服务）及其对乌克兰前线的影响，但未明确提及具体上市公司，SpaceX为私人持股，无法直接关联股票代码。
+【原标题】Starlink restrictions affecting Ukraine's front line operations, Kyiv says
+【发布时间】2026-10-14T13:11:17.000Z
+【链接】https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 伯恩汉姆表示希望修复乌克兰与美国之间的关系
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】这发生在首相和泽连斯基总统在唐宁街会晤之前。
+【依据】新闻主要涉及政治人物伯恩汉姆对乌克兰与美国关系的表态，未提及具体公司或行业，故无法判断相关股票。
+【原标题】Burnham says he wants to 'repair bridges' between Ukraine and US
+【发布时间】2026-10-14T13:09:51.000Z
+【链接】https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. 德国审判乌克兰人，指控其策划炸毁北溪管道
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】四年后的袭击事件中，塞尔希·库зне佐夫出庭受审，被指控参与毁掉俄罗斯向德国输送天然气管道的阴谋。
+【依据】新闻涉及北溪管道被爆炸事件及德国对涉嫌乌克兰公民的审判，虽然可能影响能源公司如俄罗斯的Gazprom，但新闻未直接点名具体上市公司，故无法判断。
+【原标题】Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines
+【发布时间】2026-10-14T12:27:00.000Z
+【链接】https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+4. 胡塞导弹击中阿美建筑，此前沙特领导的联盟对也门燃料库发动打击
+【相关股票】2222.SR
+【利好股票】无法判断
+【利空股票】2222.SR
+【摘要】沙特能源部称，胡塞的袭击在达赫兰的阿美总部综合体引发了「有限」的火灾。
+【依据】新闻提到胡塞导弹袭击沙特阿美（Saudi Aramco）总部，阿美为沙特上市石油公司，股票代码为2222.SR，袭击可能对其股价产生负面影响，故将其列为相关及负面股票。
+【原标题】Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot
+【发布时间】2026-10-14T12:26:13.000Z
+【链接】https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss
