@@ -1,0 +1,72 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-14T18:10:24.453Z - 2026-10-14T20:10:24.453Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 选举更新：德克萨斯州参议院竞选激烈；特朗普将在亚利桑那和蒙大拿举行集会 - 《纽约时报》
+2. CNN、MS Now 和 Politico 暂时战胜白宫 - NPR
+3. Apple 在 Apple TV 4K 上错失机遇 - The Verge
+4. SpaceX 火箭发射导致壮观的“水母云”在美国东海岸可见 - The Guardian
+5. 'Yikes'：CoreWeave 股票因债券收益问题暴跌，CEO 责怪市场‘非理性’ - Yahoo Finance
+
+==============================
+
+1. 选举更新：德克萨斯州参议院竞选激烈；特朗普将在亚利桑那和蒙大拿举行集会 - 《纽约时报》
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】选举更新：德克萨斯州参议院竞选激烈；特朗普将在亚利桑那和蒙大拿举行集会。纽约时报
+【依据】新闻未明确提及股票相关信息，无法判断相关股票。
+【原标题】Election Updates: Polls Show Texas Senate Race Tightens; Trump to Rally in Arizona and Montana - The New York Times
+【发布时间】2026-10-14T19:37:49.000Z
+【链接】https://news.google.com/rss/articles/CBMidkFVX3lxTE4wNmdtWGQxTVkyNlVEWmd2Yldza3pvd0NpYkp3bHFsWlcxbkNUeTdIQi1qWGlnNlkyQ1k4ZlFuUDdEX3FSRnVUNHBGWUt5el8tT0FGbHVaVjNOVU9STHlrZEV6c3M0TmVCakNCVGo2QlFXYWNxZWc?oc=5
+
+------------------------------
+
+2. CNN、MS Now 和 Politico 暂时战胜白宫 - NPR
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】CNN、MS Now 和 Politico 暂时战胜白宫。NPR
+【依据】新闻未明确提及股票相关信息，无法判断相关股票。
+【原标题】CNN, MS NOW and Politico prevail against White House — for now - NPR
+【发布时间】2026-10-14T19:01:09.000Z
+【链接】https://news.google.com/rss/articles/CBMidEFVX3lxTE5tUDlVUzVfcXU3VERkQU84UllFVjg4ekFWREo3TmFRajkzaFk0UEZScWJnTE9sRDFnb1M3R0gtVVVqQkt6c1F1X05mSjJsa3ExZmJYblBSM1lEUGVRSmZxb3IyLTB4RGdvRkRxY2F3YjQ4bUt4?oc=5
+
+------------------------------
+
+3. Apple 在 Apple TV 4K 上错失机遇 - The Verge
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Apple 在 Apple TV 4K 上错失机遇。The Verge
+【依据】新闻未明确提及股票相关信息，无法判断相关股票。
+【原标题】Apple missed an opportunity with the Apple TV 4K - The Verge
+【发布时间】2026-10-14T18:38:59.000Z
+【链接】https://news.google.com/rss/articles/CBMic0FVX3lxTE5MTkk2eE9lNlVwNXJLMl9tLXJFTERPYk4xai1mY0RpU0dMazFvWi1ldlRXS0YzRWstTUhJUVQ5OXJmZm5KejRGMnRZOWVmbmhFNTNZbVRydXA3QXU4bGo3LWwwQUd2c2kxNGhLcjlHWm44T2s?oc=5
+
+------------------------------
+
+4. SpaceX 火箭发射导致壮观的“水母云”在美国东海岸可见 - The Guardian
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】SpaceX 火箭发射导致壮观的“水母云”在美国东海岸可见。卫报
+【依据】新闻未明确提及股票相关信息，无法判断相关股票。
+【原标题】SpaceX rocket launch causes stunning ‘jellyfish cloud’ visible off US east coast - The Guardian
+【发布时间】2026-10-14T18:16:00.000Z
+【链接】https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzg5WF95OVh5dmpfZ1RfTl95Q2w1eUd3dDQtVEhNZF9CS29NbDB1S21GTVQ0RmVWZVIwWHItaDVCM2ZDRVgyVnVtOEFGaHQ1em9vNHFmd2lWSlF2aG1NSjg4WFEtSWRfQkU0YWQ2MVVITmV6enhHZWoxT2FTQ2ZOWUR6MzZWOGwxWGxvbw?oc=5
+
+------------------------------
+
+5. 'Yikes'：CoreWeave 股票因债券收益问题暴跌，CEO 责怪市场‘非理性’ - Yahoo Finance
+【相关股票】CoreWeave
+【利好股票】无法判断
+【利空股票】CoreWeave
+【摘要】'Yikes'：CoreWeave 股票因债券收益问题暴跌，CEO 责怪市场‘非理性’。Yahoo Finance
+【依据】新闻明确提到 CoreWeave 股票因债券收益问题暴跌，属于负面影响。
+【原标题】'Yikes': CoreWeave stock tanks on bond yield woes, CEO blames market 'irrationally' - Yahoo Finance
+【发布时间】2026-10-14T18:14:59.000Z
+【链接】https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOHJqcHd6ckR2cjV3VVdlQUpkM0sxel90SERUVGFMRWFQcGc2OUd6TDZDdkNuOFVTOHR6S3AxN19MTEt6NGtVV1p5aGE5dTdRWjVwbkIzWjJrc3B3cWQyZlU5cTVwd3Y3X0xqa3FFMGU2MjVOMEdLVERXTDNRTW56Y3ppaTV3QnhYd3V1S1FyTUZENlN1UHpfcWw3Um9RREU3TWxRcGJNbmJKMENrcFM0cl80QXBiZUZrWXF2MHk1djBHNzd5aHJOZUdSamRPME9rSUpz?oc=5
