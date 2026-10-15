@@ -1,0 +1,98 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-14T22:10:36.895Z - 2026-10-15T00:10:36.895Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 纳斯达克因通胀数据走高而大幅下跌，引发加息担忧
+2. 伊朗袭击导致霍尔木兹海峡两艘船只沉没
+3. 佛罗里达州男子因2011年前未婚妻失踪案被捕，面临谋杀指控
+4. 伊尔汉·奥马尔的手机被扣押，亲属在刑事调查中被传唤，消息人士称
+5. OpenAI员工被指控在办公室安装窃听设备后预订前往沙特阿拉伯的单程机票
+6. Anthropic第三季度收入飙升至168亿美元：报告
+7. CoreWeave股价暴跌。信用市场发出警告信号
+
+==============================
+
+1. 纳斯达克因通胀数据走高而大幅下跌，引发加息担忧
+【相关股票】纳斯达克指数
+【利好股票】无法判断
+【利空股票】纳斯达克指数
+【摘要】纳斯达克因通胀数据走高而大幅下跌，引发加息担忧
+【依据】新闻指出纳斯达克指数大幅下跌，原因是通胀数据走高引发加息担忧，这反映出股市整体承压，因此对纳斯达克指数构成负面影响。
+【原标题】Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Reuters
+【发布时间】2026-10-14T23:33:39.000Z
+【链接】https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5
+
+------------------------------
+
+2. 伊朗袭击导致霍尔木兹海峡两艘船只沉没
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】伊朗袭击导致霍尔木兹海峡两艘船只沉没
+【依据】新闻报道伊朗袭击导致霍尔木兹海峡两艘船只沉没，可能影响原油供应和航运股票，但未明确说明具体公司或行业走向，故无法判断股票影响。
+【原标题】Iranian attacks sink two ships in Strait of Hormuz - The Washington Post
+【发布时间】2026-10-14T23:30:55.000Z
+【链接】https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVg0eWh4OTZ1NG5IR1M1ZWJJejUxUncyYVVWeHB3QTdHaHYzUnRDOHBpaFpEZldsb0RNZG5SNVZDMWJIVUV6U0JZRVhLSmdtWEZfSnpGSDlXWVU1UlRRSF9wT0JSbktPRTRWT2dkazNCSmJoWDBaUl9wZEI3bjVpLUNZS2ZDWW9IQk9oUndRNU1qYUpHclhnUzhVYVU1RE0?oc=5
+
+------------------------------
+
+3. 佛罗里达州男子因2011年前未婚妻失踪案被捕，面临谋杀指控
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】佛罗里达州男子因2011年前未婚妻失踪案被捕，面临谋杀指控
+【依据】新闻涉及佛罗里达州一名男子因谋杀罪被捕，与股票、公司或行业无关，故无法判断。
+【原标题】Florida man arrested on murder charge in ex-fiancée's 2011 disappearance - CBS News
+【发布时间】2026-10-14T22:51:12.000Z
+【链接】https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTWNnT0RuNnU4WThDck1WTmlBbVI5VWU1QUFicXFrWmlZRzM1YjFMTHVwQ25VLUVNSE8ydnRGaUZFejhJQXdmbkxLajdRc3dNTjV2UzNjaFJLWmk1ZXlyMmcxSE1VOFJNVy1HTFJUX1RPWHJuNVQtUGdaQnV2dkJzRjZLd0I3SldJN1JCdkZUMUlLeG82bzBMbnd2RGs5UUtKUkpmSmk4VngyZjZGUUJLY1NCeDVUU1pKRFBaTmhDTC0?oc=5
+
+------------------------------
+
+4. 伊尔汉·奥马尔的手机被扣押，亲属在刑事调查中被传唤，消息人士称
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】伊尔汉·奥马尔的手机被扣押，亲属在刑事调查中被传唤，消息人士称
+【依据】新闻涉及美国国会议员伊尔汉·奥马尔的手机被扣押，属政治新闻，未提及公司或股票，故无法判断。
+【原标题】Ilhan Omar’s phone seized and relatives subpoenaed in criminal inquiry, source says - The Guardian
+【发布时间】2026-10-14T22:22:00.000Z
+【链接】https://news.google.com/rss/articles/CBMilwFBVV95cUxPSmxJYVNyVzk0TVpjbU9Ea3FOMndGeGE5Vk5felFlYTYtaTBNVGpmYlAzVFd4WVY2WDBYNGdtZ3Q4UTktN1BBbDJVX3ZyUUZINFZWMTFpNUZGcjFHdk11ZEljQ0laME9qMkNhN01sajRVU29DUUQ2c2l3SG5HR203Z2pyZTdKTmJtQmJPZHY1NDA2MXBIVGtJ?oc=5
+
+------------------------------
+
+5. OpenAI员工被指控在办公室安装窃听设备后预订前往沙特阿拉伯的单程机票
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】OpenAI员工被指控在办公室安装窃听设备后预订前往沙特阿拉伯的单程机票
+【依据】新闻涉及OpenAI员工被指控在办公室安装窃听设备后预订前往沙特阿拉伯的机票，OpenAI为私营公司，未涉及公开交易的股票，故无法判断。
+【原标题】OpenAI employee accused of bugging office booked one-way ticket to Saudi Arabia - Financial Times
+【发布时间】2026-10-14T22:19:48.000Z
+【链接】https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmtHYm1YMVdnQ3pLY2FuRGNMX3hCVzNhc2k1SVJLa1VQQnJZanVFaTAxQlBpcjY1M21uc1R1WnhubTdibzVGeXhWcVpTeHJCb2hJLW5OaDZiSkVZU29NMmxtVWtvaGlBTGJTeDBpbzU2YnFvU2g5TkE5RERYM2JpakpsQXc?oc=5
+
+------------------------------
+
+6. Anthropic第三季度收入飙升至168亿美元：报告
+【相关股票】人工智能
+【利好股票】人工智能
+【利空股票】无法判断
+【摘要】Anthropic第三季度收入飙升至168亿美元：报告
+【依据】新闻称Anthropic第三季度收入达168亿美元，显著增长，表明人工智能行业景气，可能利好相关人工智能概念股。
+【原标题】Anthropic Q3 revenue climbs to $16.8 billion: Report - Yahoo Finance
+【发布时间】2026-10-14T22:16:19.000Z
+【链接】https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2pzTHJjWlBCcmx0RU9QNnBBLW16ZmNLS0RqMHc4NlgyalZhU09Eel85SDFTLWlpVTVQVTZYT1AtTUV2MXVWVnNyU3VsZmVyMVBaYzVuMDlYNnNyUnhzaUM1U3YyVklEVVZKSVBuZ25ZSllpRmZTbnRHdDZ0ekZCQ0hxaUNONXpYa24tUEtYNUxtWWhXTVhRSzRXSWhOMkh2THc0LWQtbTRKQjZJbGc?oc=5
+
+------------------------------
+
+7. CoreWeave股价暴跌。信用市场发出警告信号
+【相关股票】CoreWeave
+【利好股票】无法判断
+【利空股票】CoreWeave
+【摘要】CoreWeave股价暴跌。信用市场发出警告信号
+【依据】新闻指出CoreWeave股价暴跌，且信用市场发出警告信号，直接表明该公司股票表现疲弱，构成负面影响。
+【原标题】CoreWeave Stock Sinks. The Credit Market Is Flashing a Warning Sign. - Barron's
+【发布时间】2026-10-14T22:11:00.000Z
+【链接】https://news.google.com/rss/articles/CBMieEFVX3lxTFBvd3VrcEJNdlpYclptNE9EVFdQOEFUV3NOel9JaXBqOThVVDRTSVZTMklhc2xLaVljZVZ5amJmeE5KMUhoYVpKYm5CSTBtMXhxNG5KMHgwTm1CNXVFaGllcE0ybEpYaTZiSjdmZnpDUU5WTkhVNllKaQ?oc=5
