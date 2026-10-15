@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-15T10:16:13.957Z - 2026-10-15T12:16:13.957Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. OpenAI 间谍指控对人工智能行业的影响
+2. 海湾遇害水手家属艰难寻求赔偿与了结
+
+==============================
+
+1. OpenAI 间谍指控对人工智能行业的影响
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】一名被指控在人工智能巨头办公室植入窃听装置的OpenAI员工被逮捕，这为行业敲响了另一个警钟。
+【依据】文章涉及人工智能行业及OpenAI公司，但未明确提及具体上市公司或其股票代码，故无法判断相关股票。
+【原标题】What Allegations of Spying at OpenAI Mean for the A.I. Industry
+【发布时间】2026-10-15T11:58:27.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/dealbook/openai-espionage.html
+
+------------------------------
+
+2. 海湾遇害水手家属艰难寻求赔偿与了结
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】霍尔姆斯海峡附近的袭击已导致至少25名水手丧生。他们的幸存者仍在震惊中。
+【依据】文章讨论了霍尔姆斯海峡地区的袭击事件及遇难水手家属的赔偿问题，涉及地区但未点名具体公司或股票，故无法判断相关股票。
+【原标题】Families of Sailors Killed in Gulf Struggle for Compensation and Closure
+【发布时间】2026-10-15T10:54:39.000Z
+【链接】https://www.nytimes.com/2026/10/15/business/iran-war-hormuz-sailors-dead-compensation.html
