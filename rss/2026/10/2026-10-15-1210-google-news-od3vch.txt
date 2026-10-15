@@ -1,0 +1,33 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-15T02:10:23.256Z - 2026-10-15T04:10:23.256Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 伊朗袭击导致两艘船只在霍尔穆兹海峡沉没
+2. 关键全垒打使酿酒师仅差一胜即时隔44年首次闯入世界大赛
+
+==============================
+
+1. 伊朗袭击导致两艘船只在霍尔穆兹海峡沉没
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】伊朗袭击导致两艘船只在霍尔穆兹海峡沉没 华盛顿邮报
+【依据】原标题为英文，已翻译为简体中文标题；摘要同样翻译；新闻未明确提及具体公司、股票或行业，无法判断相关股票，故相关及正负面股票均设为[无法判断]。
+【原标题】Iranian attacks sink two ships in Strait of Hormuz - The Washington Post
+【发布时间】2026-10-15T03:36:29.000Z
+【链接】https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVg0eWh4OTZ1NG5IR1M1ZWJJejUxUncyYVVWeHB3QTdHaHYzUnRDOHBpaFpEZldsb0RNZG5SNVZDMWJIVUV6U0JZRVhLSmdtWEZfSnpGSDlXWVU1UlRRSF9wT0JSbktPRTRWT2dkazNCSmJoWDBaUl9wZEI3bjVpLUNZS2ZDWW9IQk9oUndRNU1qYUpHclhnUzhVYVU1RE0?oc=5
+
+------------------------------
+
+2. 关键全垒打使酿酒师仅差一胜即时隔44年首次闯入世界大赛
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】关键全垒打使酿酒师仅差一胜即时隔44年首次闯入世界大赛 MLB.com
+【依据】原标题为英文，已翻译为简体中文标题；摘要同样翻译；新闻仅提及棒球队酿酒师（Milwaukee Brewers）未涉及具体上市公司或股票，无法判断相关股票，故相关及正负面股票均设为[无法判断]。
+【原标题】Clutch homers have Brewers 1 win away from 1st World Series appearance in 44 years - MLB.com
+【发布时间】2026-10-15T03:20:15.000Z
+【链接】https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vQ1NEUUJma2FCOFg0NUQ1R3ZwckhjY2JsZXdHTGFkdUVWN2xmTFcyZGJNTi1GY2tjN3VjdlM4Mm4ydjE1eHBfT21qSWdpYUd4MVBidENhbWdkNEtZcFJKbWMyMA?oc=5
