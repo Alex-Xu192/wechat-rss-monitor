@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-15T04:10:24.234Z - 2026-10-15T06:10:24.234Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 马斯克称美国政府可能在减慢乌克兰无人机速度
+2. Anthropic 向投资者指出收入激增，股市首发前夕
+
+==============================
+
+1. 马斯克称美国政府可能在减慢乌克兰无人机速度
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】乌克兰表示 Starlink 访问有所改善，但仍面临速度限制，这正在干扰其战场“任务”。
+【依据】新闻仅提及马斯克和美国政府对乌克兰无人机速度的影响，未明确涉及具体上市公司、行业或政策，无法判断相关股票。
+【原标题】Musk says US government may be behind slowdown of Ukraine drone speeds
+【发布时间】2026-10-15T04:30:08.000Z
+【链接】https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. Anthropic 向投资者指出收入激增，股市首发前夕
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】与此同时，一些投资者对用于AI基础设施的支出金额产生了担忧。
+【依据】新闻仅提及Anthropic的收入增长和即将进行的股票市场首次发行，未明确指出具体受影响的上市公司或行业，无法判断相关股票。
+【原标题】Anthropic flags revenue surge to investors ahead of stock market debut
+【发布时间】2026-10-15T04:19:17.000Z
+【链接】https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss
