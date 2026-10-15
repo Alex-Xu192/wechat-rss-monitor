@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-15T00:11:54.688Z - 2026-10-15T02:11:54.688Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Bank of America 因洗钱监管松懈被罚 12 亿美元
+2. Musk 指责一位大亨导致印度卫星互联网接入受阻
+
+==============================
+
+1. Bank of America 因洗钱监管松懈被罚 12 亿美元
+【相关股票】BAC
+【利好股票】无法判断
+【利空股票】BAC
+【摘要】联邦监管机构表示，该行在未尽适当注意的情况下放行了可疑交易。
+【依据】新闻明确点出美国银行因洗钱监管不力被罚，这对其股票构成负面影响。
+【原标题】Bank of America Fined $1.2 Billion for Lax Money-Laundering Oversight
+【发布时间】2026-10-15T01:54:40.000Z
+【链接】https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html
+
+------------------------------
+
+2. Musk 指责一位大亨导致印度卫星互联网接入受阻
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】随着 Starlink 寻求在印度运营的许可，新德里最近的一场抗议表明当局可以迅速切断移动互联网接入。
+【依据】新闻涉及马斯克及其星链项目在印度的受阻情况，但未明确指向具体可交易的股票，无法判断相关股票影响。
+【原标题】Musk Blames Tycoon for Stalling Satellite Internet Access in India
+【发布时间】2026-10-15T01:52:59.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html
