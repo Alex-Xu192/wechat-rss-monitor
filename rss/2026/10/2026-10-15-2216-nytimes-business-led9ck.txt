@@ -1,0 +1,98 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-15T12:16:56.615Z - 2026-10-15T14:16:56.615Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 中期选举可能将爱泼斯坦丑闻的焦点转向银行的角色
+2. 科技股暴跌，因为对人工智能支出的怀疑加剧
+3. 能源部在异常高温中发布紧急命令
+4. Shook Research 在福布斯丑闻后更名为 Veriant
+5. 'Neocloud' 清盘的后续影响
+6. 尽管船只袭击激增，海湾石油仍在流动
+7. 特斯拉发布2026款Roadster，售价至少20万美元的电动跑车
+
+==============================
+
+1. 中期选举可能将爱泼斯坦丑闻的焦点转向银行的角色
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】鉴于重新夺回国会控制权的目标，民主党正在提出一项法案，旨在让银行对其处理杰弗里·爱泼斯坦财务的方式负责。
+【依据】新闻涉及银行行业但未点名具体公司，无法确定相关股票。
+【原标题】Midterms Could Shift Focus of Epstein Abuse to Banks’ Role
+【发布时间】2026-10-15T14:05:02.000Z
+【链接】https://www.nytimes.com/2026/10/15/business/epstein-banks-midterm-elections.html
+
+------------------------------
+
+2. 科技股暴跌，因为对人工智能支出的怀疑加剧
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】科技股暴跌，带头是韩国基准指数的急剧下跌，对飙升的人工智能支出和顽固通胀的担忧引发了抛售。
+【依据】新闻提及科技股下跌和人工智能支出担忧，但未指明具体公司，无法判断相关股票。
+【原标题】Tech Stocks Plunge as Doubts Over A.I. Spending Intensify
+【发布时间】2026-10-15T13:57:33.000Z
+【链接】https://www.nytimes.com/2026/10/15/business/chip-stocks-technology.html
+
+------------------------------
+
+3. 能源部在异常高温中发布紧急命令
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】该命令作为预防措施，允许电网运营商本周使用备用发电。目前未报告广泛停电。
+【依据】新闻涉及能源部紧急命令，但未点名具体能源公司，无法确定相关股票。
+【原标题】Energy Dept. Issues Emergency Order Amid Above-Average Temperatures
+【发布时间】2026-10-15T13:50:37.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html
+
+------------------------------
+
+4. Shook Research 在福布斯丑闻后更名为 Veriant
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】该公司以其财富顾问排名而闻名，在创始人承认向《福布斯》总编辑秘密支付600万美元后，加快了重新品牌化的步伐。
+【依据】新闻涉及公司更名但未说明其股票情况，无法判断相关股票。
+【原标题】Shook Research Changes Name to Veriant After Forbes Scandal
+【发布时间】2026-10-15T12:45:05.000Z
+【链接】https://www.nytimes.com/2026/10/15/business/media/shook-research-veriant-forbes.html
+
+------------------------------
+
+5. 'Neocloud' 清盘的后续影响
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】投资者新近担心如 CoreWeave 这样的人工智能基础设施公司的健康状况，这正在对更广泛的人工智能行业造成压力。
+【依据】新闻提及人工智能基础设施公司如 CoreWeave，但未明确具体上市公司，无法判断相关股票。
+【原标题】The Fallout From the ‘Neocloud’ Wipeout
+【发布时间】2026-10-15T12:30:05.000Z
+【链接】https://www.nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html
+
+------------------------------
+
+6. 尽管船只袭击激增，海湾石油仍在流动
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】航运运营商正面对霍尔木兹海峡的挑战，但风险高涨，运输成本飙升。
+【依据】新闻涉及海湾石油和航运风险，但未点名具体公司，无法判断相关股票。
+【原标题】Gulf Oil Is Still Flowing Despite a Surge in Attacks on Ships
+【发布时间】2026-10-15T12:24:20.000Z
+【链接】https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html
+
+------------------------------
+
+7. 特斯拉发布2026款Roadster，售价至少20万美元的电动跑车
+【相关股票】TSLA
+【利好股票】TSLA
+【利空股票】无法判断
+【摘要】埃隆·马斯克的公司以及其他汽车制造商如捷豹和宾利，正试图向那些通常偏好汽油动力豪华和性能的消费者销售售价极高的电动汽车。
+【依据】新闻明确提到特斯拉（TSLA）发布新款Roadster，利好特斯拉股票。
+【原标题】Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000
+【发布时间】2026-10-15T12:17:34.000Z
+【链接】https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html
