@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-14T22:12:37.583Z - 2026-10-15T00:12:37.583Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 能源部命令旨在应对中大西洋地区停电风险
+2. 争夺皮埃尔的买家在卢特尼克推动下失败
+3. 星盾是什么？SpaceX 的军事级卫星互联网服务，乌克兰依赖的
+
+==============================
+
+1. 能源部命令旨在应对中大西洋地区停电风险
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】此命令作为预防措施，允许电网运营商本周使用备用发电。未报告广泛停电。
+【依据】该新闻涉及美国能源部发布的紧急电力订单，旨在减轻中大西洋地区停电风险，属政策层面措施。
+【原标题】Energy Department Order Takes Aim at Mid-Atlantic Blackout Risk
+【发布时间】2026-10-14T23:17:50.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html
+
+------------------------------
+
+2. 争夺皮埃尔的买家在卢特尼克推动下失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】来自沙特显赫家族的莫塔赛姆·哈什oggi未能在周二截止日期前交付1亿美元定金以购买曼哈顿地标。
+【依据】新闻报道了沙特买家未能及时支付定金以购买曼哈顿地标皮埃尔酒店的事件，涉及房地产交易及个人财务情况。
+【原标题】Battle Over the Pierre Ends in Defeat for the Buyer Pushed by Lutnick
+【发布时间】2026-10-14T22:38:04.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/pierre-buyer-lutnick.html
+
+------------------------------
+
+3. 星盾是什么？SpaceX 的军事级卫星互联网服务，乌克兰依赖的
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】多年来，乌克兰武装部队一直依赖埃隆·马斯克的SpaceX开发的卫星通信服务。最近的限制阻碍了其战争努力。
+【依据】文章介绍了SpaceX的军事级卫星互联网服务Starshield在乌克兰战争中的应用及最近受到的限制，涉及卫星通信行业及地缘政治因素。
+【原标题】What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?
+【发布时间】2026-10-14T22:20:50.000Z
+【链接】https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html
