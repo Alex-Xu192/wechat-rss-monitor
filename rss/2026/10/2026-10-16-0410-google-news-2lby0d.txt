@@ -1,0 +1,72 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-15T18:10:25.025Z - 2026-10-15T20:10:25.025Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Dow climbs 500 points as investors shake off a tech sell-off, more hot inflation data: Live updates  CNBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Dow climbs 500 points as investors shake off a tech sell-off, more hot inflation data: Live updates - CNBC
+【发布时间】2026-10-15T20:01:00.000Z
+【链接】https://news.google.com/rss/articles/CBMid0FVX3lxTE9pUGoyb2Q2c1FvdW5RZUNXMGQ4Vk55SWZ1RGlEZ2xocGYwZkRlbGU5WUtNNzB0N1ZUdUxGank2bFFkcUpwVWtYcTNLUUhLUG12SUVpX0txZkdiamtWZXB0SHVQLW83dUM0cFI4YnpScHdmVmE3SjVv0gF8QVVfeXFMTnI4TmlaWHJ3endjbXZvUXlYOHRhV3lyb1lvNjNrYnVDVmYwUmxxQ0M4Vm42WDR2WUxZWE5CRnRhaExSY1prYkNlOUNId3R6akpzcUdlUUxfZmEzdFZCZnc4bjAwZDhYVnpVR1lBMTNHa0JGREd3NUQtaDlUeA?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump Administration Sues California Over Voter Rolls  The New York Times
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Trump Administration Sues California Over Voter Rolls - The New York Times
+【发布时间】2026-10-15T19:21:11.000Z
+【链接】https://news.google.com/rss/articles/CBMimwFBVV95cUxQVXBxUzMxZUkyY0piNV9WUXpZbm9NTjZUVVhrd2hhNjc5a0ZoMmc4VjB1N2g3cFlGcE5uT0Y1bEdiQzc0dGVXUERaWDBJd2N2ZHhpY21ELUQza0FlbXdZN2ItRHQ4aEh0TW9tZkpYZXpGN242cWpuc0U3ekNHVmFUTmVhLXJuNEhzTDNkVW1CaTdkaDE3NGtaNmlydw?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Microplastics in water aren’t inert and make damaging chemicals on their own  Ars Technica
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】Microplastics in water aren’t inert and make damaging chemicals on their own - Ars Technica
+【发布时间】2026-10-15T18:39:17.000Z
+【链接】https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmNoaGdrclFtV1FtRVV5UmRrb2phNHdZVWp2QnZJRXZDYlpTTVRzblpKM2Q0ejBVYjJQa29fN29pczFEeE9JN2VkYVNKN2NTSXlsVUtMRG5YMEtHaDQxYWg2RE1PRkdfcGJXZ3U3SmpxbTdIUU90UkdvUUs5TF9rNzJlVDE2NFVZYzZ0WUNLZHl5SmdnV2tmbGgwTjkzWl9ldUtMSWhyT2FZVU5IZm41bWhaMUt6VzQ?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts  NBC News
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts - NBC News
+【发布时间】2026-10-15T18:28:25.000Z
+【链接】https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】OpenAI warns employees about foreign ‘honey pots’ offering sex to steal AI secrets  New York Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Connection error."}
+【原标题】OpenAI warns employees about foreign ‘honey pots’ offering sex to steal AI secrets - New York Post
+【发布时间】2026-10-15T18:24:00.000Z
+【链接】https://news.google.com/rss/articles/CBMivAFBVV95cUxNaWZJS3NyamJTZmJrU0M0ZkpnLVAyY0xRZ0xzRWJmd1liWG9tMzZrZDZGSUMzUlVHZXV4TGhKQy1Kb2t6eGxzdTN0TEN4aUhKMkJ3bUxjeEVYOW15b2VTWHU5U0FQNFEyVTZINGNkbDE2X200WFpuQ29Lb2gwOGF6YzdURWJlNTFGWXZmemk3UDNham50QlZmUXh5dE14UHFsbnIyTlhJTUt0RmdvellRXzZhbnZqQnRxWFBxbg?oc=5
