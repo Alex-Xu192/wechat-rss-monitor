@@ -1,0 +1,98 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-16T08:13:32.288Z - 2026-10-16T10:13:32.288Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 印尼股市因MSCI威胁将其从指数中剔除而暴跌
+2. 感觉为酒店多付钱？新诉讼指责Expedia
+3. 特斯拉发布2026年Roadster，售价至少20万美元的电动跑车
+4. 汉莎航空最后一班A346航班标志着航空爱情故事的结束
+5. 特朗普未能为这些选民降低药价
+6. 在欢迎中国电动汽车后，该国正付出代价
+7. 长寿医学是否正在成为主流？
+
+==============================
+
+1. 印尼股市因MSCI威胁将其从指数中剔除而暴跌
+【相关股票】印尼股票
+【利好股票】无法判断
+【利空股票】印尼股票
+【摘要】MSCI这一有影响力的指数提供商可能的降级加深了投资者对印尼总统普拉博沃·苏比安托经济政策的信心危机。
+【依据】新闻明确提到印尼股票因MSCI可能下调而暴跌，因此可判断印尼股票受负面影响。
+【原标题】Indonesian Stocks Plunge as MSCI Threatens to Drop Market from Indexes
+【发布时间】2026-10-16T09:29:01.000Z
+【链接】https://www.nytimes.com/2026/10/16/business/indonesia-stocks-economy.html
+
+------------------------------
+
+2. 感觉为酒店多付钱？新诉讼指责Expedia
+【相关股票】EXPE
+【利好股票】无法判断
+【利空股票】EXPE
+【摘要】该预订巨头被指控违反联邦反垄断法，并迫使数百万客户在住宿上超支多达30%。
+【依据】新闻涉及Expedia公司被诉违反反垄断法并导致消费者过度消费，可判断对Expedia产生负面影响。
+【原标题】Feel Like You’re Overpaying for Hotels? Blame Expedia, a New Lawsuit Says.
+【发布时间】2026-10-16T09:04:20.000Z
+【链接】https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html
+
+------------------------------
+
+3. 特斯拉发布2026年Roadster，售价至少20万美元的电动跑车
+【相关股票】TSLA
+【利好股票】TSLA
+【利空股票】无法判断
+【摘要】埃隆·马斯克的公司以及捷豹、宾利等其他汽车制造商正试图向通常偏好燃油豪华和性能的消费者销售价格昂贵的电动汽车。
+【依据】新闻聚焦特斯拉新车型发布，属于公司正面产品新闻，可判断对特斯拉股票有潜在正面影响。
+【原标题】Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000
+【发布时间】2026-10-16T09:04:12.000Z
+【链接】https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html
+
+------------------------------
+
+4. 汉莎航空最后一班A346航班标志着航空爱情故事的结束
+【相关股票】LHA
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】汉莎航空这架独特的飞机拥有加长机身、四引擎以及楼下厕所，拥有众多忠实粉丝。如今，作为少数仍在执飞该机型的航空公司之一，汉莎正将其退役。
+【依据】新闻仅提到汉莎航空退役一机型，未明确表明对其股票的正面或负面影响，故无法判断。
+【原标题】Lufthansa’s Final A346 Flight Marks the End of an Aviation Love Story
+【发布时间】2026-10-16T09:02:12.000Z
+【链接】https://www.nytimes.com/2026/10/16/travel/lufthansa-a340-600-airbus-retires.html
+
+------------------------------
+
+5. 特朗普未能为这些选民降低药价
+【相关股票】制药股
+【利好股票】制药股
+【利空股票】无法判断
+【摘要】特朗普总统一直在推广降低药价的努力，但许多美国民众未看到处方药和保险费用上涨带来的缓解。
+【依据】新闻指出特朗普未能降低药价，暗示药品价格可能维持高位，有利于制药公司盈利，故可判断制药股票可能受益。
+【原标题】Trump Hasn’t Lowered Drug Prices for These Voters
+【发布时间】2026-10-16T09:01:22.000Z
+【链接】https://www.nytimes.com/2026/10/16/business/midterms-election-trump-drug-prices-affordability.html
+
+------------------------------
+
+6. 在欢迎中国电动汽车后，该国正付出代价
+【相关股票】泰国汽车股、中国EV股
+【利好股票】中国EV股
+【利空股票】泰国汽车股
+【摘要】泰国曾推出补贴和减税以鼓励电动汽车采用。如今，它正试图重新校准，因担心对其工业格局的威胁而感到警惕。
+【依据】新闻提到泰国推动EV采用后面临产业威胁，暗示泰国传统汽车可能受负面影响，而中国EV企业可能受益。
+【原标题】After Welcoming China’s Electric Vehicles, This Country Is Paying the Price
+【发布时间】2026-10-16T09:00:49.000Z
+【链接】https://www.nytimes.com/2026/10/16/business/china-ev-thailand-cars.html
+
+------------------------------
+
+7. 长寿医学是否正在成为主流？
+【相关股票】长寿医药股
+【利好股票】长寿医药股
+【利空股票】无法判断
+【摘要】随着主要卫生系统开设自身项目，长寿医学正获得可信度并变得更易获取。
+【依据】新闻讨论长寿医学获得主流认可，表明相关行业前景向好，可判断长寿医药股票可能受到正面影响。
+【原标题】Is Longevity Medicine Going Mainstream?
+【发布时间】2026-10-16T09:00:20.000Z
+【链接】https://www.nytimes.com/2026/10/16/business/longevity-medicine-mainstream.html
