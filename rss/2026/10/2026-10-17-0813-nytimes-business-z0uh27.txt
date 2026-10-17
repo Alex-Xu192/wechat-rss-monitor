@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-16T22:13:45.238Z - 2026-10-17T00:13:45.238Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. Netflix 因裁员和突发解雇匆忙重写叙事
+2. MLB 季后赛广告邀请悉尼·斯威尼和梅根·福克斯引发反弹
+
+==============================
+
+1. Netflix 因裁员和突发解雇匆忙重写叙事
+【相关股票】NFLX
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】尽管收入和利润强劲，该流媒体服务裁减了 1,000 个岗位并解雇了首席内容官。股价下跌和观众参与度下降是原因。
+【依据】新闻明确提到了公司 Netflix，属于上市公司，股票代码为 NFLX，因此可以判断相关股票。但未明确说明涨跌方向，故正面和负面股票判断为无法判断。
+【原标题】Netflix Hurries to Rewrite Its Narrative With Layoffs and a Sudden Firing
+【发布时间】2026-10-16T23:22:21.000Z
+【链接】https://www.nytimes.com/2026/10/16/business/media/netflix-layoffs-bela-bajaria.html
+
+------------------------------
+
+2. MLB 季后赛广告邀请悉尼·斯威尼和梅根·福克斯引发反弹
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】悉尼·斯威尼宣传赌博平台和梅根·福克斯代言男性增强产品的广告引起了粉丝甚至运动员的不满。谁在负责？
+【依据】新闻提到了 MLB（大联盟棒球）及明星，但未涉及明确的上市公司或股票代码，无法判断相关股票。
+【原标题】M.L.B. Playoff Ads With Sydney Sweeney and Megan Fox Draw Backlash
+【发布时间】2026-10-16T23:04:17.000Z
+【链接】https://www.nytimes.com/2026/10/16/business/media/mlb-playoffs-commercials-sydney-sweeney-novig.html
