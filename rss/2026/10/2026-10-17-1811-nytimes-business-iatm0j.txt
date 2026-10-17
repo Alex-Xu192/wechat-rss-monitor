@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-17T08:11:25.785Z - 2026-10-17T10:11:25.785Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 揭露伊丽莎白·霍尔姆斯的记者出现在纳撒尼尔·菲德勒的纪录片中
+2. 尽管在特朗普时期利润激增，企业税收仍在下降
+3. 谷物真的能健康吗？大公司正在尝试。
+4. 是时候挑选医保计划了，而今年这一点尤为重要
+5. 人工智能借贷中的薄弱环节开始显露
+
+==============================
+
+1. 揭露伊丽莎白·霍尔姆斯的记者出现在纳撒尼尔·菲德勒的纪录片中
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】霍尔姆斯女士将《你可以看到一切》纪录片的制作者以及全世界其他人交给了一种显微镜，以便观察和剖析她的谎言。
+【依据】该新闻聚焦于纪录片报道 Theranos 创始人 Elizabeth Holmes 的欺诈行为，未提及具体上市公司或行业，故无法判断相关股票。
+【原标题】The Reporter Who Exposed Elizabeth Holmes on Nathan Fielder’s Documentary
+【发布时间】2026-10-17T09:02:11.000Z
+【链接】https://www.nytimes.com/2026/10/17/business/theranos-fraud-elizabeth-holmes-documentary.html
+
+------------------------------
+
+2. 尽管在特朗普时期利润激增，企业税收仍在下降
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】年度下降约为700亿美元。公司正在减掉数十亿美元的人工智能投资，利用了特朗普总统签署成为法律的减税政策。
+【依据】新闻讨论了特朗普时期的企业税收下降及公司利润增长，涉及税收政策和人工智能投资，但未点名具体公司，因而无法确定相关股票。
+【原标题】Corporate Tax Revenue Falls Even as Profits Soar Under Trump
+【发布时间】2026-10-17T09:02:09.000Z
+【链接】https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html
+
+------------------------------
+
+3. 谷物真的能健康吗？大公司正在尝试。
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】随着越来越多的美国人远离嗞啪声和糖分，该行业正试图利用当下对健康的痴迷。
+【依据】文章探讨谷物是否健康以及大公司的应对措施，仅泛指行业，未涉及具体上市公司，故无法判断相关股票。
+【原标题】Can Cereal Be Healthy? Big Companies Are Trying.
+【发布时间】2026-10-17T09:01:46.000Z
+【链接】https://www.nytimes.com/2026/10/17/dining/breakfast-cereal-healthy.html
+
+------------------------------
+
+4. 是时候挑选医保计划了，而今年这一点尤为重要
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】请务必在这年秋天阅读你的邮件——处方药计划和医疗保险优势计划的提供者网络将发生重大变化，这可能会让你花费更多。
+【依据】新闻提醒读者关注医保计划变动，涉及医疗保险行业政策，但未指明具体公司，因而无法判断相关股票。
+【原标题】It’s Time to Shop Medicare, and This Year, It’s Extra Important
+【发布时间】2026-10-17T09:01:27.000Z
+【链接】https://www.nytimes.com/2026/10/17/business/medicare-coverage-retirement.html
+
+------------------------------
+
+5. 人工智能借贷中的薄弱环节开始显露
+【相关股票】ORCL、9984.T
+【利好股票】无法判断
+【利空股票】ORCL、9984.T
+【摘要】CoreWeave、Oracle 和 SoftBank 的债务问题引发了人们对数据中心建设是否存在更广泛问题的质疑。
+【依据】文中点名 CoreWeave、Oracle 和 SoftBank 面临债务问题，其中 Oracle（股票代码 ORCL）和 SoftBank（9984.T）为上市公司，因此相关股票为 ORCL 和 9984.T，债务利空可能导致股价承压，故将其列为负面股票。
+【原标题】Weak Links Start to Show in A.I. Borrowing
+【发布时间】2026-10-17T09:00:51.000Z
+【链接】https://www.nytimes.com/2026/10/17/business/weak-links-start-to-show-in-ai-borrowing.html
