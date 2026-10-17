@@ -1,0 +1,20 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-17T04:10:23.927Z - 2026-10-17T06:10:23.927Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. 特朗普豁免多项针对俄罗斯的制裁，因新美国法律生效
+
+==============================
+
+1. 特朗普豁免多项针对俄罗斯的制裁，因新美国法律生效
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】特朗普表示，一项旨在惩罚莫斯科因其对乌克兰战争的新法律部分内容违背美国国家利益。
+【依据】原标题和摘要均为英文，已翻译为简体中文。新闻未提及具体公司、行业或股票，无法判断相关股票，因此将 relatedStocks、positiveStocks、negativeStocks 均设为 ["无法判断"]。
+【原标题】Trump waives several Russia sanctions as new US law takes effect
+【发布时间】2026-10-17T05:02:50.000Z
+【链接】https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss
