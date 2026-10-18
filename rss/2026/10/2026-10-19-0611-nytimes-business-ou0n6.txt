@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-18T20:11:45.464Z - 2026-10-18T22:11:45.464Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 伊丽莎白·霍姆斯纪录片《你可以看到一切》开场超过2000场售罄
+2. 特朗普向普京提供经济援助，希望俄罗斯回报
+
+==============================
+
+1. 伊丽莎白·霍姆斯纪录片《你可以看到一切》开场超过2000场售罄
+【相关股票】NFLX
+【利好股票】NFLX
+【利空股票】无法判断
+【摘要】“你可以看到一切”是一部关于特雷诺斯创始人伊丽莎白·霍姆斯的纪录片，尽管尚未广泛上映，却引起了巨大反响。Netflix 实现了票房里程碑。
+【依据】新闻明确提及Netflix公司及其票房里程碑，表明纪录片的成功可能带来正面影响。
+【原标题】Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows
+【发布时间】2026-10-18T21:55:14.000Z
+【链接】https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html
+
+------------------------------
+
+2. 特朗普向普京提供经济援助，希望俄罗斯回报
+【相关股票】XOM、CVX
+【利好股票】XOM、CVX
+【利空股票】无法判断
+【摘要】特朗普政府正在无视国会意愿，放宽新的俄罗斯制裁，担心高能源价格将导致共和党在下个月的选举中失利。
+【依据】新闻明确提及对俄制裁政策以及高能源价格的担忧，暗示能源行业（如埃克森美孚、雪佛龙）可能受益于油价上涨。
+【原标题】Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor
+【发布时间】2026-10-18T20:46:42.000Z
+【链接】https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html
