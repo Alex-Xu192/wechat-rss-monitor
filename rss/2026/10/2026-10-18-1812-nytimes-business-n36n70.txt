@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-18T08:12:16.265Z - 2026-10-18T10:12:16.265Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 解释经济的三张图表：选民前往投票站
+2. 俄克拉荷马家庭遭遇有史以来最热的夏天和电力危机
+3. 联合航空首席执行官表示不坐中间座位应付更多费用
+
+==============================
+
+1. 解释经济的三张图表：选民前往投票站
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】通胀居高不下，消费者支出强劲，而且一切似乎都取决于人工智能的发展。
+【依据】新闻讨论经济状况和选举，未提及具体公司或股票，故无法判断相关股票。
+【原标题】3 Charts That Explain the Economy as Voters Head to the Polls
+【发布时间】2026-10-18T09:00:50.000Z
+【链接】https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html
+
+------------------------------
+
+2. 俄克拉荷马家庭遭遇有史以来最热的夏天和电力危机
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】创纪录的高温、不断增长的用电需求以及电力危机正逼近努力保持灯光和空调运行的俄克拉荷马家庭。
+【依据】新闻讨论俄克拉荷马极端天气和电力危机，未提及具体公司或股票，故无法判断相关股票。
+【原标题】Oklahoma Families Faced the Hottest Summer Ever and an Electricity Crisis
+【发布时间】2026-10-18T09:00:32.000Z
+【链接】https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html
+
+------------------------------
+
+3. 联合航空首席执行官表示不坐中间座位应付更多费用
+【相关股票】UAL
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】联合航空首席执行官斯科特·柯比表示‘飞行飞机很昂贵’，并且机票价格可能还有上涨空间。
+【依据】新闻明确提到联合航空（United Airlines）及其首席执行官，因此相关股票为UA L（UAL）。新闻未明确指出该言论对股价的正面或负面影响，故无法判断正面或负面股票。
+【原标题】United’s C.E.O. Says It Should Cost More Not to Sit in the Middle Seat
+【发布时间】2026-10-18T09:00:17.000Z
+【链接】https://www.nytimes.com/2026/10/18/business/scott-kirby-united-airlines.html
