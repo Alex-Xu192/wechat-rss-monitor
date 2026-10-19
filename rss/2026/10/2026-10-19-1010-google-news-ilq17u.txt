@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-19T00:10:24.167Z - 2026-10-19T02:10:24.167Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Obama says Trump officials’ pursuit of Rep. Omar should ‘outrage all Americans’  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Obama says Trump officials’ pursuit of Rep. Omar should ‘outrage all Americans’ - The Washington Post
+【发布时间】2026-10-19T01:25:07.000Z
+【链接】https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVI5WXYxeGxhX3lWS1pMVkpNaGZrWmNMUGlvamZkMVN3eFRNQ1dCSUp2bnY4MUJrS3Q4Ymd4ZEdnV2ItaGtCMDZMVDZqcmhvX01ZUlk5bVB0WWVzODFUa25FSmJ1VzQ3ZFBTWFRZWW5FWHlHOVZzTmJPdF9wY0RacGpaYW8ySm04TmdudXowc2lkVC0xVFh4RlFfbmZHRUZYc0hEcWdBTlRyRDdWMnF3UHYwRHg3YnByaFZCckJhSTRjQQ?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump plans to begin DC golf course renovation in defiance of judge’s order  The Guardian
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump plans to begin DC golf course renovation in defiance of judge’s order - The Guardian
+【发布时间】2026-10-19T00:18:00.000Z
+【链接】https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ1NhS1lmelhfS2hqNDhMejlnVjVfeWNnQjBjZ3phTUJsMHlVcWlBM095aC1EWnU0TnZKdmtRek5mZHZUMnk1OG55Y2lJRDBVTVRldDZWTUNObmJGMTFCbHV6RE1vVjNQRkdoRmdQQnFGTjhZVGgxaEozRERsQlpqM3drR1B6QQ?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】All the Stars at the 2026 Victoria’s Secret Fashion Show: Nicole Kidman, Law Roach & More  Vogue
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】All the Stars at the 2026 Victoria’s Secret Fashion Show: Nicole Kidman, Law Roach & More - Vogue
+【发布时间】2026-10-19T00:11:09.000Z
+【链接】https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMzJBV1BMV3JpVWs5dkhoU0dUcm9CY0NDLXpqakVCVUl2bWFRZUljQjFpUHQwbno5b003QXV1X3RHOGR2Q3YtVUNxMThZRVBfSGFKLTZxM1dlUjZaVDkyTk1JUDhBX3YyRnF3X0xYMVNZZTJEdzlIbkRRU2Y5MVFLX0VDTG1QNzlQMXNB?oc=5
