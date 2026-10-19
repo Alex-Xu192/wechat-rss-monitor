@@ -1,0 +1,59 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-19T20:11:06.110Z - 2026-10-19T22:11:06.110Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Overnight curfews announced in parts of Paris and Nice after riots across France  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Overnight curfews announced in parts of Paris and Nice after riots across France - BBC
+【发布时间】2026-10-19T21:11:15.000Z
+【链接】https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpZklSWldWXzY3TzVZLUFfRUtuZkZoZEFNTWhFVTVKV2VvRDJrcVF1LU00Njk5TkdCSlI3NWc5Y3l4cF9PbndBcXJWTGpmYzBXSmF3NlVn?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Rams suffer several major injuries, including to WR Adams, who's out 6-10 weeks  ESPN
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Rams suffer several major injuries, including to WR Adams, who's out 6-10 weeks - ESPN
+【发布时间】2026-10-19T21:10:00.000Z
+【链接】https://news.google.com/rss/articles/CBMinwFBVV95cUxOb3ZMRXRHUWZ6U1dhOWVtZE9UdXF4QW1fLXdZVG9nMmYyMGkzRVgxLUVFeG5lbkhCLWstb0YxcVBIQWs5RzdYc3UzOHVPY3o5NHA4ekRKUnF0MGdCRUV0cUUxTE9HR0d4U05icW0tbXpDMGNRSFZ5NDhiaHZFRldfREpoX3oyOWlGNHhYWFBxQ1lKbW5kSU1PNDZRQ1dWZ00?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock Market Today: Nasdaq Rebounds at Open After Friday's Tech Selloff — Live Updates  WSJ
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Stock Market Today: Nasdaq Rebounds at Open After Friday's Tech Selloff — Live Updates - WSJ
+【发布时间】2026-10-19T21:00:00.000Z
+【链接】https://news.google.com/rss/articles/CBMihwFBVV95cUxPQW5PbUNuOElWRFZfcEhudE04Q0dZTzNGZzJ0QmJBejY0MG1JSlg4ZXM2WVB6QzdwQnlSS3l3VS1acGhkUjAzUUVVMnpMdUdKRzVZXzBwaFZ5bGlaT1pWMk1iME1ZZ2Zseks2QjVxS25KYXVUa3JmU0tNdUxEaWVpemo5MWNQZWM?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Try these 4 things for healthier knees  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Try these 4 things for healthier knees - The Washington Post
+【发布时间】2026-10-19T20:30:00.000Z
+【链接】https://news.google.com/rss/articles/CBMijwFBVV95cUxQb1hENmhOX1pac1FzU1E5dEFPS2tKLXhQZDJtNWpqMzBfdlNETTREQkY2YXJSYjhSVkJZazJhYVhkdmFVcUhja1o2bnJLejl6dG5Pdk81ZEdqblpKaEtqOU1zdXZFbGpKTll3TThiZnlYQ0VacGVFQjRCNW95S29uS1VLOFVxSl9TVjVZb09rZw?oc=5
