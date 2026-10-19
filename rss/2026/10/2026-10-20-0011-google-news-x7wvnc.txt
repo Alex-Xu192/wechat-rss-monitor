@@ -1,0 +1,124 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-19T14:11:17.247Z - 2026-10-19T16:11:17.247Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+9. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Reviews: What Do the Critics Think of Other Desert Cities on Broadway?  Playbill
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Reviews: What Do the Critics Think of Other Desert Cities on Broadway? - Playbill
+【发布时间】2026-10-19T15:46:32.000Z
+【链接】https://news.google.com/rss/articles/CBMingFBVV95cUxPN3NEYkRFTEVCbTF5dmt1dTgxbVpzdjVlVURBT1FkQzdXTDluYkxWVjh6b1RCa1B2RHI5S2t5MTdXY0gxSkJvNV84LVpfc0luOVVwaXZjdXBJUk9OY0JubXVfSW5aZ1JsdDlPMF92WDk4X3o1bHFTWHBUN3ZlemUtSXlsdkJ4U2FQTjFjRGozTVNOQm9VUThWVk5COFk1QQ?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】China’s economy grows faster than forecast after AI boom boosts exports  The Guardian
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】China’s economy grows faster than forecast after AI boom boosts exports - The Guardian
+【发布时间】2026-10-19T15:08:00.000Z
+【链接】https://news.google.com/rss/articles/CBMitwFBVV95cUxObjdWVVIyRU9UZ0V3aG1MMnRLM1hzQXRWZFZQeUxqbm1Ea0dhbUh5bVZrLWotbWZVOFlDVnZhRXRZY3dZQVkyR2JIZnlDaUxUcTJWaGpTbzhjanoyOXRIR1QxNE1udnY1ZnhNYUMzRDB0LUM2NDdRQ2dmSF9BcFZMS0cxYWhMa3p1RmxrMFlXYkZ3LVEwZGhrN0hKNGt1OEpweHVKdU8zb3pndjE4d1ItZjVsbXhoUEk?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock Market Today: Nasdaq Rebounds at Open After Friday's Tech Selloff — Live Updates  WSJ
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Stock Market Today: Nasdaq Rebounds at Open After Friday's Tech Selloff — Live Updates - WSJ
+【发布时间】2026-10-19T15:07:00.000Z
+【链接】https://news.google.com/rss/articles/CBMihwFBVV95cUxPQW5PbUNuOElWRFZfcEhudE04Q0dZTzNGZzJ0QmJBejY0MG1JSlg4ZXM2WVB6QzdwQnlSS3l3VS1acGhkUjAzUUVVMnpMdUdKRzVZXzBwaFZ5bGlaT1pWMk1iME1ZZ2Zseks2QjVxS25KYXVUa3JmU0tNdUxEaWVpemo5MWNQZWM?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】What's behind Egypt's move towards possible military involvement in Saudi-Yemen conflict?  Reuters
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】What's behind Egypt's move towards possible military involvement in Saudi-Yemen conflict? - Reuters
+【发布时间】2026-10-19T15:03:07.000Z
+【链接】https://news.google.com/rss/articles/CBMixwFBVV95cUxQVEFCaTJXdXlZR1NxZkpndXE3d0hRYWpmRUtBOXpXeTI3M2hUVnFSVVJrQm1NS29LLWlobDd4enF2OWxOY1h1SmJidXVlUksxeDdZdVMyZF9tVklTdWJiQzJZZzRNVnFEX0tMQUdCTW04WHhmdWdhQW42cERybkd1QzBDTHgxMklXU3dvbF9mbUt3a3RSb3NhZlpNbkpWcFNaWXZhMWE5TUkzTTVFMlI1YWV3NXJjb0lSMTRQVFNqbzFsRmZwRmtB?oc=5
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Try these 4 things for healthier knees  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Try these 4 things for healthier knees - The Washington Post
+【发布时间】2026-10-19T14:44:06.000Z
+【链接】https://news.google.com/rss/articles/CBMijwFBVV95cUxQb1hENmhOX1pac1FzU1E5dEFPS2tKLXhQZDJtNWpqMzBfdlNETTREQkY2YXJSYjhSVkJZazJhYVhkdmFVcUhja1o2bnJLejl6dG5Pdk81ZEdqblpKaEtqOU1zdXZFbGpKTll3TThiZnlYQ0VacGVFQjRCNW95S29uS1VLOFVxSl9TVjVZb09rZw?oc=5
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Car Keys in Apple Wallet coming soon to three popular vehicle brands  9to5Mac
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Car Keys in Apple Wallet coming soon to three popular vehicle brands - 9to5Mac
+【发布时间】2026-10-19T14:31:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1ZyVU1CTzYzdU8wZV94Sll3cmh1elZFNVlQd0lFUHNWQ1VQcnJTTnJ6NUtSX0lRRnFFMmlqM2ZzYmIxMDlUZ0hnUlVzX0h6c29tbGRITTFXdjBQbWpRRWlmX3lCaDgya1pUS0ZSbHp5cFFWRzFCanVSWENRNWpoRGVIUkJiR1QzcXRVbXdGRXNWUWRKSml2V1JFUHY4Zy1qdmc?oc=5
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’  The New York Times
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’ - The New York Times
+【发布时间】2026-10-19T14:23:08.000Z
+【链接】https://news.google.com/rss/articles/CBMilAFBVV95cUxNOWl4SzJZQnZRdDRTNVo1ZFRuLThYUTFUMGc4ZFVfUFMyMEFvWHhTaHhUWlVmLWpjOTRkQWRIblIxNjBPSHNYOU5NVE5IdW9wMGVPdFlURnNYbHY1OEtMR3lteFZtekpiaUZvaTZFN0gxaUtNUFY2aVprQTZNUF9OX3QyYThqX1pBSC0zSE44N28tVjR5?oc=5
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Jalen Hurts out for season after blood clots discovered in Eagles QB's lungs  ESPN
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Jalen Hurts out for season after blood clots discovered in Eagles QB's lungs - ESPN
+【发布时间】2026-10-19T14:22:00.000Z
+【链接】https://news.google.com/rss/articles/CBMilwFBVV95cUxQMjRnQkRUT2dmTXlQLWFvaEhuY3VwenNWYlVaMHN6ZWNqcXYzTmxNU3RqT3RJQm9Jc0MwX2tkMk0wbVpxclAtV2xVdk9XT3NTb2dLWnlfOEdWbWxVT0M1eE4wcnEybXk5SFFxOVo0b3d3TF8xV0lqN1A1RnRfUUpXWnZBc3I4SVFoLXlpSFBYTE42aWU1REtZ?oc=5
+
+------------------------------
+
+9. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Nathan Fielder Reveals Elizabeth Holme Phone Call Over 'You Can See Everything'  Variety
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Nathan Fielder Reveals Elizabeth Holme Phone Call Over 'You Can See Everything' - Variety
+【发布时间】2026-10-19T14:20:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaElGckNScDhIbHpzQm55TnBVU3YzYlJvbUkxbnlqd3h3VWNkWFNtRHhudGZndy0tR2dvU1VPU0dFNkpBTDNvVi1mLVlJSWVQQnBSNzZLSFZFdnZVWkV4V0Y3bFF3YlktVEs4aTdTZ2JlaHVZaUFGS1NaQW1iM3cySnZ0QUtKR0lFTnZLVEdON3RjMkhzREdjV0VJVWluV21PNjhWbG9wQk1WZzFMUzRTaU1yVjljN0w3TnBZ?oc=5
