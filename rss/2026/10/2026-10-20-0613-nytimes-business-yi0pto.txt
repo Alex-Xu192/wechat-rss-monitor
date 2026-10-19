@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-19T20:13:18.176Z - 2026-10-19T22:13:18.176Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 黑人失业率暗示就业市场形势比表面看起来更糟
+2. Christiane Amanpour 表示她将在CNN工作43年后离职
+
+==============================
+
+1. 黑人失业率暗示就业市场形势比表面看起来更糟
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】黑人失业率在9月攀升一个百分点至7%，几乎是白人工人失业率的两倍。
+【依据】文章讨论美国黑人失业率上升，反映劳动力市场可能弱于表现，未提及具体公司或股票，故无法判断相关股票。
+【原标题】Black Unemployment Hints at a Job Market in Worse Shape Than It Seems
+【发布时间】2026-10-19T22:06:31.000Z
+【链接】https://www.nytimes.com/2026/10/19/business/black-unemployment-job-market.html
+
+------------------------------
+
+2. Christiane Amanpour 表示她将在CNN工作43年后离职
+【相关股票】WBD
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】这位国际新闻首席主播，广播新闻界最著名的名字之一，于1983年以助理身份进入该网络。
+【依据】文章提到CNN资深主播Christiane Amanpour离职，CNN属于华纳兄弟探索公司（WBD），因此相关股票为WBD；离职可能被视为对CNN负面影响，但未明确说明对股票的正面或负面影响，故正负面股票判断为无法判断。
+【原标题】Christiane Amanpour Says She Is Leaving CNN After 43 Years
+【发布时间】2026-10-19T21:31:55.000Z
+【链接】https://www.nytimes.com/2026/10/19/business/media/cnn-christiane-amanpour.html
