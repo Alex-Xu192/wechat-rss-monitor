@@ -1,0 +1,59 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-19T10:11:28.752Z - 2026-10-19T12:11:28.752Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 股市今日：股票期货在周五科技抛售后反弹 — 实时更新 - WSJ
+2. R.J. Mitte的母亲敞开心扉谈论他的生活、谣言和遗产 - The Hollywood Reporter
+3. 男孩是在卡车驶入威奇塔足球场后被撞死的2人之一，另有11人受伤，警方称 - CBS News
+4. 以色列警察因西岸定居者对记者和外交官的袭击而逮捕10人 - BBC
+
+==============================
+
+1. 股市今日：股票期货在周五科技抛售后反弹 — 实时更新 - WSJ
+【相关股票】科技行业
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】股市今日：股票期货在周五科技抛售后反弹 — 实时更新
+【依据】文章讨论美国股市期货在周五科技板块抛售后反弹，涉及股票市场和科技行业，但未明确指出具体公司或股票代码，因此只能判断与科技行业相关，无法确定具体正面或负面影响。
+【原标题】Stock Market Today: Stock Futures Rebound After Friday's Tech Selloff — Live Updates - WSJ
+【发布时间】2026-10-19T11:12:00.000Z
+【链接】https://news.google.com/rss/articles/CBMihwFBVV95cUxPQW5PbUNuOElWRFZfcEhudE04Q0dZTzNGZzJ0QmJBejY0MG1JSlg4ZXM2WVB6QzdwQnlSS3l3VS1acGhkUjAzUUVVMnpMdUdKRzVZXzBwaFZ5bGlaT1pWMk1iME1ZZ2Zseks2QjVxS25KYXVUa3JmU0tNdUxEaWVpemo5MWNQZWM?oc=5
+
+------------------------------
+
+2. R.J. Mitte的母亲敞开心扉谈论他的生活、谣言和遗产 - The Hollywood Reporter
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】R.J. Mitte的母亲敞开心扉谈论他的生活、谣言和遗产
+【依据】文章讲述演员R.J. Mitte母亲谈论其生活、谣言与遗产，未涉及任何公司、行业、商品、地区或政策，无法判断与股票的关联。
+【原标题】R.J. Mitte's Mother Opens Up on His Life, Rumors and Legacy - The Hollywood Reporter
+【发布时间】2026-10-19T11:00:47.000Z
+【链接】https://news.google.com/rss/articles/CBMivwFBVV95cUxNd2I2aUFrOFJoLWdsTHA5YWVUZnBYTERjOHFZY2ZYS1pFZnJQYWppSm1OZkhkcUxoblJUSWY1MWZyVHZtQ1hJcWJCa1FueGpFaEpVejBqVlBCMktVS3J0elRocWluVnJqX0Y2eTJZcTJLY3JGYk9aaF9xS0xXQWhvTHJjdVRxOWllWUxFOTgyMHE4X1ZTYl9xQnBfOWk4Z0JDbWQ2Wm9wbTlKZ0h1OS1jbjdjY2NXb3VNajZJX2hiZw?oc=5
+
+------------------------------
+
+3. 男孩是在卡车驶入威奇塔足球场后被撞死的2人之一，另有11人受伤，警方称 - CBS News
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】男孩是在卡车驶入威奇塔足球场后被撞死的2人之一，另有11人受伤，警方称
+【依据】文章报道威奇塔足球场卡车冲撞导致人员伤亡的新闻事件，未提及公司、行业、商品、地区或政策，与股票无明显关联。
+【原标题】Boy among 2 killed after truck drives onto Wichita soccer field, 11 others injured, police say - CBS News
+【发布时间】2026-10-19T10:47:54.000Z
+【链接】https://news.google.com/rss/articles/CBMickFVX3lxTE5rdmVJRXVkY19pbkc0TFp3dTY4dnVEcHQ1ODFnYWFWdlhPS0pHR1FMbERKYXFPTnI1NXZFMmM4ODd3bGJHR01EazlZV21IVEZ6WDdzaHlZMHBhYXo2aWd6WHpKSmE2RFJyZDM0c01aeDk2UQ?oc=5
+
+------------------------------
+
+4. 以色列警察因西岸定居者对记者和外交官的袭击而逮捕10人 - BBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】以色列警察因西岸定居者对记者和外交官的袭击而逮捕10人
+【依据】文章报道以色列警察逮捕涉及西岸定居者袭击记者和外交官的案件，涉及地区（西岸）但未明确关联具体公司或行业，无法确定具体股票影响。
+【原标题】Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank - BBC
+【发布时间】2026-10-19T10:34:18.000Z
+【链接】https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCMWkzc1FCQmVXN1U3ejBleWhsczNUVVNqNHYtclZYVWZYcEJmZjhaQTR4MjNmM09QTmZ3UlA3ajVrUXBLaHlxbnFPYk1LallNN0dXemlHTFpfQTA?oc=5
