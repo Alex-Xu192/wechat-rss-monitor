@@ -1,0 +1,85 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-20T12:10:27.217Z - 2026-10-20T14:10:27.217Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Walmart rolls out new bundle combining Walmart+, Sam’s Club Plus  Fox Business
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Walmart rolls out new bundle combining Walmart+, Sam’s Club Plus - Fox Business
+【发布时间】2026-10-20T13:39:00.000Z
+【链接】https://news.google.com/rss/articles/CBMinAFBVV95cUxQNG9rWUJzQnFlbEhOUThHN0I0cnR6QTA4T2l1eXg2Vnd3dlNCbXJoaGpwbFlzS1dpVEk1NXBJNHNsemh0c2dxLVpid3hNT0NBa2FWNDJ6ZlRJdWEzMll6dXZ5OTZfbEE2cnVsTHFRVF9IY2pjMFZQcE9LZ2ZINXZDaHhwQmtCZGllXzUwbjQ3WXhXU1huZmdKWmxIbzDSAaIBQVVfeXFMTTV4M0hDWjRnSWJuUWdQYVVVYW9TWnBBRUFfV3Y5a1pxdXlfTnh5YWRiOURSREpubnVHVEFBamliV3k5SW85bER1YlZuSDd1RE9ObDMtZWZRVnMxdjBlV3V0VGVwdGwyVmo5ZzRDaDZjd0l1ci13QkdJNmRQY19sN2Q1QjZWYjlfSERKRXJRN2RaTUFZN2d0SWNIc0syZUgzQ0xB?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】How a photo of a patient’s face could predict whether they’ll survive cancer  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】How a photo of a patient’s face could predict whether they’ll survive cancer - The Washington Post
+【发布时间】2026-10-20T13:33:03.000Z
+【链接】https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkJuQ0dkdjc1aDYwbU9IT1Q1OGNxUjFHWFpSSm5fTFhiUkJXM1c2ODNHZG9VX3c1ZlVJakN1SkJ5djJ1MGhMRllKMlZVVGMwekliekVuMnN4TncxQ09DTlJRUGpUd0hyd2w5bDhpY085VGktVWRSMTNaZjNqWXJ0STYzMTJualpHXzBhRHVRVVBRSVB0YU9kWlFxZ001LXEzUkNVdFBua2wyak1OY0IxRjF3TnVSRE5l?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】PFT’s Week 7 2026 NFL power rankings  NBC Sports
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】PFT’s Week 7 2026 NFL power rankings - NBC Sports
+【发布时间】2026-10-20T13:13:22.000Z
+【链接】https://news.google.com/rss/articles/CBMingFBVV95cUxPSE9Vd0pOM1hxbGNwQjhLTUxNYTJrZkVRQjEyTl9Fb0RaSUVDQWdtemNYUUxnV3BvSVVXdFc3cmVYM3dnRDVpaERCX19XX0lJQkUxcndwclFmUWYwU0VpOTBJc3BKWVNKQW96T2JZTWVROGxidXlvMGFNcnhtemdDeW9uMEp3YmxWXzlFWElUdmU5V2RYY0pfendGTG5pQQ?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Start-Up Claims to Treat a Patient With A.I.-Created Viruses  The New York Times
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Start-Up Claims to Treat a Patient With A.I.-Created Viruses - The New York Times
+【发布时间】2026-10-20T12:50:56.000Z
+【链接】https://news.google.com/rss/articles/CBMiigFBVV95cUxPaUNPaTl4Wmxoa0ZDMUlSYUpZdWR0QXNiTmRfbTNEVjhMRlFpZHJLdTVsSTEwS3ZzeFlDUzRub0xlS2hleFJVWXNkeTdsaGdraGpKWEhNeVZvU2dRYm1FS2tOdEhPMWQwT1lfdjdlSE1vTGZWNHpObE9NN1pPSWhBVUJDM1h4VFg4UHc?oc=5
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment  CNBC
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment - CNBC
+【发布时间】2026-10-20T12:36:51.000Z
+【链接】https://news.google.com/rss/articles/CBMiugFBVV95cUxPTDNTb1VtS1EwN01MVno1T19zRkJOQWZxZ1B4Q2VnalhzWTFYVUZHR183cDJXT3BhMFZkNUpWb1A3b25ZUkdZWE14Z25oT3E3RFFhNVVzQjFnMTA4dkMyaVJCV0dRSDVXaG44ZlRzX1c3eGZQei13OV9ZNXFjMU5tZXMyamdVYUtMZW1uUkV0QWt2Mnc5dTRlc3JoVlBnMVctdG1QVU9TSTlwenNBN3N4ZVBTUnV1MldkV0HSAb8BQVVfeXFMTmNDNWN4eEZtWlJPUWVaRWZCX1lVT2h3RmJ1VGpGSDlwWlJ4TUZmTFMxTmUxWVRmVFBwWlhUVVFmRFk3OHdKQ2xHaUgxR3JHaFMzYVNndWZReE43WXBQdTdQN282b3g2X2VQWU52RmtXUm9ldkJudnhFQW1yMjlraDlNbHlFa0Q4aWwzS01MbFNCNS1oTGZnZE52cVhsMzVoWVNTVGxET0F1ajNnNkhZUG5aOXE1NUdXcGxTRkV1VEk?oc=5
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump Announces $8 Billion Plan to Cover Farm Losses  The New York Times
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Trump Announces $8 Billion Plan to Cover Farm Losses - The New York Times
+【发布时间】2026-10-20T12:12:44.000Z
+【链接】https://news.google.com/rss/articles/CBMieEFVX3lxTE1DWWgxTmRVd0M3dXBTS01YQnNHWjRYY3Z1blhRZWR5U2p6UkZWOTdwOEh0a0Y5WWNxTHREa3QzNkotS19oeDhCSEVxaG8yeFZQSEZjU0s3dHdoQmxkVkpocWY4WFJZVGdwTkFvU3dDNDdTVGwyV2R4dQ?oc=5
