@@ -1,0 +1,111 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-20T20:10:29.384Z - 2026-10-20T22:10:29.384Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Elon Musk says combining his two public companies would be a ‘good idea’ as the world approaches an AI singularity
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】SpaceX and Tesla boards are exploring potential merger
+【发布时间】2026-10-20T21:56:34.000Z
+【链接】https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Volodymyr Zelenskyy participates in discussions in Oslo that also involve Donald Trump’s envoy
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Finnish president hails progress in talks about ending Russia’s war in Ukraine
+【发布时间】2026-10-20T21:30:25.000Z
+【链接】https://www.ft.com/content/a068036c-a752-4267-9a2f-a95190ef619f?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Republican political operative is a key adviser to CEO Mark Zuckerberg
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Joel Kaplan to step down as Meta global affairs chief
+【发布时间】2026-10-20T21:30:17.000Z
+【链接】https://www.ft.com/content/850f15c9-5833-4acb-a65c-c17ca88a5fde?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Veteran leftwinger aiming to close the gap with rightwing challenger Flávio Bolsonaro before Sunday’s ballot
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Lula fast-tracks Brazil welfare payments days before run-off vote
+【发布时间】2026-10-20T21:23:46.000Z
+【链接】https://www.ft.com/content/e2bce5a9-0cb2-4166-8a14-3adeb5af6545?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ministers to give go-ahead on Wednesday to the project about 150 miles east of Aberdeen
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】UK to approve development of Jackdaw gasfield in North Sea
+【发布时间】2026-10-20T21:20:35.000Z
+【链接】https://www.ft.com/content/9cfa52b2-77cb-4b53-ad74-badd53f24fc6?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The races, the money and the issues that will determine the final half of Trump’s second term
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Can the Democrats win the Senate?
+【发布时间】2026-10-20T21:14:58.000Z
+【链接】https://www.ft.com/content/29f1af13-ecc3-4f26-a479-e6088c67231b?syn-25a6b1a6=1
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Long-awaited certification will help US group compete with Airbus as airlines seek larger and more efficient aircraft
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Boeing wins approval for Max 10 jet in boost for turnaround efforts
+【发布时间】2026-10-20T20:43:44.000Z
+【链接】https://www.ft.com/content/0e99c2bc-873c-4d2d-b5c9-a0876faeb9ed?syn-25a6b1a6=1
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Entertainment giant shakes up creative leadership as viewership growth stalls and current quarter profits set to disappoint
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Netflix gives downbeat outlook as streaming hits dry up
+【发布时间】2026-10-20T20:32:24.000Z
+【链接】https://www.ft.com/content/1b5d97dc-535a-42d9-ac0e-2c00e91c0aed?syn-25a6b1a6=1
