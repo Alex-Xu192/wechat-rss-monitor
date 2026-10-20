@@ -1,0 +1,46 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-20T12:10:29.723Z - 2026-10-20T14:10:29.723Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Hedge fund pushes for $100mn in cost cuts at US speciality chemicals group and sees growth potential in its nuclear business
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Activist Starboard targets Honeywell spin-off Solstice after failed megadeal
+【发布时间】2026-10-20T14:04:32.000Z
+【链接】https://www.ft.com/content/f8ea12f4-a55d-4f46-a409-5cffd093ab6a?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in today’s newsletter, the war in Iran is tilting global oil power towards the Americas
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】For 14 Americans, will divisions under Trump change their vote?
+【发布时间】2026-10-20T13:00:06.000Z
+【链接】https://www.ft.com/content/4bc3dcfd-bf93-4809-b6b3-f2e8742a396f?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Group behind Paddy Power blames move to axe about 15% of its UK and Irish workforce on higher taxes levied against industry
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Flutter to cut more than 1,000 jobs after UK gambling tax raid
+【发布时间】2026-10-20T12:52:57.000Z
+【链接】https://www.ft.com/content/0f5d14f1-6486-4d98-9340-3b8c8e79187d?syn-25a6b1a6=1
