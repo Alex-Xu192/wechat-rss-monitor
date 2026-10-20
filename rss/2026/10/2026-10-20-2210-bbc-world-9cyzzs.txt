@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-20T12:10:24.693Z - 2026-10-20T14:10:24.693Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Kenya cult leader's children still being starved weeks before trial, son says
+【发布时间】2026-10-20T13:23:32.000Z
+【链接】https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Suspect arrested after historic town hall set alight - French media
+【发布时间】2026-10-20T12:45:43.000Z
+【链接】https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss
