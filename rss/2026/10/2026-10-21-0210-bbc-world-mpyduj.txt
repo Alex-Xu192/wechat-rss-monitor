@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-20T16:10:24.856Z - 2026-10-20T18:10:24.856Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Sudan army drones hit mourners and fuel market killing more than 300 people, sources say
+【发布时间】2026-10-20T17:30:15.000Z
+【链接】https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】'Great result for Canada', says Carney as Alberta votes to reject separatism
+【发布时间】2026-10-20T16:59:06.000Z
+【链接】https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss
