@@ -1,0 +1,111 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-20T08:10:28.494Z - 2026-10-20T10:10:28.494Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Referendum in oil-rich western province had threatened new turmoil for Mark Carney amid stand-off with Donald Trump
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Alberta voters reject separation from Canada, early results show
+【发布时间】2026-10-20T10:09:18.000Z
+【链接】https://www.ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in today’s newsletter: Albertan voters emphatically reject referendum option and energy production in South America soars
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】FirstFT: AI debt fears spark default insurance trading surge
+【发布时间】2026-10-20T10:07:08.000Z
+【链接】https://www.ft.com/content/92a2e2a4-356a-4aa3-9d1e-8b4fbaf1c365?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】As the area dries, cities and farmers draw on groundwater, the leading source of water loss across the Colorado River Basin
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】The hidden water crisis beneath the American west
+【发布时间】2026-10-20T10:00:03.000Z
+【链接】https://www.ft.com/content/ff5859fb-dfa6-4fe5-a5cf-824a98ad32d4?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The reinvention of a much-loved hang-out
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Palazzo d’Italia, Tangier’s timeless trattoria, enters a new era
+【发布时间】2026-10-20T10:00:02.000Z
+【链接】https://www.ft.com/content/69f7e8a3-7f79-431b-9d23-c123ef7d5712?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Steve Witkoff and Jared Kushner expected to travel to Norway to meet Volodymyr Zelenskyy
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms
+【发布时间】2026-10-20T09:31:28.000Z
+【链接】https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Italy also expected to approve new security measures to combat violent rioters
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】France considers new curfews as restrictions quell unrest
+【发布时间】2026-10-20T08:40:54.000Z
+【链接】https://www.ft.com/content/7bd4ac59-61e6-4604-a96a-26e7096bf768?syn-25a6b1a6=1
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Global index provider has repeatedly raised concerns over investability in south-east Asia’s largest economy
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Indonesia expels key stocks in bid to fend off MSCI downgrade
+【发布时间】2026-10-20T08:34:36.000Z
+【链接】https://www.ft.com/content/472ad6cf-438f-4d62-a41c-8725cbf53383?syn-25a6b1a6=1
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Rupert Lowe’s hardline policies sap support from Reform just as it seeks to wrest the centre right from the Tories
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Restore forces Nigel Farage into an ugly race to his right
+【发布时间】2026-10-20T08:30:01.000Z
+【链接】https://www.ft.com/content/5772046b-556c-4a88-9973-1ea30e6de1d9?syn-25a6b1a6=1
