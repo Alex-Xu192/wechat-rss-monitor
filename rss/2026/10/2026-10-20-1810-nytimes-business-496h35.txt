@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-20T08:10:30.405Z - 2026-10-20T10:10:30.405Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Under the Harvest Fuel Relief program, the Agriculture Department will provide economic aid for farmers hurt by high diesel prices.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Trump Announces $8 Billion Plan to Cover Farm Losses
+【发布时间】2026-10-20T09:13:50.000Z
+【链接】https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Knicks tickets have never been cheap, but prices for the first game alone are soaring after last season’s championship — more than a trip to Paris.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Knicks Ticket Prices Are Soaring After Last Season’s Championship
+【发布时间】2026-10-20T09:02:00.000Z
+【链接】https://www.nytimes.com/2026/10/20/business/knicks-tickets.html
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】U.S. airports are required to hold a full-scale disaster drill every three years. Go inside a simulated plane crash at Kennedy Airport last weekend.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】How Do Airports Prepare for a Plane Crash? Go Inside JFK’s Disaster Drill.
+【发布时间】2026-10-20T09:01:09.000Z
+【链接】https://www.nytimes.com/2026/10/20/travel/jfk-airport-drill-plane-crash.html
