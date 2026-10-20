@@ -1,0 +1,133 @@
+LTN - 中文结构化新闻汇总
+
+【来源】LTN
+【时间】2026-10-20T18:10:39.303Z - 2026-10-20T20:10:39.303Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 伊朗最高安全官員：絕不容許核材料運出德黑蘭
+9. 法國防動亂再起　首都巴黎部分地點連2夜實施宵禁
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】WARNING:Beijing might leverage technology and its human resources to devise a strategy to influence ...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】《TAIPEI TIMES》 China ramps up cyberattacks for potential election meddling: officials
+【发布时间】2026-10-20T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5612977
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】USUAL SUSPECTS: Export orders for goods related to the AI boom such as GPUs, ASIC-based systems, and...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】《TAIPEI TIMES》 Export orders set monthly record
+【发布时间】2026-10-20T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5612983
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】By Yang Yuan-ting and Jonathan Chin / Staff reporter, with staff writer
+
+Researchers have develope...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】《TAIPEI TIMES》 AI tool developed to assess earthquake damage
+【发布时间】2026-10-20T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5612979
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Staff writer, with CNA
+
+Taiwanese would no longer need to take driving tests to obtain an Australi...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】《TAIPEI TIMES》 Parts of Australia soon to recognize Taiwanese driver’s licenses
+【发布时间】2026-10-20T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5612994
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】SHIFTING VIEWS: The proportion of respondents who said the DPP should be given a chance to govern th...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】《TAIPEI TIMES》 Shen rises to 50.3 percent in Taipei polling
+【发布时间】2026-10-20T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5612981
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】/ Staff writer, with CNA
+
+Nine entertainers who turned themselves in and confessed to evading comp...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】《TAIPEI TIMES》 Nine entertainers given suspended jail sentences
+【发布时间】2026-10-20T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5612982
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】‘GRAY ZONE’ TACTICS: Persistent China Coast Guard patrols east of Taiwan are one of the most troubli...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】《TAIPEI TIMES》 Coast guard details China’s activities near Pratas
+【发布时间】2026-10-20T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5612978
+
+------------------------------
+
+8. 伊朗最高安全官員：絕不容許核材料運出德黑蘭
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】伊朗國家電視台報導，最高國家安全委員會（SNSC）秘書雷札伊（Mohsen Rezaei）今天告訴來訪的巴基斯坦陸軍參謀長穆尼爾（Asim Munir），德黑蘭絕不容許濃縮核材料運出伊朗。
+...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】伊朗最高安全官員：絕不容許核材料運出德黑蘭
+【发布时间】2026-10-20T18:36:03.000Z
+【链接】https://news.ltn.com.tw/news/world/breakingnews/5613031
+
+------------------------------
+
+9. 法國防動亂再起　首都巴黎部分地點連2夜實施宵禁
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】法國首都巴黎市警方今天連續第2夜對部分市區實施宵禁。當局表示，經過週末的暴動和打劫亂象後，昨夜實施的宵禁成功讓市區恢復平靜。
+
+法新社報導，今夜實施宵禁地點，在週末許多衝突發生地、巴黎市中心...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】法國防動亂再起　首都巴黎部分地點連2夜實施宵禁
+【发布时间】2026-10-20T18:12:03.000Z
+【链接】https://news.ltn.com.tw/news/world/breakingnews/5613028
