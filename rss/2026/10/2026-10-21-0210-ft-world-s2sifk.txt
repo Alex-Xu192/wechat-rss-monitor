@@ -1,0 +1,85 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-20T16:10:30.261Z - 2026-10-20T18:10:30.261Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Pair held on suspicion of breaching UK’s National Security Act as officers link the event to Iran for the first time
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Police rearrest two men over RAF Fairford incident
+【发布时间】2026-10-20T18:08:20.000Z
+【链接】https://www.ft.com/content/33573324-6eb8-447c-934d-5a992872509a?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Italy also expected to approve new security measures to combat violent rioters
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】France extends curfews in some cities as restrictions quell unrest
+【发布时间】2026-10-20T17:58:23.000Z
+【链接】https://www.ft.com/content/7bd4ac59-61e6-4604-a96a-26e7096bf768?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】US president’s announcement comes as candidates struggle with poor polls in race for control of Congress
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Trump pledges to spend $400mn on Republican Party campaigns
+【发布时间】2026-10-20T17:57:37.000Z
+【链接】https://www.ft.com/content/c335e978-1ceb-4254-8c71-793a41e6d0b3?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Chancellor calls for regional government not to ‘experiment’ with market economy as investors attend summit
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Merz warns over Berlin plans to seize landlords’ property
+【发布时间】2026-10-20T16:49:37.000Z
+【链接】https://www.ft.com/content/82f99b04-144d-4f2a-b23e-d5a3c0674f3b?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Burnham and Healey must look beyond industrial nostalgia to the UK’s modern strengths
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Britain’s budget should build on its economic resilience
+【发布时间】2026-10-20T16:15:04.000Z
+【链接】https://www.ft.com/content/8be29348-e112-462f-96eb-44a699ca61a6?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UK bonds were initially hard hit after onset of Iran war but have since outperformed as traders’ concerns shift to France
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Gilt market catches up with peers as investor worries over Budget ease
+【发布时间】2026-10-20T16:10:56.000Z
+【链接】https://www.ft.com/content/31f86452-c16a-4fbf-b393-bb5282c1cb59?syn-25a6b1a6=1
