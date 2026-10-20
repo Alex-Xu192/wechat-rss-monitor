@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-20T20:10:31.666Z - 2026-10-20T22:10:31.666Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The streaming service reported a 12 percent increase in quarterly revenue, but acknowledged that stagnant viewership, particularly in the U.S. and Canada, was a major concern.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Netflix Is Great at Making Money. Its Problem Is Keeping Viewers Hooked.
+【发布时间】2026-10-20T21:01:35.000Z
+【链接】https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Jackdaw, a natural gas field off the coast of Scotland, would be the first new gas extraction project in the North Sea since a government moratorium in 2024.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Britain Is Said to Approve New Gas Drilling in the North Sea
+【发布时间】2026-10-20T20:44:40.000Z
+【链接】https://www.nytimes.com/2026/10/20/business/uk-north-sea-drilling-jackdaw.html
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Elon Musk’s rocket company also said its revenue had more than doubled, driven by its Starlink internet satellite service and artificial intelligence products.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】SpaceX Swings to a Profit, Even as A.I. Spending Soars
+【发布时间】2026-10-20T20:32:32.000Z
+【链接】https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html
