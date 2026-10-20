@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-20T14:10:31.982Z - 2026-10-20T16:10:31.982Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Under the Harvest Fuel Relief program, the Agriculture Department will provide economic aid for farmers hurt by high diesel prices.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Trump Announces $8 Billion Plan to Cover Farm Losses
+【发布时间】2026-10-20T15:21:49.000Z
+【链接】https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Once again, the president’s ability to wage a trade war without Congress will come before a court that has repeatedly ruled against him.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Trump Tariffs on Canada Spark Latest Lawsuit Over Trade Powers
+【发布时间】2026-10-20T15:18:04.000Z
+【链接】https://www.nytimes.com/2026/10/20/business/trump-tariffs-canada-lawsuit.html
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The turmoil shows the profound challenges facing governments stuck between unhappy citizens and wary bond investors.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】A ‘Doom Loop’ Threatens France as Populism Confronts Markets
+【发布时间】2026-10-20T14:24:30.000Z
+【链接】https://www.nytimes.com/2026/10/20/business/france-protests-bond-markets.html
