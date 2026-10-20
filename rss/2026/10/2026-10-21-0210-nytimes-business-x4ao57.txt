@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-20T16:10:32.598Z - 2026-10-20T18:10:32.598Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Rioting over affordability and public education has swept through Paris and other French cities, and there may be more to come.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Heading to France? Amid Recent Unrest, Here’s What to Know
+【发布时间】2026-10-20T17:45:01.000Z
+【链接】https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Knicks tickets have never been cheap, but prices for the first game alone are soaring after last season’s championship — more than a trip to Paris.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Knicks Ticket Prices Are Soaring After Last Season’s Championship
+【发布时间】2026-10-20T16:22:31.000Z
+【链接】https://www.nytimes.com/2026/10/20/business/knicks-tickets.html
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ahead of SpaceX’s quarterly earnings report, many on Wall Street are wondering whether Elon Musk will combine it with Tesla.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Investors in Anticipation Over Musk’s Next Big SpaceX Deal
+【发布时间】2026-10-20T16:17:54.000Z
+【链接】https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html
