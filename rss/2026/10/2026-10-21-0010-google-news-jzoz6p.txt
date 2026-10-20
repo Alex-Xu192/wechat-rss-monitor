@@ -1,0 +1,85 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-20T14:10:27.577Z - 2026-10-20T16:10:27.577Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock Market Today: Dow Jumps 500 Points on Mideast Hopes; Brent Crude Drops — Live Updates  WSJ
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Stock Market Today: Dow Jumps 500 Points on Mideast Hopes; Brent Crude Drops — Live Updates - WSJ
+【发布时间】2026-10-20T15:44:00.000Z
+【链接】https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0NRSk1EUUhjNHJpMWxWVmd2VUxVWjVuS0ItUmZHUjZGLWhIMi1qSGNhRkQxT2VmR3RtekVXTHhNNUl3MlNsTUdpZmJIRDd5Rmc2VFNuNktwQ0cyWjNqcDM2dzhXMG5aZ0ZzTmtrUkZPbXVEbmF5X2t5aF9obDNqajZnWUo4Tm8?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】How a photo of a patient’s face could predict whether they’ll survive cancer  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】How a photo of a patient’s face could predict whether they’ll survive cancer - The Washington Post
+【发布时间】2026-10-20T15:41:29.000Z
+【链接】https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkJuQ0dkdjc1aDYwbU9IT1Q1OGNxUjFHWFpSSm5fTFhiUkJXM1c2ODNHZG9VX3c1ZlVJakN1SkJ5djJ1MGhMRllKMlZVVGMwekliekVuMnN4TncxQ09DTlJRUGpUd0hyd2w5bDhpY085VGktVWRSMTNaZjNqWXJ0STYzMTJualpHXzBhRHVRVVBRSVB0YU9kWlFxZ001LXEzUkNVdFBua2wyak1OY0IxRjF3TnVSRE5l?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UK to send jets to defend Saudi Arabia from Houthi attacks, and other Mideast news  AP News
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】UK to send jets to defend Saudi Arabia from Houthi attacks, and other Mideast news - AP News
+【发布时间】2026-10-20T15:22:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd1EtQlVBeUdvX1BnaEx2cXI4ZVVleTdNSlJ2dUR2eXdWeEpwVl9SandQVEpadDVrdzVEM1k0a2NfRXhpSURuOFZtRzdnOWtsNGZncFhtcV9OZ3kxQ1Y1RDRYN1FLNG11V2Y4dFQwbnRqOXJQZDBySEhMWUxrVGZwQ0tPS0N4TXpZVGxkeFRwU3BTWkoxMnNTa1JsNTlPYjZDSFJhNDZFazJsSXc?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】It’s getting harder to see how the Eagles’ Jalen Hurts marriage ends well  Bleeding Green Nation
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】It’s getting harder to see how the Eagles’ Jalen Hurts marriage ends well - Bleeding Green Nation
+【发布时间】2026-10-20T15:03:08.000Z
+【链接】https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWFBHRjR6bnk5Y3lkOG1kbGI2ckt5YkhkT0RiSUc2YzR1TVpwRWgwX3pTcFNJQk0tejNNS2Q1aHl1bDB0c3JERjVWNF9hOHhRQU5pMGJYeGd5MUQ2dzBaSjFQTmJlSHhKcFZ1SWxMRnltS0RzSlBwQWtxcTVhME1sVzY0OWFnN3NGNzNsZjQ0eUFZRnRZbUJwVzVIU3hSTnlpMHZ1VTlmTmswUU4tUWpkYWpLdGNJRG91aVZkQ05jTVlBaGpza2t0M2QxNXR3dkhyU0htLThKNHBfSXM?oc=5
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】2026 Midterm Elections: Trump Campaigns in North Carolina  Fox News
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】2026 Midterm Elections: Trump Campaigns in North Carolina - Fox News
+【发布时间】2026-10-20T14:33:55.000Z
+【链接】https://news.google.com/rss/articles/CBMiowFBVV95cUxNNVNRTGNjNkhhVkx5SjFHd2Q5VHF0RWpNNmVQWjM0ajg3VkdHMzhaUlVKZzdpdDEyYU5jWWZBS0U5ZjN5R3YwZEtOVG1mSlYyMTRxM1l0bnh5UEFpcW81R1FRNklxdk81U0g4dHY3TVBmdWNtLUZjbE9qeG9zdk5JLUxZQU1jQlZZdzN1R05ZTkRtU2dxR3FTRzdlaG5TektBRTFV?oc=5
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Christina Applegate Reveals She Does Not Have MS, Was Misdiagnosed  The Hollywood Reporter
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Christina Applegate Reveals She Does Not Have MS, Was Misdiagnosed - The Hollywood Reporter
+【发布时间】2026-10-20T14:24:22.000Z
+【链接】https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHB6Q0g2N1Q2aVB6a1R0S0dVcjVwaG54c2k4SGdOa3U4Mjgyc2w0YnNRdDh2ZkJfTW5PY0dacVJIekpKcEVka2lyZDFHWlJud2N1WDJuZVFJbXpZMFBaaEFvWnJXUnJRWUJKMXdObHlKb2NzYlpLbWRVRFYzUFZVNFlnUHBrSEZPSVF6TkxTbmxRUGJFOFFoR0RBRWxXZ0t0MVBxYm1ZU2VWM0E?oc=5
