@@ -1,0 +1,111 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-20T14:10:29.911Z - 2026-10-20T16:10:29.911Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Figures suggest recent upswing in economy is starting to underpin employment
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】UK jobs market stabilises before Budget
+【发布时间】2026-10-20T15:59:54.000Z
+【链接】https://www.ft.com/content/2d20b09b-6565-4253-a809-8a0542e6770a?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Prime Minister Luca Niculescu receives parliament’s backing for his minority administration
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Romania forms a government after six months of crisis
+【发布时间】2026-10-20T15:56:36.000Z
+【链接】https://www.ft.com/content/179172c2-7f3a-49f1-90fb-1551c35768d7?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Referendum in oil-rich western province had threatened new turmoil for Mark Carney amid stand-off with Donald Trump
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Alberta voters reject separation from Canada
+【发布时间】2026-10-20T15:51:21.000Z
+【链接】https://www.ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Sales contracts dropped 7.3% in September as rising borrowing costs deepened housing market slowdown
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】US pending home sales fall to record low as mortgage rates surge
+【发布时间】2026-10-20T15:47:56.000Z
+【链接】https://www.ft.com/content/42ed6778-d350-48a6-ba3d-99efca3cd276?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The races, the money and the issues that will determine the final half of Trump’s second term
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Can the Democrats win the Senate?
+【发布时间】2026-10-20T15:33:09.000Z
+【链接】https://www.ft.com/content/29f1af13-ecc3-4f26-a479-e6088c67231b?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The country faces multiple crises and the political class seems incapable of responding
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】France is spinning out of control
+【发布时间】2026-10-20T15:22:55.000Z
+【链接】https://www.ft.com/content/616c796b-a288-4013-a363-70e94429b60e
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump envoy attempts to restart peace talks between Ukraine and Russia and is expected to ask for release of a US hostage
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Witkoff meets Zelenskyy before travelling to Russia
+【发布时间】2026-10-20T15:11:57.000Z
+【链接】https://www.ft.com/content/a068036c-a752-4267-9a2f-a95190ef619f?syn-25a6b1a6=1
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Italy also expected to approve new security measures to combat violent rioters
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】France extends curfews in some cities as restrictions quell unrest
+【发布时间】2026-10-20T14:52:46.000Z
+【链接】https://www.ft.com/content/7bd4ac59-61e6-4604-a96a-26e7096bf768?syn-25a6b1a6=1
