@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-19T22:11:27.967Z - 2026-10-20T00:11:27.967Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. ‘定时炸弹’：印度尼西亚面临经济危机
+2. 黑人失业率暗示劳动市场状况比表面更糟
+3. 埃隆·马斯克表示将向美国每个孩子赠送一份SpaceX股票
+
+==============================
+
+1. ‘定时炸弹’：印度尼西亚面临经济危机
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】印度尼西亚曾是经济稳定的典范，如今因总统普拉博沃·苏比安托的政策削弱投资者信心，国内困境日益加剧。
+【依据】文章讨论印度尼西亚经济形势及总统政策对投资者信心的影响，未提及具体上市公司，因此无法判断相关股票。
+【原标题】‘A Ticking Time Bomb’: An Economic Crisis Looms in Indonesia
+【发布时间】2026-10-19T22:41:26.000Z
+【链接】https://www.nytimes.com/2026/10/19/business/indonesia-economy-stocks.html
+
+------------------------------
+
+2. 黑人失业率暗示劳动市场状况比表面更糟
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】黑人失业率在9月份上升了一个百分点至7%，几乎是白人失业率的两倍。
+【依据】文章讨论美国黑人失业率上升及其对劳动市场的暗示，未提及具体公司，因而无法判断相关股票。
+【原标题】Black Unemployment Hints at a Job Market in Worse Shape Than It Seems
+【发布时间】2026-10-19T22:22:00.000Z
+【链接】https://www.nytimes.com/2026/10/19/business/black-unemployment-job-market.html
+
+------------------------------
+
+3. 埃隆·马斯克表示将向美国每个孩子赠送一份SpaceX股票
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Anthropic作为SpaceX的人工智能竞争对手，早前表示将成立一种“公共福利基金”，其他科技巨头也向儿童储蓄账户捐款。
+【依据】文章提及SpaceX及其竞争对手Anthropic的慈善计划，均为私人公司，未涉及公开交易的股票，故无法判断相关股票。
+【原标题】Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’
+【发布时间】2026-10-19T22:12:02.000Z
+【链接】https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html
