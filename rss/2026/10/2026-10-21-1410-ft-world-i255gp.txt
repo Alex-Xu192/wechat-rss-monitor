@@ -1,0 +1,85 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-21T04:10:29.845Z - 2026-10-21T06:10:29.845Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Founder Josh Payne says demand remains ‘insatiable’ for the services of Nvidia-backed data centre group
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Nscale boss seeks to reassure staff amid AI market jitters
+【发布时间】2026-10-21T05:47:49.000Z
+【链接】https://www.ft.com/content/9bc15db9-08b4-40f1-b814-24a52eed8ebc
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Lettuce first applaud her productivity
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Oh OK, we’ll write something about the new Truss book
+【发布时间】2026-10-21T05:45:28.000Z
+【链接】https://www.ft.com/content/6d347f2c-b5da-4966-b95d-fd09f2d0960a
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Plus, fewer Fed meetings
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Small caps: not a great AI hedge
+【发布时间】2026-10-21T05:30:02.000Z
+【链接】https://www.ft.com/content/b7e5fa98-0cb5-4eba-b921-26e3a9393199?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in this newsletter: Canada pushes for more co-operation on AI
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Foreign diplomats queue for handshake with EU leaders
+【发布时间】2026-10-21T05:00:03.000Z
+【链接】https://www.ft.com/content/b136cc73-cf87-447d-bd9e-4a890273ec0c?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Global energy-related greenhouse gases remain at record levels
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】World headed for warming of 2.8C, UN reports, and US emissions rise
+【发布时间】2026-10-21T05:00:03.000Z
+【链接】https://www.ft.com/content/76bf9a5f-a1f9-4b59-9473-35fe18a7a008?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in today’s newsletter: Iran war and UK visas for wealthy
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】FirstFT: SpaceX and Tesla explore merger
+【发布时间】2026-10-21T04:31:08.000Z
+【链接】https://www.ft.com/content/ae820b11-e085-44b4-a8ca-8e5fa2eeb571?syn-25a6b1a6=1
