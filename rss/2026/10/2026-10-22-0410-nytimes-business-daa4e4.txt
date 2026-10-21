@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-21T18:10:31.525Z - 2026-10-21T20:10:31.525Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The looting of stores belonging to brands like Dior, Celine and Hermès has exposed a crack in the glossy facade.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】France Riots Expose the Rage Aimed at Dior, Hermès and Other Luxury Brands
+【发布时间】2026-10-21T20:03:25.000Z
+【链接】https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Trump administration will release 315,000 barrels of heating oil, but analysts say the amount is too small to make much of a difference.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】U.S. to Tap Heating Oil Reserves Ahead of Midterm Elections
+【发布时间】2026-10-21T19:50:08.000Z
+【链接】https://www.nytimes.com/2026/10/21/business/heating-oil-emergency-reserve-prices.html
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】General Motors is seeking help from artificial intelligence to keep up with Chinese companies that introduce vehicles very quickly.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years
+【发布时间】2026-10-21T18:23:52.000Z
+【链接】https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html
