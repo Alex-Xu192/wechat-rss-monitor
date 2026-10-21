@@ -1,0 +1,20 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-10-21T14:10:34.947Z - 2026-10-21T16:10:34.947Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Good advice often reflects the adviser’s own situation, temperament, and incentives. The essay argues that you should ask what problem a recommendation solved for someone else, then test whether it fits you, starting with the simplest answer and small experiments. [coached.com]
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Most advice is right for the person giving it
+【发布时间】2026-10-21T14:32:00.000Z
+【链接】https://flipso.com/p/ikgn5udnp?ref=rss
