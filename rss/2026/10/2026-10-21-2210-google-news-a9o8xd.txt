@@ -1,0 +1,111 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-21T12:10:27.455Z - 2026-10-21T14:10:27.455Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock Market Today: Nasdaq Opens Higher; SpaceX Shares Surge on Tesla Deal Talks — Live Updates  WSJ
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Stock Market Today: Nasdaq Opens Higher; SpaceX Shares Surge on Tesla Deal Talks — Live Updates - WSJ
+【发布时间】2026-10-21T13:34:00.000Z
+【链接】https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmtVSC1FUS1RTWFJU2t1bmFXenNxZHRsM0ZlRklRb3Fuajh2eXFDLWItTmpKTzZaU25lNzJ3dFZyR01BaXVIY01fbFNXVUVySHZOU0NYelhRSzQtSDlTOF9SWVQ1aUFxUGJKT0lzUExaOW9nNkZFYXpjcFNqT2c4QjE3SXRPdGs?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump keeps promising ‘goodies’ on the campaign trail — but only if Republicans win  NBC News
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Trump keeps promising ‘goodies’ on the campaign trail — but only if Republicans win - NBC News
+【发布时间】2026-10-21T13:22:00.000Z
+【链接】https://news.google.com/rss/articles/CBMivwFBVV95cUxOUURNTV9PQ3JtT3pPQ1FnMFhkZVY5amw5RjZHTzJvdzYxNUtUMXZWQ1FwejIwR29mbXFVUHNucm1vMmI0OXRscGZIMjJnSWxfT01lZi1TRWMtOFFlQzdaX25IUHM1TEowV3hPT1FZU3dBdlRTWjZTa3otbllQSnNvR3hQOWs0SV8xN254RF9Lb3UwWXBUN2pLVldEejVaeTloblNMeFRJWE93TFpkMmd4UUE4YzFRUlAzRjk4MnMyVQ?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump Says Data Centers Must Provide Their Own Electricity  WSJ
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Trump Says Data Centers Must Provide Their Own Electricity - WSJ
+【发布时间】2026-10-21T12:39:36.000Z
+【链接】https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0J4NWZrSG9CM0FwNktTR0tTTGhHc1RMOGgxc2dTUGJfVDBpRVQ2a2V6Nmtxd2ZmM09FUDA2QzhjeTc4VWtjRmVlRFM5NTFnZUZNR2VYNmlPSENDdnN6V19DeWluN1dKSmhTazYzbDcycml6SUg3eXNNcXpXQ3E5THhNdmg3UjJzUlBVNzJYdjk0ZWVRT3dTMTJQQXlZcWI5SGZ1ZjlR?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A botched scientific experiment returns as a Netflix reality TV show  CNN
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】A botched scientific experiment returns as a Netflix reality TV show - CNN
+【发布时间】2026-10-21T12:32:06.000Z
+【链接】https://news.google.com/rss/articles/CBMifkFVX3lxTE4wcVRxdU45bnNNNnMwRkkwV1ZYVXlYdHM5VDdJLXZ1c0JGTEtmZ2g2SExSQzlLQVBpS1FkSlBNZWlTUTducjI2cnpnRlFndEhRWUZPSm5ydFBNSG0zZWl6bzR5TXhZd3Q1N3Y1TGlDV3c5bnVIRlR5MGFxYkxNdw?oc=5
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】How a Democrat Positioned Himself to Be Alaska’s Next Governor  The New York Times
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】How a Democrat Positioned Himself to Be Alaska’s Next Governor - The New York Times
+【发布时间】2026-10-21T12:27:56.000Z
+【链接】https://news.google.com/rss/articles/CBMiggFBVV95cUxNZmdyWENWeHc4LVV5V0ZldnNsMC00aEROVEN0ZlZyekkzcDFfLURzdzg5RVZ3TVhoeGstT3NVSVNkd1ROVHk1MnVXREZUYTZsVlFSTkpHQ3lGZHdlVHhMTWtIV2xyOENwZkx5aUNsQVJnSnZCc0lHb0NRaVItUU1QQUdR?oc=5
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】New York congressional candidate Brad Lander says he was detained by IDF in the occupied West Bank  NBC News
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】New York congressional candidate Brad Lander says he was detained by IDF in the occupied West Bank - NBC News
+【发布时间】2026-10-21T12:22:45.000Z
+【链接】https://news.google.com/rss/articles/CBMivgFBVV95cUxQcEdIclI5R1JqZ2pPUEpHd1JSdk5YLTRlMzlLSW1HZkhhMloyMmxsNmxaZGNFSG01SmtCY29yVE9FVVlzMHZLRm82Z0QxVkNnTk5Zc1JZcVktQWNxY1VHekNra3ZYM2JsUElweEQtNm0tTXhpNHVZY1JiSUlZalFnUjBYWXFwUnk4RV9SdEh6cFljSnAybGoyUVBuNkxKS3JmRUZJWFlXUS14dFc1UEN5UElBUElsQ0lMWVpZWW9B?oc=5
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Boeing's largest 737 MAX jet wins FAA certification, clearing way for deliveries of 1,555 ordered planes  Fox Business
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Boeing's largest 737 MAX jet wins FAA certification, clearing way for deliveries of 1,555 ordered planes - Fox Business
+【发布时间】2026-10-21T12:16:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU180V093NHc5SlF6Wnl4U0huRGVyeWxlWU92MWZTZzNUUFBSOVNQOUhPY0NNa2o0UDJqUnQyeHB6dGFFSGZrei1LcVdFZlFsVUdPSEp3LVFCSGd5Q1JJSVhnQzZTakxxeGRabzF6MlQ4Qjh6bTFBWU1veU5xRmZFdDhHVk5tNlRlMkVqSGFqMkl3WmdEM3RocXgyWTBDNTdSeHgxa3dIZmRaejFoeTE3N3JLNkpYTmM4T25OZmxGc0o1dW4zNXVjZ9IBzgFBVV95cUxPczlIZ3hCZTFxRTFiUGFpbVU0T1Q3VV85QkMyUXJfM09XMXJpc3VfUU5mNEJlQnZVSkNIQ0hONkRNMUZiN0t2THU0T2sxNHU1US1tdW16cVdQWVoxTHFuaWRLOGNiWkVycXMwTG5HM1lrV25tQm9zamlqdzBRTGlwT1RYbDkwQmxIQVVxN1NSMnlqd0h3UHpock5NMkNzcGlrUWVhZVh4TTF5SnZNOGtaZVdXY3ZiVVAyekFxRWpTdFY1RE9OUHhPQ0txMXFUUQ?oc=5
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Why it will cost a typical fan $703 to watch the NBA this season  The New York Times
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Why it will cost a typical fan $703 to watch the NBA this season - The New York Times
+【发布时间】2026-10-21T12:15:30.000Z
+【链接】https://news.google.com/rss/articles/CBMinAFBVV95cUxPYVhFQlVoRmxMTmc0TFJBTnFkNklvRFEyTmxOTmlEWDdYTzFySVFYTE15cnpfWXpzbERfQ0xncENkR3B5RkJzTkwycEVjR0NXLXVETjF1eUFkUC15TW1sQTZ4OVd5TmIwakFVMWwwdE9JQzdCTjQ2cVFJWG9Ja1VlMDZaNU9rUzN0eExfb1U3eXhoYVZELWlvZEJtcW4?oc=5
