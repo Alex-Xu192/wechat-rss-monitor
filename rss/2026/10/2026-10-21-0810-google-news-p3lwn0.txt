@@ -1,0 +1,72 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-20T22:10:26.441Z - 2026-10-21T00:10:26.441Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy  The Guardian
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy - The Guardian
+【发布时间】2026-10-20T23:38:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1BXVEVrSUZFeXd0V1NuRDd6dXh3cGdXVndLZWJUYTU2N3VDWFZWTlRjLUhNM3p5TDBFdEFpWDZLYzFCNTQzODN4ZGV1Vk91S0U3MmM5SUZOVmFuM2o1dFNULWc0LTFWY1V6VnpUOUozUHg2SG9yQ0lEVnFIbDJyX1hsYjl1VHB4bVVSN1lTOXV5VFBZSzVCRUREa2tlaFZHTjAtMlRmc3E3a21INVN6cDh3TGlib1M0YklzQmpCWU5VczlvTnZxM0xkaw?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Christina Applegate reveals she was misdiagnosed with multiple sclerosis: "Not happy at all"  CBS News
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Christina Applegate reveals she was misdiagnosed with multiple sclerosis: "Not happy at all" - CBS News
+【发布时间】2026-10-20T23:32:26.000Z
+【链接】https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb2d6TkpsUDc2dWx0M3FWaW9RdFdHcktwWnU4Q013WUcyUGhJcHF4U0c0WUV6NWFIeEZmdG1Ka19jbE14eElyWktWajVuN3cycjlleTBtUjcyVHFEelU5am1GVWh1UmFZOVRYbElIblNDNDBYUFFBM2pTSEIwMFJJblRjaFJySTNr?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Russia, sensing victory, cheers Trump’s latest shift against Ukraine  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Russia, sensing victory, cheers Trump’s latest shift against Ukraine - The Washington Post
+【发布时间】2026-10-20T23:08:58.000Z
+【链接】https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0dEUGZlV3l0Sm80RDhvcUtWRDRrRFFGZnRHdzlPZ2Z5YWVVRFFsVnlMRFNkU080ZERpaWhwT0tlZVRNMTU2Yk5YNnJpTUpjVDc4UDhpdVNUV1R3Y205cVZEeDBtYnRIa2FzYkIwVFl6TUVkUl9ZbUlZSkRoOUZWUE1hMzF0N2N1X0xwQTExa0xXaGoxWXoyZlhtMDcwLTNxeUZ5VVVDeDViT09xTEJqQjQ4bzk?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Witkoff to present Putin with peace proposal after talks with Zelensky  Axios
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Witkoff to present Putin with peace proposal after talks with Zelensky - Axios
+【发布时间】2026-10-20T23:08:19.000Z
+【链接】https://news.google.com/rss/articles/CBMic0FVX3lxTE93ZlRUYlo2cFl3RW55YlgzLXZSa2F0Vkd0TFhoM1h0c1luUWxZTDY1bVA2SjFaMHUyaUZqVE0zT3BlQm9sOWh2MWpJRHJ1MVhqMllaZURRdGcxRUhxV0VodEZzRThVZjA2ek1TMmRJck5obmM?oc=5
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Helen Haines: Australian MP in critical condition as man charged with attacking her to appear in court  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Helen Haines: Australian MP in critical condition as man charged with attacking her to appear in court - BBC
+【发布时间】2026-10-20T22:17:22.000Z
+【链接】https://news.google.com/rss/articles/CBMiVkFVX3lxTE52YUNrc0EyS3BiTDh3Z2lUNFp0TURMTTdMTTF3dGxpTHdvVTFJZDBPQ3Fyci1WcEVTX2hGeVhsM3VOT3plYVNSVGxTUTB5UTNaSFdMWjVn?oc=5
