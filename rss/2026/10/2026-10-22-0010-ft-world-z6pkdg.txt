@@ -1,0 +1,111 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-21T14:10:30.150Z - 2026-10-21T16:10:30.150Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】US healthcare group plans to create standalone public company with $8.5bn in annual sales
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Abbott to spin off nutrition unit at centre of baby formula lawsuits
+【发布时间】2026-10-21T15:54:56.000Z
+【链接】https://www.ft.com/content/7f407bde-ef26-4914-bcbe-baf858bc81d7?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Democrat Abdul El-Sayed could make history — or scupper his party’s hopes of taking control of the Senate in midterm elections
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Could Michigan elect America’s first Muslim senator?
+【发布时间】2026-10-21T15:52:15.000Z
+【链接】https://www.ft.com/content/a6972433-c303-4ace-affd-cc3ab54a3cf3?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Head of France’s cyber security agency said lack of protection and weak passwords helped criminals seize control of systems
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Fridge hackers exploited ‘basic security flaws’ at French retailers
+【发布时间】2026-10-21T15:38:55.000Z
+【链接】https://www.ft.com/content/89a3b7e8-beee-464b-b398-2709be815982?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Concerns over public finances and political stability have helped push up 10-year bond yields from 3.2% in late February
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】France’s borrowing costs hit 5% for first time since 2002
+【发布时间】2026-10-21T15:29:06.000Z
+【链接】https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Zia Yusuf says tactics behind programme that showed party councillors making sexist and racist comments may have been illegal
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Reform reports ITV to police over undercover documentary
+【发布时间】2026-10-21T15:12:30.000Z
+【链接】https://www.ft.com/content/3d67dfc3-e17c-4580-9797-a6bfa7256be0?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Every big pool of capital, in every corner of the developed world, is funding data centres
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Who’s paying for the AI build-out? Probably you
+【发布时间】2026-10-21T15:00:25.000Z
+【链接】https://www.ft.com/content/09f56730-4702-446d-9986-f7c93ffe6bf0?syn-25a6b1a6=1
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Steve Witkoff meets Russian President Vladimir Putin in fresh drive to end war in Ukraine
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Russia releases US citizen as Trump’s envoy visits
+【发布时间】2026-10-21T14:50:03.000Z
+【链接】https://www.ft.com/content/d7345d46-f000-49b1-99f6-57edfbd5f0af?syn-25a6b1a6=1
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Daily shipments from Gulf producers average 24.6mn, above 23.3mn before conflict, as ships use alternative routes
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Middle East oil exports climb back to prewar levels
+【发布时间】2026-10-21T14:44:57.000Z
+【链接】https://www.ft.com/content/509c0ecf-625e-4473-96cf-e249edb7c86e?syn-25a6b1a6=1
