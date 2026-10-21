@@ -1,0 +1,163 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-21T16:10:29.819Z - 2026-10-21T18:10:29.819Z
+【数量】12
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+9. 中文标题翻译失败
+10. 中文标题翻译失败
+11. 中文标题翻译失败
+12. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Steve Witkoff discusses resumption of peace dialogue with Russian president, followed by US-China-Russia meeting next month
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Trump envoy floats Ukraine talks and summit with Putin and Xi
+【发布时间】2026-10-21T17:53:39.000Z
+【链接】https://www.ft.com/content/d7345d46-f000-49b1-99f6-57edfbd5f0af?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】John Mahama says efforts are focused on securing the return of artefacts stolen during the centuries of the slave trade and colonialism
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Ghana in talks with European nations for reparations, president says
+【发布时间】2026-10-21T17:43:17.000Z
+【链接】https://www.ft.com/content/68e28f90-cbc3-4fa6-950b-451cf7c49c87?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Highway blockades lead to major disruptions in country’s south
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Italy’s buffalo mozzarella production grinds to a halt in truckers’ strike
+【发布时间】2026-10-21T17:37:14.000Z
+【链接】https://www.ft.com/content/bef7e107-3922-4312-acd9-3c96af60c309?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A credible stock market is essential if the country is to fulfil its enormous economic promise
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Indonesia should heed MSCI’s warning
+【发布时间】2026-10-21T17:36:57.000Z
+【链接】https://www.ft.com/content/8c443652-5c29-4711-81d1-dd985f2e4578?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A merger of Elon Musk’s listed companies has some logic, but other shareholders might end up with less influence than they have today
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Tesla-SpaceX: a huge corporate constellation with Musk at its centre
+【发布时间】2026-10-21T17:25:53.000Z
+【链接】https://www.ft.com/content/7f8e97b4-bd2e-4414-858a-bc746cb515f6?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Biotech billionaire Vivek Ramaswamy faces backlash over video featuring opponent’s estranged mother
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Ohio governor’s campaign engulfed in controversy over attack ad
+【发布时间】2026-10-21T17:09:38.000Z
+【链接】https://www.ft.com/content/93ba5184-e21c-4af2-8121-c92df82a95f3?syn-25a6b1a6=1
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】György Matolcsy and several others arrested in corruption probes targeting former PM’s circle of power
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Hungary detains Orbán’s former central bank chief
+【发布时间】2026-10-21T17:07:48.000Z
+【链接】https://www.ft.com/content/576c025a-b4e2-47d8-88e8-3ac0fcf8e16d?syn-25a6b1a6=1
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ministers stress that decision on larger Rosebank oilfield was a ‘different proposition’
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】UK approves development of Jackdaw gasfield in North Sea
+【发布时间】2026-10-21T16:49:02.000Z
+【链接】https://www.ft.com/content/9cfa52b2-77cb-4b53-ad74-badd53f24fc6?syn-25a6b1a6=1
+
+------------------------------
+
+9. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Concerns over public finances and political stability have helped push up 10-year bond yields from 3.2% in late February
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】France’s borrowing costs hit 5% for first time since 2002
+【发布时间】2026-10-21T16:33:36.000Z
+【链接】https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876?syn-25a6b1a6=1
+
+------------------------------
+
+10. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Figure comes ahead of next week’s Budget and will cement expectations of Bank of England rate rise in November
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】UK inflation and borrowing top forecasts in blow to Healey
+【发布时间】2026-10-21T16:31:41.000Z
+【链接】https://www.ft.com/content/443ce2f3-ba36-4dc7-aa0b-a2bc593fa563?syn-25a6b1a6=1
+
+------------------------------
+
+11. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Daily shipments from Gulf producers average 24.6mn, above 23.3mn before conflict, as ships use alternative routes
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Middle East oil exports climb back to prewar levels
+【发布时间】2026-10-21T16:24:28.000Z
+【链接】https://www.ft.com/content/509c0ecf-625e-4473-96cf-e249edb7c86e?syn-25a6b1a6=1
+
+------------------------------
+
+12. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】French president expresses anger after US and other rightwing leaders blame migrants for violence and looting
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Macron hits out at ‘stupid’ Trump remarks about riots in France
+【发布时间】2026-10-21T16:12:37.000Z
+【链接】https://www.ft.com/content/57e14c61-a1ac-46ef-8bf2-c40e5286546e?syn-25a6b1a6=1
