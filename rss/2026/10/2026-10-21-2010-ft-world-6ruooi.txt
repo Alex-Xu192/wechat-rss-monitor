@@ -1,0 +1,98 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-21T10:10:28.912Z - 2026-10-21T12:10:28.912Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Steve Witkoff meets Russian President Vladimir Putin in fresh drive to end war in Ukraine
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Russia releases US citizen as Trump’s envoy visits
+【发布时间】2026-10-21T12:10:02.000Z
+【链接】https://www.ft.com/content/d7345d46-f000-49b1-99f6-57edfbd5f0af?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Daily shipments from Gulf producers average 24.6mn, above 23.3mn before conflict, as ships use alternative routes
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Middle East oil exports climb back to prewar levels
+【发布时间】2026-10-21T12:01:37.000Z
+【链接】https://www.ft.com/content/509c0ecf-625e-4473-96cf-e249edb7c86e?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The hope that wise subordinates would curb the likes of Donald Trump was always a misunderstanding of politics
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】The ‘adults in the room’ won’t save you
+【发布时间】2026-10-21T11:32:56.000Z
+【链接】https://www.ft.com/content/2773c5ab-1bb6-4110-b6a7-c467b7b89717?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】EU must protect sector from foreign rivals, says parliament’s lead negotiator on telecoms reform
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Musk’s SpaceX ambitions may be ‘dangerous’ for Europe, warns EU lawmaker
+【发布时间】2026-10-21T10:45:04.000Z
+【链接】https://www.ft.com/content/f9e4ddf8-5fd4-43e6-bca2-62d1067c4c48?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Not the regulators we want, or the regulators we need. But at least it’s something?
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】The rise of index vigilantes
+【发布时间】2026-10-21T10:37:05.000Z
+【链接】https://www.ft.com/content/b3544087-2673-4e90-9192-342c6b1a6a03
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Nigeria is urgently tracing dozens of contacts of person who tested positive for virus
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】WHO issues alert as Ebola spreads to west Africa
+【发布时间】2026-10-21T10:23:04.000Z
+【链接】https://www.ft.com/content/fe7fa078-8aa5-4802-963d-d88d3013c158?syn-25a6b1a6=1
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A way forward can only materialise once the US administration genuinely accepts that it has no military options
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Iran’s foreign minister: The false assumptions about us are dangerous
+【发布时间】2026-10-21T10:22:06.000Z
+【链接】https://www.ft.com/content/61bf9676-ea46-4956-b87f-6ab096accafa
