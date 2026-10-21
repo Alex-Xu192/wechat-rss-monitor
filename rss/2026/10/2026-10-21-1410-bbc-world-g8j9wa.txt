@@ -1,0 +1,46 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-21T04:10:25.041Z - 2026-10-21T06:10:25.041Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Musk says special committees within both companies have been formed to look at a possible mega-merger.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Elon Musk considering Tesla-SpaceX merger
+【发布时间】2026-10-21T05:48:46.000Z
+【链接】https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Pakistan arrests man hunted by US over $126m postage fraud case
+【发布时间】2026-10-21T05:46:33.000Z
+【链接】https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Musk, who is CEO of both companies, says there is "a lot to be gained" from the merger, which would be the biggest in history.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Why does Elon Musk want to merge Tesla and SpaceX?
+【发布时间】2026-10-21T04:13:14.000Z
+【链接】https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss
