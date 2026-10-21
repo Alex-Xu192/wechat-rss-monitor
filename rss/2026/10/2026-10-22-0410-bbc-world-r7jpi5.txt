@@ -1,0 +1,59 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-21T18:10:23.683Z - 2026-10-21T20:10:23.683Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Meta fined $25bn for 'lies' over user data privacy
+【发布时间】2026-10-21T19:54:16.000Z
+【链接】https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The wife of a diplomat based in Abuja travelled to Kampala for a vacation.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Nigeria's first Ebola patient holidayed in Uganda, officials say
+【发布时间】2026-10-21T19:29:40.000Z
+【链接】https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】India 'cockroach' leaders who called on election chief to quit are freed from jail
+【发布时间】2026-10-21T18:22:28.000Z
+【链接】https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】'Targeted' attack on much-loved MP leaves Australian town heartbroken
+【发布时间】2026-10-21T18:10:42.000Z
+【链接】https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss
