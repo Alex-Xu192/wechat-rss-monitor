@@ -1,0 +1,59 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-21T08:10:32.288Z - 2026-10-21T10:10:32.288Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The project will lessen the country’s dependence on imported energy, though environmental advocates say it undercuts a pledge to reduce carbon emissions.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】U.K. Approves Long-Stalled Jackdaw Gas Drilling Project in the North Sea
+【发布时间】2026-10-21T09:25:07.000Z
+【链接】https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ron Wyden, ranking Democrat on the Senate Finance Committee, is investigating the firms over their role in helping corporations dodge billions in taxes.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Senator Asks 4 Accounting Giants to Describe Malta Tax Advice
+【发布时间】2026-10-21T09:02:32.000Z
+【链接】https://www.nytimes.com/2026/10/21/business/ron-wyden-accounting-firms-malta.html
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A boardroom fight, an attempted veto and government intervention have plunged the Tata Group, one of India’s most revered institutions, into a fight over its future.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】A Battle for Control of India’s Biggest Business Empire
+【发布时间】2026-10-21T09:01:54.000Z
+【链接】https://www.nytimes.com/2026/10/21/business/tata-india-boardroom-fight.html
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The island adopted quotas for women running for public office decades before other countries. The upshot? Today, few of them need quotas to get elected.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】For an Experiment in Political Affirmative Action, Look to Taiwan
+【发布时间】2026-10-21T09:01:25.000Z
+【链接】https://www.nytimes.com/2026/10/21/business/taiwan-gender-quotas.html
