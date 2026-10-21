@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-21T20:10:24.488Z - 2026-10-21T22:10:24.488Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Early on Thursday morning local time, South Korea's oceans ministry said the shark had been successfully guided out of the canal.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Huge crowds watch attempt to rescue shark stranded in South Korean canal
+【发布时间】2026-10-21T20:31:47.000Z
+【链接】https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Ex-prosecutor charged with treason in Mexico over US drug raid
+【发布时间】2026-10-21T20:19:51.000Z
+【链接】https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss
