@@ -1,0 +1,59 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-21T18:10:29.267Z - 2026-10-21T20:10:29.267Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Steve Witkoff discusses resumption of peace dialogue with Russian president followed by US-China-Russia meeting next month
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Trump envoy proposes Ukraine talks and summit with Putin and Xi
+【发布时间】2026-10-21T19:59:34.000Z
+【链接】https://www.ft.com/content/d7345d46-f000-49b1-99f6-57edfbd5f0af?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Concession could help the two sides finalise a ‘reset’ deal at a summit next month
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】EU set to delay push for cheaper UK university fees for bloc’s students
+【发布时间】2026-10-21T18:58:01.000Z
+【链接】https://www.ft.com/content/47777033-6a91-42c3-bc9e-249d4bf7a961?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Treasury secretary spoke to financiers at charity event where tickets cost $7,500
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference
+【发布时间】2026-10-21T18:46:59.000Z
+【链接】https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Researchers used OpenAI and Google models to find severe faults in software used on majority of websites around the world
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】NSA warns on ‘critical’ cyber vulnerabilities detected using AI
+【发布时间】2026-10-21T18:46:43.000Z
+【链接】https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1
