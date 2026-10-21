@@ -1,0 +1,72 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-21T06:10:29.369Z - 2026-10-21T08:10:29.369Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Figure comes ahead of next week’s Budget and will cement expectations of Bank of England rate rise in November
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】UK inflation and borrowing top forecasts in blow to Healey
+【发布时间】2026-10-21T07:18:42.000Z
+【链接】https://www.ft.com/content/443ce2f3-ba36-4dc7-aa0b-a2bc593fa563?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Headline and core inflation accelerates ahead of November meeting
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】UK September inflation fuels expectations of imminent BoE rate rise
+【发布时间】2026-10-21T07:03:47.000Z
+【链接】https://www.ft.com/content/70f1da13-3c33-4881-aaa8-3458c1ba7eaf
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】NextDC plunge adds to sector woes as Nvidia holds talks over injecting capital into Firmus after failed IPO
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Australian data centre group falls 44% on profit warning
+【发布时间】2026-10-21T06:33:49.000Z
+【链接】https://www.ft.com/content/023caf76-40df-485d-8a28-0ff62aa7ec6f?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Action against Indonesia and Turkey is a venture into territory best left to local regulators and governments
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Are index providers overstepping the mark?
+【发布时间】2026-10-21T06:27:42.000Z
+【链接】https://www.ft.com/content/0a892b95-0216-40d9-89a4-e1654b9a3fa2
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ministers give go-ahead to project about 150 miles east of Aberdeen
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】UK approves development of Jackdaw gasfield in North Sea
+【发布时间】2026-10-21T06:18:25.000Z
+【链接】https://www.ft.com/content/9cfa52b2-77cb-4b53-ad74-badd53f24fc6?syn-25a6b1a6=1
