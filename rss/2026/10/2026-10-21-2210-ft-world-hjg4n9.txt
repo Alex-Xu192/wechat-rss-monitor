@@ -1,0 +1,137 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-21T12:10:29.793Z - 2026-10-21T14:10:29.793Z
+【数量】10
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+9. 中文标题翻译失败
+10. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Figure comes ahead of next week’s Budget and will cement expectations of Bank of England rate rise in November
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】UK inflation and borrowing top forecasts in blow to Healey
+【发布时间】2026-10-21T13:43:26.000Z
+【链接】https://www.ft.com/content/443ce2f3-ba36-4dc7-aa0b-a2bc593fa563?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ministers stress that decision on larger Rosebank oilfield was a ‘different proposition’
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】UK approves development of Jackdaw gasfield in North Sea
+【发布时间】2026-10-21T13:41:48.000Z
+【链接】https://www.ft.com/content/9cfa52b2-77cb-4b53-ad74-badd53f24fc6?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】US healthcare group plans to create standalone public company with $8.5bn in annual sales
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Abbott to spin off nutrition unit at centre of baby formula lawsuits
+【发布时间】2026-10-21T13:41:40.000Z
+【链接】https://www.ft.com/content/7f407bde-ef26-4914-bcbe-baf858bc81d7?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The world’s richest man attempts his most audacious deal yet. But shareholders and global regulators will need convincing
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Rockets, robots and risk: Musk’s $3.6tn gamble to merge Tesla and SpaceX
+【发布时间】2026-10-21T13:38:40.000Z
+【链接】https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Experts say providers would probably recover loss of daily fixed fee via the unit rate
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Andy Burnham plans to cut standing charges from household gas bills
+【发布时间】2026-10-21T13:34:03.000Z
+【链接】https://www.ft.com/content/8eda2888-0b63-43c9-80b9-b4b7557374ca?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Deal for 25% of Kenya Pipeline comes amid plans for refineries and storage facilities across Africa
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Dangote takes stake in Kenyan pipeline and pledges more ‘aggressive’ energy investment
+【发布时间】2026-10-21T13:23:37.000Z
+【链接】https://www.ft.com/content/e3282291-be9a-4c97-8fc8-d43f9297e167?syn-25a6b1a6=1
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】French president expresses anger after US and other rightwing leaders blame migrants for violence and looting
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Macron hits out at ‘stupid’ Trump remarks about riots in France
+【发布时间】2026-10-21T13:17:09.000Z
+【链接】https://www.ft.com/content/57e14c61-a1ac-46ef-8bf2-c40e5286546e?syn-25a6b1a6=1
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Concerns over public finances and political stability have helped push up 10-year bond yields from 3.2% in late February
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】France’s borrowing costs hit 5% for first time since 2002
+【发布时间】2026-10-21T12:51:26.000Z
+【链接】https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876?syn-25a6b1a6=1
+
+------------------------------
+
+9. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】György Matolcsy and several others arrested in corruption probes targeting former PM’s circle of power
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Hungary detains Orbán’s former central bank chief
+【发布时间】2026-10-21T12:39:02.000Z
+【链接】https://www.ft.com/content/576c025a-b4e2-47d8-88e8-3ac0fcf8e16d?syn-25a6b1a6=1
+
+------------------------------
+
+10. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The meaning of statues like the Kindertransport one risks being lost when the world is rushing past
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Do memorials belong in train stations?
+【发布时间】2026-10-21T12:20:32.000Z
+【链接】https://www.ft.com/content/c647a4d9-bd2d-4758-9482-2e89f7151038?syn-25a6b1a6=1
