@@ -1,0 +1,59 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-21T08:10:27.483Z - 2026-10-21T10:10:27.483Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Netflix Stock Drops On Softer than Expected Revenue Outlook  Barron's
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Netflix Stock Drops On Softer than Expected Revenue Outlook - Barron's
+【发布时间】2026-10-21T09:38:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiekFVX3lxTE1tbGIwR05DVVIyeUpob1RwSWFnX1QxRXRXR1l3LXJ5M2o5OXR0T2JLTDNIU0xHa1lHRFhmUzB0UE9LY25NNmRkRVcwNUVpZ2VLUjFlU1p3eWhqUi1RV2hROFNnNE1zTVdVN2l2R3FLRk9aTlYtbVJKN0VR?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates  CNBC
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates - CNBC
+【发布时间】2026-10-21T09:33:14.000Z
+【链接】https://news.google.com/rss/articles/CBMid0FVX3lxTE44andoMWc1UnV1MnYtOVNwMFJxU3dmRFhYVEFlWEg5c0NTblp5VmJZNDR2TW5jRUdISW5pUmRsTVFmWjlXS0lMUTNOM0NEZV8zeldYOEVYelVaYzMtMGJxaW0tWnZZSUhEU2FxeEppUzVWTnpyY2Y00gF8QVVfeXFMTlFJSF8yb09HR2JyVExWTG9XUTFYeWVyaGpad2ktb2FXTGZ0WnpHcF9hNzlnd1RBVGs0MXpXLXplRVNaWXo3a1d6OUd3U0x0ZVR2ZWI4N1RvVktDY1hYaDR3ZTlVUnhsM1pfT2Q2eDNPQUFHT242QmVUZDdGMg?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Russia frees 74-year-old US man after plea from Trump  CNN
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Russia frees 74-year-old US man after plea from Trump - CNN
+【发布时间】2026-10-21T09:08:41.000Z
+【链接】https://news.google.com/rss/articles/CBMikgFBVV95cUxNSUJpOE5OMUs1S2VFa2FKZGNmTktfRXNxTThCUkRLVVpZWVdlb0tUTGhGeVVYR2VmZGdRREY4TFV0dzQ5alNyaG13Y1E3Q3NnbWhjRERXeEVVX3dnRU5KNGNWcDVnVVhtMlpITXdXQUV2YWlwV1Atd0xLYTRZMVhSSEdCUFFXU0VaRjFzdmZibEpLQQ?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Elon Musk confirms he is considering merging Tesla and SpaceX  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Elon Musk confirms he is considering merging Tesla and SpaceX - BBC
+【发布时间】2026-10-21T08:42:49.000Z
+【链接】https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xQVFkemlnVHpuR0hUUWJNMzNoZWoxbEVWa2sxMUlTd1BIRXBocmRDLThIYUtOR2JDWjJ4ZWFZbWZuWDhVWnFLb0NNajRJQm9QTU9oSUZXRnFEUEE?oc=5
