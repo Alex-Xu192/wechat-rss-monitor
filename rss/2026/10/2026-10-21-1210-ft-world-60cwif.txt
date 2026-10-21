@@ -1,0 +1,293 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-21T02:10:30.819Z - 2026-10-21T04:10:30.819Z
+【数量】22
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+9. 中文标题翻译失败
+10. 中文标题翻译失败
+11. 中文标题翻译失败
+12. 中文标题翻译失败
+13. 中文标题翻译失败
+14. 中文标题翻译失败
+15. 中文标题翻译失败
+16. 中文标题翻译失败
+17. 中文标题翻译失败
+18. 中文标题翻译失败
+19. 中文标题翻译失败
+20. 中文标题翻译失败
+21. 中文标题翻译失败
+22. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Italian PM dispatches 500 soldiers to financial capital after youth turn violent and loot stores
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Milan riots test Meloni’s law and order credentials
+【发布时间】2026-10-21T04:00:32.000Z
+【链接】https://www.ft.com/content/4e402323-c3f8-4aa6-9eba-0c8c9e478b4a?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Katharine Braddick will outline plans to make the BoE’s Prudential Regulation Authority more accountable and transparent
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】UK’s top banking regulator to set targets with five-year strategy
+【发布时间】2026-10-21T04:00:32.000Z
+【链接】https://www.ft.com/content/f06bdefd-bbc6-4a33-9884-09daa15752a9?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Co-chief Ted Sarandos faces questions over content strategy as slowing viewer engagement threatens growth
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Netflix’s $300bn problem: lack of hits piles pressure on streaming giant
+【发布时间】2026-10-21T04:00:23.000Z
+【链接】https://www.ft.com/content/600ae6ad-ea09-4deb-ad55-10513e78a44e?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】ITPN research finds debt interest rates for companies that publish full climate transition plans are 0.8 percentage points less than for those that do not
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Climate plans found to lower companies’ borrowing costs
+【发布时间】2026-10-21T04:00:23.000Z
+【链接】https://www.ft.com/content/52e341e0-b29c-420a-9427-cf08e9982cc5?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】UK prime minister wants mayors to take responsibility for major housebuilding projects as part of his devolution push
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Andy Burnham cools on new towns project
+【发布时间】2026-10-21T04:00:23.000Z
+【链接】https://www.ft.com/content/f4f711aa-ca65-4441-b311-73eadb3ccc40?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】London mayor Sadiq Khan has been in talks over funding options for improving rail hub
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Stratford moves closer to international rail upgrade with Budget boost
+【发布时间】2026-10-21T04:00:23.000Z
+【链接】https://www.ft.com/content/480d1fa9-706d-4366-a76c-f39b1b7398a2?syn-25a6b1a6=1
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Healey’s statement will be moulded by a very small team of advisers working in conditions of tight secrecy
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】The people shaping the Budget
+【发布时间】2026-10-21T04:00:23.000Z
+【链接】https://www.ft.com/content/a744bc1c-98d8-4763-ad23-78e483bbf85f?syn-25a6b1a6=1
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Move comes despite plans for scheme for investors being well advanced under Keir Starmer
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Healey squashes hopes of visa for wealthy in UK Budget
+【发布时间】2026-10-21T04:00:23.000Z
+【链接】https://www.ft.com/content/ef12fcab-5139-4750-b0d5-1f4b6c72086c?syn-25a6b1a6=1
+
+------------------------------
+
+9. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Regulators examine role of social media platforms in spreading disinformation and hate speech around violence and looting
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】EU probes pro-Kremlin disinformation around French riots
+【发布时间】2026-10-21T04:00:22.000Z
+【链接】https://www.ft.com/content/d95609cd-1bb9-4995-937b-875277de3a42?syn-25a6b1a6=1
+
+------------------------------
+
+10. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Democrat Abdul El-Sayed could make history — or scupper his party’s hopes of taking control of the Senate in midterm elections
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Could Michigan elect America’s first Muslim senator?
+【发布时间】2026-10-21T04:00:13.000Z
+【链接】https://www.ft.com/content/a6972433-c303-4ace-affd-cc3ab54a3cf3?syn-25a6b1a6=1
+
+------------------------------
+
+11. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The past is always a foreign country
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Britain cannot build its future by returning to the 1970s
+【发布时间】2026-10-21T04:00:13.000Z
+【链接】https://www.ft.com/content/8c0ea73d-dc44-455a-b319-148c09f68e0a?syn-25a6b1a6=1
+
+------------------------------
+
+12. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】This is not the end of a list of potential reforms. It is barely even a start
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】A pre-Budget day guide to Britain’s bad taxes
+【发布时间】2026-10-21T04:00:13.000Z
+【链接】https://www.ft.com/content/2b772a7f-a4ef-412c-a96f-100dd9425684?syn-25a6b1a6=1
+
+------------------------------
+
+13. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】I’ve mapped the trappings of middle-class life at three levels — and they’re all getting more expensive
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】How much does it cost to be middle class?
+【发布时间】2026-10-21T04:00:13.000Z
+【链接】https://www.ft.com/content/88c86f65-6478-4a43-a438-1968ce515fbc
+
+------------------------------
+
+14. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Israeli military made plans for extensive operation earlier this month but held off as Donald Trump rules out an attack before US midterm elections
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Netanyahu pushes to resume strikes against Iran
+【发布时间】2026-10-21T04:00:13.000Z
+【链接】https://www.ft.com/content/eb4d1101-45ed-4d03-9beb-42f7c87a58ea
+
+------------------------------
+
+15. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The secret is the quality of ingredients but butter and parmesan help too
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Recipe: Osteria Vibrato’s risotto bianco — beige food at its best
+【发布时间】2026-10-21T04:00:13.000Z
+【链接】https://www.ft.com/content/c3755d2a-7333-4137-9837-12bff22a1a92?syn-25a6b1a6=1
+
+------------------------------
+
+16. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】In a new anthology, writers from Charles Dickens to Virginia Woolf shed light on the allure of walking in the dark. Jan Dalley joins its editor for a starlit stroll along the Thames
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】The joy of night walking
+【发布时间】2026-10-21T04:00:12.000Z
+【链接】https://www.ft.com/content/8bc45ae3-597b-45eb-9394-9286a70c8be0
+
+------------------------------
+
+17. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Digital asset groups seek new ways of making money in face of prolonged downturn in token prices
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Crypto exchanges race to offer prediction markets to US customers
+【发布时间】2026-10-21T04:00:04.000Z
+【链接】https://www.ft.com/content/a7e3153d-ac45-4756-9961-75b892f337da?syn-25a6b1a6=1
+
+------------------------------
+
+18. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A new temple to modern art has arisen on an island in the Seine, the historic site of a vast Renault factory — and suffers by comparison
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Paris’s Le Large fails to match the grandeur of its industrial past
+【发布时间】2026-10-21T04:00:04.000Z
+【链接】https://www.ft.com/content/15b2e5b6-782a-411e-95ca-1e0d62e57a71?syn-25a6b1a6=1
+
+------------------------------
+
+19. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The exclusive north London enclave has long kept a low profile, but new openings are changing the landscape
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】St John’s Wood is raising its head above the parapet
+【发布时间】2026-10-21T04:00:04.000Z
+【链接】https://www.ft.com/content/e7d031d6-184d-4638-ab4a-b61bf6c1f270
+
+------------------------------
+
+20. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Phil Hogan is bidding to lead UN food agency and increase its involvement in talks with Russia and Ukraine about securing Black Sea shipping
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Irish ex-EU commissioner seeks Trump’s help to restore grain corridor
+【发布时间】2026-10-21T04:00:04.000Z
+【链接】https://www.ft.com/content/ff241417-eece-4416-bed8-8cbed009448f?syn-25a6b1a6=1
+
+------------------------------
+
+21. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Two years since taking office, the general-turned-president is battling multiplying problems
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】How Indonesia has fared in two years of Prabowo’s presidency
+【发布时间】2026-10-21T03:49:18.000Z
+【链接】https://www.ft.com/content/55ea61be-c535-417a-abd1-ee740a8e51af?syn-25a6b1a6=1
+
+------------------------------
+
+22. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Tokyo lost decades when a property bust led to an economic slump. Could the same phenomenon undo Xi Jinping’s ambitions?
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】China’s nightmare: becoming the next Japan
+【发布时间】2026-10-21T03:00:04.000Z
+【链接】https://www.ft.com/content/512ef255-89c2-4128-becc-914885c3a2a5?syn-25a6b1a6=1
