@@ -1,0 +1,46 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-21T06:10:24.342Z - 2026-10-21T08:10:24.342Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Katya Adler: France divided over who to blame for riots and what to learn from them
+【发布时间】2026-10-21T06:50:40.000Z
+【链接】https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Steve Witkoff is in St Petersburg to discuss proposals on ending Russia's years-long conflict with Ukraine.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'
+【发布时间】2026-10-21T06:37:55.000Z
+【链接】https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Musk says there's "a lot to be gained" by combining the firms in what would be the biggest merger in history.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?
+【发布时间】2026-10-21T06:36:39.000Z
+【链接】https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss
