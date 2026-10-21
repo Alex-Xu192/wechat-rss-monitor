@@ -1,0 +1,59 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-21T12:10:31.917Z - 2026-10-21T14:10:31.917Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The project will lessen the country’s dependence on imported energy, though environmental advocates say it undercuts a pledge to reduce carbon emissions.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】U.K. Approves Long-Stalled Jackdaw Gas Drilling Project in the North Sea
+【发布时间】2026-10-21T14:08:44.000Z
+【链接】https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A deal would consolidate Elon Musk’s holdings in rockets, cars and artificial intelligence into a company worth well over $3 trillion.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Elon Musk Says SpaceX and Tesla Are Exploring a Merger
+【发布时间】2026-10-21T13:53:16.000Z
+【链接】https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Tech stocks are up after the rocket and artificial intelligence company beat earnings estimates — and Elon Musk confirmed it is weighing a deal with Tesla.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】SpaceX Boosts the A.I. Rally
+【发布时间】2026-10-21T13:37:04.000Z
+【链接】https://www.nytimes.com/2026/10/21/business/dealbook/spacex-musk-tesla.html
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A Times reporter and editors discuss the challenges of sifting through what’s real and what’s not in pursuit of the news.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】How The New York Times Reports on A.I. Images
+【发布时间】2026-10-21T13:21:54.000Z
+【链接】https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html
