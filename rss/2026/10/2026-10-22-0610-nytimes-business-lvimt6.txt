@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-21T20:10:30.792Z - 2026-10-21T22:10:30.792Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The carmaker, which is controlled by Elon Musk and is considering merging with another of his companies, SpaceX, spent heavily on artificial intelligence and other new technologies.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Tesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX
+【发布时间】2026-10-21T21:10:49.000Z
+【链接】https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A deal would consolidate Elon Musk’s holdings in rockets, cars and artificial intelligence into a company worth well over $3 trillion.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Elon Musk Says SpaceX and Tesla Are Exploring a Merger
+【发布时间】2026-10-21T20:57:22.000Z
+【链接】https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html
