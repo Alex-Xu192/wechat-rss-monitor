@@ -1,0 +1,46 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-21T12:10:24.095Z - 2026-10-21T14:10:24.095Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Family of prison officer killed by IRA receives state apology
+【发布时间】2026-10-21T13:35:27.000Z
+【链接】https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Nigeria confirms Ebola case linked to East Africa
+【发布时间】2026-10-21T12:39:34.000Z
+【链接】https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The 74-year-old former teacher, who was captured, has been released without any "swap" required, Trump says.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin
+【发布时间】2026-10-21T12:32:01.000Z
+【链接】https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss
