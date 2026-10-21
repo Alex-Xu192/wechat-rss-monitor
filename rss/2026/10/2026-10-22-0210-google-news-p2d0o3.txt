@@ -1,0 +1,98 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-21T16:10:27.411Z - 2026-10-21T18:10:27.411Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ohio chemical tank blast forces evacuations, raises fears of another explosion  CNN
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Ohio chemical tank blast forces evacuations, raises fears of another explosion - CNN
+【发布时间】2026-10-21T17:36:00.000Z
+【链接】https://news.google.com/rss/articles/CBMihgFBVV95cUxPWk1lekVKWUpRSFJITzkyYVNPOEdfYjlCc2swZzQ1cnQ2UXJNZjYzQ290QVdvU1h4am8tbjFQV1FBLVI2bXpEUEhLSDduZHB0eVNGZ2JLOTZwRFVNMWVLMWp4RzhvamZkWnQtd1pnVzM3Y0FlSmpEbGFvN1hmb2U2QzAweUx5UQ?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】‘Stop whining’: Vance dismisses Republican criticism of Ramaswamy ad  Politico
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】‘Stop whining’: Vance dismisses Republican criticism of Ramaswamy ad - Politico
+【发布时间】2026-10-21T17:35:00.000Z
+【链接】https://news.google.com/rss/articles/CBMikgFBVV95cUxON2RKRXNiM2x2MF9ESXZldFBWQW9EeTF5ZlUybzE3d0s1TF96SFNHQ1hBaTRsTUxRcTlheHpMbDRHdmVReFNwYTllTnpJYXd0ZjhfN0JfMUhET2R2dVE3SHprN205N3BnVUowbHRhcU9jS2VjTjB3ZURpbDJIdnZDN0l6WWkwOHJhWWhiOWpGWkdaUQ?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Israel detains dozens of Americans, including a congressional candidate, in West Bank  NPR
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Israel detains dozens of Americans, including a congressional candidate, in West Bank - NPR
+【发布时间】2026-10-21T17:34:00.000Z
+【链接】https://news.google.com/rss/articles/CBMimwFBVV95cUxQSGktU0wwclRaRExPOUxpVW9pLWk5TlhkUnpfdFVTdFFZSTdsbVRJeDkwbXFiY25PZ2JGTmtycmtzUnZiOURncG53LXgwT2xBQlBxU21obDRQNGRSc1Z4WWNFTjJ4S2tSU2pmdXp6YjNacjB1TzlLbFRqNUdsazBhRG9TS2ZfUjFtWVNmajI4eXpreVJvVWxxSm8yVQ?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Lea Michele Returning for ‘Glee’ Reboot as Rachel Berry (EXCLUSIVE)  Variety
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Lea Michele Returning for ‘Glee’ Reboot as Rachel Berry (EXCLUSIVE) - Variety
+【发布时间】2026-10-21T17:22:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzhkSTZkYUlKS3BkQlJoSUw4a0ZjYzA0SFNyOEp0bmNiRmNISFN3ZFczcnM3SG5MRldjQmdTUnozc3BKUXJaTmN3WTJVNnh2bzFYTExzdGVfaUt1emlDYy1sZjkyTkRkZ0pEZnpTOHNESW02d0ZvWTJ0MHNrWWgzVFZ1c2lmZFNU?oc=5
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Controversial US-backed vaccine trial in African newborns halted  The Guardian
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Controversial US-backed vaccine trial in African newborns halted - The Guardian
+【发布时间】2026-10-21T17:18:00.000Z
+【链接】https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdaSWVPV1hSMFY1N0J3dFppRzdWVFVxNnM3MTFDN0VVT05pOWFKSWk4V2pqcV9EVXIwa0ZoaTE3aW9JV0I4cllXLV9hRlJwWmptRHliUkt1aGstYnpaRzdFS0FlaFRlSTQzM1AzTHA0Uk5jREVFaGplelZGOWRmTkx5anZUQmlVR0FZc2ItUUxxc1RQSXc?oc=5
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking  CNBCSee more headlines & perspectives on Google News
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking - CNBC
+【发布时间】2026-10-21T16:49:43.000Z
+【链接】https://news.google.com/rss/articles/CBMihgFBVV95cUxPOTlxWll6TVNTWDBuOTZ6TW9sWWhjLTNRMktLdDFQcGNYSFBtZ2p0ZXUxS0ZvNGd1M0ZWR0lGX0pDaFZ6MkRoTHdSd1kxMV9VWDZpVkEtdXgzbkZ4dTZHV0hRNmpsMEtGUW15UmpsZVBneTkzSUZ2Qy1naHJOMkRzTFNkdmJ6d9IBiwFBVV95cUxQb1FRZk1pb3ZwOVJQekh4aXVxcFJvOVZwWThrcEdON3d0MGpjVXRJeXBkWF9EeE42bjhiSWk1aHV2M3F4ZWpwRGNNcjgzS095RUR3dUNWdjUtUWlXNEpHV1lhbVhrR2pzbGxkZnMwOGRvVGZCT0oxc1hTSFZuNXRRV1MxT1p0aU1NT0dR?oc=5
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock Market Today: Nasdaq Opens Higher; SpaceX Shares Surge on Tesla Deal Talks — Live Updates  WSJ
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Stock Market Today: Nasdaq Opens Higher; SpaceX Shares Surge on Tesla Deal Talks — Live Updates - WSJ
+【发布时间】2026-10-21T16:25:00.000Z
+【链接】https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmtVSC1FUS1RTWFJU2t1bmFXenNxZHRsM0ZlRklRb3Fuajh2eXFDLWItTmpKTzZaU25lNzJ3dFZyR01BaXVIY01fbFNXVUVySHZOU0NYelhRSzQtSDlTOF9SWVQ1aUFxUGJKT0lzUExaOW9nNkZFYXpjcFNqT2c4QjE3SXRPdGs?oc=5
