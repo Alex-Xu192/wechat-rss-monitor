@@ -1,0 +1,33 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-10-22T20:10:33.494Z - 2026-10-22T22:10:33.494Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】How T. E. Wood’s 1950 survival-test cryptogram was solved using the Lord’s Prayer in the 1912 Luther Bible as the key. The decrypted message reads “Here I am, goodbye,” with Wood’s initials at the end. [creilly11235.github.io]
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Solving the 1950 cipher meant to test life after death
+【发布时间】2026-10-22T22:00:17.000Z
+【链接】https://flipso.com/p/gii849vfg?ref=rss
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A clear explanation of why sunsets and sunrises shift from white daylight to reds, oranges, and purples. It covers Earth’s shadow, the Belt of Venus, and alpenglow, and shows how the atmosphere scatters and filters sunlight at the horizon. [colorado.edu]
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】The phenomena that brighten dawn and dusk
+【发布时间】2026-10-22T21:40:14.000Z
+【链接】https://flipso.com/p/laucxyt9n?ref=rss
