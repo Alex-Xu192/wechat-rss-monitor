@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-22T08:10:28.732Z - 2026-10-22T10:10:28.732Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Trump administration’s policies could cost Republicans in a state that is being hit hard by expensive diesel prices and uncertainty over trade.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Reliably Red Iowa in Play as Economic Woes Mount
+【发布时间】2026-10-22T09:03:19.000Z
+【链接】https://www.nytimes.com/2026/10/22/us/politics/iowa-farmers-republicans-trump.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】New surveys show that increases in premiums and deductibles are forcing people to forgo treatments or doctor’s visits while budgets are strained by higher food and gas prices.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Employers Shift Rising Health Care Costs Onto Millions of Workers
+【发布时间】2026-10-22T09:03:14.000Z
+【链接】https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】With the midterms approaching, the economy is a top concern for voters. Our chief economic correspondent, Ben Casselman, describes which aspects of the economy have voters so frustrated.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Why Many Voters Are Unhappy With the Economy
+【发布时间】2026-10-22T09:02:52.000Z
+【链接】https://www.nytimes.com/video/business/100000011216716/why-many-voters-are-unhappy-with-the-economy.html
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Economists hope earlier episodes of labor disruption, from the Industrial Revolution to the Great Depression, can help us prepare for the age of artificial intelligence.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】For Clues About How A.I. Will Change Work, Look to the Past
+【发布时间】2026-10-22T09:01:52.000Z
+【链接】https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Saratoga Springs, N.Y., stands out for its preservation efforts. But some say strict designs have become a burden for residents.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】When Do Rules on Historic Preservation Go Too Far?
+【发布时间】2026-10-22T09:01:43.000Z
+【链接】https://www.nytimes.com/2026/10/22/business/saratoga-springs-historic-preservation.html
