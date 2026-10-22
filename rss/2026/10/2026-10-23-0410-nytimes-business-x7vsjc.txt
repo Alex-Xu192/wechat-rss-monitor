@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-22T18:10:31.215Z - 2026-10-22T20:10:31.215Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas
+【发布时间】2026-10-22T19:18:58.000Z
+【链接】https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】New surveys show that increases in premiums and deductibles are forcing people to forgo treatments or doctor’s visits while budgets are strained by higher food and gas prices.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Employers Shift Rising Health Care Costs Onto Millions of Workers
+【发布时间】2026-10-22T18:51:58.000Z
+【链接】https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】With the midterms approaching, the economy is a top concern for voters. Our chief economic correspondent, Ben Casselman, describes which aspects of the economy have voters so frustrated.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Why Many Voters Are Unhappy With the Economy
+【发布时间】2026-10-22T18:13:37.000Z
+【链接】https://www.nytimes.com/video/business/100000011216716/why-many-voters-are-unhappy-with-the-economy.html
