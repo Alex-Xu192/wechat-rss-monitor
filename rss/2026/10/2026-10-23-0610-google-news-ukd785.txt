@@ -1,0 +1,111 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-22T20:10:27.328Z - 2026-10-22T22:10:27.328Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Tom Skerritt, known for roles in "Alien," "Top Gun" and TV's "Picket Fences," dies at age 93  CBS News
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Tom Skerritt, known for roles in "Alien," "Top Gun" and TV's "Picket Fences," dies at age 93 - CBS News
+【发布时间】2026-10-22T20:56:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiigFBVV95cUxQVW5ibkFidXdQMGtZeE9FUHczeE4yQzRzcm9LQnJSRjlrQVE1WGQ3bmppSWFuOFBFSjdycGwtekNHUjI2amhMaEZ4bVo0cVlGVjZwNHIzUzUxcjJLbGNDRU1pLXRSUFlsa19mZ09NVmx0Z3c0alhKazJmbnRqcFpZYW9jTHk1YTJmVWc?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports  Reuters
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports - Reuters
+【发布时间】2026-10-22T20:55:56.000Z
+【链接】https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlEUG80aTRoVHhfOFptUTJYZHpwWE1LT0hURTlrM1JpejJqZ0pEYnJUSG1zbWk4RUVmMnpnMXVlU05LUXdoWjNrMXAxYS1HR051VDBVZ2FqQ1RHOUs4aVFGcExLTDFJVHg4QUhpUDNlNkxud2dldEFQYXA0bUs1eThHS1lVWm4zUm5kQ2NQcGxKQ0E3N3gyZnUtVk5GNENkVXc?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff  Reuters
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters
+【发布时间】2026-10-22T20:48:22.000Z
+【链接】https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Judge orders Trump to sit for deposition in his $10 billion lawsuit against the BBC  NBC News
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Judge orders Trump to sit for deposition in his $10 billion lawsuit against the BBC - NBC News
+【发布时间】2026-10-22T20:44:39.000Z
+【链接】https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYThHaHcyd3diS1pHWDdqTl9OQ1lROTdpc25zdG5UUU1LZmpmaDY3WjdLaGYwdU1LVmhXQ1BraDV4V1JXcG9TMXpqMGtCVzNBXzNCZkcwQUQ1cjR4a2ZwLWU4UVNSMTJpcmR3Y0thbHRKMkNzb01pVVJyX0lmTzdKVWNacWs3SW5uaDlsRzBDU25tVEtNMDZsSnFYd0hlY0t3WUNibnJ2b1ZsbXU5b3BJd1VaLUFJbmIz?oc=5
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election  CNBC
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election - CNBC
+【发布时间】2026-10-22T20:35:58.000Z
+【链接】https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2dXYUtjQk1yN3hkVTJlMFNoaC0zZzFaWnlSYmRuVlJnZVFrcUFSNUREQTJtNW9pQmcxU3ZodjhzQjlWeklCR1R4elFKdVpuR1BiVHIzRXQxNlNxSjF3ZDJMUnA3VjNDQlhqQkFlR2xLMk5yTHg4UU5zVkR4UnNFMjNHOEJ6Ny00N3ZQOdIBkgFBVV95cUxOYTh5VTNINDFEWUhndmFiaFFDVFh6LW1qOFBOTEQ3YjlySlYyU0lmeXVwYmhuTktySzNHajAxcEtaWU9TZlhUYno4RUFDOVFBbmRGSmJGRFlTRklXUGxGZkx5Znh0STRjdzE2Nk9VSm1zV3B4WWV3Z0d3dTJ6czRVUUFMamxGQnhrbzczWkRhQk1CUQ?oc=5
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed  KSL News
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed - KSL News
+【发布时间】2026-10-22T20:27:49.000Z
+【链接】https://news.google.com/rss/articles/CBMisgFBVV95cUxNYUdzWFZxX3ZvYzJTeTE4YWtVZFh4cHF1eUR5V25ia3daUUpTdEtqbWx3aWlLUHd4eDlBYmxaTlBiTkVjWjdralc3SmNDb19VNGZLMXI5cXd1WFJXSXQ3bVQzUnVadmtuaGdsX1RBVzdmbVFxbUlvVEo3aExTcGRVT2J1N3dWNFRpZDJiQnlFYUNmU3J3TDEwbGIxZVhrRVV0REVyU1BFMkNDRFpmZlZLa09B?oc=5
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Moderna stock crashes as leaked melanoma data threatens its record August rally  Yahoo Finance
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Moderna stock crashes as leaked melanoma data threatens its record August rally - Yahoo Finance
+【发布时间】2026-10-22T20:19:30.000Z
+【链接】https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdUVQQU5Ndy00WUljMXBBdnFBendjMjdrVkRKVGFMWTJBWjZLaGFobFg3SlRnR2Jzbnp4RFRVM2htdVJVaGJkVW1TVU05eUpVMDhrQVNHXzlyOXQ1RDJWZXNfaXZva0FpeVJIZHlDMkxVX0IyYW9mVS1LX29RYTBFcklsNklNdzRkOUk2RDQ5Wl9mV3ZaVVg2UkhiQ2hwcFpUWkxTYl9mOWlBakIybE11MXdSZlc4d1ZnNmxkcXJuNGx1eDFPSVJyLTNkY0JvS2VBenc?oc=5
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Elizabeth Holmes whistleblower and investigator react to 'You Can See Everything'  SFGATE
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Elizabeth Holmes whistleblower and investigator react to 'You Can See Everything' - SFGATE
+【发布时间】2026-10-22T20:15:37.000Z
+【链接】https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjlNVWU4dWNuUDlEdndIcUVVSGpRaC1jQVVVbnhmWEg1SWtQcGt6LW5OSlh3M2RSN3diSDhXYmgyNDVGbFRGeWdtVmVxZWpPRjRSSGdTT0pRTVNZRlM4T1I4cXpRcFMtbDJBZUp4RVFaVFFvZmZPU2VsNHh2Z0R2OXF0ODZpNDVnSDNTLURhdzJVSGZROXZuaQ?oc=5
