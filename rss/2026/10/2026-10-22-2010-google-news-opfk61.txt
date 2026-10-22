@@ -1,0 +1,59 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-22T10:10:27.397Z - 2026-10-22T12:10:27.397Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A remarkable new picture is emerging of how the air around us could alter the brain  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】A remarkable new picture is emerging of how the air around us could alter the brain - The Washington Post
+【发布时间】2026-10-22T12:02:15.000Z
+【链接】https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkJrR1RYUTdXNXozZ01qdDVqZ0JsWkFCZjNtc1ZGNVFodkFQbk1LdzV5V2lxU1hpM1BnbFl4WnpFdUlBNVpuQzBhR3FGdlQ1REhTaHU4U2ltamdqWDFfQ0tPNzJvcHNFMTNmQkhGd0l6WEdOeTREc3IyTHVpUGVyQk03SDY3cTluWEkyaF9zUTNmTmQ4bnVpRGdxeHE0Z0pFYXhsd0EybkU2Z0hqYnBYQzhpYXo1bkFIUm9hRA?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】France reports first human case of livestock virus Shamonda  ReutersSee more headlines & perspectives on Google News
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】France reports first human case of livestock virus Shamonda - Reuters
+【发布时间】2026-10-22T11:16:58.000Z
+【链接】https://news.google.com/rss/articles/CBMiugFBVV95cUxQejBUXzcxOHI0Z0dYUTBSeHdDcWdKQTc5WDlnVk4xeml4UTJpTjViR19hc1JtWTJ4WjVfMXV6RDhxemYwOW94Z2xwdXJ3U19NR2NCV3NpMWYyanUzS0E0aVpXZ29pbTNleWk3Zkk4SmtacUJkM0g4enBRdGYydWVKS0QxUDNndG96WUduR1ltNHljZEotallkRXlYM1J2bmZscmRWVXh5NThHWUdlVmR6ZGlhMmRIUXMxd1E?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】American Airlines expects deeper 2026 loss on pricier fuel despite record revenue  CNBC
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】American Airlines expects deeper 2026 loss on pricier fuel despite record revenue - CNBC
+【发布时间】2026-10-22T11:10:03.000Z
+【链接】https://news.google.com/rss/articles/CBMigAFBVV95cUxNak80bjFjS2pOdmVwM2RueXhEbnJZU1hpMWdZckJMbEgtaEl4b2dTdHV2VkpsVWdvWGFzeW1mVDkzWUVhNUtseWpOSTlaLU44R0JKN196bHQwbEFOT0pWUENEaWF5aGs3TVluYkdGVU5XcENSdE15QldhaTk5Z2ZGddIBhgFBVV95cUxNUXdObGpBeW01bjVUbkhmcHZqU2JXeDJKRUN5U0xvQ2FDRGZHa0J4Vk5KTDk3M2RyaEw3TDFYd0ZrSzh6eUthUENPeE9fQlBUaUtzaUVEckhoMVNNampaVVFaXzBBQ2FiQlh4WjlDeXotZEg5Q1AzNGNfejdITUtveVJCS2tpUQ?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Proposing NFL trade deadline offers: Moves for Saquon Barkley, Khalil Mack, more  ESPN
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Proposing NFL trade deadline offers: Moves for Saquon Barkley, Khalil Mack, more - ESPN
+【发布时间】2026-10-22T10:35:00.000Z
+【链接】https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2stOEp3U2t5aW5hWGEtSEs0WFlkSEd3b21SVkVxQmZCQU1uWUJZRnQzMlgzM3VrN0dIb1Frbk9MNnBvczl4MXotTjA4TzdQWW1IOG40OWc2WjQ1TWVvNUk2TE1TUVdXZVFMeHdsR2x4WXpoN2RuRzRabFcxN1ptNUItS2RPRk1VS3BvY1lPRS1SMzgyRnkxMk9NN2tDLUVMenFiazVR?oc=5
