@@ -1,0 +1,72 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-22T16:10:31.916Z - 2026-10-22T18:10:31.916Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】French president says labour unions can hold marches on Saturday but not other activists in effort to prevent more rioting
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Macron warns some protests will be banned
+【发布时间】2026-10-22T18:02:42.000Z
+【链接】https://www.ft.com/content/43f3144f-7aa8-4821-b5c6-0da470b9af34?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】US Treasuries rally strongly as traders rush into haven assets
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Meta sell-off drags US tech stocks lower as AI spending fears flare up
+【发布时间】2026-10-22T17:58:29.000Z
+【链接】https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Detention comes as president has been criticised for expanding campaign against drug traffickers to include rivals
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Ecuador opposition leader arrested in money laundering investigation
+【发布时间】2026-10-22T17:47:15.000Z
+【链接】https://www.ft.com/content/9a072c7a-b0ee-4a43-ae73-b19bbde9261b
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Commerce department to take $175mn equity stake in start-up that is financed by brother of the president’s son-in-law
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】US to fund speculative fusion venture backed by investors with ties to Trump
+【发布时间】2026-10-22T17:20:01.000Z
+【链接】https://www.ft.com/content/d774c15e-22e4-4873-9a1d-92d6561290f9?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Chancellor John Healey promises to pitch next week’s Budget at ‘bloody-minded’ entrepreneurs
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Number of UK founders choosing to sell not scale hits eight-year high
+【发布时间】2026-10-22T16:25:24.000Z
+【链接】https://www.ft.com/content/52b728a2-3075-4310-bffb-4f17b587724d
