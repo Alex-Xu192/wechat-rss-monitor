@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-22T20:10:25.082Z - 2026-10-22T22:10:25.082Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Trump says Musk has restored Ukraine's internet access
+【发布时间】2026-10-22T21:42:39.000Z
+【链接】https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】New York bans horse-drawn carriages over safety and abuse concerns
+【发布时间】2026-10-22T20:49:12.000Z
+【链接】https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss
