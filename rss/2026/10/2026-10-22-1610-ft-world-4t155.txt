@@ -1,0 +1,111 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-22T06:10:31.623Z - 2026-10-22T08:10:31.623Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Swiss group takes $1.95bn net assets from its balance sheet after presidential decree to control business
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Nestlé removes Russian business from accounts after Kremlin takeover
+【发布时间】2026-10-22T07:55:21.000Z
+【链接】https://www.ft.com/content/cc456111-4c0b-4eaa-8910-53d8933271a3?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】China’s CSI 300 index sheds 1.8% and European equities fall
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Global stocks tumble as oil prices rise
+【发布时间】2026-10-22T07:54:37.000Z
+【链接】https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Agreement could allow Kyiv to speed up delivery of ammunition and weapons at lower cost
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Ukraine to buy military supplies via Nato agency
+【发布时间】2026-10-22T07:49:04.000Z
+【链接】https://www.ft.com/content/991ac37c-289b-40e5-b2e6-220ee2aebe5d?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】China Evergrande had given millions of dollars to university in decade before its collapse
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Liquidators of Chinese property giant pursue Harvard to recoup donation
+【发布时间】2026-10-22T07:45:30.000Z
+【链接】https://www.ft.com/content/cbf8759b-ec19-4728-ab65-5706bc3343af?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Decision comes as two people were killed in a drone attack targeting Saudi Aramco’s Shaybah oilfield
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】US orders some personnel to leave Saudi Arabia after Houthi attacks
+【发布时间】2026-10-22T07:15:56.000Z
+【链接】https://www.ft.com/content/f39aa4d2-e290-451f-ae91-b19138b6172f?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Government security agencies warn companies to take immediate action after AI uncovers widespread vulnerabilities
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Websites taken offline in race to patch PHP security flaw
+【发布时间】2026-10-22T07:06:12.000Z
+【链接】https://www.ft.com/content/d438af1e-a48c-4aeb-8c84-00cdb5e741e3?syn-25a6b1a6=1
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Luxury brand’s sales miss forecast despite strong growth in handbags and leather goods
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Hermès hit by ‘challenging’ economic backdrop in China and Middle East
+【发布时间】2026-10-22T06:47:25.000Z
+【链接】https://www.ft.com/content/f2d4fd14-4c08-4772-a91a-f642bacdefcf?syn-25a6b1a6=1
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Donald Trump’s envoy met Volodymyr Zelenskyy in Oslo before heading to St Petersburg in diplomatic push
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Russian missiles bombard Kyiv after Witkoff-Putin talks
+【发布时间】2026-10-22T06:15:35.000Z
+【链接】https://www.ft.com/content/9f0c58d3-1833-40de-b805-f5ac53f05ff0
