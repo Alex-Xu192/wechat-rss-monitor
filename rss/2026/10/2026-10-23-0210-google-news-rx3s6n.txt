@@ -1,0 +1,111 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-22T16:10:28.372Z - 2026-10-22T18:10:28.372Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】France reports first human case of livestock virus Shamonda after patient dies  Reuters
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】France reports first human case of livestock virus Shamonda after patient dies - Reuters
+【发布时间】2026-10-22T17:36:31.000Z
+【链接】https://news.google.com/rss/articles/CBMiugFBVV95cUxQejBUXzcxOHI0Z0dYUTBSeHdDcWdKQTc5WDlnVk4xeml4UTJpTjViR19hc1JtWTJ4WjVfMXV6RDhxemYwOW94Z2xwdXJ3U19NR2NCV3NpMWYyanUzS0E0aVpXZ29pbTNleWk3Zkk4SmtacUJkM0g4enBRdGYydWVKS0QxUDNndG96WUduR1ltNHljZEotallkRXlYM1J2bmZscmRWVXh5NThHWUdlVmR6ZGlhMmRIUXMxd1E?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】High-ranking Virginia state Democrat charged in public corruption case  NBC News
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】High-ranking Virginia state Democrat charged in public corruption case - NBC News
+【发布时间】2026-10-22T17:23:45.000Z
+【链接】https://news.google.com/rss/articles/CBMizgFBVV95cUxQVVZXQUtxYjZtOEZmSGJBZHZJQW9NS0JRWmVsUlF3T0hMWDBwaDB4ZU9fYllsSVNWNlloeEpqMHRtOWFwQ1ZockZrMnhpYXFTc0JvZlkycUdtbHRwNk1FYmxzaDEyamZWalB2Xy00UHN6cV9hbzAzdHVaRzBtcV9NOUxPR2FuVllpeUFIcnRkZE5UR0FLX3N4clNYZ3ZtZFBIX3Qwb2N2bzRDRUg4T1ZGeC1xcTJMQS1SUTBhbnN3QWJhMThiMlhYWGFMMGwxZw?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Race to update services' computer systems after cyber-security flaw found  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Race to update services' computer systems after cyber-security flaw found - BBC
+【发布时间】2026-10-22T17:12:51.000Z
+【链接】https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnNGFxeVA1MWZhejZqYk15Slc4QVlTbi14VmF2bzFwejhUaWM1Y2ZKTXVxLWhxM290em9nQy1OVUwzRzRjcGtPWWxXWnR2a2NfcDg5eENlS0lNb0E?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】France's Macron tightens curbs on protests, blaming hard left for unrest  Reuters
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】France's Macron tightens curbs on protests, blaming hard left for unrest - Reuters
+【发布时间】2026-10-22T16:55:44.000Z
+【链接】https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHhBdkpVMVZzcjFPVTR6dkJIR1VJcGR3QXBOeFRHRFJuZFBGM2hWYzczWXdMUFdjVnpsYzI0RE1nZzhIMUNaQzVQMHRKa1VxcnpsaHJzalQzNHJXb2lkbDd3WkJQdXItb1UtZmpQNmQwQzQtV1VfUkJtdHpTR3p4OG95dmM3UkozM3FxWm5WMF9wMl9qQVVJR0l5NmxzV1pzVWtzVy1HXzQwSGRKTVlEZWtB?oc=5
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】CDC denies approval for high volume measles test, ‘prioritizing emerging technologies’  The Guardian
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】CDC denies approval for high volume measles test, ‘prioritizing emerging technologies’ - The Guardian
+【发布时间】2026-10-22T16:51:00.000Z
+【链接】https://news.google.com/rss/articles/CBMie0FVX3lxTFBUaXBlRzN4YjlsTUlwZGVjblkxZi1zWGJsNmg5NUhiUmU0emtyTXVNTkUyVWVHVzAxWnJIUWpEb2hld0xza05ZTlp6b2lJdHRyVThsaWVhT1RSRDhZUHpDX2U1TlFELW9xakloSUluNTd5eTUwdVk1U1pYdw?oc=5
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Wall Street sinks as Nasdaq falls over 2% on AI cost worries  Reuters
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Wall Street sinks as Nasdaq falls over 2% on AI cost worries - Reuters
+【发布时间】2026-10-22T16:44:51.000Z
+【链接】https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother - BBC
+【发布时间】2026-10-22T16:40:07.000Z
+【链接】https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKaDg3UXZnbGZSa1NMWm94WEl0QTZPOS1RcWRBcjRxaHhpUW1QWUhvQk5qT0dIeHNkT3lsMWFQcGtFSlJ0aWJrVDR2WEVmcXBXVHdTWFVWUU9oN2M?oc=5
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】‘Looksmaxxing’ influencer Clavicular pleads not guilty to raping teen  The Guardian
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】‘Looksmaxxing’ influencer Clavicular pleads not guilty to raping teen - The Guardian
+【发布时间】2026-10-22T16:23:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS2JpNDlLdmlSR2VrVTRNNk5rS1lMMjR5WTQ4TE83U2ZhVGtyU091U3FLUTdJTkdFei1xQ2lwSE5Pem9zSTROdlJ4ZnhhV2l5TlBNLS1qZ0ZlYzdMb1dfU2w2OTk2czJJemhFSlJiOVZHcWVwX0EzM09NLUxXZFgwQU1ZUzBXdUVQ?oc=5
