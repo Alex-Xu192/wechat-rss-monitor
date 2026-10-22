@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-22T12:10:32.912Z - 2026-10-22T14:10:32.912Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Earnings reports from big technology companies spooked investors and the price of oil jumped to its highest level in months.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Stocks Fall and Oil Rises as Investors Retreat from Mounting Risks
+【发布时间】2026-10-22T13:43:13.000Z
+【链接】https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The move is the latest illustration of a company saying it believes it can be more efficient with fewer workers because of artificial intelligence.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs
+【发布时间】2026-10-22T12:45:53.000Z
+【链接】https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html
