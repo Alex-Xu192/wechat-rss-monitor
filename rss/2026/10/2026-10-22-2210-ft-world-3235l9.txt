@@ -1,0 +1,137 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-22T12:10:30.305Z - 2026-10-22T14:10:30.305Z
+【数量】10
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+9. 中文标题翻译失败
+10. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Group to create new class of non-voting shares to allow stock sales without diluting founder’s control
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal
+【发布时间】2026-10-22T13:40:22.000Z
+【链接】https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Infineum taps advisers at Bank of America to run a sale of the business as Shell focuses on core oil and gas operations
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Shell and Exxon’s $8bn UK chemicals unit put up for sale
+【发布时间】2026-10-22T13:36:58.000Z
+【链接】https://www.ft.com/content/2d4876ae-c707-4df5-a3ae-ae3268343ef2?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Read the October scenario by the FT’s Monetary Policy Radar team
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】ECB on course for another rate rise in 2026
+【发布时间】2026-10-22T13:30:03.000Z
+【链接】https://www.ft.com/content/93852564-cae6-41f6-aa79-8db53e2b7774
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Bombs designed to cause widespread damage hit Ukraine capital hours after Donald Trump’s envoy met Russian president in diplomatic push
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Russia drops cluster warheads on Kyiv after Witkoff-Putin peace talks
+【发布时间】2026-10-22T13:18:34.000Z
+【链接】https://www.ft.com/content/9f0c58d3-1833-40de-b805-f5ac53f05ff0?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Central bank lowers benchmark rate to 36% as inflation eases
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Turkey cuts interest rates despite $18bn investment funds scandal
+【发布时间】2026-10-22T13:06:24.000Z
+【链接】https://www.ft.com/content/c6c68f72-4d00-4475-b7ec-847fd2c4d2fa?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】French president says labour unions will be allowed to organise marches on Saturday, but not other activists
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Macron warns some protests will be banned
+【发布时间】2026-10-22T12:36:33.000Z
+【链接】https://www.ft.com/content/43f3144f-7aa8-4821-b5c6-0da470b9af34?syn-25a6b1a6=1
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ahead of elections this weekend, those attempting to topple the Vučić regime should consider reform, not revolution
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Serbia’s students should take a leaf out of Magyar’s book
+【发布时间】2026-10-22T12:30:03.000Z
+【链接】https://www.ft.com/content/43f5c6af-5b1f-4995-9263-b7882013cb99
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】While centrists have retreated to myriad bubbles, extremists turn up, join up and organise
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Europe’s moderates must stop treating politics as a spectator sport
+【发布时间】2026-10-22T12:22:36.000Z
+【链接】https://www.ft.com/content/b97d2ce4-43b0-4551-8ad8-059abb9d3f3e
+
+------------------------------
+
+9. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Beijing is blocking Taipei’s diplomats abroad and exerting control over its maritime territory
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】China steps up ‘grey zone’ tactics to isolate Taiwan
+【发布时间】2026-10-22T12:16:02.000Z
+【链接】https://www.ft.com/content/587f1f89-3bff-4aae-9130-41f142f1cc5f?syn-25a6b1a6=1
+
+------------------------------
+
+10. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】(Bear with us)
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】A bond is like a party balloon
+【发布时间】2026-10-22T12:10:40.000Z
+【链接】https://www.ft.com/content/7cd54d93-eff8-413a-896a-4fe5583147d7
