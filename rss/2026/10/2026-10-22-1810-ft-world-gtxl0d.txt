@@ -1,0 +1,85 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-22T08:10:26.852Z - 2026-10-22T10:10:26.852Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Also in today’s newsletter: Barclays axes 5,000 jobs and companies race to protect their websites
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】FirstFT: Global equities hit by rise in oil prices
+【发布时间】2026-10-22T10:09:43.000Z
+【链接】https://www.ft.com/content/b739c6e8-5b77-46e3-91a5-382fd52389bc?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The region cannot just hope for a fall in borrowing costs across the Atlantic - it must tackle its own problems
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Europe’s bracing reality on US bond yields
+【发布时间】2026-10-22T10:07:31.000Z
+【链接】https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Barack Obama’s famously foul-mouthed former chief of staff thinks he has a message to win over America
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】‘I don’t lose’: Rahm Emanuel makes an early pitch for the White House
+【发布时间】2026-10-22T10:00:03.000Z
+【链接】https://www.ft.com/content/09d62b14-3541-48de-9a8c-f198cbe0220b?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】At the frontier of public digital money, the EU is slowly developing a geopolitical monetary strategy
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Europe’s underrated digital trailblazing
+【发布时间】2026-10-22T10:00:03.000Z
+【链接】https://www.ft.com/content/120fad19-1279-4e3c-8f60-2319acc21d11?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】China’s CSI 300 index sheds 1.8% and Eurozone bond sell-off deepens
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Global stocks tumble as oil prices rise
+【发布时间】2026-10-22T08:46:32.000Z
+【链接】https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Dependence on the technology risks worsening what Starmer dubbed ‘the warm bath of managed decline’ in Whitehall
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Fixing Britain’s welfare state and the limits of AI policymaking
+【发布时间】2026-10-22T08:35:40.000Z
+【链接】https://www.ft.com/content/5ae90cc4-a20d-4b65-9000-10421a663f89?syn-25a6b1a6=1
