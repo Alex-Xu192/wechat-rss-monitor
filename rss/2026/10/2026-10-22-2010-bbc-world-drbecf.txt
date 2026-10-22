@@ -1,0 +1,85 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-22T10:10:24.697Z - 2026-10-22T12:10:24.697Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】What is PHP and why did it spark a global cyber-security scramble?
+【发布时间】2026-10-22T11:15:58.000Z
+【链接】https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Swiss government told the BBC that the freed national was on her way back to Switzerland.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Two European women held captive for more than a year in Niger freed in Libya
+【发布时间】2026-10-22T11:13:12.000Z
+【链接】https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Journalist Will Murray describes how he and a bystander saved an SUV driver from his vehicle.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Moment man rescued from sinking car by Australian TV reporter
+【发布时间】2026-10-22T11:08:33.000Z
+【链接】https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The disease, which usually affects cattle, has been identified in a patient who died in early October.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】First human case of Shamonda virus detected in France, officials say
+【发布时间】2026-10-22T11:04:14.000Z
+【链接】https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Four members of the so-called Gang Suppression Force have been missing since Sunday.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】El Salvador's president threatens Haitian gangs over military hostages
+【发布时间】2026-10-22T10:17:48.000Z
+【链接】https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Celebrity shark guided out of South Korea canal refuses to swim out to sea
+【发布时间】2026-10-22T10:16:35.000Z
+【链接】https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss
