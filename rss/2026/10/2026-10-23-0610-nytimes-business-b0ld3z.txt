@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-22T20:10:31.553Z - 2026-10-22T22:10:31.553Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】What Is PHP? Why Are Government and Business Websites Going Offline?
+【发布时间】2026-10-22T21:31:29.000Z
+【链接】https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The artwork, titled “Iris,” is among the painter’s later works, which wealthy collectors have coveted in recent years.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Monet Painting Sells for $56 Million in France
+【发布时间】2026-10-22T20:25:17.000Z
+【链接】https://www.nytimes.com/2026/10/22/arts/design/claude-monet-painting-auction-paris.html
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The S&P 500 index fell over 1.4 percent, its largest daily decline since July, while the tech-heavy Nasdaq slumped nearly 2.5 percent, that index’s biggest one-day decline since June.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Stocks See Steepest Decline in Months Amid A.I. Worries
+【发布时间】2026-10-22T20:11:05.000Z
+【链接】https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html
