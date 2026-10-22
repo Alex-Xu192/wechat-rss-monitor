@@ -1,0 +1,72 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-21T22:10:26.281Z - 2026-10-22T00:10:26.281Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump officials ask Supreme Court to let border security project resume in national park  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Trump officials ask Supreme Court to let border security project resume in national park - The Washington Post
+【发布时间】2026-10-21T23:39:20.000Z
+【链接】https://news.google.com/rss/articles/CBMizwFBVV95cUxPR2luOGFUN0ZaX1ZuVTVWSWdwbzRTWjcyQ0VnenlzVGxVcmJtZm9rcE8wY3dqZnR5eFA5LUtlTk83Q2RFMmpLMVpBVTFvQ1NSRHoyZ3FjcUpXbkZvbGh6OGJldkhhYmtPN25BbkR1TzVNdkRJNDFIMHNaOGhHSUI2Z2JpaHMtY0NXdjU4cW9ISWttZEcwamd6UmxIclg5S3pXNHR2WkxSczJqR3dOaTZUblJQQ1BORXZ5LVRYNUFFTUZFVHpKOXUyZk5WX0k0V3c?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention  NPRSee more headlines & perspectives on Google News
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention - NPR
+【发布时间】2026-10-21T22:42:50.000Z
+【链接】https://news.google.com/rss/articles/CBMimwFBVV95cUxQSGktU0wwclRaRExPOUxpVW9pLWk5TlhkUnpfdFVTdFFZSTdsbVRJeDkwbXFiY25PZ2JGTmtycmtzUnZiOURncG53LXgwT2xBQlBxU21obDRQNGRSc1Z4WWNFTjJ4S2tSU2pmdXp6YjNacjB1TzlLbFRqNUdsazBhRG9TS2ZfUjFtWVNmajI4eXpreVJvVWxxSm8yVQ?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Amy Robach, TJ Holmes’ exes get engaged to each other three years after high-profile ABC News cheating scandal  Fox News
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Amy Robach, TJ Holmes’ exes get engaged to each other three years after high-profile ABC News cheating scandal - Fox News
+【发布时间】2026-10-21T22:41:47.000Z
+【链接】https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVnVrNmh6RWJOWWVZV2xpdUNTeDZUN0N3b3Q0MEEzVEF5NGx0UkNVM050TzQ5cXVhZmVYbWdsNHJQbUQyZlhuRmhXREpKT1loVjlQZ3lpNjdHajE0T1Y2VXFFWlJpeW5NclphWHdyQVFOMmhMMnFzbm1qSnA4aENnOFpqQVZwTUlqNERKWVFialZMbExaUVBxcXRkcFVZenZmR2dXSk5HVHJzRW8?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】New Mexico sues to stop payouts to Jeffrey Epstein's lawyer, accountant  Reuters
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】New Mexico sues to stop payouts to Jeffrey Epstein's lawyer, accountant - Reuters
+【发布时间】2026-10-21T22:31:44.000Z
+【链接】https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlFNc2V2YVRPNHBBM0xYLUxXdjd2MnFjVV9NUnA1Vk5QODV5Z2tiMEVJV1drUXZSMFdzOUFGYV8yQkx3WUYwejRYM2FyNzFTc0E0SVV6UFd3TEh5MlpNQWxrNWJXMHc1OXhfb2k4VUlBamgtS0lwdGY4TVU2dWdDVHAxT0dNYkEwalhsVjNlUUlJNGwySUoyRmQ0NmtfY2lIX3hCYzFZd2FrVnlFNGRn?oc=5
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Saudi civil aviation says one killed, eight injured in attack on King Fahd airport  Reuters
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Saudi civil aviation says one killed, eight injured in attack on King Fahd airport - Reuters
+【发布时间】2026-10-21T22:21:44.000Z
+【链接】https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSGNWYThfTTlBMk0yXzZJMVdvRkp2NDRwOEItSlJxRjN3NE5nVmRMbFkybld2UUFLWHFzel8zTEVMMUt4T3A3QUxMN0dObTR6WHMwOHUwYmh2RGJYX1hIOFBSb1ppQ0VIUW0xdTFzTHB2NENTTElkMTRqOHBVWGFoejRhb3dhclZtS09kNkZra055RUlyVm82M1ZpNmhHZWctLUtfelg5blVrbW5aVHhpSzBvVmsyNVZm?oc=5
