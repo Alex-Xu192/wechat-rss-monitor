@@ -1,0 +1,20 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-22T02:10:26.109Z - 2026-10-22T04:10:26.109Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Fortescue says operations ‘may be affected’ by talks with state-backed commodities buyer
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Australian iron ore miner warns of production slowdown without China deal
+【发布时间】2026-10-22T02:18:25.000Z
+【链接】https://www.ft.com/content/835e37e2-d4a4-4428-ab96-583640cf42bd?syn-25a6b1a6=1
