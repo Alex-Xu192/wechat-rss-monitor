@@ -1,0 +1,72 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-22T02:10:23.805Z - 2026-10-22T04:10:23.805Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Judge rules against DHS's policy of knocking on doors to track down possible noncitizen voters  CBS News
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Judge rules against DHS's policy of knocking on doors to track down possible noncitizen voters - CBS News
+【发布时间】2026-10-22T03:00:00.000Z
+【链接】https://news.google.com/rss/articles/CBMickFVX3lxTE1fSGczY2JLSjFaMTIxMWhfWXdkZHFnVGhNSXRlNGtrcUhZMWwxMG5LckM3THdvLWVfOG1DYVBoZ01jWmlqcHZ1MHVFenFYYTRjWWZxRjRFT0Qyck5PaTRwYVZYa0xhdUtBdnpyOTF4TFpQQQ?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Watch WISN 12's Commitment 2026 Wisconsin Gubernatorial Debate  WISN
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Watch WISN 12's Commitment 2026 Wisconsin Gubernatorial Debate - WISN
+【发布时间】2026-10-22T02:42:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ2hkSTRDb3NtV0YwUkNVVUFVLWxBZUpGZzROZ0JZQlo4ZXk3UkpESHYtbGZkZWFGQVFTaHp0bFlxdWdSM1EzVnJSbEJLYmpSVHJnbkJPOFhzVjJDaWNjb1RhLU05WGE1eURYaHZFR25WdmVtM2J2V0ZFaFgyeWFMZUdZbEpDZU9Yc1lN?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Abdul El-Sayed and Mike Rogers’ final debate clash sets up final sprint in Michigan  NBC News
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Abdul El-Sayed and Mike Rogers’ final debate clash sets up final sprint in Michigan - NBC News
+【发布时间】2026-10-22T02:23:00.000Z
+【链接】https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0dtcDRMaXF2clpfZzdDR0hZRUROVmJLZU5kb2h0QkNldHR6MjZFb1p4Snh2ZFZzZkpsczZ2TmZ3aDM3Rm9vNGMtQVpBVkRFTFVCRHZtajAwcjdaLVBDNFRlclVhbGZuN2Q2VTBvS3FvV1d3bzNxcTJMWjVPMy15R3l5M3pFT1JMNDN1YVFpOUlJYU0xRjdUbFZzVXVuU2doM3JFd1ZpeVkzSFhoQ1NubUhINXpGd2xDakVoMXRfYUF2STVkT3Vz?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump visits deep-red S.C. as Senate seat is at risk of slipping to Democrats  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Trump visits deep-red S.C. as Senate seat is at risk of slipping to Democrats - The Washington Post
+【发布时间】2026-10-22T02:22:42.000Z
+【链接】https://news.google.com/rss/articles/CBMitgFBVV95cUxPMUhBUXdtZUIyYTdTSjVSTjYtXy1DcF9HWHZHNVkwUG1BeTEtSzZXTVFwWEdibnNIa1ptZGdSd3NjLWRGZDMycW0tWjhCcGNaNnluY3lpZTFBYlk1Z2hWcWxFXzV4aklqUGdGUldHQWhETlVRa3FEN0FsU1Y4czRLZUVMZjRvYUJsbE5UYlgza0Mya0JRMVRzWE55VTZBLUI2ZUtPT05DdXl3LWpXZ3A3YW4wWmFuQQ?oc=5
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】North Korea says it will resume propaganda broadcasts across border into South Korea  AP NewsSee more headlines & perspectives on Google News
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】North Korea says it will resume propaganda broadcasts across border into South Korea - AP News
+【发布时间】2026-10-22T02:20:00.000Z
+【链接】https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWdMcXlGTHpkM1pJUzJvYUpMWVFvV1d1T2lzUC1BdmJKR0l3alFvdzhWVDdHczJOalN3Z3l2SkV2bm1jb0JySlc0ZWtfWEU2azZwTXZXRE5WU1BLVEZjQVhFSV91ZEhuN01GMktOTVYyMUZtWU11UDVtZDVGS054aHV5Yk9KNEhKOTZBdVlXUWpHeXlDdXVDT2xKLUowVmo4UHJiMA?oc=5
