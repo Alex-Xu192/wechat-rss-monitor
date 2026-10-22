@@ -1,0 +1,72 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-22T14:10:31.411Z - 2026-10-22T16:10:31.411Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas
+【发布时间】2026-10-22T16:03:29.000Z
+【链接】https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline
+【发布时间】2026-10-22T16:01:35.000Z
+【链接】https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】What Is PHP? Why Are Government and Business Websites Going Offline?
+【发布时间】2026-10-22T15:55:07.000Z
+【链接】https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Saratoga Springs, N.Y., stands out for its preservation efforts. But some say strict designs have become a burden for residents.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】When Do Rules on Historic Preservation Go Too Far?
+【发布时间】2026-10-22T15:24:38.000Z
+【链接】https://www.nytimes.com/2026/10/22/business/saratoga-springs-historic-preservation.html
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】A.I. and Its Dangers Are Embedded In the Midterm Elections
+【发布时间】2026-10-22T15:21:37.000Z
+【链接】https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html
