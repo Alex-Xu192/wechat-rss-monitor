@@ -1,0 +1,216 @@
+LTN - 中文结构化新闻汇总
+
+【来源】LTN
+【时间】2026-10-22T18:10:34.010Z - 2026-10-22T20:10:34.010Z
+【数量】15
+
+【本邮件新闻标题汇总】
+1. PHP爆漏洞多國網站急搶修　駭客嘗試攻擊數百萬次
+2. 川普告BBC誹謗求償百億美元　法官限期12/11前宣誓作證
+3. 葉門叛軍襲沙烏地加劇中東供應疑慮　油價大漲
+4. 防範美以聯手攻擊 伊朗揚言採「零紅線」戰略 攻擊中東7國油網設施
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+9. 中文标题翻译失败
+10. 中文标题翻译失败
+11. 中文标题翻译失败
+12. 獲泰王特赦！滯泰近10年2維吾爾男子面臨遣返 命運交由泰國安會定奪
+13. 防堵非法移民！美防長授權國土安全部於美墨邊境測試軍用「熱線槍」
+14. 全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播
+15. 法國速審上週末暴動案件　司法部長：217人已入獄
+
+==============================
+
+1. PHP爆漏洞多國網站急搶修　駭客嘗試攻擊數百萬次
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】支撐網際網路運作的程式語言PHP爆嚴重漏洞，全球企業與政府今天加緊腳步搶修，多國銀行、航空、鐵路與政府網站緊急暫停服務，駭客已嘗試攻擊達數百萬次。
+
+路透社報導，PHP與HTML、Pytho...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】PHP爆漏洞多國網站急搶修　駭客嘗試攻擊數百萬次
+【发布时间】2026-10-22T20:00:06.000Z
+【链接】https://news.ltn.com.tw/news/life/breakingnews/5615820
+
+------------------------------
+
+2. 川普告BBC誹謗求償百億美元　法官限期12/11前宣誓作證
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】美國一名法官今天下令，總統川普必須在12月11日前，就他控告英國廣播公司（BBC）誹謗、求償100億美元（約新台幣3260.6億元）的訴訟案宣誓作證。
+
+法新社報導，邁阿密法官黎特（Enjo...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】川普告BBC誹謗求償百億美元　法官限期12/11前宣誓作證
+【发布时间】2026-10-22T20:00:06.000Z
+【链接】https://news.ltn.com.tw/news/world/breakingnews/5615819
+
+------------------------------
+
+3. 葉門叛軍襲沙烏地加劇中東供應疑慮　油價大漲
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】油價今天大漲，布倫特原油來到5個月來的高點，主因沙烏地阿拉伯遭到葉門叛軍「青年運動」（Houthi）攻擊，讓市場擔心來自這個能源出口要地的供應可能進一步中斷。
+
+路透社報導，布倫特原油期貨上...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】葉門叛軍襲沙烏地加劇中東供應疑慮　油價大漲
+【发布时间】2026-10-22T19:45:04.000Z
+【链接】https://ec.ltn.com.tw/article/breakingnews/5615818
+
+------------------------------
+
+4. 防範美以聯手攻擊 伊朗揚言採「零紅線」戰略 攻擊中東7國油網設施
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】伊朗最高國家安全委員會秘書雷札伊（Mohsen Rezaei）警告，如果美國與以色列發動新一波攻擊，伊朗將打擊波斯灣地區多達7個國家的石油設施、海底電纜、資料中心與人工智慧（...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】防範美以聯手攻擊 伊朗揚言採「零紅線」戰略 攻擊中東7國油網設施
+【发布时间】2026-10-22T19:32:21.000Z
+【链接】https://news.ltn.com.tw/news/world/breakingnews/5615816
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】ATTEMPTS AT INTIMIDATION: China’s transnational repression efforts have intensified, as it changes t...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】《TAIPEI TIMES》China escalating election interference efforts, NSB says
+【发布时间】2026-10-22T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5615759
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】TWO-FOLD:The strategies of expanding urban forests and greener transportation networks complement ea...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】《TAIPEI TIMES》Lai outlines climate resilience plans
+【发布时间】2026-10-22T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5615764
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】By Shelley Shan / Staff reporter
+
+The government has proposed amendments allowing stricter regulat...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】《TAIPEI TIMES》Ride-hailing firms face new rules
+【发布时间】2026-10-22T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5615765
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】SOUTH CHINA SEA TENSIONS:A Filipino envoy cited growing concern over ‘gray zone’ activities, while T...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】《TAIPEI TIMES》Manila exploring cables cooperation with Taipei
+【发布时间】2026-10-22T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5615762
+
+------------------------------
+
+9. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】TOTAL COVERAGE: Champi’s outer band is expected to blanket the entire nation, with the center coming...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】《TAIPEI TIMES》School, work canceled as typhoon nears
+【发布时间】2026-10-22T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5615757
+
+------------------------------
+
+10. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】SHARE SWAP:First Securities Investment Trust Co would be the surviving entity due to its larger asse...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】《TAIPEI TIMES》Four financial firms approve merger
+【发布时间】2026-10-22T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5615749
+
+------------------------------
+
+11. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】By Chung Li-hua and Jake Chung / Staff reporter, with staff writer
+
+The Executive Yuan yesterday a...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】《TAIPEI TIMES》Executive Yuan approves draft tax incentives for TISAs
+【发布时间】2026-10-22T19:00:00.000Z
+【链接】https://news.ltn.com.tw/news/focus/breakingnews/5615760
+
+------------------------------
+
+12. 獲泰王特赦！滯泰近10年2維吾爾男子面臨遣返 命運交由泰國安會定奪
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】泰國官員與人權活動人士22日表示，兩名被拘留在泰國的中國維吾爾族男子，已獲得泰國國王特赦，目前正等待被遣返出境，但其最終去向仍未確定。
+
+法新社報導，當時在聯合國難民署（...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】獲泰王特赦！滯泰近10年2維吾爾男子面臨遣返 命運交由泰國安會定奪
+【发布时间】2026-10-22T18:56:36.000Z
+【链接】https://news.ltn.com.tw/news/world/breakingnews/5615809
+
+------------------------------
+
+13. 防堵非法移民！美防長授權國土安全部於美墨邊境測試軍用「熱線槍」
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】據報導，美國戰爭部長赫格塞斯（Pete Hegseth）上個月簽署一份備忘錄，允許國土安全部（DHS）測試一種非致命的「熱線槍」（heat ray），並有可能將其部署於美國南...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】防堵非法移民！美防長授權國土安全部於美墨邊境測試軍用「熱線槍」
+【发布时间】2026-10-22T18:55:02.000Z
+【链接】https://news.ltn.com.tw/news/world/breakingnews/5615813
+
+------------------------------
+
+14. 全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】法國22日通報全球首例人類感染通常只存在於牲畜體內的「沙門達病毒」（Shamonda virus）確診病例，該名病患隨後不幸身亡。當局對此強調，現階段該病毒對一般大眾並無傳染...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播
+【发布时间】2026-10-22T18:49:53.000Z
+【链接】https://news.ltn.com.tw/news/world/breakingnews/5615812
+
+------------------------------
+
+15. 法國速審上週末暴動案件　司法部長：217人已入獄
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】法國司法部長達馬南（Gerald Darmanin）今天表示，針對上週末暴動事件，法院以快速審理程序將217人定罪後，已將他們關進監獄。他並稱讚司法部門的應對措施「極其堅定」。
+
+法新社報導...…
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】法國速審上週末暴動案件　司法部長：217人已入獄
+【发布时间】2026-10-22T18:12:03.000Z
+【链接】https://news.ltn.com.tw/news/world/breakingnews/5615811
