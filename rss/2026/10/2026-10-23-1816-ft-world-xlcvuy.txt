@@ -1,0 +1,59 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-23T08:16:52.983Z - 2026-10-23T10:16:52.983Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Swedish carmaker to cut another 2,500 jobs and warns that the market ‘has not reached the bottom’
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Volvo Cars shares plunge as much as 30% after it swings to loss
+【发布时间】2026-10-23T09:19:08.000Z
+【链接】https://www.ft.com/content/deb209b5-a5ed-4d24-a470-636ecc1e3668?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Markets face twin threats of surging crude prices and concern over durability of AI boom
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Oil hits $114 for first time since May as global stocks knocked by AI fears
+【发布时间】2026-10-23T09:14:36.000Z
+【链接】https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The key measures of inflation are rising
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】September inflation keeps BoJ on tightening course
+【发布时间】2026-10-23T08:48:57.000Z
+【链接】https://www.ft.com/content/f968f40c-ecc8-4981-ba60-a826f808505b
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Budget will give a first glimpse of Andy Burnham’s bid to rewire the state, but the prime minister well knows the mechanics need a good story too
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Selling the devolution dream
+【发布时间】2026-10-23T08:30:12.000Z
+【链接】https://www.ft.com/content/785e1f2d-2b24-4863-a70d-3629cf568fbd?syn-25a6b1a6=1
