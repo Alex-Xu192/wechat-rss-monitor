@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-23T16:12:42.207Z - 2026-10-23T18:12:42.207Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Beyond melanoma, scientists are studying cancer vaccines for glioblastoma, pancreatic cancer and more.
+【依据】AI 结构化失败，未做股票判断。Unexpected token '以', "以下是本期 NYTi"... is not valid JSON
+【原标题】Melanoma Vaccine Ushers in New Hope for Cancer Patients
+【发布时间】2026-10-23T17:43:05.000Z
+【链接】https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】It’s not impossible to spot the characteristics of a brewing financial crisis. We can look to 2008 for clues.
+【依据】AI 结构化失败，未做股票判断。Unexpected token '以', "以下是本期 NYTi"... is not valid JSON
+【原标题】How Worried Should We Be About the Economy? Let’s Look at 2008.
+【发布时间】2026-10-23T17:41:27.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk.
+【依据】AI 结构化失败，未做股票判断。Unexpected token '以', "以下是本期 NYTi"... is not valid JSON
+【原标题】Global Oil Price Hits $117 a Barrel, Highest Since April
+【发布时间】2026-10-23T16:14:44.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html
