@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-23T10:13:00.617Z - 2026-10-23T12:13:00.617Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Investors are bracing for a one-two punch: rising oil prices and concerns about the soaring costs of the artificial intelligence buildout.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】A Tech Rotation Roils the Markets, Again
+【发布时间】2026-10-23T11:42:50.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Pennylane, a French company, has gained market share in its home country by helping accountants work with clients. It’s aiming to expand internationally.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】A.I. and New Rules for Accounting Are an Opportunity for Start-Ups
+【发布时间】2026-10-23T11:39:37.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/dealbook/pennylane-ai-accounting-france.html
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Trump administration’s tariffs are slowing Americans’ access to the cheese just as producers were finding a foothold stateside.
+【依据】AI 结构化失败，未做股票判断。{"error":"Model output doesn't fit required format"}
+【原标题】Trump’s Tariffs Slow America’s Access to Canada’s Cheese
+【发布时间】2026-10-23T11:06:57.000Z
+【链接】https://www.nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html
