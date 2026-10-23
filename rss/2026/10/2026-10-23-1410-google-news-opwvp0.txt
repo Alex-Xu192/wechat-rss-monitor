@@ -1,0 +1,20 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-23T04:10:27.087Z - 2026-10-23T06:10:27.087Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Hundreds of flights cancelled across East Asia as Typhoon Champi roars toward Taiwan  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Hundreds of flights cancelled across East Asia as Typhoon Champi roars toward Taiwan - BBC
+【发布时间】2026-10-23T05:59:05.000Z
+【链接】https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iU1FsMHlEcURudkgzanNQZ2dUOGtDQ3F5NFFLTHg3eTRMS1EtRWIwdGZLMV8yNE03dzhvZFFGbjdQeXFvRVZvYzRjY2Zqc09kSHo3UWtB?oc=5
