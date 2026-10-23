@@ -1,0 +1,33 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-10-23T14:16:05.527Z - 2026-10-23T16:16:05.527Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Apple today marks 25 years since the introduction of the original iPod, one of the company's most significant products and a major contributor to its expansion beyond the Mac. Steve Jobs unveiled the first iPod on October 23, 2001, at a small press event in the Town Hall auditorium at Apple's Infinite Loop headquarters. [macrumors.com]
+【依据】AI 结构化失败，未做股票判断。[{"originalTitle":"Happy 25th Anniversary, iPod","titleZh":"iPod 25 周年快乐","originalSummary":"Apple today marks 25 years since the introduction of the original iPod, one of the company's most significant products and a major contributor to its expansion beyond the Mac. Steve Jobs unveiled the first iPod on October 23, 2001, at a small press event in the Town Hall auditorium at Apple's Infinite Loop headquarters. [macrumors.com]","summaryZh":"Apple 今天纪念推出最初的 iPod 25 周年，这是公司最重要的产品之一，也是其业务扩张超越 Mac 的
+【原标题】Happy 25th Anniversary, iPod
+【发布时间】2026-10-23T15:32:59.000Z
+【链接】https://flipso.com/p/kdguufwoe?ref=rss
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】In 2025, homes paid 17.8¢ per kWh at investor-owned utilities, 14.5¢ at public utilities, and 14.1¢ at co-ops. Since 2020, investor-owned prices rose 34% versus 19% for public utilities and co-ops, outpacing 24% inflation. Investor-owned prices increased faster than nonprofit utilities in 38 of the 48 states with both types. EIA Form 861 data, updated through 2025. [kadoa.com]
+【依据】AI 结构化失败，未做股票判断。[{"originalTitle":"Happy 25th Anniversary, iPod","titleZh":"iPod 25 周年快乐","originalSummary":"Apple today marks 25 years since the introduction of the original iPod, one of the company's most significant products and a major contributor to its expansion beyond the Mac. Steve Jobs unveiled the first iPod on October 23, 2001, at a small press event in the Town Hall auditorium at Apple's Infinite Loop headquarters. [macrumors.com]","summaryZh":"Apple 今天纪念推出最初的 iPod 25 周年，这是公司最重要的产品之一，也是其业务扩张超越 Mac 的
+【原标题】Investor-owned utilities charge 23% more for electricity than public ones
+【发布时间】2026-10-23T14:20:16.000Z
+【链接】https://flipso.com/p/lcparkr3m?ref=rss
