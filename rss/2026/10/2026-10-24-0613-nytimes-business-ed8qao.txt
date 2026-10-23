@@ -1,0 +1,33 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-23T20:13:11.773Z - 2026-10-23T22:13:11.773Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】While higher interest rates are a complication for stocks and bonds, they are an unequivocal boon if you just want to park some cash and make a little money, our columnist says.
+【依据】AI 结构化失败，未做股票判断。[{"titleZh":"简单地从利率上升中获益：购买货币市场基金","summaryZh":"虽然更高的利率对股票和债券构成了干扰，但如果你只是想将一些现金存起来赚点钱，我们的专栏作者表示，这无疑是一种利好。","originalTitle":"A Simple Way to Benefit From Rising Rates: Buy Money Market Funds"},{"titleZh":"紧张的竞争前景，特朗普取消部分加拿大商品关税","summaryZh":"这一举动由缅因州共和党参议员苏珊·柯林斯宣布，她正面临着在物价上涨中艰难的再选竞选。","originalTitle":"Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods"}]
+【原标题】A Simple Way to Benefit From Rising Rates: Buy Money Market Funds
+【发布时间】2026-10-23T20:49:09.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/interest-rates-money-market-funds-stocks-bonds.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The move was announced by Senator Susan Collins, a Maine Republican who faces a tough re-election fight amid rising prices.
+【依据】AI 结构化失败，未做股票判断。[{"titleZh":"简单地从利率上升中获益：购买货币市场基金","summaryZh":"虽然更高的利率对股票和债券构成了干扰，但如果你只是想将一些现金存起来赚点钱，我们的专栏作者表示，这无疑是一种利好。","originalTitle":"A Simple Way to Benefit From Rising Rates: Buy Money Market Funds"},{"titleZh":"紧张的竞争前景，特朗普取消部分加拿大商品关税","summaryZh":"这一举动由缅因州共和党参议员苏珊·柯林斯宣布，她正面临着在物价上涨中艰难的再选竞选。","originalTitle":"Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods"}]
+【原标题】Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods
+【发布时间】2026-10-23T20:29:40.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html
