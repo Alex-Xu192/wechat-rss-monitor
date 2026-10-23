@@ -1,0 +1,72 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-23T12:11:47.403Z - 2026-10-23T14:11:47.403Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers  The Washington Post
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post
+【发布时间】2026-10-23T13:37:09.000Z
+【链接】https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Stock market today: Dow, S&P 500, and Nasdaq slip after sharp tech sell-off  Yahoo Finance
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Stock market today: Dow, S&P 500, and Nasdaq slip after sharp tech sell-off - Yahoo Finance
+【发布时间】2026-10-23T13:34:38.000Z
+【链接】https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWXNFcU53cmxYYXJDS1FVQUYxcjlKYTFpdzZ1WEdIeXllRUNIbGx3NTVGRzNBV2NnOWtTZjhKNjRJbFhDelNXSFc5bTd3V21yb0ZZbjFHZXpSeTRQak92SmFuRlpyaWQ1YVdYVUQ5RTE4UkRlSWlNWEhpZjhuVXBpNTJOS0VmYWV2R0FTWHdBOFVUR2Rrbzd3Y2g5VHB0Y0xYWnhlS2R4TXRmSHlNN1NKbVcyM2syY1I3a1Ew?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Dave Regan Pushed the Billionaire Tax Hard. Now He Faces a Union Inquiry.  The New York Times
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Dave Regan Pushed the Billionaire Tax Hard. Now He Faces a Union Inquiry. - The New York Times
+【发布时间】2026-10-23T13:17:41.000Z
+【链接】https://news.google.com/rss/articles/CBMikAFBVV95cUxOUi1XcktRbDZKV3pYdU9jOXhzbnVSR04tVEszaUp4d1pQYW5PVThIYmFXU1hvZzFpLTlPY3BRQVRCbFFrMkx1amIyckR5VWdseDRJYkZkZGdOb2xWVW1XczBjeXE0QVJTVXlWVXFVV0RfaEdhdFNHWVJpUmhjT3Q2eXotV0NPNGpNc05FQlBPUzg?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Seven shot dead by gunmen at church funeral in Jordan, state media say  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Seven shot dead by gunmen at church funeral in Jordan, state media say - BBC
+【发布时间】2026-10-23T13:12:15.000Z
+【链接】https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PaUdRVmRXdUhxR3haU3dtY0ZUbm96Y2RrYVFQdGd6RVJGR3o3eFMxSldjR3FvQURrdzJONDhmRUNhVDd3TDh2UzVndUtGcG0tNTFoLTlnOXhSaFk?oc=5
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Knicks reportedly duped employees with championship ring email that was actually a phishing test  CBS Sports
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Knicks reportedly duped employees with championship ring email that was actually a phishing test - CBS Sports
+【发布时间】2026-10-23T12:29:40.000Z
+【链接】https://news.google.com/rss/articles/CBMinAFBVV95cUxPN0RkSmp2X3dZMVlJU05TckJFWXdhZFlCOV9XcUhVWWVpSFBDVmZKV3MwbE1XOFV3bU84WEo0NlZOVDktUVN4WUN2VWU5RllZWUpaLWdFa0RxRWNwazgzRVo0UVgwUjU5amhSb2lVMzVzOE5OajV0clBuN1NudHNvQi0zWHBpcjFYOVh0UFF4UmVpU01YbjRmcUx2ZlA?oc=5
