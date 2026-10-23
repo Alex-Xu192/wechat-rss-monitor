@@ -1,0 +1,98 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-23T14:14:39.017Z - 2026-10-23T16:14:39.017Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Kyiv accuses Washington of intentionally slowing technology crucial for intercepting Russian attacks
+【依据】AI 结构化失败，未做股票判断。Unexpected token '已', "已按规则整理如下（外"... is not valid JSON
+【原标题】Ukraine says Starlink speeds still throttled
+【发布时间】2026-10-23T16:07:16.000Z
+【链接】https://www.ft.com/content/e67a3d0e-5893-45a5-b098-64a68a4ef032?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Rise in energy prices pushes US inflation expectations higher
+【依据】AI 结构化失败，未做股票判断。Unexpected token '已', "已按规则整理如下（外"... is not valid JSON
+【原标题】Oil hits $117 for first time since April on fears of flare-up in Iran hostilities
+【发布时间】2026-10-23T16:06:43.000Z
+【链接】https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】In the absence of leaks ahead of next week, we’ve been deluged with wrong-headed calls for cuts
+【依据】AI 结构化失败，未做股票判断。Unexpected token '已', "已按规则整理如下（外"... is not valid JSON
+【原标题】Some Budget tax reforms really are better than others
+【发布时间】2026-10-23T16:05:28.000Z
+【链接】https://www.ft.com/content/786adb71-2e7f-4218-b8dc-146bfb1db8b6
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Smith & Nephew was in talks to combine with J&J’s orthopaedics unit but refused to agree to former CEO leading combined business
+【依据】AI 结构化失败，未做股票判断。Unexpected token '已', "已按规则整理如下（外"... is not valid JSON
+【原标题】How a transatlantic mega-merger fell apart over a leadership tug of war
+【发布时间】2026-10-23T15:56:45.000Z
+【链接】https://www.ft.com/content/e114059c-308d-4d8e-8127-f88b0faca879?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Companies have sorted the mundane — now they can help us live our best lives
+【依据】AI 结构化失败，未做股票判断。Unexpected token '已', "已按规则整理如下（外"... is not valid JSON
+【原标题】The biggest ever investment theme has only just begun
+【发布时间】2026-10-23T15:35:33.000Z
+【链接】https://www.ft.com/content/c6182105-608b-461e-a274-4b0ae6c224d4?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Gunman arrested in Trappes after he kills one person and injures four others
+【依据】AI 结构化失败，未做股票判断。Unexpected token '已', "已按规则整理如下（外"... is not valid JSON
+【原标题】Deadly shooting near Paris investigated as possible racist attack
+【发布时间】2026-10-23T15:35:21.000Z
+【链接】https://www.ft.com/content/9bf81e98-08b7-450a-a804-51030934646e?syn-25a6b1a6=1
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Our experts will analyse the proposals and answer your questions in a live Ask an Expert Q&A on Thursday October 29 at 12pm (GMT)
+【依据】AI 结构化失败，未做股票判断。Unexpected token '已', "已按规则整理如下（外"... is not valid JSON
+【原标题】Submit a question: What does the Budget mean for your money?
+【发布时间】2026-10-23T15:22:22.000Z
+【链接】https://www.ft.com/content/90afe6b1-0ca9-4795-9665-cab3e789df96?syn-25a6b1a6=1
