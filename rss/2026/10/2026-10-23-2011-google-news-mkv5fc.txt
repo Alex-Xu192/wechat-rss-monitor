@@ -1,0 +1,59 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-23T10:11:27.666Z - 2026-10-23T12:11:27.666Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 股市期货持续承压，跌幅创6月以来最差纳指收盘
+2. 特朗普将在佛罗里达州集会，引发拉马斯瓦米广告风波
+3. 国债收益率创2023年银行业危机以来最大跌幅
+4. 苏西公爵夫人在父亲面临儿童性侵图像指控事件中深受困扰
+
+==============================
+
+1. 股市期货持续承压，跌幅创6月以来最差纳指收盘
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】股市期货持续承压，跌幅为6月以来最差的纳指收盘水平。CNBC实时更新。
+【依据】原文未提及具体个股或公司名称，仅涉及纳斯达克指数整体表现。
+【原标题】Stock futures remain under pressure after worst Nasdaq session since June: Live updates - CNBC
+【发布时间】2026-10-23T11:37:44.000Z
+【链接】https://news.google.com/rss/articles/CBMidkFVX3lxTFBNc0s0YTFvMUVGOTZsQTBGQ2xGQkNJNmZrZVlXOXpMTTV4VDFZQnF5LTBOVHpXMVI1cmI4QmhFNTVudnpRVDVUbldkZEZmeXl3MHI4aU1UaXVvbHNEdHhvbmNweVQ5TWdjaWRPQWpZLXJIYk5RTlHSAXtBVV95cUxPN0Q0eEc2UXVTTmwxcTZsY05HeEdKN0U1dDc1S1YxWmxZOXJlSm1NVVZDU3MxcXFKNlduX3NxckhxZ1puVlE1d09SZk4zSGhVcG9xNFhBb1d6Skd4NlZSdDZ5Y1I2NkxEXzJuUmxUMThNX3haWnlIeUZQQ0k?oc=5
+
+------------------------------
+
+2. 特朗普将在佛罗里达州集会，引发拉马斯瓦米广告风波
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】特朗普将于佛罗里达州集会，因其引发拉马斯瓦米广告争议。美国政治现场报道。
+【依据】原文为政治人物集会新闻，未涉及具体上市公司或股票。
+【原标题】Trump to rally in Florida after stoking Ramaswamy ad furor – US politics live - The Guardian
+【发布时间】2026-10-23T11:35:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiogFBVV95cUxNM21zOWxPY3FJaHBFVnFxbTdlcllmZloxSzlycTdtR3FYMk9QLWw1b2ZzbHBIeUVBVzZtOWR0Q2VDSHR1ck0xWThneVNvNHR6TXM3MUkzZUd6MjZqMEJTeDc5RTNYSTUzeUZjQ0RQai1BT3c0MVU3aXFZVDg0YzlLUFJUdEpXb0VlSjA3NkphbUhLTE5yV0ZvVkc4NUtPVGVKbVE?oc=5
+
+------------------------------
+
+3. 国债收益率创2023年银行业危机以来最大跌幅
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】国债收益率录得自2023年银行业危机以来的最大跌幅。MarketWatch解析其背后原因。
+【依据】原文讨论的是国债收益率走势，非个股或行业股票，无法判断具体股票。
+【原标题】Treasury yields log biggest drop since the 2023 banking crisis. Here's what's going on. - MarketWatch
+【发布时间】2026-10-23T11:01:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiswFBVV95cUxOdDNHQlIxQkRfeVl2bWtrX2lzYTZsX0JYazZRaGdkclU5aHAwWlppV05YSTdvS0kwQXNVa0p6N0tseXVpcDZPRFBhdV9fbTExaXZZSTJJT1RXQmVXR3ZpTE5aZXp5cXFHRnB0WGxJNjVubU14LUs0eFV0SDVHWnJpYVkwYlNxZEhvZDVPa1U1MXlsYi15a2czRGJiOER5RjQ5M0toakZZbWV5S245WkM3QVNhZw?oc=5
+
+------------------------------
+
+4. 苏西公爵夫人在父亲面临儿童性侵图像指控事件中深受困扰
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】苏西公爵夫人对父亲面临儿童性侵图像指控事件表示深受困扰。The Guardian报道。
+【依据】原文涉及王室人物丑闻，未涉及具体上市公司或股票。
+【原标题】Duchess of Sussex 'deeply distressed' over child sexual abuse image claims against father - The Guardian
+【发布时间】2026-10-23T10:40:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiygFBVV95cUxNaWhnZ09jWWxxQ2o3M2J1dklUMS0yaTJ0QW1ocDFianNPSE1mYnJYUURfTUMxdFJlMklNT1FXUXRVUXdHQXBPbUxjOERMb3ljdTdPQXE1NWp6djF3NjhLNjBTMVFxSGJLb3lvbW1DMzZzcElvNXVaWlQ3Z3BseFVwak16a2s4ajJ2TDBTZDctQ2ttQlVVOFFxMGtNcWE1Sm14bXV0SjltQl9HeVphOFN3VUkwUGFPSzVWZXl4MWpLNEdiR2hpN3VHcWN3?oc=5
