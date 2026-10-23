@@ -1,0 +1,98 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-23T14:10:24.120Z - 2026-10-23T16:10:24.120Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Supreme Court will consider in the new year whether the 1868 legislation forbidding home distilling should be overturned.
+【依据】AI 结构化失败，未做股票判断。{"sourceName":"BBC World","sourceSlug":"bbc-world","windowStart":"2026-10-23T14:10:24.120Z","windowEnd":"2026-10-23T16:10:24.120Z","count":7,"articles":[{"titleZh":"家庭自制烈酒制造者欢呼 美国最高法院考虑是否最终合法化月光酒","originalTitle":"Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine","summaryZh":"美国最高法院将在新年考虑推翻1868年禁止家庭自制烈酒的法律。","link":"https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss","publishedAt":"2026-10-23T15:24:35.000Z"},{"titleZh":"约旦官员
+【原标题】Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine
+【发布时间】2026-10-23T15:24:35.000Z
+【链接】https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way.
+【依据】AI 结构化失败，未做股票判断。{"sourceName":"BBC World","sourceSlug":"bbc-world","windowStart":"2026-10-23T14:10:24.120Z","windowEnd":"2026-10-23T16:10:24.120Z","count":7,"articles":[{"titleZh":"家庭自制烈酒制造者欢呼 美国最高法院考虑是否最终合法化月光酒","originalTitle":"Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine","summaryZh":"美国最高法院将在新年考虑推翻1868年禁止家庭自制烈酒的法律。","link":"https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss","publishedAt":"2026-10-23T15:24:35.000Z"},{"titleZh":"约旦官员
+【原标题】Six shot dead by gunmen at church funeral in Jordan, officials say
+【发布时间】2026-10-23T15:15:18.000Z
+【链接】https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.
+【依据】AI 结构化失败，未做股票判断。{"sourceName":"BBC World","sourceSlug":"bbc-world","windowStart":"2026-10-23T14:10:24.120Z","windowEnd":"2026-10-23T16:10:24.120Z","count":7,"articles":[{"titleZh":"家庭自制烈酒制造者欢呼 美国最高法院考虑是否最终合法化月光酒","originalTitle":"Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine","summaryZh":"美国最高法院将在新年考虑推翻1868年禁止家庭自制烈酒的法律。","link":"https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss","publishedAt":"2026-10-23T15:24:35.000Z"},{"titleZh":"约旦官员
+【原标题】White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'
+【发布时间】2026-10-23T15:06:27.000Z
+【链接】https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain.
+【依据】AI 结构化失败，未做股票判断。{"sourceName":"BBC World","sourceSlug":"bbc-world","windowStart":"2026-10-23T14:10:24.120Z","windowEnd":"2026-10-23T16:10:24.120Z","count":7,"articles":[{"titleZh":"家庭自制烈酒制造者欢呼 美国最高法院考虑是否最终合法化月光酒","originalTitle":"Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine","summaryZh":"美国最高法院将在新年考虑推翻1868年禁止家庭自制烈酒的法律。","link":"https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss","publishedAt":"2026-10-23T15:24:35.000Z"},{"titleZh":"约旦官员
+【原标题】US justice department investigating Corey Lewandowski over DHS role
+【发布时间】2026-10-23T14:58:19.000Z
+【链接】https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.
+【依据】AI 结构化失败，未做股票判断。{"sourceName":"BBC World","sourceSlug":"bbc-world","windowStart":"2026-10-23T14:10:24.120Z","windowEnd":"2026-10-23T16:10:24.120Z","count":7,"articles":[{"titleZh":"家庭自制烈酒制造者欢呼 美国最高法院考虑是否最终合法化月光酒","originalTitle":"Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine","summaryZh":"美国最高法院将在新年考虑推翻1868年禁止家庭自制烈酒的法律。","link":"https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss","publishedAt":"2026-10-23T15:24:35.000Z"},{"titleZh":"约旦官员
+【原标题】Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank
+【发布时间】2026-10-23T14:45:43.000Z
+【链接】https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.
+【依据】AI 结构化失败，未做股票判断。{"sourceName":"BBC World","sourceSlug":"bbc-world","windowStart":"2026-10-23T14:10:24.120Z","windowEnd":"2026-10-23T16:10:24.120Z","count":7,"articles":[{"titleZh":"家庭自制烈酒制造者欢呼 美国最高法院考虑是否最终合法化月光酒","originalTitle":"Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine","summaryZh":"美国最高法院将在新年考虑推翻1868年禁止家庭自制烈酒的法律。","link":"https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss","publishedAt":"2026-10-23T15:24:35.000Z"},{"titleZh":"约旦官员
+【原标题】PSG v Lyon moved as Paris prepares for more protests
+【发布时间】2026-10-23T14:18:41.000Z
+【链接】https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.
+【依据】AI 结构化失败，未做股票判断。{"sourceName":"BBC World","sourceSlug":"bbc-world","windowStart":"2026-10-23T14:10:24.120Z","windowEnd":"2026-10-23T16:10:24.120Z","count":7,"articles":[{"titleZh":"家庭自制烈酒制造者欢呼 美国最高法院考虑是否最终合法化月光酒","originalTitle":"Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine","summaryZh":"美国最高法院将在新年考虑推翻1868年禁止家庭自制烈酒的法律。","link":"https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss","publishedAt":"2026-10-23T15:24:35.000Z"},{"titleZh":"约旦官员
+【原标题】Deadly shooting near Paris investigated as 'crime of terrorism', minister says
+【发布时间】2026-10-23T14:15:23.000Z
+【链接】https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss
