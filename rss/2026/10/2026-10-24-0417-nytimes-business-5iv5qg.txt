@@ -1,0 +1,46 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-23T18:17:41.086Z - 2026-10-23T20:17:41.086Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk.
+【依据】AI 结构化失败，未做股票判断。{"articles":[{"titleZh":"全球油价触及每桶116美元，为4月以来最高","originalTitle":"Global Oil Price Hits $116 a Barrel, Highest Since April","link":"https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html","publishedAt":"2026-10-23T20:03:29.000Z","summaryZh":"投资者越来越担心伊朗战争可能再次升级，使能源供应面临更大风险。","originalSummary":"Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk."},{"titleZh":"在激烈竞争前夕，特朗普免除部分加拿大商品关税","origina
+【原标题】Global Oil Price Hits $116 a Barrel, Highest Since April
+【发布时间】2026-10-23T20:03:29.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The move was announced by Senator Susan Collins, a Maine Republican who faces a tough re-election fight amid rising prices.
+【依据】AI 结构化失败，未做股票判断。{"articles":[{"titleZh":"全球油价触及每桶116美元，为4月以来最高","originalTitle":"Global Oil Price Hits $116 a Barrel, Highest Since April","link":"https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html","publishedAt":"2026-10-23T20:03:29.000Z","summaryZh":"投资者越来越担心伊朗战争可能再次升级，使能源供应面临更大风险。","originalSummary":"Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk."},{"titleZh":"在激烈竞争前夕，特朗普免除部分加拿大商品关税","origina
+【原标题】Ahead of Tight Race, Trump Exempts Some Canadian Goods From Tariffs
+【发布时间】2026-10-23T19:39:21.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】It’s not impossible to spot the characteristics of a brewing financial crisis. We can look to 2008 for clues.
+【依据】AI 结构化失败，未做股票判断。{"articles":[{"titleZh":"全球油价触及每桶116美元，为4月以来最高","originalTitle":"Global Oil Price Hits $116 a Barrel, Highest Since April","link":"https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html","publishedAt":"2026-10-23T20:03:29.000Z","summaryZh":"投资者越来越担心伊朗战争可能再次升级，使能源供应面临更大风险。","originalSummary":"Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk."},{"titleZh":"在激烈竞争前夕，特朗普免除部分加拿大商品关税","origina
+【原标题】How Worried Should We Be About the Economy? Let’s Look at 2008.
+【发布时间】2026-10-23T18:46:44.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html
