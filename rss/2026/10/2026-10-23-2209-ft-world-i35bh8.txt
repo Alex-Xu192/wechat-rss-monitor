@@ -1,0 +1,85 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-23T12:09:46.085Z - 2026-10-23T14:09:46.085Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Monetising America has pleased tycoons but not citizens
+【依据】AI 结构化失败，未做股票判断。{"error":"Forbidden - perhaps check your credentials?"}
+【原标题】A half-time scorecard for Trump-world
+【发布时间】2026-10-23T13:32:54.000Z
+【链接】https://www.ft.com/content/fdd811ed-3186-48f9-8f6b-fb66e56f13e6
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The FT’s critics recommend the most compelling 2026 shows, from Hokusai’s Mount Fuji prints to Renoir at the National Gallery
+【依据】AI 结构化失败，未做股票判断。{"error":"Forbidden - perhaps check your credentials?"}
+【原标题】The best exhibitions to see in London this weekend
+【发布时间】2026-10-23T13:32:31.000Z
+【链接】https://www.ft.com/content/ef0f6d42-4759-4ce8-8e40-acd83f0c64f1?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Two soldiers killed and three injured by Palestinian gunmen in attack that has stoked tensions before Israeli elections next week
+【依据】AI 结构化失败，未做股票判断。{"error":"Forbidden - perhaps check your credentials?"}
+【原标题】Netanyahu threatens ‘aggressive’ offensive after West Bank shooting
+【发布时间】2026-10-23T13:29:29.000Z
+【链接】https://www.ft.com/content/e03e092b-c465-478a-b01e-bf21406981cd?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Kyiv accuses Washington of intentionally slowing technology crucial for intercepting Russian attacks
+【依据】AI 结构化失败，未做股票判断。{"error":"Forbidden - perhaps check your credentials?"}
+【原标题】Ukraine says Starlink speeds still throttled
+【发布时间】2026-10-23T13:00:10.000Z
+【链接】https://www.ft.com/content/e67a3d0e-5893-45a5-b098-64a68a4ef032?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Democrats’ hopes of taking back the Senate hinge in part on Abdul El-Sayed winning this key state
+【依据】AI 结构化失败，未做股票判断。{"error":"Forbidden - perhaps check your credentials?"}
+【原标题】The meaning of Michigan — part two
+【发布时间】2026-10-23T13:00:01.000Z
+【链接】https://www.ft.com/content/22554b78-9a26-43ec-b17c-6dddda3e6d69?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Markets face twin threats of surging crude prices and concern over durability of AI boom
+【依据】AI 结构化失败，未做股票判断。{"error":"Forbidden - perhaps check your credentials?"}
+【原标题】Oil hits $115 for first time since May as global stocks knocked by AI fears
+【发布时间】2026-10-23T12:16:14.000Z
+【链接】https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1
