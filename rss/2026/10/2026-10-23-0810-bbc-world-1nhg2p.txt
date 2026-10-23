@@ -1,0 +1,59 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-22T22:10:24.241Z - 2026-10-23T00:10:24.241Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The quake hit a mountainous, sparsely-populated region in north-eastern Tibet.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Powerful earthquake hits Tibet killing 16 people, reports say
+【发布时间】2026-10-22T23:22:45.000Z
+【链接】https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow
+【发布时间】2026-10-22T23:16:20.000Z
+【链接】https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds
+【发布时间】2026-10-22T23:16:16.000Z
+【链接】https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The beauty giant's CEO says the use of GLP-1s is "a very important phenomenon for us".
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】L'Oreal says weight loss drugs are impacting beauty and skin care sales
+【发布时间】2026-10-22T22:27:53.000Z
+【链接】https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss
