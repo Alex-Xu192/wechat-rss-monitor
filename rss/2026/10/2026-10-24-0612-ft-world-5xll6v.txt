@@ -1,0 +1,72 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-23T20:12:14.506Z - 2026-10-23T22:12:14.506Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Pope and Melania Trump help organise deal to allow humanitarian aid to enter area and for civilians to be evacuated
+【依据】AI 结构化失败，未做股票判断。Unterminated fractional number in JSON at position 2 (line 1 column 3)
+【原标题】Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky
+【发布时间】2026-10-23T21:11:11.000Z
+【链接】https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Central committee meeting to be closely watched ahead of party congress next year and leader’s expected fourth term
+【依据】AI 结构化失败，未做股票判断。Unterminated fractional number in JSON at position 2 (line 1 column 3)
+【原标题】Xi gathers China’s top cadres with focus on discipline
+【发布时间】2026-10-23T21:00:09.000Z
+【链接】https://www.ft.com/content/d11b743a-cd2c-4f0d-a464-8750aa8f4170?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】President to ease some levies to help candidates facing tough US Senate election battles
+【依据】AI 结构化失败，未做股票判断。Unterminated fractional number in JSON at position 2 (line 1 column 3)
+【原标题】Trump to cut Canadian tariffs after pressure from Republicans
+【发布时间】2026-10-23T20:21:55.000Z
+【链接】https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Candidates’ similar names could ‘taint’ the result, argues US Justice Department
+【依据】AI 结构化失败，未做股票判断。Unterminated fractional number in JSON at position 2 (line 1 column 3)
+【原标题】Trump moves to block certification of Alaska Senate election if Republican loses
+【发布时间】2026-10-23T20:16:32.000Z
+【链接】https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Rise in energy prices pushes US inflation expectations higher
+【依据】AI 结构化失败，未做股票判断。Unterminated fractional number in JSON at position 2 (line 1 column 3)
+【原标题】Oil hits $117 for first time since April on fears of flare-up in Iran hostilities
+【发布时间】2026-10-23T20:13:21.000Z
+【链接】https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1
