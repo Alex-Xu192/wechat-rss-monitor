@@ -1,0 +1,72 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-23T08:15:31.059Z - 2026-10-23T10:15:31.059Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 梅根称2018年曾被警方告知父亲涉'令人不安的指控' - BBC
+2. 科技股抛售后股指期货涨跌互现：实时更新 - CNBC
+3. 美国国债与AI关联显现剧烈转变 避险交易回归 - Bloomberg.com
+4. 迈克·弗拉贝尔的时钟管理包含故意越位犯规 - NBC Sports
+5. 以色列下令约旦河西岸'全面封锁' 军方击毙2名袭击嫌疑人后 - NBC News
+
+==============================
+
+1. 梅根称2018年曾被警方告知父亲涉'令人不安的指控' - BBC
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】梅根表示，她在2018年曾被警方告知关于其父亲的'令人不安的指控'。BBC报道。
+【依据】该新闻为英国王室成员梅根的个人家庭事务，属于娱乐/皇室八卦类新闻，未涉及任何上市公司、行业政策或商品市场，无法判断对股票的影响。
+【原标题】Meghan says she was informed by police about 'disturbing allegations' against her father in 2018 - BBC
+【发布时间】2026-10-23T09:56:51.000Z
+【链接】https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDaFFJUXluLV8ybGtkMWl5Vmpud2RSWXJIQmQ3T1VZVWhXYzk4MzMzREE5QV93NEZLYmgzQTdOdjBPTHYtQkgtTWpISUJ2WjB5eW5jT2gtaWRueWM?oc=5
+
+------------------------------
+
+2. 科技股抛售后股指期货涨跌互现：实时更新 - CNBC
+【相关股票】科技股、股指期货、标普500指数期货、纳斯达克100指数期货
+【利好股票】无法判断
+【利空股票】科技股
+【摘要】科技板块抛售后，股指期货呈现涨跌不一走势。CNBC提供实时更新。
+【依据】新闻明确提及科技板块抛售导致股指期货涨跌互现，直接关联科技股及主要股指期货。科技股面临抛售压力属利空，但期货涨跌互现说明市场分歧，整体偏向科技股短期承压。
+【原标题】Stock futures trade mixed after tech sector sell-off: Live updates - CNBC
+【发布时间】2026-10-23T09:24:50.000Z
+【链接】https://news.google.com/rss/articles/CBMidkFVX3lxTFBNc0s0YTFvMUVGOTZsQTBGQ2xGQkNJNmZrZVlXOXpMTTV4VDFZQnF5LTBOVHpXMVI1cmI4QmhFNTVudnpRVDVUbldkZEZmeXl3MHI4aU1UaXVvbHNEdHhvbmNweVQ5TWdjaWRPQWpZLXJIYk5RTlHSAXtBVV95cUxPN0Q0eEc2UXVTTmwxcTZsY05HeEdKN0U1dDc1S1YxWmxZOXJlSm1NVVZDU3MxcXFKNlduX3NxckhxZ1puVlE1d09SZk4zSGhVcG9xNFhBb1d6Skd4NlZSdDZ5Y1I2NkxEXzJuUmxUMThNX3haWnlIeUZQQ0k?oc=5
+
+------------------------------
+
+3. 美国国债与AI关联显现剧烈转变 避险交易回归 - Bloomberg.com
+【相关股票】美国国债、长期国债ETF、AI相关股票、科技成长股
+【利好股票】美国国债、长期国债ETF
+【利空股票】AI相关股票、高估值成长股
+【摘要】美国国债与人工智能的关联出现剧烈转变，避险交易重新回归。彭博社报道。
+【依据】新闻指出美债与AI关联发生剧烈转变、避险交易回归，暗示资金从高风险AI/科技成长股流向避险美债。长期国债及相关ETF受益于避险需求，AI题材股票面临资金撤离风险。
+【原标题】Treasuries' Link to AI Shows Sharp Shift as Haven Trade Returns - Bloomberg.com
+【发布时间】2026-10-23T09:21:56.000Z
+【链接】https://news.google.com/rss/articles/CBMiswFBVV95cUxOV0dULXFaUm9nREVVNEJjUFlvODVTbkwyV21vZXJ1eVJveDc4cEd4SG5lWEZsRjNxVWNkZWlvRFJPMi10cXhjcldVUkxGd2wtMWtQbzVpYXJLR29taWlmQThpZE5ObWhFSXFpX0VYZlJMZFQ1WFdKYnF4cWhwUDE3b2NueThFenpCWEJSeDg4UzNfRDZleS1qcmpxY2sxWjhwV3ZnUjZqLTRBT2k4bDJoOVc4Zw?oc=5
+
+------------------------------
+
+4. 迈克·弗拉贝尔的时钟管理包含故意越位犯规 - NBC Sports
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】迈克·弗拉贝尔的比赛时钟管理策略包含故意越位犯规。NBC体育报道。
+【依据】该新闻为NFL美式足球比赛战术分析，属于体育赛事报道，未涉及任何上市公司、体育产业链股票或相关商业合同，无法判断对股票的影响。
+【原标题】Mike Vrabel's clock management included an intentional offside penalty - NBC Sports
+【发布时间】2026-10-23T08:52:19.000Z
+【链接】https://news.google.com/rss/articles/CBMiywFBVV95cUxPZHR2anViZmFBaFdRbFE1QTFUckpKSnlpX09mYWVmamhHTDhtWnRPb3VINU5BRzE4MHJOQmx0T1E5SWwtb281alRQandCTW5heGk0OXNtSkN2ZEpxYXpGQ3gtcjNnYzNubU4zQ0YwTHlrWS1SbU9OUzl4TXFjY0lGaEo2QVpZYmRLLUp6LWhwdUVESmdaNEtiUzhGTGRXa0g5UVBOaThjOEwybTh4N0pldWdoYVZzSEhfLW5BVFprV2NiTjlzWHZIUUVNTQ?oc=5
+
+------------------------------
+
+5. 以色列下令约旦河西岸'全面封锁' 军方击毙2名袭击嫌疑人后 - NBC News
+【相关股票】国防军工股、以色列相关ETF、原油期货、地缘政治风险资产
+【利好股票】国防军工股、原油期货
+【利空股票】以色列相关ETF、中东地区风险资产
+【摘要】以色列在军方击毙2名被指控发动袭击的人员后，下令对约旦河西岸实施'全面封锁'。NBC新闻报道。
+【依据】以色列下令约旦河西岸全面封锁，地缘政治紧张局势升级，通常利好国防军工板块及原油等避险大宗商品；但区域局势不稳定对以色列本地市场及相关ETF构成利空，中东风险资产承压。
+【原标题】Israel orders 'full lockdown' of West Bank after military kills 2 accused of attack - NBC News
+【发布时间】2026-10-23T08:47:00.000Z
+【链接】https://news.google.com/rss/articles/CBMirAFBVV95cUxNN3dwb0R4Z1VVa2VJenltT3B4WWEzS0xsc2Q5SmY0eEEwNy1FN2J6RlZDZE1DaUhzOTdKeHNuckEtMkJvYk0yS2VfRmtBQmhuT3VpcU5CMDFPWlBIYWRDU25XaU51SHJ5cVF2NHkxNGdLb3AtVkpuaHhOR2ZpQjk3aWd2Ni1NY04zM1dLNUxYVlctdWZnUE1RR1N5Q1dsUzF3em1pWjlqUUxpQS1p?oc=5
