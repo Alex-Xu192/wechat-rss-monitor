@@ -1,0 +1,33 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-23T08:10:24.078Z - 2026-10-23T10:10:24.078Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Hundreds of flights cancelled as Typhoon Champi shuts Taiwan
+【发布时间】2026-10-23T08:45:58.000Z
+【链接】https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.
+【依据】AI 结构化失败，未做股票判断。{"error":"The AI model returned an empty response to the Structured Output Parser"}
+【原标题】Ukraine says Starlink still restricted after Trump says limits lifted
+【发布时间】2026-10-23T08:36:32.000Z
+【链接】https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss
