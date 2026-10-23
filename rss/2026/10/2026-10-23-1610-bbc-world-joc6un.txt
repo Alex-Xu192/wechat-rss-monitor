@@ -1,0 +1,20 @@
+BBC World - 中文结构化新闻汇总
+
+【来源】BBC World
+【时间】2026-10-23T06:10:24.438Z - 2026-10-23T08:10:24.438Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Why a student protest movement is challenging 12 years of Vučić rule in Serbia
+【发布时间】2026-10-23T06:26:25.000Z
+【链接】https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss
