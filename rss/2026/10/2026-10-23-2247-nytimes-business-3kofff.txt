@@ -1,0 +1,85 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-23T12:47:58.122Z - 2026-10-23T14:47:58.122Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Among the stakes in next month’s election is the long-running question of whether tax cuts can shape how people vote.
+【依据】AI 结构化失败，未做股票判断。{"error":"Forbidden - perhaps check your credentials?"}
+【原标题】Republicans Cut Taxes to Win the Midterms. It May Not Work Out.
+【发布时间】2026-10-23T14:24:54.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/salt-cap-midterm-elections.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A bill to bolster the nation’s unemployment insurance program reflects the concern — and the risks — in Washington.
+【依据】AI 结构化失败，未做股票判断。{"error":"Forbidden - perhaps check your credentials?"}
+【原标题】Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers
+【发布时间】2026-10-23T14:23:35.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Just as they were finding a toehold stateside, artisanal producers got caught in a trade war.
+【依据】AI 结构化失败，未做股票判断。{"error":"Forbidden - perhaps check your credentials?"}
+【原标题】Trump’s Tariffs Slow America’s Access to Canada’s Cheese
+【发布时间】2026-10-23T14:09:33.000Z
+【链接】https://www.nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Pennylane, a French company, has gained market share in its home country by helping accountants work with clients. It’s aiming to expand internationally.
+【依据】AI 结构化失败，未做股票判断。{"error":"Forbidden - perhaps check your credentials?"}
+【原标题】A.I. and New Rules for Accounting Are an Opportunity for Start-Ups
+【发布时间】2026-10-23T13:12:52.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/dealbook/pennylane-ai-accounting-france.html
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The Swedish automaker plans to cut another 2,500 jobs, joining competitors in offering a gloomy view of the world’s biggest car market.
+【依据】AI 结构化失败，未做股票判断。{"error":"Forbidden - perhaps check your credentials?"}
+【原标题】Volvo Shares Plunge as China Ambitions Fade for Western Carmakers
+【发布时间】2026-10-23T13:08:46.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/volvo-china-2500-job-cuts.html
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Much of the debt stems from hospital bills, researchers say. Even people with insurance are falling behind. But there are ways to get help.
+【依据】AI 结构化失败，未做股票判断。{"error":"Forbidden - perhaps check your credentials?"}
+【原标题】Americans Are Struggling to Pay Rising Medical Costs
+【发布时间】2026-10-23T13:00:17.000Z
+【链接】https://www.nytimes.com/2026/10/23/your-money/medical-debt-health-insurance.html
