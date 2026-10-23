@@ -1,0 +1,332 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-23T02:10:27.199Z - 2026-10-23T04:10:27.199Z
+【数量】25
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+9. 中文标题翻译失败
+10. 中文标题翻译失败
+11. 中文标题翻译失败
+12. 中文标题翻译失败
+13. 中文标题翻译失败
+14. 中文标题翻译失败
+15. 中文标题翻译失败
+16. 中文标题翻译失败
+17. 中文标题翻译失败
+18. 中文标题翻译失败
+19. 中文标题翻译失败
+20. 中文标题翻译失败
+21. 中文标题翻译失败
+22. 中文标题翻译失败
+23. 中文标题翻译失败
+24. 中文标题翻译失败
+25. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Javier Milei’s sweeping free-market reforms have proved painful and the mood in Argentina is growing gloomy. With presidential elections next year, can the political outsider secure enough time to complete his transformation of the chronically troubled economy?
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Investing in Argentina
+【发布时间】2026-10-23T04:03:26.000Z
+【链接】https://www.ft.com/reports/investing-argentina?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】And a parting message from DD co-founder JFK
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】The dispute that blew up a $34bn deal
+【发布时间】2026-10-23T04:00:37.000Z
+【链接】https://www.ft.com/content/51df7b68-927a-49a5-b596-3b867695b102?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Lorries waiting at the border to export agricultural produce into the bloc have become a target for Moscow’s attacks
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Ukraine seeks to move customs checks inside EU to avoid Russian drones
+【发布时间】2026-10-23T04:00:37.000Z
+【链接】https://www.ft.com/content/ab922590-7f73-4a84-a3bd-a42cf80c92f7?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Mike Waltz warns Tehran it must reach a ‘meaningful agreement’ on its nuclear programme
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】US is prepared for long stand-off with Iran, says Trump envoy
+【发布时间】2026-10-23T04:00:37.000Z
+【链接】https://www.ft.com/content/70379a26-c20e-4501-aec9-a9a0089cdd3d?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】This year’s excess heat deaths were the worst this century
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Summer heatwave linked to 50,000 deaths in Europe
+【发布时间】2026-10-23T04:00:28.000Z
+【链接】https://www.ft.com/content/00471cd9-c579-4205-a573-b38a0237ddb8?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Smith & Nephew was in talks to combine with J&J’s orthopaedics unit but refused to agree to former CEO leading combined business
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】How a transatlantic mega-merger fell apart over a leadership tug of war
+【发布时间】2026-10-23T04:00:28.000Z
+【链接】https://www.ft.com/content/e114059c-308d-4d8e-8127-f88b0faca879?syn-25a6b1a6=1
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Company hopes for state backing of up to £200mn to put towards engine for short-haul aircraft
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Rolls-Royce nears taxpayer subsidy deal to develop new engine in UK
+【发布时间】2026-10-23T04:00:28.000Z
+【链接】https://www.ft.com/content/b0d490eb-d136-4114-87d4-d7b013d9cb11?syn-25a6b1a6=1
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Financial services sector bracing for higher levies as chancellor looks for ways to repair public finances
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Should UK banks be taxed more?
+【发布时间】2026-10-23T04:00:28.000Z
+【链接】https://www.ft.com/content/d66ab794-72e9-447b-b6f4-a633dd9fda91?syn-25a6b1a6=1
+
+------------------------------
+
+9. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The belief that books are more than just inanimate objects is explored in a new memoir by Brazilian publisher Luiz Schwarcz — but it’s an idea that has ancient roots
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】The living being on your bookshelf
+【发布时间】2026-10-23T04:00:28.000Z
+【链接】https://www.ft.com/content/bf1814f5-d3bc-4df6-adbf-0fb980e22235
+
+------------------------------
+
+10. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】If inflation and debt rise and AI optimism falls, then the danger of reducing Treasury maturities grows
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Beware Bessent’s tilt towards short-term debt
+【发布时间】2026-10-23T04:00:28.000Z
+【链接】https://www.ft.com/content/bf959a1a-1cd8-41e2-8767-03aa1ac3ed48?syn-25a6b1a6=1
+
+------------------------------
+
+11. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Attempt to clamp down on payments to Big Four firms may be undermined by rise in professional services spending
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Government accused of ‘fudging’ consultancy spending to meet pledge
+【发布时间】2026-10-23T04:00:28.000Z
+【链接】https://www.ft.com/content/ee40daa9-48a7-4157-b6a1-d2ea3c90dbd0?syn-25a6b1a6=1
+
+------------------------------
+
+12. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Protest movement seeks to end 14-year rule of Aleksandar Vučić, an ally of Donald Trump and Vladimir Putin
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Students seek to oust Serbia’s strongman in Sunday vote
+【发布时间】2026-10-23T04:00:18.000Z
+【链接】https://www.ft.com/content/26f97311-f72c-40a8-bc89-c46740f9cdc0?syn-25a6b1a6=1
+
+------------------------------
+
+13. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】California’s retirement fund slashed Magnificent 7 holdings as doubts grow about lofty valuations and soaring spending
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Calpers retreats from Big Tech as AI rally falters
+【发布时间】2026-10-23T04:00:18.000Z
+【链接】https://www.ft.com/content/e842173f-6f9f-4115-9e5f-a0f06f0df18d?syn-25a6b1a6=1
+
+------------------------------
+
+14. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Economies like Mexico are being forced to choose sides on trade
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Caught between the US and China
+【发布时间】2026-10-23T04:00:18.000Z
+【链接】https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1
+
+------------------------------
+
+15. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】The latest five-year plan is wonderfully ambitious, with climate-resilient, colourful planting to stop us all in our tracks and take notice
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】A cure for ‘plant blindness’? Try London’s Royal Parks
+【发布时间】2026-10-23T04:00:18.000Z
+【链接】https://www.ft.com/content/90bd7c83-f219-4d2c-be27-c31f77daa662?syn-25a6b1a6=1
+
+------------------------------
+
+16. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Donald Trump’s tariffs have left the country relatively unscathed, although analysts fear tensions with Brazil are putting survival of trade group Mercosur at risk
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Argentina in global trading sweet spot
+【发布时间】2026-10-23T04:00:10.000Z
+【链接】https://www.ft.com/content/f1e6e30a-7f2b-49c9-bc8d-ef3821c9695a?syn-25a6b1a6=1
+
+------------------------------
+
+17. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Leaders of Argentina’s most enduring political force are trying to regroup for presidential elections in 2027 — but the movement has big hurdles to overcome
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Could Peronism return as Milei’s popularity falters?
+【发布时间】2026-10-23T04:00:10.000Z
+【链接】https://www.ft.com/content/ecfefa34-a0c3-43c5-b892-21c715a355a4?syn-25a6b1a6=1
+
+------------------------------
+
+18. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】With polls suggesting a close race, some analysts expect the currency to come under pressure
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Risks to peso as Argentine elections loom
+【发布时间】2026-10-23T04:00:10.000Z
+【链接】https://www.ft.com/content/c97986bf-6d3a-47a9-834c-173228454c3d?syn-25a6b1a6=1
+
+------------------------------
+
+19. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Middle-class residents push back against social restrictions with some cafés even defying the ban on alcohol
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】How coffee shops became ‘the last pleasure’ for war-weary Tehran
+【发布时间】2026-10-23T04:00:10.000Z
+【链接】https://www.ft.com/content/0910ef9b-30da-4ea4-8991-f62af1f9d07d?syn-25a6b1a6=1
+
+------------------------------
+
+20. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Argentine president’s radical plan to transform the country is proving painful as the economy stagnates, weighed down by austerity and tight monetary policy
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Milei’s economic reforms under pressure
+【发布时间】2026-10-23T04:00:10.000Z
+【链接】https://www.ft.com/content/bba22699-a32b-4c1e-bc19-8a53de122fc9?syn-25a6b1a6=1
+
+------------------------------
+
+21. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Global retailers return as President Milei’s reforms open up country’s long-insulated economy
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Superdry is latest brand to enter Argentine market
+【发布时间】2026-10-23T04:00:10.000Z
+【链接】https://www.ft.com/content/ff93c256-0562-4279-8a3f-34707711cf58?syn-25a6b1a6=1
+
+------------------------------
+
+22. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Argentina has abundant energy and a thriving software industry — but few projects are advancing as economic instability deters investors
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Milei’s AI hype outpaces reality
+【发布时间】2026-10-23T04:00:10.000Z
+【链接】https://www.ft.com/content/0fdf2308-76f1-413b-a753-31ba3f00c561?syn-25a6b1a6=1
+
+------------------------------
+
+23. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Investment is surging in the oil and gas and mining sectors, helped by new government policies
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Argentina’s resources boom gathers pace
+【发布时间】2026-10-23T04:00:10.000Z
+【链接】https://www.ft.com/content/867e072d-4e10-407d-aefc-502c77dfd95b?syn-25a6b1a6=1
+
+------------------------------
+
+24. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Asian stock markets follow Wall Street lower as Japanese currency gains against the dollar
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Yen rallies as global tech rout sparks flight to safety
+【发布时间】2026-10-23T03:41:23.000Z
+【链接】https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1
+
+------------------------------
+
+25. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】New hub is intended to expand aviation capacity and serve millions of residents in city’s western suburbs
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Sydney’s long haul to a second airport
+【发布时间】2026-10-23T03:08:28.000Z
+【链接】https://www.ft.com/content/4fe2d4d2-92c8-4f4d-8a79-6afc0a12dc1b?syn-25a6b1a6=1
