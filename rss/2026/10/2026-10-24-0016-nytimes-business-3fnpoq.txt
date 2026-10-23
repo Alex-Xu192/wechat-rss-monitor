@@ -1,0 +1,98 @@
+NYTimes Business - 中文结构化新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-23T14:16:00.626Z - 2026-10-23T16:16:00.626Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】In Ohio, many voters say their frustration about the increase in electricity and fuel prices and the growth of data centers won’t influence whom they vote for.
+【依据】AI 结构化失败，未做股票判断。{"error":"OpenAI: Rate limit reached"}
+【原标题】Why Anger About Data Centers and Energy Prices May Not Swing Votes
+【发布时间】2026-10-23T16:00:09.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】President Trump’s novel deal-making is on display in upstate New York, where the administration is funneling Japanese funds into a government-owned chip factory.
+【依据】AI 结构化失败，未做股票判断。{"error":"OpenAI: Rate limit reached"}
+【原标题】U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal
+【发布时间】2026-10-23T15:59:45.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A Minnesota group worried that its opposition could expose it to prosecution under the state’s deceptive-practices law. Its lawsuit could have wide implications for limiting speech around elections.
+【依据】AI 结构化失败，未做股票判断。{"error":"OpenAI: Rate limit reached"}
+【原标题】A Fight Over Felon Voting Prompts a Free Speech Debate
+【发布时间】2026-10-23T15:44:52.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/media/election-disinformation-laws-minnesota.html
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Demonstrations are expected to continue this weekend in Paris and other French cities. Some museums and tourist sites will be closed, and visitors should expect a strong police presence.
+【依据】AI 结构化失败，未做股票判断。{"error":"OpenAI: Rate limit reached"}
+【原标题】Heading to France? Amid Recent Unrest, Here’s What to Know
+【发布时间】2026-10-23T15:19:00.000Z
+【链接】https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】It’s not impossible to spot the characteristics of a brewing financial crisis. We can look to 2008 for clues.
+【依据】AI 结构化失败，未做股票判断。{"error":"OpenAI: Rate limit reached"}
+【原标题】How Worried Should We Be About the Economy? Let’s Look at 2008.
+【发布时间】2026-10-23T14:58:35.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Among the stakes in next month’s election is the long-running question of whether tax cuts can shape how people vote.
+【依据】AI 结构化失败，未做股票判断。{"error":"OpenAI: Rate limit reached"}
+【原标题】Republicans Cut Taxes to Win the Midterms. It May Not Work Out.
+【发布时间】2026-10-23T14:24:54.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/salt-cap-midterm-elections.html
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】A bill to bolster the nation’s unemployment insurance program reflects the concern — and the risks — in Washington.
+【依据】AI 结构化失败，未做股票判断。{"error":"OpenAI: Rate limit reached"}
+【原标题】Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers
+【发布时间】2026-10-23T14:23:35.000Z
+【链接】https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html
