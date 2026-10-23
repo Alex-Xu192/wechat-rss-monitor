@@ -1,0 +1,137 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-23T18:12:31.644Z - 2026-10-23T20:12:31.644Z
+【数量】10
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+9. 中文标题翻译失败
+10. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Gunman arrested in Trappes after he kills one person and injures five others in ‘murderous rampage’
+【依据】AI 结构化失败，未做股票判断。[{"titleZh":"马克龙称巴黎附近致命枪击事件具有种族动机","originalTitle":"Macron says deadly shooting near Paris was racially motivated","summaryZh":"枪手在特拉普斯被逮捕，他在‘血腥狂欢’中杀死一人并伤害五人"},{"titleZh":"特朗普将削减加拿大关税，受共和党压力","originalTitle":"Trump to cut Canadian tariffs after pressure from Republicans","summaryZh":"总统将减免部分关税，以帮助面临艰难美国参议会选举之战的候选人"},{"titleZh":"星默称下议院改为博物馆还是公寓","originalTitle":"Turn Downing Street into museum or flats, says Starmer’s cost of living tsar","summaryZh":"冰岛高管理查德·沃克加入呼吁重建英国政府200年老城的声音行列"},{"titleZh":
+【原标题】Macron says deadly shooting near Paris was racially motivated
+【发布时间】2026-10-23T20:08:10.000Z
+【链接】https://www.ft.com/content/9bf81e98-08b7-450a-a804-51030934646e?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】President to ease some levies to help candidates facing tough US Senate election battles
+【依据】AI 结构化失败，未做股票判断。[{"titleZh":"马克龙称巴黎附近致命枪击事件具有种族动机","originalTitle":"Macron says deadly shooting near Paris was racially motivated","summaryZh":"枪手在特拉普斯被逮捕，他在‘血腥狂欢’中杀死一人并伤害五人"},{"titleZh":"特朗普将削减加拿大关税，受共和党压力","originalTitle":"Trump to cut Canadian tariffs after pressure from Republicans","summaryZh":"总统将减免部分关税，以帮助面临艰难美国参议会选举之战的候选人"},{"titleZh":"星默称下议院改为博物馆还是公寓","originalTitle":"Turn Downing Street into museum or flats, says Starmer’s cost of living tsar","summaryZh":"冰岛高管理查德·沃克加入呼吁重建英国政府200年老城的声音行列"},{"titleZh":
+【原标题】Trump to cut Canadian tariffs after pressure from Republicans
+【发布时间】2026-10-23T20:03:43.000Z
+【链接】https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Iceland boss Richard Walker joins chorus of voices calling for 300-year-old hub of British government to be overhauled
+【依据】AI 结构化失败，未做股票判断。[{"titleZh":"马克龙称巴黎附近致命枪击事件具有种族动机","originalTitle":"Macron says deadly shooting near Paris was racially motivated","summaryZh":"枪手在特拉普斯被逮捕，他在‘血腥狂欢’中杀死一人并伤害五人"},{"titleZh":"特朗普将削减加拿大关税，受共和党压力","originalTitle":"Trump to cut Canadian tariffs after pressure from Republicans","summaryZh":"总统将减免部分关税，以帮助面临艰难美国参议会选举之战的候选人"},{"titleZh":"星默称下议院改为博物馆还是公寓","originalTitle":"Turn Downing Street into museum or flats, says Starmer’s cost of living tsar","summaryZh":"冰岛高管理查德·沃克加入呼吁重建英国政府200年老城的声音行列"},{"titleZh":
+【原标题】Turn Downing Street into museum or flats, says Starmer’s cost of living tsar
+【发布时间】2026-10-23T20:00:09.000Z
+【链接】https://www.ft.com/content/72a7cfd6-ab06-4638-8db2-94e02ebacab0?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】HKEX discusses scrapping ‘antiquated practice’ as Nasdaq plans move to 23 hours
+【依据】AI 结构化失败，未做股票判断。[{"titleZh":"马克龙称巴黎附近致命枪击事件具有种族动机","originalTitle":"Macron says deadly shooting near Paris was racially motivated","summaryZh":"枪手在特拉普斯被逮捕，他在‘血腥狂欢’中杀死一人并伤害五人"},{"titleZh":"特朗普将削减加拿大关税，受共和党压力","originalTitle":"Trump to cut Canadian tariffs after pressure from Republicans","summaryZh":"总统将减免部分关税，以帮助面临艰难美国参议会选举之战的候选人"},{"titleZh":"星默称下议院改为博物馆还是公寓","originalTitle":"Turn Downing Street into museum or flats, says Starmer’s cost of living tsar","summaryZh":"冰岛高管理查德·沃克加入呼吁重建英国政府200年老城的声音行列"},{"titleZh":
+【原标题】Lunch break under threat as Hong Kong looks at longer trading day
+【发布时间】2026-10-23T20:00:09.000Z
+【链接】https://www.ft.com/content/bc13b5f1-387e-4fae-927e-d96ac24ea645?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Former Conservative director of campaigning and two others made scores of bets on date of 2024 general election
+【依据】AI 结构化失败，未做股票判断。[{"titleZh":"马克龙称巴黎附近致命枪击事件具有种族动机","originalTitle":"Macron says deadly shooting near Paris was racially motivated","summaryZh":"枪手在特拉普斯被逮捕，他在‘血腥狂欢’中杀死一人并伤害五人"},{"titleZh":"特朗普将削减加拿大关税，受共和党压力","originalTitle":"Trump to cut Canadian tariffs after pressure from Republicans","summaryZh":"总统将减免部分关税，以帮助面临艰难美国参议会选举之战的候选人"},{"titleZh":"星默称下议院改为博物馆还是公寓","originalTitle":"Turn Downing Street into museum or flats, says Starmer’s cost of living tsar","summaryZh":"冰岛高管理查德·沃克加入呼吁重建英国政府200年老城的声音行列"},{"titleZh":
+【原标题】Tory gamblers stood to make nearly £50,000 from insider information, court told
+【发布时间】2026-10-23T19:35:52.000Z
+【链接】https://www.ft.com/content/510e9189-bb32-43e0-8bf7-fec4a78ea353?syn-25a6b1a6=1
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Kyiv accuses Washington of intentionally slowing technology crucial for intercepting Russian attacks
+【依据】AI 结构化失败，未做股票判断。[{"titleZh":"马克龙称巴黎附近致命枪击事件具有种族动机","originalTitle":"Macron says deadly shooting near Paris was racially motivated","summaryZh":"枪手在特拉普斯被逮捕，他在‘血腥狂欢’中杀死一人并伤害五人"},{"titleZh":"特朗普将削减加拿大关税，受共和党压力","originalTitle":"Trump to cut Canadian tariffs after pressure from Republicans","summaryZh":"总统将减免部分关税，以帮助面临艰难美国参议会选举之战的候选人"},{"titleZh":"星默称下议院改为博物馆还是公寓","originalTitle":"Turn Downing Street into museum or flats, says Starmer’s cost of living tsar","summaryZh":"冰岛高管理查德·沃克加入呼吁重建英国政府200年老城的声音行列"},{"titleZh":
+【原标题】Ukraine says Starlink speeds still throttled
+【发布时间】2026-10-23T19:14:52.000Z
+【链接】https://www.ft.com/content/e67a3d0e-5893-45a5-b098-64a68a4ef032?syn-25a6b1a6=1
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Rise in energy prices pushes US inflation expectations higher
+【依据】AI 结构化失败，未做股票判断。[{"titleZh":"马克龙称巴黎附近致命枪击事件具有种族动机","originalTitle":"Macron says deadly shooting near Paris was racially motivated","summaryZh":"枪手在特拉普斯被逮捕，他在‘血腥狂欢’中杀死一人并伤害五人"},{"titleZh":"特朗普将削减加拿大关税，受共和党压力","originalTitle":"Trump to cut Canadian tariffs after pressure from Republicans","summaryZh":"总统将减免部分关税，以帮助面临艰难美国参议会选举之战的候选人"},{"titleZh":"星默称下议院改为博物馆还是公寓","originalTitle":"Turn Downing Street into museum or flats, says Starmer’s cost of living tsar","summaryZh":"冰岛高管理查德·沃克加入呼吁重建英国政府200年老城的声音行列"},{"titleZh":
+【原标题】Oil hits $117 for first time since April on fears of flare-up in Iran hostilities
+【发布时间】2026-10-23T19:03:41.000Z
+【链接】https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Supporters of the tax say many billionaires threatening to leave the state will not go
+【依据】AI 结构化失败，未做股票判断。[{"titleZh":"马克龙称巴黎附近致命枪击事件具有种族动机","originalTitle":"Macron says deadly shooting near Paris was racially motivated","summaryZh":"枪手在特拉普斯被逮捕，他在‘血腥狂欢’中杀死一人并伤害五人"},{"titleZh":"特朗普将削减加拿大关税，受共和党压力","originalTitle":"Trump to cut Canadian tariffs after pressure from Republicans","summaryZh":"总统将减免部分关税，以帮助面临艰难美国参议会选举之战的候选人"},{"titleZh":"星默称下议院改为博物馆还是公寓","originalTitle":"Turn Downing Street into museum or flats, says Starmer’s cost of living tsar","summaryZh":"冰岛高管理查德·沃克加入呼吁重建英国政府200年老城的声音行列"},{"titleZh":
+【原标题】Zuckerberg’s deal to stay in California cheered by wealth tax campaign
+【发布时间】2026-10-23T18:49:48.000Z
+【链接】https://www.ft.com/content/859676ae-5fa4-489a-99af-560771dd44a1?syn-25a6b1a6=1
+
+------------------------------
+
+9. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Move by James Orr comes after allegations he breached electoral law by soliciting political donations from foreign citizens
+【依据】AI 结构化失败，未做股票判断。[{"titleZh":"马克龙称巴黎附近致命枪击事件具有种族动机","originalTitle":"Macron says deadly shooting near Paris was racially motivated","summaryZh":"枪手在特拉普斯被逮捕，他在‘血腥狂欢’中杀死一人并伤害五人"},{"titleZh":"特朗普将削减加拿大关税，受共和党压力","originalTitle":"Trump to cut Canadian tariffs after pressure from Republicans","summaryZh":"总统将减免部分关税，以帮助面临艰难美国参议会选举之战的候选人"},{"titleZh":"星默称下议院改为博物馆还是公寓","originalTitle":"Turn Downing Street into museum or flats, says Starmer’s cost of living tsar","summaryZh":"冰岛高管理查德·沃克加入呼吁重建英国政府200年老城的声音行列"},{"titleZh":
+【原标题】Reform’s former policy chief steps down from Cambridge management roles
+【发布时间】2026-10-23T18:35:29.000Z
+【链接】https://www.ft.com/content/84cc6388-8745-4ca2-8c70-536c89dfe9cb?syn-25a6b1a6=1
+
+------------------------------
+
+10. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Melania Trump helps organise deal to allow humanitarian aid to enter area and for civilians to be evacuated
+【依据】AI 结构化失败，未做股票判断。[{"titleZh":"马克龙称巴黎附近致命枪击事件具有种族动机","originalTitle":"Macron says deadly shooting near Paris was racially motivated","summaryZh":"枪手在特拉普斯被逮捕，他在‘血腥狂欢’中杀死一人并伤害五人"},{"titleZh":"特朗普将削减加拿大关税，受共和党压力","originalTitle":"Trump to cut Canadian tariffs after pressure from Republicans","summaryZh":"总统将减免部分关税，以帮助面临艰难美国参议会选举之战的候选人"},{"titleZh":"星默称下议院改为博物馆还是公寓","originalTitle":"Turn Downing Street into museum or flats, says Starmer’s cost of living tsar","summaryZh":"冰岛高管理查德·沃克加入呼吁重建英国政府200年老城的声音行列"},{"titleZh":
+【原标题】Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky
+【发布时间】2026-10-23T18:23:30.000Z
+【链接】https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1
