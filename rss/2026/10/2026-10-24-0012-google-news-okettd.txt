@@ -1,0 +1,111 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-23T14:12:16.822Z - 2026-10-23T16:12:16.822Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+6. 中文标题翻译失败
+7. 中文标题翻译失败
+8. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers  The Washington Post
+【依据】AI 结构化失败，未做股票判断。[{"originalTitle":"Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post","titleZh":"超越香烟：揭示非吸烟者肺癌的成因 - 华盛顿邮报","summaryZh":"超越香烟：揭示非吸烟者肺癌的成因 - 华盛顿邮报"},{"originalTitle":"Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions - WSJ","titleZh":"独家：特朗普致电马斯克，并要求他解除乌克兰星链限制 - 华尔街日报","summaryZh":"独家：特朗普致电马斯克，并要求他解除乌克兰星链限制 - 华尔街日报"},{"originalTitle":"American Express to Cut 5% of Global Workforce - WSJ","titleZh":"美国运通将裁减全球 5% 的员工人数 - 华尔街日报
+【原标题】Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post
+【发布时间】2026-10-23T16:02:19.000Z
+【链接】https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions  WSJ
+【依据】AI 结构化失败，未做股票判断。[{"originalTitle":"Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post","titleZh":"超越香烟：揭示非吸烟者肺癌的成因 - 华盛顿邮报","summaryZh":"超越香烟：揭示非吸烟者肺癌的成因 - 华盛顿邮报"},{"originalTitle":"Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions - WSJ","titleZh":"独家：特朗普致电马斯克，并要求他解除乌克兰星链限制 - 华尔街日报","summaryZh":"独家：特朗普致电马斯克，并要求他解除乌克兰星链限制 - 华尔街日报"},{"originalTitle":"American Express to Cut 5% of Global Workforce - WSJ","titleZh":"美国运通将裁减全球 5% 的员工人数 - 华尔街日报
+【原标题】Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions - WSJ
+【发布时间】2026-10-23T15:48:00.000Z
+【链接】https://news.google.com/rss/articles/CBMipwFBVV95cUxQaXJlSTBTVHFScmtRbGRyTnkyTWlkQ0FrMnBhXzY1TmNlQVFmUUpud1N4RFR2TklOeXBLRzZSajJvbzNJYW9hN2JjbWdEbElRbzkwR1BSQzlhQWVKbWV6YmNRa2M3Z0oxVmhyT1JaOW5pODNzblBVNjVBbmVJOWxQbVBXS2NyU3VTcFlKLWFZLWN3NDllTWdSRmRzU3llcTN4b3lKc3JrTQ?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】American Express to Cut 5% of Global Workforce  WSJ
+【依据】AI 结构化失败，未做股票判断。[{"originalTitle":"Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post","titleZh":"超越香烟：揭示非吸烟者肺癌的成因 - 华盛顿邮报","summaryZh":"超越香烟：揭示非吸烟者肺癌的成因 - 华盛顿邮报"},{"originalTitle":"Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions - WSJ","titleZh":"独家：特朗普致电马斯克，并要求他解除乌克兰星链限制 - 华尔街日报","summaryZh":"独家：特朗普致电马斯克，并要求他解除乌克兰星链限制 - 华尔街日报"},{"originalTitle":"American Express to Cut 5% of Global Workforce - WSJ","titleZh":"美国运通将裁减全球 5% 的员工人数 - 华尔街日报
+【原标题】American Express to Cut 5% of Global Workforce - WSJ
+【发布时间】2026-10-23T15:44:00.000Z
+【链接】https://news.google.com/rss/articles/CBMitAFBVV95cUxONmpaSkFKXzhJclpJSlJYeTlsZlFMQmd6Tmo5UG53V05tREY5cWNxY2h5T1VYd0x3SnpxNUpmbDlHbk5KV0NSZlBLVDdZemU3VTNWTENFMW5PMVd1TmwybGs5VXBqSm1udHV4dktCUVFLb1BId29QclFDajI0TEp6UU55ckhBQ3JTbG9yRWQ0SWU4LW5kd2NXMGNLN3F0VndnTnhhbDExcEpWQVR2N3ZOWE9fUkM?oc=5
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】DOJ sues to block election certification in Alaska if Republicans lose Senate race  Politico
+【依据】AI 结构化失败，未做股票判断。[{"originalTitle":"Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post","titleZh":"超越香烟：揭示非吸烟者肺癌的成因 - 华盛顿邮报","summaryZh":"超越香烟：揭示非吸烟者肺癌的成因 - 华盛顿邮报"},{"originalTitle":"Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions - WSJ","titleZh":"独家：特朗普致电马斯克，并要求他解除乌克兰星链限制 - 华尔街日报","summaryZh":"独家：特朗普致电马斯克，并要求他解除乌克兰星链限制 - 华尔街日报"},{"originalTitle":"American Express to Cut 5% of Global Workforce - WSJ","titleZh":"美国运通将裁减全球 5% 的员工人数 - 华尔街日报
+【原标题】DOJ sues to block election certification in Alaska if Republicans lose Senate race - Politico
+【发布时间】2026-10-23T15:31:00.000Z
+【链接】https://news.google.com/rss/articles/CBMilgFBVV95cUxOY1VraVIxVVhvTWVMaWVZV3JUV1dXalZocEtXR3B1M0lnYzNheXd0QU16NFk1Rk9sVXZIQVdOdzJEcFJOcnJtbGd6clhwLS1fc3J1UXVtVjdNUDZoOVZQbFJWTmFCTkVTTUNqcDN0YzNybjBOdHV2bTUzOF9mXzB3YWl2SnozYWhzd3hzQmFpX3h6VFN2UUE?oc=5
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】‘Clayface’ Cashes In $3.5M Previews; ‘You Can See Everything’ Ends Week With $25M+ – Box Office Update  Deadline
+【依据】AI 结构化失败，未做股票判断。[{"originalTitle":"Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post","titleZh":"超越香烟：揭示非吸烟者肺癌的成因 - 华盛顿邮报","summaryZh":"超越香烟：揭示非吸烟者肺癌的成因 - 华盛顿邮报"},{"originalTitle":"Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions - WSJ","titleZh":"独家：特朗普致电马斯克，并要求他解除乌克兰星链限制 - 华尔街日报","summaryZh":"独家：特朗普致电马斯克，并要求他解除乌克兰星链限制 - 华尔街日报"},{"originalTitle":"American Express to Cut 5% of Global Workforce - WSJ","titleZh":"美国运通将裁减全球 5% 的员工人数 - 华尔街日报
+【原标题】‘Clayface’ Cashes In $3.5M Previews; ‘You Can See Everything’ Ends Week With $25M+ – Box Office Update - Deadline
+【发布时间】2026-10-23T15:21:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbG5Sa2dXU2ZuR0FodkdzeGtLbENPa1lHNkhEcUEtVHpSZXdWTktjY2R5TmhMTm53RnJoTzdqS0wtNlZBWGRxeFVBX1BWWWdxSk5BVXU1TDc4d1d0UzQzQU0zMjk5X3A1N0RVQVRFa2NSWEFGSm1FeUlZQ1RHQnJ2SG9yQy1vaFB1bHZn?oc=5
+
+------------------------------
+
+6. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Ohio father charged with killing sheriff deputy found guilty  NBC News
+【依据】AI 结构化失败，未做股票判断。[{"originalTitle":"Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post","titleZh":"超越香烟：揭示非吸烟者肺癌的成因 - 华盛顿邮报","summaryZh":"超越香烟：揭示非吸烟者肺癌的成因 - 华盛顿邮报"},{"originalTitle":"Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions - WSJ","titleZh":"独家：特朗普致电马斯克，并要求他解除乌克兰星链限制 - 华尔街日报","summaryZh":"独家：特朗普致电马斯克，并要求他解除乌克兰星链限制 - 华尔街日报"},{"originalTitle":"American Express to Cut 5% of Global Workforce - WSJ","titleZh":"美国运通将裁减全球 5% 的员工人数 - 华尔街日报
+【原标题】Ohio father charged with killing sheriff deputy found guilty - NBC News
+【发布时间】2026-10-23T15:12:00.000Z
+【链接】https://news.google.com/rss/articles/CBMipgFBVV95cUxQX1habTBGaG5UTGNDQm8zOVBacjNMNDRYTzl6NXZGSG41bEpCcDZhU2UtSDlQMERCTDlDWUxsNFAzMGRUYjVUSHpkSmY5ejM1RFR5YzZXXy1yRDM3eDNHWlp1WnRvUU5wSnhzN3NjYWdjZlBrdVJsLTlzNGZjR3J5TG9ld0VYRjJhV3FIelRWOEloWG1FQnlZc3dBUVFxN0YtNXZrVDdR?oc=5
+
+------------------------------
+
+7. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Dow tumbles more than 500 points as Middle East tensions rise, selling broadens beyond tech: Live updates  CNBC
+【依据】AI 结构化失败，未做股票判断。[{"originalTitle":"Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post","titleZh":"超越香烟：揭示非吸烟者肺癌的成因 - 华盛顿邮报","summaryZh":"超越香烟：揭示非吸烟者肺癌的成因 - 华盛顿邮报"},{"originalTitle":"Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions - WSJ","titleZh":"独家：特朗普致电马斯克，并要求他解除乌克兰星链限制 - 华尔街日报","summaryZh":"独家：特朗普致电马斯克，并要求他解除乌克兰星链限制 - 华尔街日报"},{"originalTitle":"American Express to Cut 5% of Global Workforce - WSJ","titleZh":"美国运通将裁减全球 5% 的员工人数 - 华尔街日报
+【原标题】Dow tumbles more than 500 points as Middle East tensions rise, selling broadens beyond tech: Live updates - CNBC
+【发布时间】2026-10-23T15:01:06.000Z
+【链接】https://news.google.com/rss/articles/CBMidkFVX3lxTFBNc0s0YTFvMUVGOTZsQTBGQ2xGQkNJNmZrZVlXOXpMTTV4VDFZQnF5LTBOVHpXMVI1cmI4QmhFNTVudnpRVDVUbldkZEZmeXl3MHI4aU1UaXVvbHNEdHhvbmNweVQ5TWdjaWRPQWpZLXJIYk5RTlHSAXtBVV95cUxPN0Q0eEc2UXVTTmwxcTZsY05HeEdKN0U1dDc1S1YxWmxZOXJlSm1NVVZDU3MxcXFKNlduX3NxckhxZ1puVlE1d09SZk4zSGhVcG9xNFhBb1d6Skd4NlZSdDZ5Y1I2NkxEXzJuUmxUMThNX3haWnlIeUZQQ0k?oc=5
+
+------------------------------
+
+8. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says  Reuters
+【依据】AI 结构化失败，未做股票判断。[{"originalTitle":"Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post","titleZh":"超越香烟：揭示非吸烟者肺癌的成因 - 华盛顿邮报","summaryZh":"超越香烟：揭示非吸烟者肺癌的成因 - 华盛顿邮报"},{"originalTitle":"Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions - WSJ","titleZh":"独家：特朗普致电马斯克，并要求他解除乌克兰星链限制 - 华尔街日报","summaryZh":"独家：特朗普致电马斯克，并要求他解除乌克兰星链限制 - 华尔街日报"},{"originalTitle":"American Express to Cut 5% of Global Workforce - WSJ","titleZh":"美国运通将裁减全球 5% 的员工人数 - 华尔街日报
+【原标题】Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says - Reuters
+【发布时间】2026-10-23T14:53:53.000Z
+【链接】https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5
