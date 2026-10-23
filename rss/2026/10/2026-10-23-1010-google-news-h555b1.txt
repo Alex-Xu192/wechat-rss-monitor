@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-23T00:10:26.517Z - 2026-10-23T02:10:26.517Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Patriots vs. Bears live updates, inactives, where to watch: Drake Maye, Caleb Williams in showdown of the 2024 draft class  Yahoo Sports
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Patriots vs. Bears live updates, inactives, where to watch: Drake Maye, Caleb Williams in showdown of the 2024 draft class - Yahoo Sports
+【发布时间】2026-10-23T01:54:00.000Z
+【链接】https://news.google.com/rss/articles/CBMi6wFBVV95cUxObGRieG5nVmhvd1IxTUpoa0lYVmNMUk5nSmZoYkVxQktmRFd0WlVyRVZBQVY1c1Z5bm9qenFqdlJGcy1wcEpTTU1HR3lUNHh2Qi1rVHBLMGNJMzJtWC10UHd5UWFCY3FjWWh1NThySFNDT1Q5cmotZ1ExcW8tVTQ3dHhsSHBqYy1LU1FPdVMxZjE2OGx1WTcwSFgyMGcyalJUZlNGc3dkMEh1MFlaZ19sQnlGQ2I0Q0gycnhrTUR6ZHExS0piUndnaVpHMkpxcl9GeGh1XzVac2JfZlRXcFhJUUQ2SkN2NW9NRkdZ?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Typhoon Champi roars towards Taiwan, Japan and China bringing heavy rain and wind  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Typhoon Champi roars towards Taiwan, Japan and China bringing heavy rain and wind - BBC
+【发布时间】2026-10-23T00:18:40.000Z
+【链接】https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iU1FsMHlEcURudkgzanNQZ2dUOGtDQ3F5NFFLTHg3eTRMS1EtRWIwdGZLMV8yNE03dzhvZFFGbjdQeXFvRVZvYzRjY2Zqc09kSHo3UWtB?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Trump ordered to answer questions under oath in BBC lawsuit  BBC
+【依据】AI 结构化失败，未做股票判断。{"error":"The resource you are requesting could not be found"}
+【原标题】Trump ordered to answer questions under oath in BBC lawsuit - BBC
+【发布时间】2026-10-23T00:10:46.000Z
+【链接】https://news.google.com/rss/articles/CBMiW0FVX3lxTE8weHhGeVlyd3N5RDNQTFlHY2tuMnU1RVRyLXdhS0FNLWJpZDBaZ190YU1SZ25iNFNQMGx0d3FuRk1SZHRaZ0I2MlRxYVp2T0toQ1ZKUVVGSVJXNWc?oc=5
