@@ -1,0 +1,52 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-24T10:25:38.828Z - 2026-10-24T16:25:38.828Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 《All Things Considered》长期主持人诺亚·亚当斯去世，享年84岁
+2. 乘客请注意：高票价可能会持续存在
+3. 我们对特朗普向污染企业发放豁免权调查的五大发现
+4. 特朗普如何给最严重的污染者开绿灯
+5. C.E.O.s 表示 A.I. 推广顺利，员工看法不一
+
+==============================
+
+1. 《All Things Considered》长期主持人诺亚·亚当斯去世，享年84岁
+【摘要】作为一名来自肯塔基州的邮政员之子，他努力消除自己的口音，但从未忘记自己的阿巴拉契亚根基。他曾说：“最精彩的故事都来自波托马克河以西。”
+【原标题】Noah Adams, Longtime Host of ‘All Things Considered,’ Has Died at 84
+【发布时间】2026-10-24T15:14:17.000Z
+【链接】https://www.nytimes.com/2026/10/24/business/media/noah-adams-dead.html
+
+------------------------------
+
+2. 乘客请注意：高票价可能会持续存在
+【摘要】由于与伊朗的战争导致燃油成本飙升，机票价格随之大涨，但航空公司表示，即使冲突结束，票价也不会迅速回落。
+【原标题】Attention, Passengers: High Airfares May Be Here to Stay
+【发布时间】2026-10-24T12:54:30.000Z
+【链接】https://www.nytimes.com/2026/10/24/business/airlines-ticket-prices.html
+
+------------------------------
+
+3. 我们对特朗普向污染企业发放豁免权调查的五大发现
+【摘要】化工厂和其他工业设施本被要求控制其有毒排放。《纽约时报》的调查揭示了它们是如何规避这些限制的。
+【原标题】5 Takeaways From Our Investigation of Trump’s Waivers for Polluters
+【发布时间】2026-10-24T12:50:46.000Z
+【链接】https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html
+
+------------------------------
+
+4. 特朗普如何给最严重的污染者开绿灯
+【摘要】总统暂时豁免了那些排放致癌气体的工业设施的清洁空气规则。随后，他的任命者们又着手彻底掏空了这些法规。
+【原标题】How Trump Gave the Worst Polluters a Free Pass
+【发布时间】2026-10-24T12:28:26.000Z
+【链接】https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html
+
+------------------------------
+
+5. C.E.O.s 表示 A.I. 推广顺利，员工看法不一
+【摘要】调查显示，员工和高管对 A.I. 的看法存在分歧。
+【原标题】C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently.
+【发布时间】2026-10-24T12:00:03.000Z
+【链接】https://www.nytimes.com/2026/10/24/business/dealbook/ceos-say-the-ai-rollout-is-going-well-employees-feel-differently.html
