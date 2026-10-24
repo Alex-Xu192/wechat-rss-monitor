@@ -1,0 +1,46 @@
+Google News - 中文结构化新闻汇总
+
+【来源】Google News
+【时间】2026-10-23T22:10:24.489Z - 2026-10-24T00:10:24.489Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Dengue cases in Florida continued to climb after emergency declared  The Washington Post
+【依据】AI 结构化失败，未做股票判断。Unexpected token '#', "## 📰 Goog"... is not valid JSON
+【原标题】Dengue cases in Florida continued to climb after emergency declared - The Washington Post
+【发布时间】2026-10-23T22:58:57.000Z
+【链接】https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHNwLVM1YmE3MGlGeVNZdnFmZTdZYUtFSVVtVUtvTW83dTZXWmhaWldJSDhOekRWOXdiSTNEejRkWmpOWm8wTWlJTHNjREladVhzSFRjYmdHaWhUUjhWTUR6LWlfSjJfTE8tSWtKSGdIOTZPclZSb1dRVTVEbjdIZmk1dXlYMk81R25VZHFRMUFyQUhXVDVjRVNZc05qd3ljeVc1b3BPQ1AwMXphYXM1Tw?oc=5
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】White House says the US is lifting tariffs on some Canadian goods  BBC
+【依据】AI 结构化失败，未做股票判断。Unexpected token '#', "## 📰 Goog"... is not valid JSON
+【原标题】White House says the US is lifting tariffs on some Canadian goods - BBC
+【发布时间】2026-10-23T22:54:57.000Z
+【链接】https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrNnNzMVdVUEVmTDc1QVB0aGpSWTREdWFMY2g2QUQ5RExzMUxrdlNhdnd6ZGxJWWhnRGltX0kxOFZOMXNhVWI2aWhsaU1DMS1fR1FTT1E0V2lnVFU?oc=5
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】F1 United States GP: Charles Leclerc completes perfect Friday by topping FP2  Motorsport.com
+【依据】AI 结构化失败，未做股票判断。Unexpected token '#', "## 📰 Goog"... is not valid JSON
+【原标题】F1 United States GP: Charles Leclerc completes perfect Friday by topping FP2 - Motorsport.com
+【发布时间】2026-10-23T22:17:14.000Z
+【链接】https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkYwbzhvVnNoZF9XRGlXLUd0ajlnTk1nMHNLTjk0a0tDZ1pQeWFtRHlZbng0RHc4Rml4VlQ0U3VlZ0k0cE5UY0VMMHQtS3VadXFhbE9jWWJ3dFZJMjRmSGZhd3BCelR4QWE5YmlQSU56Y3NJWnU0cVJuamREUHhBSHMwRDFnQ0xTOTZ5NmV1TEZQc0k?oc=5
