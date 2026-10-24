@@ -1,0 +1,290 @@
+================================================================
+RSS 源字段结构与更新频率测试报告
+生成时间 (北京时间): 2026/10/24 08:38:41
+测试源总数: 15
+================================================================
+
+【一、更新速度与数量排行榜（按 2h -> 6h -> 24h 更新量排序）】
+
+#1 [OK] LTN 自由时报 | 单次返回:40条 | 近1h:27 | 近2h:40 | 近6h:40 | 近24h:40 | 平均间隔:1.8分钟 | 预估日更:827.6条 | 最新距今:8.7分钟 (2026/10/24 08:30:00)
+#2 [OK] Google News | 单次返回:38条 | 近1h:2 | 近2h:6 | 近6h:20 | 近24h:37 | 平均间隔:51.4分钟 | 预估日更:28.8条 | 最新距今:9.7分钟 (2026/10/24 08:28:57)
+#3 [OK] Newtalk 新头壳 | 单次返回:100条 | 近1h:3 | 近2h:6 | 近6h:11 | 近24h:99 | 平均间隔:14.4分钟 | 预估日更:100.9条 | 最新距今:25.6分钟 (2026/10/24 08:13:07)
+#4 [OK] Yahoo Japan | 单次返回:8条 | 近1h:2 | 近2h:5 | 近6h:8 | 近24h:8 | 平均间隔:17.6分钟 | 预估日更:93.7条 | 最新距今:20.2分钟 (2026/10/24 08:18:25)
+#5 [OK] Asahi Shimbun 朝日新闻 | 单次返回:40条 | 近1h:2 | 近2h:4 | 近6h:10 | 近24h:39 | 平均间隔:216.9分钟 | 预估日更:6.8条 | 最新距今:38.7分钟 (2026/10/24 08:00:00)
+#6 [OK] Financial Times World | 单次返回:25条 | 近1h:0 | 近2h:3 | 近6h:14 | 近24h:25 | 平均间隔:23.9分钟 | 预估日更:62.8条 | 最新距今:92.6分钟 (2026/10/24 07:06:01)
+#7 [OK] NYTimes Business | 单次返回:49条 | 近1h:0 | 近2h:1 | 近6h:5 | 近24h:19 | 平均间隔:94.1分钟 | 预估日更:15.6条 | 最新距今:75.5分钟 (2026/10/24 07:23:10)
+#8 [OK] Zaobao China 联合早报中国 | 单次返回:24条 | 近1h:0 | 近2h:1 | 近6h:3 | 近24h:24 | 平均间隔:44.2分钟 | 预估日更:34条 | 最新距今:70.7分钟 (2026/10/24 07:28:00)
+#9 [OK] Reuters | 单次返回:30条 | 近1h:0 | 近2h:1 | 近6h:3 | 近24h:10 | 平均间隔:174.5分钟 | 预估日更:8.5条 | 最新距今:78.4分钟 (2026/10/24 07:20:15)
+#10 [OK] Zaobao World 联合早报国际 | 单次返回:24条 | 近1h:0 | 近2h:1 | 近6h:1 | 近24h:24 | 平均间隔:43分钟 | 预估日更:34.9条 | 最新距今:88.9分钟 (2026/10/24 07:09:43)
+#11 [OK] The News Lens 关键评论网 | 单次返回:18条 | 近1h:1 | 近2h:1 | 近6h:1 | 近24h:15 | 平均间隔:85.1分钟 | 预估日更:17.9条 | 最新距今:34.7分钟 (2026/10/24 08:04:00)
+#12 [OK] BBC World | 单次返回:21条 | 近1h:0 | 近2h:0 | 近6h:6 | 近24h:17 | 平均间隔:89.4分钟 | 预估日更:16.9条 | 最新距今:219分钟 (2026/10/24 04:59:39)
+#13 [OK] CNA Politics 中央社政治 | 单次返回:20条 | 近1h:0 | 近2h:0 | 近6h:0 | 近24h:14 | 平均间隔:77.2分钟 | 预估日更:19.6条 | 最新距今:652.5分钟 (2026/10/23 21:46:09)
+#14 [OK] News On Japan | 单次返回:50条 | 近1h:0 | 近2h:0 | 近6h:0 | 近24h:5 | 平均间隔:270.7分钟 | 预估日更:5.4条 | 最新距今:536.7分钟 (2026/10/23 23:41:57)
+#15 [OK] CNA Technology 中央社科技 | 单次返回:20条 | 近1h:0 | 近2h:0 | 近6h:0 | 近24h:3 | 平均间隔:139分钟 | 预估日更:10.9条 | 最新距今:1035.3分钟 (2026/10/23 15:23:25)
+
+================================================================
+【二、各 RSS 源返回字段详情与样本】
+================================================================
+
+----------------------------------------------------------------
+来源: LTN 自由时报 (ltn)
+URL:  http://news.ltn.com.tw/rss/all.xml
+状态: OK
+总条数: 40 | 有效时间条数: 40 | 识别到的时间字段: isoDate
+时间跨度: 2026/10/24 07:20:17 ~ 2026/10/24 08:30:00 (跨度 1.16 小时)
+更新统计: 近1h=27, 近2h=40, 近6h=40, 近12h=40, 近24h=40, 平均间隔=1.8分钟, 中位间隔=1.3分钟
+字段列表 (6个): title, link, pubDate, content, contentSnippet, isoDate
+字段详情:
+  - title [string] 填充率:40/40 (100%) | 平均长度:27 | 最大长度:40 | 示例: 自由開講》當公職不再吸引人才：我們給公務人員足夠的保障嗎？
+  - link [string] 填充率:40/40 (100%) | 平均长度:51 | 最大长度:58 | 示例: https://talk.ltn.com.tw/article/breakingnews/5607620
+  - pubDate [string] 填充率:40/40 (100%) | 平均长度:31 | 最大长度:31 | 示例: Sat, 24 Oct 2026 08:30:00 +0800
+  - content [string] 填充率:40/40 (100%) | 平均长度:98 | 最大长度:192 | 示例: 「公務員大逃亡」不只是新聞標題。銓敘部統計，公務員辭職人數由108年1,994人增至113年3,094人，5年間增加約55％。115年高普考報考53,869人，較114年減少3,838人...…
+  - contentSnippet [string] 填充率:40/40 (100%) | 平均长度:98 | 最大长度:192 | 示例: 「公務員大逃亡」不只是新聞標題。銓敘部統計，公務員辭職人數由108年1,994人增至113年3,094人，5年間增加約55％。115年高普考報考53,869人，較114年減少3,838人...…
+  - isoDate [string] 填充率:40/40 (100%) | 平均长度:24 | 最大长度:24 | 示例: 2026-10-24T00:30:00.000Z
+
+----------------------------------------------------------------
+来源: Google News (google-news)
+URL:  https://news.google.com/rss
+状态: OK
+总条数: 38 | 有效时间条数: 38 | 识别到的时间字段: isoDate
+时间跨度: 2026/10/23 00:46:36 ~ 2026/10/24 08:28:57 (跨度 31.71 小时)
+更新统计: 近1h=2, 近2h=6, 近6h=20, 近12h=34, 近24h=37, 平均间隔=51.4分钟, 中位间隔=14.8分钟
+字段列表 (7个): title, link, pubDate, content, contentSnippet, guid, isoDate
+字段详情:
+  - title [string] 填充率:38/38 (100%) | 平均长度:88 | 最大长度:130 | 示例: US Justice Dept sues to block possible Alaska election of Democrat to Senate - Reuters
+  - link [string] 填充率:38/38 (100%) | 平均长度:267 | 最大长度:500 | 示例: https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmhoNXZfaEZSVXU4cVh3dW9tMm54alE4THRoUWNBSzc4QTFvNHl6eE9mOElIeXE1S0pkQlV4Yld6U0t5RjZnbEpjSzVyMkMzQ01MM1hSclViSHVmRDZGTndKTm9GZHZaRUFIZnAxVnM2V0hDMGh
+  - pubDate [string] 填充率:38/38 (100%) | 平均长度:29 | 最大长度:29 | 示例: Fri, 23 Oct 2026 21:01:43 GMT
+  - content [string] 填充率:38/38 (100%) | 平均长度:2095 | 最大长度:2648 | 示例: <ol><li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmhoNXZfaEZSVXU4cVh3dW9tMm54alE4THRoUWNBSzc4QTFvNHl6eE9mOElIeXE1S0pkQlV4Yld6U0t5RjZnbEpjSzVyMkMzQ01MM1hSclViSHVmRDZGTndKTm9GZHZaRU
+  - contentSnippet [string] 填充率:38/38 (100%) | 平均长度:413 | 最大长度:539 | 示例: US Justice Dept sues to block possible Alaska election of Democrat to Senate Reuters Trump says he ordered DoJ to file lawsuit to block Alaska Senate results certification The Guardian ‘Corruption’ an
+  - guid [string] 填充率:38/38 (100%) | 平均长度:225 | 最大长度:458 | 示例: CBMivAFBVV95cUxOdmhoNXZfaEZSVXU4cVh3dW9tMm54alE4THRoUWNBSzc4QTFvNHl6eE9mOElIeXE1S0pkQlV4Yld6U0t5RjZnbEpjSzVyMkMzQ01MM1hSclViSHVmRDZGTndKTm9GZHZaRUFIZnAxVnM2V0hDMGhUOHVKemxQcFdxc0hmLTJDTTFQWTFTRFhRalM1
+  - isoDate [string] 填充率:38/38 (100%) | 平均长度:24 | 最大长度:24 | 示例: 2026-10-23T21:01:43.000Z
+
+----------------------------------------------------------------
+来源: Newtalk 新头壳 (newtalk)
+URL:  https://newtalk.tw/rss_news.php
+状态: OK
+总条数: 100 | 有效时间条数: 100 | 识别到的时间字段: isoDate
+时间跨度: 2026/10/23 08:26:34 ~ 2026/10/24 08:13:07 (跨度 23.78 小时)
+更新统计: 近1h=3, 近2h=6, 近6h=11, 近12h=29, 近24h=99, 平均间隔=14.4分钟, 中位间隔=9.6分钟
+字段列表 (7个): title, link, pubDate, content, contentSnippet, guid, isoDate
+字段详情:
+  - title [string] 填充率:100/100 (100%) | 平均长度:31 | 最大长度:45 | 示例: 連假首日遇航班回補 桃機估今下午達疏運高峰！機捷普通車維持15分鐘班距
+  - link [string] 填充率:100/100 (100%) | 平均长度:47 | 最大长度:47 | 示例: https://newtalk.tw/news/view/2026-10-24/1067240
+  - pubDate [string] 填充率:100/100 (100%) | 平均长度:31 | 最大长度:31 | 示例: Sat, 24 Oct 2026 08:13:07 +0800
+  - content [string] 填充率:100/100 (100%) | 平均长度:2303 | 最大长度:9876 | 示例: <br /> <br /> Newtalk新聞 <br /> <br /> <p>隨著薔琵颱風逐漸遠離，24日航班陸續恢復，桃園國際機場股份有限公司表示，適逢光復節連假首日且颱風期間航班異動，預估全日607架次起降，下午1點到4點為疏運尖峰。另外，機場捷運全天取消直達車及加班車，普通車維持15分鐘班距，依颱風動態採相關因應措施。</p><br /> <p>機場公司發布新聞稿提到，根據統計，桃機23
+  - contentSnippet [string] 填充率:100/100 (100%) | 平均长度:998 | 最大长度:3634 | 示例: 隨著薔琵颱風逐漸遠離，24日航班陸續恢復，桃園國際機場股份有限公司表示，適逢光復節連假首日且颱風期間航班異動，預估全日607架次起降，下午1點到4點為疏運尖峰。另外，機場捷運全天取消直達車及加班車，普通車維持15分鐘班距，依颱風動態採相關因應措施。 機場公司發布新聞稿提到，根據統計，桃機23日共取消563架次航班，包括客運523架次、貨運40架次，全天實際起降230架次，最後一班飛往布拉格的星宇航
+  - guid [string] 填充率:100/100 (100%) | 平均长度:47 | 最大长度:47 | 示例: https://newtalk.tw/news/view/2026-10-24/1067240
+  - isoDate [string] 填充率:100/100 (100%) | 平均长度:24 | 最大长度:24 | 示例: 2026-10-24T00:13:07.000Z
+
+----------------------------------------------------------------
+来源: Yahoo Japan (yahoo-japan)
+URL:  https://news.yahoo.co.jp/rss/topics/top-picks.xml
+状态: OK
+总条数: 8 | 有效时间条数: 8 | 识别到的时间字段: isoDate
+时间跨度: 2026/10/24 06:15:15 ~ 2026/10/24 08:18:25 (跨度 2.05 小时)
+更新统计: 近1h=2, 近2h=5, 近6h=8, 近12h=8, 近24h=8, 平均间隔=17.6分钟, 中位间隔=15.8分钟
+字段列表 (5个): title, link, pubDate, comments, isoDate
+字段详情:
+  - title [string] 填充率:8/8 (100%) | 平均长度:17 | 最大长度:19 | 示例: 強い台風30号は九州へ 警報級大雨
+  - link [string] 填充率:8/8 (100%) | 平均长度:50 | 最大长度:50 | 示例: https://news.yahoo.co.jp/pickup/6599881?source=rss
+  - pubDate [string] 填充率:8/8 (100%) | 平均长度:29 | 最大长度:29 | 示例: Fri, 23 Oct 2026 22:15:15 GMT
+  - comments [string] 填充率:8/8 (100%) | 平均长度:83 | 最大长度:83 | 示例: https://news.yahoo.co.jp/articles/b1516e8e4c17649e124ba119ae56d721ff3f92f2/comments
+  - isoDate [string] 填充率:8/8 (100%) | 平均长度:24 | 最大长度:24 | 示例: 2026-10-23T22:15:15.000Z
+
+----------------------------------------------------------------
+来源: Asahi Shimbun 朝日新闻 (asahi-headlines)
+URL:  http://rss.asahi.com/rss/asahi/newsheadlines.rdf
+状态: OK
+总条数: 40 | 有效时间条数: 40 | 识别到的时间字段: isoDate
+时间跨度: 2026/10/18 11:00:00 ~ 2026/10/24 08:00:00 (跨度 141 小时)
+更新统计: 近1h=2, 近2h=4, 近6h=10, 近12h=13, 近24h=39, 平均间隔=216.9分钟, 中位间隔=13.3分钟
+字段列表 (8个): date, title, link, dc:date, content, contentSnippet, rdf:about, isoDate
+字段详情:
+  - date [string] 填充率:40/40 (100%) | 平均长度:25 | 最大长度:25 | 示例: 2026-10-24T09:00:00+09:00
+  - title [string] 填充率:40/40 (100%) | 平均长度:32 | 最大长度:32 | 示例: 彬子さま｢女性皇族の活動評価｣と受け止め 皇族費増で男女同額に
+  - link [string] 填充率:40/40 (100%) | 平均长度:63 | 最大长度:63 | 示例: http://www.asahi.com/articles/ASVBQ2T1CVBQUQIP033M.html?ref=rss
+  - dc:date [string] 填充率:40/40 (100%) | 平均长度:25 | 最大长度:25 | 示例: 2026-10-24T09:00:00+09:00
+  - content [string] 填充率:0/40 (0%) | 平均长度:0 | 最大长度:0 | 示例: 
+  - contentSnippet [string] 填充率:0/40 (0%) | 平均长度:0 | 最大长度:0 | 示例: 
+  - rdf:about [string] 填充率:40/40 (100%) | 平均长度:63 | 最大长度:63 | 示例: http://www.asahi.com/articles/ASVBQ2T1CVBQUQIP033M.html?ref=rss
+  - isoDate [string] 填充率:40/40 (100%) | 平均长度:24 | 最大长度:24 | 示例: 2026-10-24T00:00:00.000Z
+
+----------------------------------------------------------------
+来源: Financial Times World (ft-world)
+URL:  https://www.ft.com/rss/world
+状态: OK
+总条数: 25 | 有效时间条数: 25 | 识别到的时间字段: isoDate
+时间跨度: 2026/10/23 21:32:31 ~ 2026/10/24 07:06:01 (跨度 9.56 小时)
+更新统计: 近1h=0, 近2h=3, 近6h=14, 近12h=25, 近24h=25, 平均间隔=23.9分钟, 中位间隔=14.3分钟
+字段列表 (7个): title, link, pubDate, content, contentSnippet, guid, isoDate
+字段详情:
+  - title [string] 填充率:25/25 (100%) | 平均长度:63 | 最大长度:81 | 示例: Trump moves to block certification of Alaska Senate election if Republican loses
+  - link [string] 填充率:25/25 (100%) | 平均长度:76 | 最大长度:78 | 示例: https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1
+  - pubDate [string] 填充率:25/25 (100%) | 平均长度:29 | 最大长度:29 | 示例: Fri, 23 Oct 2026 23:06:01 GMT
+  - content [string] 填充率:25/25 (100%) | 平均长度:99 | 最大长度:140 | 示例: Candidates’ similar names could ‘taint’ the result, argues US Justice Department
+  - contentSnippet [string] 填充率:25/25 (100%) | 平均长度:99 | 最大长度:140 | 示例: Candidates’ similar names could ‘taint’ the result, argues US Justice Department
+  - guid [string] 填充率:25/25 (100%) | 平均长度:36 | 最大长度:36 | 示例: b68b8544-4ce9-45d4-b522-cd2f8150e4cc
+  - isoDate [string] 填充率:25/25 (100%) | 平均长度:24 | 最大长度:24 | 示例: 2026-10-23T23:06:01.000Z
+
+----------------------------------------------------------------
+来源: NYTimes Business (nytimes-business)
+URL:  https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
+状态: OK
+总条数: 49 | 有效时间条数: 49 | 识别到的时间字段: isoDate
+时间跨度: 2026/10/21 04:04:15 ~ 2026/10/24 07:23:10 (跨度 75.32 小时)
+更新统计: 近1h=0, 近2h=1, 近6h=5, 近12h=16, 近24h=19, 平均间隔=94.1分钟, 中位间隔=56.7分钟
+字段列表 (10个): creator, title, link, pubDate, dc:creator, content, contentSnippet, guid, categories, isoDate
+字段详情:
+  - creator [string] 填充率:49/49 (100%) | 平均长度:26 | 最大长度:132 | 示例: Eshe Nelson
+  - title [string] 填充率:49/49 (100%) | 平均长度:60 | 最大长度:76 | 示例: France’s Avoids a Debt Downgrade From Moody’s, but Is Given a Warning
+  - link [string] 填充率:49/49 (100%) | 平均长度:80 | 最大长度:104 | 示例: https://www.nytimes.com/2026/10/23/business/france-debt-moodys-protests.html
+  - pubDate [string] 填充率:49/49 (100%) | 平均长度:31 | 最大长度:31 | 示例: Fri, 23 Oct 2026 23:23:10 +0000
+  - dc:creator [string] 填充率:49/49 (100%) | 平均长度:26 | 最大长度:132 | 示例: Eshe Nelson
+  - content [string] 填充率:49/49 (100%) | 平均长度:148 | 最大长度:198 | 示例: Moody’s held the country’s credit rating steady amid political uncertainty and a rise in borrowing costs that have worsened France’s debt situation.
+  - contentSnippet [string] 填充率:49/49 (100%) | 平均长度:148 | 最大长度:198 | 示例: Moody’s held the country’s credit rating steady amid political uncertainty and a rise in borrowing costs that have worsened France’s debt situation.
+  - guid [string] 填充率:49/49 (100%) | 平均长度:80 | 最大长度:104 | 示例: https://www.nytimes.com/2026/10/23/business/france-debt-moodys-protests.html
+  - categories [array] 填充率:49/49 (100%) | 平均长度:915 | 最大长度:1930 | 示例: [{"_":"Moody's Investors Service Inc","$":{"domain":"http://www.nytimes.com/namespaces/keywords/nyt_org"}},{"_":"France","$":{"domain":"http://www.nytimes.com/namespaces/keywords/nyt_geo"}},{"_":"Cred
+  - isoDate [string] 填充率:49/49 (100%) | 平均长度:24 | 最大长度:24 | 示例: 2026-10-23T23:23:10.000Z
+
+----------------------------------------------------------------
+来源: Zaobao China 联合早报中国 (zaobao-china)
+URL:  https://plink.anyfeeder.com/zaobao/realtime/china
+状态: OK
+总条数: 24 | 有效时间条数: 24 | 识别到的时间字段: isoDate
+时间跨度: 2026/10/23 14:31:30 ~ 2026/10/24 07:28:00 (跨度 16.94 小时)
+更新统计: 近1h=0, 近2h=1, 近6h=3, 近12h=10, 近24h=24, 平均间隔=44.2分钟, 中位间隔=16.8分钟
+字段列表 (8个): title, link, pubDate, content, contentSnippet, guid, categories, isoDate
+字段详情:
+  - title [string] 填充率:24/24 (100%) | 平均长度:22 | 最大长度:28 | 示例: 中国使馆提醒赴韩团客远离低价团消费陷阱
+  - link [string] 填充率:24/24 (100%) | 平均长度:55 | 最大长度:55 | 示例: https://www.zaobao.com/news/china/story20261024-9886828
+  - pubDate [string] 填充率:24/24 (100%) | 平均长度:29 | 最大长度:29 | 示例: Fri, 23 Oct 2026 23:28:00 GMT
+  - content [string] 填充率:24/24 (100%) | 平均长度:1073 | 最大长度:5119 | 示例: <figure><img src="https://www.zaobao.com.sg/_web2/assets/social-share.png" referrerpolicy="no-referrer"><figcaption></figcaption></figure><div><div><p>中国驻韩国大使馆称，数个中国旅游团在韩国旅游期间遭遇强制消费，甚至被旅行社甩客，提醒赴韩中国团体游
+  - contentSnippet [string] 填充率:24/24 (100%) | 平均长度:714 | 最大长度:2401 | 示例: 中国驻韩国大使馆称，数个中国旅游团在韩国旅游期间遭遇强制消费，甚至被旅行社甩客，提醒赴韩中国团体游客谨慎选择旅行社和旅游产品，警惕包含强制消费的不合理低价游等。 “中国驻韩国大使馆”微信公众号星期五（10月23日）发布消息说，中韩互为最大外国游客来源地国。受益于签证便利化措施，两国游客数量不断增加。但近期数个中国旅游团来韩旅游期间，遭遇强制消费，因游客不愿消费或消费额度不达标，遭遇旅行社甩客，部分
+  - guid [string] 填充率:24/24 (100%) | 平均长度:55 | 最大长度:55 | 示例: https://www.zaobao.com/news/china/story20261024-9886828
+  - categories [array] 填充率:24/24 (100%) | 平均长度:18 | 最大长度:44 | 示例: ["中韩关系"]
+  - isoDate [string] 填充率:24/24 (100%) | 平均长度:24 | 最大长度:24 | 示例: 2026-10-23T23:28:00.000Z
+
+----------------------------------------------------------------
+来源: Reuters (reuters)
+URL:  http://feeds.feedburner.com/reuters/topNews
+状态: OK
+总条数: 30 | 有效时间条数: 30 | 识别到的时间字段: isoDate
+时间跨度: 2026/10/20 19:00:13 ~ 2026/10/24 07:20:15 (跨度 84.33 小时)
+更新统计: 近1h=0, 近2h=1, 近6h=3, 近12h=8, 近24h=10, 平均间隔=174.5分钟, 中位间隔=100分钟
+字段列表 (7个): title, link, pubDate, content, contentSnippet, guid, isoDate
+字段详情:
+  - title [string] 填充率:30/30 (100%) | 平均长度:45 | 最大长度:81 | 示例: A Bicycle Journey Across Brazil to Find a Vanishing Savanna
+  - link [string] 填充率:30/30 (100%) | 平均长度:38 | 最大长度:38 | 示例: https://flipso.com/p/3e3llwkp8?ref=rss
+  - pubDate [string] 填充率:30/30 (100%) | 平均长度:29 | 最大长度:29 | 示例: Fri, 23 Oct 2026 23:20:15 GMT
+  - content [string] 填充率:30/30 (100%) | 平均长度:246 | 最大长度:385 | 示例: Natascha Otoya pedals through Brazil’s Cerrado in a film about how industrial agriculture is transforming the savanna, reshaping waterways, and erasing memory of the landscape. [e360.yale.edu]
+  - contentSnippet [string] 填充率:30/30 (100%) | 平均长度:246 | 最大长度:385 | 示例: Natascha Otoya pedals through Brazil’s Cerrado in a film about how industrial agriculture is transforming the savanna, reshaping waterways, and erasing memory of the landscape. [e360.yale.edu]
+  - guid [string] 填充率:30/30 (100%) | 平均长度:9 | 最大长度:9 | 示例: 3e3llwkp8
+  - isoDate [string] 填充率:30/30 (100%) | 平均长度:24 | 最大长度:24 | 示例: 2026-10-23T23:20:15.000Z
+
+----------------------------------------------------------------
+来源: Zaobao World 联合早报国际 (zaobao-world)
+URL:  https://plink.anyfeeder.com/zaobao/realtime/world
+状态: OK
+总条数: 24 | 有效时间条数: 24 | 识别到的时间字段: isoDate
+时间跨度: 2026/10/23 14:40:09 ~ 2026/10/24 07:09:43 (跨度 16.49 小时)
+更新统计: 近1h=0, 近2h=1, 近6h=1, 近12h=10, 近24h=24, 平均间隔=43分钟, 中位间隔=21分钟
+字段列表 (8个): title, link, pubDate, content, contentSnippet, guid, categories, isoDate
+字段详情:
+  - title [string] 填充率:24/24 (100%) | 平均长度:23 | 最大长度:33 | 示例: 【美国中期选举】助力共和党候选人竞选 特朗普豁免部分加拿大产品关税
+  - link [string] 填充率:24/24 (100%) | 平均长度:55 | 最大长度:55 | 示例: https://www.zaobao.com/news/world/story20261024-9886811
+  - pubDate [string] 填充率:24/24 (100%) | 平均长度:29 | 最大长度:29 | 示例: Fri, 23 Oct 2026 23:09:43 GMT
+  - content [string] 填充率:24/24 (100%) | 平均长度:1121 | 最大长度:2254 | 示例: <figure><img src="https://cassette.sphdigital.com.sg/image/zaobao/ba9615835e1b0d3f15a6e5de1368f39b0b0adfa77609011ac2884eddf1981f31" referrerpolicy="no-referrer"><figcaption></figcaption></figure><div>
+  - contentSnippet [string] 填充率:24/24 (100%) | 平均长度:627 | 最大长度:1336 | 示例: 美国总统特朗普取消针对部分加拿大农林产品的50%关税。此举旨在帮助共和党缅因州参议员柯林斯竞选连任。 美加贸易谈判8月破裂后，特朗普对价值200亿美元（约255亿新元）的加拿大进口商品加征50%关税。作为回应，加拿大9月对价值200亿美元的美国商品加征15%至50%的关税。 缅因州与加拿大接壤，特朗普对加拿大加征关税的举措引起当地美国企业担忧。 在缅因州竞选连任的共和党参议员柯林斯（Susan C
+  - guid [string] 填充率:24/24 (100%) | 平均长度:55 | 最大长度:55 | 示例: https://www.zaobao.com/news/world/story20261024-9886811
+  - categories [array] 填充率:24/24 (100%) | 平均长度:23 | 最大长度:39 | 示例: ["美国中期选举","中期选举","关税","特朗普","美国","加拿大"]
+  - isoDate [string] 填充率:24/24 (100%) | 平均长度:24 | 最大长度:24 | 示例: 2026-10-23T23:09:43.000Z
+
+----------------------------------------------------------------
+来源: The News Lens 关键评论网 (the-news-lens)
+URL:  https://feeds.feedburner.com/TheNewsLens
+状态: OK
+总条数: 18 | 有效时间条数: 18 | 识别到的时间字段: isoDate
+时间跨度: 2026/10/23 07:57:00 ~ 2026/10/24 08:04:00 (跨度 24.12 小时)
+更新统计: 近1h=1, 近2h=1, 近6h=1, 近12h=1, 近24h=15, 平均间隔=85.1分钟, 中位间隔=49分钟
+字段列表 (12个): creator, title, link, pubDate, content:encoded, content:encodedSnippet, dc:creator, content, contentSnippet, guid, categories, isoDate
+字段详情:
+  - creator [string] 填充率:18/18 (100%) | 平均长度:7 | 最大长度:21 | 示例: 關鍵評論網 ASEAN：Indochina
+  - title [string] 填充率:18/18 (100%) | 平均长度:36 | 最大长度:59 | 示例: 清邁電動觀光車11月啟用，輕軌最快2032年通車
+  - link [string] 填充率:18/18 (100%) | 平均长度:42 | 最大长度:42 | 示例: https://www.thenewslens.com/article/270706
+  - pubDate [string] 填充率:18/18 (100%) | 平均长度:31 | 最大长度:31 | 示例: Sat, 24 Oct 2026 08:04:00 +0800
+  - content:encoded [string] 填充率:18/18 (100%) | 平均长度:82 | 最大长度:118 | 示例: 為緩解空汙與交通壅塞，泰國清邁推動兩項交通措施。連結觀光景點的電動電車於11月啟用；另正規劃輕軌系統，預計2032年營運，共同促進城市永續發展。
+  - content:encodedSnippet [string] 填充率:18/18 (100%) | 平均长度:82 | 最大长度:118 | 示例: 為緩解空汙與交通壅塞，泰國清邁推動兩項交通措施。連結觀光景點的電動電車於11月啟用；另正規劃輕軌系統，預計2032年營運，共同促進城市永續發展。
+  - dc:creator [string] 填充率:18/18 (100%) | 平均长度:7 | 最大长度:21 | 示例: 關鍵評論網 ASEAN：Indochina
+  - content [string] 填充率:18/18 (100%) | 平均长度:82 | 最大长度:118 | 示例: 為緩解空汙與交通壅塞，泰國清邁推動兩項交通措施。連結觀光景點的電動電車於11月啟用；另正規劃輕軌系統，預計2032年營運，共同促進城市永續發展。
+  - contentSnippet [string] 填充率:18/18 (100%) | 平均长度:82 | 最大长度:118 | 示例: 為緩解空汙與交通壅塞，泰國清邁推動兩項交通措施。連結觀光景點的電動電車於11月啟用；另正規劃輕軌系統，預計2032年營運，共同促進城市永續發展。
+  - guid [string] 填充率:18/18 (100%) | 平均长度:42 | 最大长度:42 | 示例: https://www.thenewslens.com/article/270706
+  - categories [array] 填充率:18/18 (100%) | 平均长度:77 | 最大长度:223 | 示例: ["印太","交通","東南亞","清邁","空汙","永續發展","輕軌","電動觀光車"]
+  - isoDate [string] 填充率:18/18 (100%) | 平均长度:24 | 最大长度:24 | 示例: 2026-10-24T00:04:00.000Z
+
+----------------------------------------------------------------
+来源: BBC World (bbc-world)
+URL:  http://feeds.feedburner.com/bbcnews/world
+状态: OK
+总条数: 21 | 有效时间条数: 21 | 识别到的时间字段: isoDate
+时间跨度: 2026/10/22 23:11:49 ~ 2026/10/24 04:59:39 (跨度 29.8 小时)
+更新统计: 近1h=0, 近2h=0, 近6h=6, 近12h=10, 近24h=17, 平均间隔=89.4分钟, 中位间隔=47.2分钟
+字段列表 (7个): title, link, pubDate, content, contentSnippet, guid, isoDate
+字段详情:
+  - title [string] 填充率:21/21 (100%) | 平均长度:70 | 最大长度:101 | 示例: Deadly shooting near Paris is a 'racist terrorist attack', Macron says
+  - link [string] 填充率:21/21 (100%) | 平均长度:79 | 最大长度:89 | 示例: https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss
+  - pubDate [string] 填充率:21/21 (100%) | 平均长度:29 | 最大长度:29 | 示例: Fri, 23 Oct 2026 19:42:08 GMT
+  - content [string] 填充率:21/21 (100%) | 平均长度:116 | 最大长度:157 | 示例: One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.
+  - contentSnippet [string] 填充率:21/21 (100%) | 平均长度:116 | 最大长度:157 | 示例: One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.
+  - guid [string] 填充率:21/21 (100%) | 平均长度:51 | 最大长度:61 | 示例: https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo#0
+  - isoDate [string] 填充率:21/21 (100%) | 平均长度:24 | 最大长度:24 | 示例: 2026-10-23T19:42:08.000Z
+
+----------------------------------------------------------------
+来源: CNA Politics 中央社政治 (cna-politics)
+URL:  https://feeds.feedburner.com/rsscna/politics
+状态: OK
+总条数: 20 | 有效时间条数: 20 | 识别到的时间字段: isoDate
+时间跨度: 2026/10/22 21:20:00 ~ 2026/10/23 21:46:09 (跨度 24.44 小时)
+更新统计: 近1h=0, 近2h=0, 近6h=0, 近12h=2, 近24h=14, 平均间隔=77.2分钟, 中位间隔=34.4分钟
+字段列表 (7个): title, link, pubDate, content, contentSnippet, guid, isoDate
+字段详情:
+  - title [string] 填充率:20/20 (100%) | 平均长度:24 | 最大长度:29 | 示例: 空射雄三相關零件疑中製 中科院：主動查驗排除疑慮
+  - link [string] 填充率:20/20 (100%) | 平均长度:50 | 最大长度:50 | 示例: https://www.cna.com.tw/news/aipl/202610230266.aspx
+  - pubDate [string] 填充率:20/20 (100%) | 平均长度:31 | 最大长度:31 | 示例: Fri, 23 Oct 2026 21:46:09 +0800
+  - content [string] 填充率:20/20 (100%) | 平均长度:111 | 最大长度:138 | 示例: （中央社記者吳書緯台北23日電）中科院以「雄鷙專案」為名，研製空射版雄三飛彈，傳出通訊測試用濾波器為中國大陸製；中科院回應，為加強陸製品查驗作為，於測試時檢驗接頭疑為陸製品，即通知廠商來院說明，以排除陸製品疑慮，且尚未上通訊機與飛機聯測。
+  - contentSnippet [string] 填充率:20/20 (100%) | 平均长度:111 | 最大长度:138 | 示例: （中央社記者吳書緯台北23日電）中科院以「雄鷙專案」為名，研製空射版雄三飛彈，傳出通訊測試用濾波器為中國大陸製；中科院回應，為加強陸製品查驗作為，於測試時檢驗接頭疑為陸製品，即通知廠商來院說明，以排除陸製品疑慮，且尚未上通訊機與飛機聯測。
+  - guid [string] 填充率:20/20 (100%) | 平均长度:27 | 最大长度:27 | 示例: CNA/2026-10-23/202610230266
+  - isoDate [string] 填充率:20/20 (100%) | 平均长度:24 | 最大长度:24 | 示例: 2026-10-23T13:46:09.000Z
+
+----------------------------------------------------------------
+来源: News On Japan (news-on-japan)
+URL:  http://www.newsonjapan.com/rss/top.xml
+状态: OK
+总条数: 50 | 有效时间条数: 50 | 识别到的时间字段: isoDate
+时间跨度: 2026/10/14 18:36:08 ~ 2026/10/23 23:41:57 (跨度 221.1 小时)
+更新统计: 近1h=0, 近2h=0, 近6h=0, 近12h=3, 近24h=5, 平均间隔=270.7分钟, 中位间隔=10.6分钟
+字段列表 (7个): title, link, pubDate, content, contentSnippet, guid, isoDate
+字段详情:
+  - title [string] 填充率:50/50 (100%) | 平均长度:54 | 最大长度:78 | 示例: Typhoon No. 30 Unleashes 10-Meter Waves as Heavy Rain Spreads Across Japan
+  - link [string] 填充率:50/50 (100%) | 平均长度:42 | 最大长度:42 | 示例: https://newsonjapan.com/article/151059.php
+  - pubDate [string] 填充率:50/50 (100%) | 平均长度:19 | 最大长度:19 | 示例: 2026-10-14 18:36:08
+  - content [string] 填充率:50/50 (100%) | 平均长度:334 | 最大长度:538 | 示例: Typhoon No. 30 remained nearly stationary west-northwest of Yonaguni Island at 5 a.m. on October 24, bringing severe weather and waves exceeding 10 meters to Okinawa's Sakishima Islands, while an incr
+  - contentSnippet [string] 填充率:50/50 (100%) | 平均长度:334 | 最大长度:538 | 示例: Typhoon No. 30 remained nearly stationary west-northwest of Yonaguni Island at 5 a.m. on October 24, bringing severe weather and waves exceeding 10 meters to Okinawa's Sakishima Islands, while an incr
+  - guid [string] 填充率:50/50 (100%) | 平均长度:6 | 最大长度:6 | 示例: 151059
+  - isoDate [string] 填充率:50/50 (100%) | 平均长度:24 | 最大长度:24 | 示例: 2026-10-14T10:36:08.000Z
+
+----------------------------------------------------------------
+来源: CNA Technology 中央社科技 (cna-technology)
+URL:  https://feeds.feedburner.com/rsscna/technology
+状态: OK
+总条数: 20 | 有效时间条数: 20 | 识别到的时间字段: isoDate
+时间跨度: 2026/10/21 19:22:43 ~ 2026/10/23 15:23:25 (跨度 44.01 小时)
+更新统计: 近1h=0, 近2h=0, 近6h=0, 近12h=0, 近24h=3, 平均间隔=139分钟, 中位间隔=105.1分钟
+字段列表 (7个): title, link, pubDate, content, contentSnippet, guid, isoDate
+字段详情:
+  - title [string] 填充率:20/20 (100%) | 平均长度:26 | 最大长度:30 | 示例: PHP漏洞凸顯AI時代助長網攻 專家授5招自保對策
+  - link [string] 填充率:20/20 (100%) | 平均长度:49 | 最大长度:50 | 示例: https://www.cna.com.tw/news/ait/202610230138.aspx
+  - pubDate [string] 填充率:20/20 (100%) | 平均长度:31 | 最大长度:31 | 示例: Fri, 23 Oct 2026 15:23:25 +0800
+  - content [string] 填充率:20/20 (100%) | 平均长度:113 | 最大长度:174 | 示例: （中央社底特律22日綜合外電報導）全球許多人昨天一早得知，大多數人從未聽過但卻支撐約70%網站的程式語言PHP，出現一個可被駭客利用的漏洞，迫使企業與政府紛紛緊急展開修補行動。
+  - contentSnippet [string] 填充率:20/20 (100%) | 平均长度:113 | 最大长度:174 | 示例: （中央社底特律22日綜合外電報導）全球許多人昨天一早得知，大多數人從未聽過但卻支撐約70%網站的程式語言PHP，出現一個可被駭客利用的漏洞，迫使企業與政府紛紛緊急展開修補行動。
+  - guid [string] 填充率:20/20 (100%) | 平均长度:27 | 最大长度:27 | 示例: CNA/2026-10-23/202610230138
+  - isoDate [string] 填充率:20/20 (100%) | 平均长度:24 | 最大长度:24 | 示例: 2026-10-23T07:23:25.000Z
