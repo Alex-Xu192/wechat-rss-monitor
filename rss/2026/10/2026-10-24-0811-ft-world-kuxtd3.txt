@@ -1,0 +1,72 @@
+Financial Times World - 中文结构化新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-23T22:11:31.239Z - 2026-10-24T00:11:31.239Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+3. 中文标题翻译失败
+4. 中文标题翻译失败
+5. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Candidates’ similar names could ‘taint’ the result, argues US Justice Department
+【依据】AI 结构化失败，未做股票判断。Unexpected token 'U', "User Safety: safe" is not valid JSON
+【原标题】Trump moves to block certification of Alaska Senate election if Republican loses
+【发布时间】2026-10-23T23:06:01.000Z
+【链接】https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Treasury predicts extra funding will create and support 100,000 jobs as chancellor seeks to exploit flexibility in government’s fiscal rules
+【依据】AI 结构化失败，未做股票判断。Unexpected token 'U', "User Safety: safe" is not valid JSON
+【原标题】John Healey to give £20bn boost to UK’s business lender and infrastructure bank
+【发布时间】2026-10-23T23:01:00.000Z
+【链接】https://www.ft.com/content/4111c10c-c13c-4620-8ce7-df3b4f9324f1?syn-25a6b1a6=1
+
+------------------------------
+
+3. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Move comes amid widespread fears that users could create new viruses and bioweapons
+【依据】AI 结构化失败，未做股票判断。Unexpected token 'U', "User Safety: safe" is not valid JSON
+【原标题】UK sets up AI lab to monitor biosecurity threats
+【发布时间】2026-10-23T23:01:00.000Z
+【链接】https://www.ft.com/content/e4481867-fecc-48fc-ad9d-4daaf05d14ba?syn-25a6b1a6=1
+
+------------------------------
+
+4. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】President to ease some levies to help candidates facing tough US Senate election battles
+【依据】AI 结构化失败，未做股票判断。Unexpected token 'U', "User Safety: safe" is not valid JSON
+【原标题】Trump to cut Canadian tariffs after pressure from Republicans
+【发布时间】2026-10-23T22:29:30.000Z
+【链接】https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Rating agency retains Aa3 score as it assumes ‘deficit-reducing budget for 2027 will be adopted’
+【依据】AI 结构化失败，未做股票判断。Unexpected token 'U', "User Safety: safe" is not valid JSON
+【原标题】France avoids downgrade from Moody’s in boost for Macron’s government
+【发布时间】2026-10-23T22:28:52.000Z
+【链接】https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1
