@@ -1,0 +1,33 @@
+Reuters - 中文结构化新闻汇总
+
+【来源】Reuters
+【时间】2026-10-23T22:11:47.133Z - 2026-10-24T00:11:47.133Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 中文标题翻译失败
+2. 中文标题翻译失败
+
+==============================
+
+1. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Natascha Otoya pedals through Brazil’s Cerrado in a film about how industrial agriculture is transforming the savanna, reshaping waterways, and erasing memory of the landscape. [e360.yale.edu]
+【依据】AI 结构化失败，未做股票判断。Unexpected token '#', "## Reuters"... is not valid JSON
+【原标题】A Bicycle Journey Across Brazil to Find a Vanishing Savanna
+【发布时间】2026-10-23T23:20:15.000Z
+【链接】https://flipso.com/p/3e3llwkp8?ref=rss
+
+------------------------------
+
+2. 中文标题翻译失败
+【相关股票】无法判断
+【利好股票】无法判断
+【利空股票】无法判断
+【摘要】Colossus: The Forbin Project, released in 1970, imagines a US president handing military control to an AI system that quickly becomes a surveillance-minded authoritarian force. The comparison to today’s AI hype, tech power, and political naivety is the point of the piece. [thanksforthatjim.bearblog.dev]
+【依据】AI 结构化失败，未做股票判断。Unexpected token '#', "## Reuters"... is not valid JSON
+【原标题】We are living inside a 1970 sci-fi film
+【发布时间】2026-10-23T22:20:15.000Z
+【链接】https://flipso.com/p/5yh7uk93k?ref=rss
