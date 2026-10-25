@@ -1,0 +1,52 @@
+Google News - 中文新闻汇总
+
+【来源】Google News
+【时间】2026-10-24T22:15:17.209Z - 2026-10-25T00:15:17.209Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 成为互联网默默无闻英雄的PHP开发者 - BBC
+2. 卡米·安东内利夺下F1美国大奖赛杆位，为首夺世界冠军创造机会 - The Guardian
+3. 以色列军队拆除希伯来城房屋，巴勒斯坦家庭被迫流离失所 - BBC
+4. 亚历山大·沃尔卡诺夫和彼得·扬在UFC 333中证明了他们的伟大 - ESPN
+5. 德克萨斯农工大学4000万美元阵容，休赛期四分卫争议无法阻止排名未上榜的辛辛佛斯顿大学 - 纽约时报
+
+==============================
+
+1. 成为互联网默默无闻英雄的PHP开发者 - BBC
+【摘要】成为互联网默默无闻英雄的PHP开发者 BBC
+【原标题】The PHP developer who became the unsung hero of the internet - BBC
+【发布时间】2026-10-24T23:05:06.000Z
+【链接】https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LdS1LRWVpT2JkYXRKYUhhRF9OZGdzTEJSWUllclhPek1Wd2ZqUU5GeTR4b29TckJkVndpQzIyLU9IT1BfOVVFRnI0VXlEeVVGV0FaZFcyMUdBVEU?oc=5
+
+------------------------------
+
+2. 卡米·安东内利夺下F1美国大奖赛杆位，为首夺世界冠军创造机会 - The Guardian
+【摘要】卡米·安东内利夺下F1美国大奖赛杆位，为首夺世界冠军创造机会 The Guardian
+【原标题】Kimi Antonelli seizes F1 US GP pole and chance to seal first world title - The Guardian
+【发布时间】2026-10-24T23:05:00.000Z
+【链接】https://news.google.com/rss/articles/CBMiugFBVV95cUxOcGNYN0tuMkh5VFYyVk9tb1lpMVR4WEpqNGtJNGZnUHRlWGVzVVpFWkd0QTYyTExNa3huUzQ2UWlOYWRVb2l2UHZHQl84V1FSNC1wbEl2V05iUXFqMi01NEdkWWZGcm9ibURtZ1lFcWpJN1hrczdkYm9uNDFXNWRXVTZXTG9qRnNWV2pmNzdSUWhiOEN4bzF3a1UxUlYxb3BuU3JlN2F1OUlGa0VqVkxFMzNiTDhYOUtKX3c?oc=5
+
+------------------------------
+
+3. 以色列军队拆除希伯来城房屋，巴勒斯坦家庭被迫流离失所 - BBC
+【摘要】以色列军队拆除希伯来城房屋，巴勒斯坦家庭被迫流离失所 BBC
+【原标题】Palestinian families displaced as Israeli forces demolish Hebron homes - BBC
+【发布时间】2026-10-24T23:02:06.000Z
+【链接】https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LMEdmMlZaSzhHcFgtaEdjZlNkQ29JdlE3VEVRaGxyd3J2ZktQeHF0NC1RRTlnaVJKTHNBdlZwNmRVM2JSZ3ljbzY5cmdDWVRBbXJZZXRZYzEweWs?oc=5
+
+------------------------------
+
+4. 亚历山大·沃尔卡诺夫和彼得·扬在UFC 333中证明了他们的伟大 - ESPN
+【摘要】亚历山大·沃尔卡诺夫和彼得·扬在UFC 333中证明了他们的伟大 ESPN
+【原标题】Alexander Volkanovski, Petr Yan solidify their greatness at UFC 333 - ESPN
+【发布时间】2026-10-24T22:42:00.000Z
+【链接】https://news.google.com/rss/articles/CBMihAFBVV95cUxQZnM2SlUzLXVpSV9pdmtWWWJrazJHcGhEcTlkR1dJVlE5TXFzUjJqZk5FU2piSE1NVEEzZDNXNEJsQlVZX2tDQnVlTEZqNFIzZFBHcE5IQWY1ZUx6OVI4UEtGOWlSVWU3SUxvaTYteGpYeEMyVm9nQlZHOVpyUF8zRVJmdGM?oc=5
+
+------------------------------
+
+5. 德克萨斯农工大学4000万美元阵容，休赛期四分卫争议无法阻止排名未上榜的辛辛佛斯顿大学 - 纽约时报
+【摘要】德克萨斯农工大学4000万美元阵容，休赛期四分卫争议无法阻止排名未上榜的辛辛佛斯顿大学 纽约时报
+【原标题】Texas Tech’s $40M roster, offseason QB drama no match for unranked Cincinnati - The New York Times
+【发布时间】2026-10-24T22:39:21.000Z
+【链接】https://news.google.com/rss/articles/CBMingFBVV95cUxOdm8wZzR4UnREMzAzaC02ajRjN2l0b0p2VDlQNVoxR3UtNGFYa1FTNmQ2bm4zWWM5Z1RRMTVFT1VrdFlnbG5HRGFEeG4tdWJEUjZrOERyWEN2ckZwT1NQZi1QSGdDOEVsdWFFa0hvc1B3S1dTQnBkN3dySTFIYUZmQ2tDbUJmaTBSWk56SHNmVFFIUnkyUFppTnBucFpSQQ?oc=5
