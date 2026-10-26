@@ -1,0 +1,70 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-26T10:25:38.809Z - 2026-10-26T16:25:38.809Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. DraftKings 面临针对客户的定向方式方面日益增长的压力
+2. 加州潜在的石英禁令推动承包商和零售商寻找替代品
+3. 巴西市场在意外选举结果后震荡
+4. C.E.O.s 说 A.I. 的推出进展顺利。员工持不同态度。
+5. 为什么一些人在使用应用程序交友
+6. 马斯克预测多家 A.I. 公司将面临“Guppy级死亡”
+7. Meta 和 SpaceX 将再为 A.I. 雄心筹资数十亿美元
+
+==============================
+
+1. DraftKings 面临针对客户的定向方式方面日益增长的压力
+【摘要】国会和多个州的官员一直在质疑在线赌博公司如何使用人工智能。
+【原标题】DraftKings Faces Growing Pressure Over How It Targets Customers
+【发布时间】2026-10-26T15:53:16.000Z
+【链接】https://www.nytimes.com/2026/10/26/business/draftkings-new-york-louisiana-blumenthal.html
+
+------------------------------
+
+2. 加州潜在的石英禁令推动承包商和零售商寻找替代品
+【摘要】制造商及其客户正在使用在石英切割店中不产生已使工人患病的粉尘云的材料。
+【原标题】California’s Potential Quartz Ban Pushes Contractors and Retailers to Alternatives
+【发布时间】2026-10-26T14:48:33.000Z
+【链接】https://www.nytimes.com/2026/10/26/business/economy/california-quartz-countertop-ban-alternatives.html
+
+------------------------------
+
+3. 巴西市场在意外选举结果后震荡
+【摘要】总统卢西奥·伊纳西托·卢拉达席尔瓦的连任胜利促使金融市场出现大幅逆转，市场此前预期他的对手会获胜。
+【原标题】Brazilian Markets Convulse After Unexpected Election Result
+【发布时间】2026-10-26T14:42:40.000Z
+【链接】https://www.nytimes.com/2026/10/26/business/brazil-stock-markets-election-lula.html
+
+------------------------------
+
+4. C.E.O.s 说 A.I. 的推出进展顺利。员工持不同态度。
+【摘要】调查显示，员工和高管对 A.I. 的看法不同。
+【原标题】C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently.
+【发布时间】2026-10-26T14:37:42.000Z
+【链接】https://www.nytimes.com/2026/10/24/business/dealbook/ceos-say-the-ai-rollout-is-going-well-employees-feel-differently.html
+
+------------------------------
+
+5. 为什么一些人在使用应用程序交友
+【摘要】在孤独流行病背景下，按个性匹配、付费推出的应用程序人气激增。
+【原标题】Why Some People Are Using Apps to Make Friends
+【发布时间】2026-10-26T14:06:54.000Z
+【链接】https://www.nytimes.com/2026/10/26/business/friendship-apps.html
+
+------------------------------
+
+6. 马斯克预测多家 A.I. 公司将面临“Guppy级死亡”
+【摘要】埃隆·马斯克认为许多人工智能基础设施公司将被排除在债务市场之外，这一警告可能影响市场。
+【原标题】Musk Is Predicting ‘Guppy-level Death’ for Scores of A.I. Companies
+【发布时间】2026-10-26T13:36:27.000Z
+【链接】https://www.nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html
+
+------------------------------
+
+7. Meta 和 SpaceX 将再为 A.I. 雄心筹资数十亿美元
+【摘要】最大科技公司正在争夺建设人工智能基础设施，这笔支出越来越为巨大。
+【原标题】Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions
+【发布时间】2026-10-26T13:31:25.000Z
+【链接】https://www.nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html
