@@ -1,0 +1,34 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-26T16:25:35.273Z - 2026-10-26T22:25:35.273Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 巴西市场因意外选举结果而动荡
+2. Anthropic 上市意味着什么？几乎所有方面。
+3. 为什么有些人愿意花钱用App交朋友？
+
+==============================
+
+1. 巴西市场因意外选举结果而动荡
+【摘要】卢拉总统的连任胜利导致市场出现剧烈反转，因为市场原本预计他的对手会获胜。
+【原标题】Brazilian Markets Convulse After Unexpected Election Result
+【发布时间】2026-10-26T20:07:18.000Z
+【链接】https://www.nytimes.com/2026/10/26/business/brazil-stock-markets-election-lula.html
+
+------------------------------
+
+2. Anthropic 上市意味着什么？几乎所有方面。
+【摘要】Anthropic 位于商业合作伙伴和供应商金字塔的顶端，是衡量整体经济状况的风向标。其首次公开发行将对广泛领域产生深远影响。
+【原标题】What’s Riding on Anthropic Going Public? Nearly Everything.
+【发布时间】2026-10-26T18:44:18.000Z
+【链接】https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html
+
+------------------------------
+
+3. 为什么有些人愿意花钱用App交朋友？
+【摘要】在孤独感日益普遍的情况下，个性匹配类的付费交友App受欢迎程度急剧上升。
+【原标题】Why Some People Are Using Apps to Make Friends
+【发布时间】2026-10-26T16:56:25.000Z
+【链接】https://www.nytimes.com/2026/10/26/business/friendship-apps.html
