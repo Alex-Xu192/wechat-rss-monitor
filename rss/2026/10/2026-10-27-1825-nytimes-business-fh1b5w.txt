@@ -1,0 +1,61 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-27T04:25:38.345Z - 2026-10-27T10:25:38.345Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 在 Anthropic IPO 中，高盛和摩根士丹利争夺顶级银行
+2. 美联储预计维持利率不变。Warsh 必须解释原因。
+3. 为什么万圣节糖果如此昂贵？
+4. 假日旅行费用飙升。以下是省钱方法。
+5. 在 A.I. ‘Robogym’ 中，机器训练以更像人类。
+6. 美国养老金乘风而起 A.I. 浪潮。好坏参半。
+
+==============================
+
+1. 在 Anthropic IPO 中，高盛和摩根士丹利争夺顶级银行
+【摘要】Anthropic 任命 Wall Street firms 为其即将进行的公开募股（IPO）的主承销商，这一角色将产生丰厚的费用和巨大的荣誉。
+【原标题】In Anthropic I.P.O., Goldman and Morgan Stanley Slug It Out for Top Bank
+【发布时间】2026-10-27T10:09:09.000Z
+【链接】https://www.nytimes.com/2026/10/27/business/in-anthropic-ipo-goldman-and-morgan-stanley-slug-it-out-for-top-bank.html
+
+------------------------------
+
+2. 美联储预计维持利率不变。Warsh 必须解释原因。
+【摘要】通胀走向错误方向，而劳动力市场保持稳定，这一组合增强了升息的理由。
+【原标题】The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.
+【发布时间】2026-10-27T09:03:48.000Z
+【链接】https://www.nytimes.com/2026/10/27/business/the-fed-is-expected-to-hold-rates-steady-warsh-will-have-to-explain-why.html
+
+------------------------------
+
+3. 为什么万圣节糖果如此昂贵？
+【摘要】过去五年里，100件装糖果的平均成本上涨了71%。消费者在消费上三思后行。
+【原标题】Why Is Halloween Candy So Expensive?
+【发布时间】2026-10-27T09:03:08.000Z
+【链接】https://www.nytimes.com/2026/10/27/dining/halloween-candy-prices.html
+
+------------------------------
+
+4. 假日旅行费用飙升。以下是省钱方法。
+【摘要】随着机票和油价飙升，以下是您可以延长旅行预算的方法。
+【原标题】Holiday Travel Costs Are Soaring. Here’s How to Save.
+【发布时间】2026-10-27T09:02:51.000Z
+【链接】https://www.nytimes.com/2026/10/27/travel/discounts-holiday-travel.html
+
+------------------------------
+
+5. 在 A.I. ‘Robogym’ 中，机器训练以更像人类。
+【摘要】德国的 Neura 是利用人工智能从事机器人研发的前沿公司之一，且关键在于欧洲是否能缩小与中国的差距。
+【原标题】In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans
+【发布时间】2026-10-27T09:02:36.000Z
+【链接】https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html
+
+------------------------------
+
+6. 美国养老金乘风而起 A.I. 浪潮。好坏参半。
+【摘要】随着围绕这项技术的狂热引发泡沫担忧，全国的公共养老金正开始思考自己的角色，以及其中的风险。
+【原标题】U.S. Pensions Are Riding the A.I. Wave. For Better or Worse.
+【发布时间】2026-10-27T09:02:01.000Z
+【链接】https://www.nytimes.com/2026/10/27/business/pensions-ai.html
