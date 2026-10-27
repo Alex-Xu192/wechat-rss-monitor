@@ -1,0 +1,61 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-27T10:25:39.282Z - 2026-10-27T16:25:39.282Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 中国介入股市救援，但市场仍继续下跌
+2. 加州潜在的石英禁令推动承包商和零售商寻找替代品
+3. 同事因我的宗教信仰而情绪失控
+4. 谁将从Anthropic IPO中受益
+5. 节假日旅游费用飙升。以下是省钱办法
+6. 美国养老金乘上AI浪潮 利弊参半
+
+==============================
+
+1. 中国介入股市救援，但市场仍继续下跌
+【摘要】中国共产党利用‘国家队’国有投资基金企稳股市，但这次投资者对此表示不确定
+【原标题】China Steps In to Rescue Stocks, But the Market Continues to Fall
+【发布时间】2026-10-27T14:15:17.000Z
+【链接】https://www.nytimes.com/2026/10/27/business/china-stocks-losses-government-intervention.html
+
+------------------------------
+
+2. 加州潜在的石英禁令推动承包商和零售商寻找替代品
+【摘要】制造商及其客户正使用不产生含尘粉尘的材料，这些粉尘曾导致石英加工车间工人患病
+【原标题】California’s Potential Quartz Ban Pushes Contractors and Retailers to Alternatives
+【发布时间】2026-10-27T12:58:18.000Z
+【链接】https://www.nytimes.com/2026/10/26/business/economy/california-quartz-countertop-ban-alternatives.html
+
+------------------------------
+
+3. 同事因我的宗教信仰而情绪失控
+【摘要】此外：读者就一位自雇二十年后返回办公室的女性的事宜发表了看法
+【原标题】My Co-Worker Is Losing It Over My Religion
+【发布时间】2026-10-27T12:51:43.000Z
+【链接】https://www.nytimes.com/2026/10/25/business/religion-harassment-work.html
+
+------------------------------
+
+4. 谁将从Anthropic IPO中受益
+【摘要】华尔街银行和芯片制造商等机构有望从人工智能巨头IPO中获利
+【原标题】Who Stands to Gain From an Anthropic I.P.O.
+【发布时间】2026-10-27T12:15:41.000Z
+【链接】https://www.nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html
+
+------------------------------
+
+5. 节假日旅游费用飙升。以下是省钱办法
+【摘要】随着机票和汽油价格飙升，以下是如何延长旅行预算的方法
+【原标题】Holiday Travel Costs Are Soaring. Here’s How to Save.
+【发布时间】2026-10-27T11:10:27.000Z
+【链接】https://www.nytimes.com/2026/10/27/travel/discounts-holiday-travel.html
+
+------------------------------
+
+6. 美国养老金乘上AI浪潮 利弊参半
+【摘要】随着围绕这项技术的炒作助长了泡沫担忧，全国的公共养老金正开始审视自身的角色以及其中的风险
+【原标题】U.S. Pensions Are Riding the A.I. Wave. For Better or Worse.
+【发布时间】2026-10-27T11:06:48.000Z
+【链接】https://www.nytimes.com/2026/10/27/business/pensions-ai.html
