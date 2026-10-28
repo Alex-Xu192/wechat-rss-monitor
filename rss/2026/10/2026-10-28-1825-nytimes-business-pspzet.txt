@@ -1,0 +1,70 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-28T04:25:38.619Z - 2026-10-28T10:25:38.619Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 拜登的反垄断执法者创办了一家人工智能法律公司
+2. 《仅差一份工作》试图帮助演员保住健康保险
+3. 美联储今日将公布利率决定。以下是需要关注的内容
+4. 如何在“动荡时期”征税与支出？英国试图寻找平衡之策
+5. 残酷的住房市场正在挤压租户
+6. 人工智能发现了大量漏洞，硅谷正急于修复它们
+7. 如何围绕一场跑步比赛规划行程
+
+==============================
+
+1. 拜登的反垄断执法者创办了一家人工智能法律公司
+【摘要】在拜登总统任内领导司法部反垄断部门的乔纳森·坎特和多哈·梅基共同创办了一家初创公司，为诉讼律师开发了一款人工智能工具。
+【原标题】Biden’s Antitrust Enforcers Are Starting an A.I. Legal Company
+【发布时间】2026-10-28T10:00:13.000Z
+【链接】https://www.nytimes.com/2026/10/28/business/dealbook/kanter-mekki-ai-startup-fluxcap.html
+
+------------------------------
+
+2. 《仅差一份工作》试图帮助演员保住健康保险
+【摘要】演员夏恩·杰克逊的社交媒体宣传活动凸显了从业演员在争取足够角色以维持保险方面日益加剧的困境。
+【原标题】‘One Job Away’ Tries to Help Actors Keep Their Health Insurance
+【发布时间】2026-10-28T09:06:04.000Z
+【链接】https://www.nytimes.com/2026/10/28/arts/one-more-job-campaign-actors-health-benefits.html
+
+------------------------------
+
+3. 美联储今日将公布利率决定。以下是需要关注的内容
+【摘要】人们普遍预计，这家中央银行将在周三维持利率稳定，而此时距离中期选举仅有几天。
+【原标题】The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.
+【发布时间】2026-10-28T09:05:48.000Z
+【链接】https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html
+
+------------------------------
+
+4. 如何在“动荡时期”征税与支出？英国试图寻找平衡之策
+【摘要】由安迪·伯纳姆领导的新政府将于周三公布其首份预算案，该计划预计将在广阔野心与狭窄财政限制之间寻求平衡。
+【原标题】How to Tax and Spend in a ‘Turbulent Time?’ U.K. Tries a Balancing Act.
+【发布时间】2026-10-28T09:05:37.000Z
+【链接】https://www.nytimes.com/2026/10/28/business/uk-budget-chancellor-healey.html
+
+------------------------------
+
+5. 残酷的住房市场正在挤压租户
+【摘要】更高的房贷利率和放缓的住宅建设再次让房东占了上风。
+【原标题】A Punishing Housing Market Is Squeezing Renters
+【发布时间】2026-10-28T09:05:30.000Z
+【链接】https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html
+
+------------------------------
+
+6. 人工智能发现了大量漏洞，硅谷正急于修复它们
+【摘要】人工智能发现了一大堆软件缺陷，工程师们正竞相在黑客利用和滥用它们之前进行修复。
+【原标题】AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them
+【发布时间】2026-10-28T09:04:38.000Z
+【链接】https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html
+
+------------------------------
+
+7. 如何围绕一场跑步比赛规划行程
+【摘要】你应该什么时候到达？如何选择活动？以下是一些关于如何最好地以一场比赛为中心来规划假期的建议。
+【原标题】How to Plan a Trip Around a Running Race
+【发布时间】2026-10-28T09:00:06.000Z
+【链接】https://www.nytimes.com/2026/10/28/travel/marathon-vacation-planning.html
