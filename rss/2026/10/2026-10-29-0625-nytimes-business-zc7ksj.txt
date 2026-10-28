@@ -1,0 +1,178 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-28T16:25:38.410Z - 2026-10-28T22:25:38.410Z
+【数量】19
+
+【本邮件新闻标题汇总】
+1. Weil Gotshal, 曾经的法律巨擘，计划解散
+2. 美联储尽管通胀进展不畅仍维持利率不变
+3. CNN、MS Now和Politico更新针对白宫准入的诉讼
+4. 参议员候选人在修复社会保障上的意外立场
+5. 美联储从明年开始将减少利率决策会议
+6. Gina Hinojosa的德州州长竞选测试数字政治广告新规的边界
+7. Warsh新闻发布会的要点
+8. 一场环游世界的“无止境”邮轮已暂停，留乘客陷入困境
+9. AI正发现大量漏洞，Silicon Valley正急于修补它们
+10. 这就是最新
+11. 恶劣的住房市场挤压租户
+12. 特朗普的推动悬在Warsh上方，试图解除Lisa Cook联邦储委员职务
+13. 美联储利率决策如何影响信用卡、贷款等
+14. 奶酪工厂设计师对奥巴马和特朗普对他的装饰的调侃有何看法
+15. 美国限制与中国基因组公司的贸易
+16. RFK Jr.允许广泛使用未经批准的肽类注射剂
+17. 一份英国预算包含‘喘息空间’，在能源成本上升之际
+18. 美联储今日将公布利率决策，以下是值得关注的要点
+19. 美国养老金乘着A.I.浪潮，好坏参半
+
+==============================
+
+1. Weil Gotshal, 曾经的法律巨擘，计划解散
+【摘要】这家知名律师事务所因高知名度律师的集体外流、继任计划的失败以及与竞争对手合并协议的搁置而备受震荡
+【原标题】Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve
+【发布时间】2026-10-28T21:57:33.000Z
+【链接】https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html
+
+------------------------------
+
+2. 美联储尽管通胀进展不畅仍维持利率不变
+【摘要】Kevin M. Warsh, 美联储主席，称在12月的央行聚会之前，一个信息丰富的时期将帮助官员决定政策的下一步。
+【原标题】Fed Holds Rates Steady Despite Lack of Progress on Inflation
+【发布时间】2026-10-28T21:27:49.000Z
+【链接】https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/warsh-interest-rates-fed
+
+------------------------------
+
+3. CNN、MS Now和Politico更新针对白宫准入的诉讼
+【摘要】这些新闻机构在更新的诉讼中主张应被准许进入白宫新闻池。
+【原标题】CNN, MS Now and Politico Update Lawsuit Against Trump Over White House Access
+【发布时间】2026-10-28T20:47:13.000Z
+【链接】https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html
+
+------------------------------
+
+4. 参议员候选人在修复社会保障上的意外立场
+【摘要】国会需要一个计划，防止该项目资金在2032年之前告急。许多参议员候选人已经阐述了他们的立场——其中一些出人意料。
+【原标题】From Senate Candidates, Surprising Stances on Fixing Social Security
+【发布时间】2026-10-28T20:08:52.000Z
+【链接】https://www.nytimes.com/2026/10/28/business/social-security-senate.html
+
+------------------------------
+
+5. 美联储从明年开始将减少利率决策会议
+【摘要】Kevin M. Warsh, 美联储主席，表示中央银行将在2027年就利率投票七次，2028年投票六次。传统上每年投票八次。
+【原标题】Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year
+【发布时间】2026-10-28T20:02:56.000Z
+【链接】https://www.nytimes.com/2026/10/28/business/economy/fed-meetings-2027-interest-rates-warsh.html
+
+------------------------------
+
+6. Gina Hinojosa的德州州长竞选测试数字政治广告新规的边界
+【摘要】Gina Hinojosa竞选德州州长的一些社交媒体付费帖子未包含免责声明，尽管州法规可能要求这样做。
+【原标题】Gina Hinojosa’s Texas Governor Campaign Tests Limits of New Rules for Digital Political Ads
+【发布时间】2026-10-28T19:57:38.000Z
+【链接】https://www.nytimes.com/2026/10/28/business/media/gina-hinojosa-political-ads-texas-midterm-elections.html
+
+------------------------------
+
+7. Warsh新闻发布会的要点
+【摘要】摘要:
+【原标题】Takeaways from Warsh’s news conference.
+【发布时间】2026-10-28T19:43:34.000Z
+【链接】https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/takeaways-from-warshs-news-conference
+
+------------------------------
+
+8. 一场环游世界的“无止境”邮轮已暂停，留乘客陷入困境
+【摘要】这艘邮轮承诺，只要比在陆地上生活更少的费用，即可一生环游世界。但它资金不足，无法吸收燃料成本的上涨。
+【原标题】An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded
+【发布时间】2026-10-28T19:20:53.000Z
+【链接】https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html
+
+------------------------------
+
+9. AI正发现大量漏洞，Silicon Valley正急于修补它们
+【摘要】人工智能发现了大量软件漏洞，工程师正竞速修补，防止它们被黑客利用和滥用。
+【原标题】AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them
+【发布时间】2026-10-28T19:14:53.000Z
+【链接】https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html
+
+------------------------------
+
+10. 这就是最新
+【摘要】摘要:
+【原标题】Here’s the latest.
+【发布时间】2026-10-28T19:08:45.000Z
+【链接】https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/heres-the-latest
+
+------------------------------
+
+11. 恶劣的住房市场挤压租户
+【摘要】较高的抵押贷款利率和住宅建设的放缓再次让房东占据上风。
+【原标题】A Punishing Housing Market Is Squeezing Renters
+【发布时间】2026-10-28T18:43:54.000Z
+【链接】https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html
+
+------------------------------
+
+12. 特朗普的推动悬在Warsh上方，试图解除Lisa Cook联邦储委员职务
+【摘要】联邦储委员会委员Lisa D. Cook将面临一次非正规、私下的听证会，以审理她一贯否认的抵押欺诈指控。
+【原标题】Trump’s Push to Fire Fed Governor Lisa Cook Looms Over Warsh
+【发布时间】2026-10-28T18:14:16.000Z
+【链接】https://www.nytimes.com/2026/10/28/business/economy/trump-lisa-cook-warsh.html
+
+------------------------------
+
+13. 美联储利率决策如何影响信用卡、贷款等
+【摘要】联邦储备体系维持基准利率不变，但12月的加息可能会使假期借贷更加昂贵。
+【原标题】How the Fed’s Interest Rate Decision Affects Credit Cards, Loans and More
+【发布时间】2026-10-28T18:09:22.000Z
+【链接】https://www.nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html
+
+------------------------------
+
+14. 奶酪工厂设计师对奥巴马和特朗普对他的装饰的调侃有何看法
+【摘要】在其巴洛克装饰和阶级认同成为中期选举谈论点之前，这家经久不衰的餐饮特许经营店已历经一些尖锐的批评。
+【原标题】What Does the Cheesecake Factory’s Designer Think of Obama and Trump’s Jabs at His Décor?
+【发布时间】2026-10-28T17:55:11.000Z
+【链接】https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html
+
+------------------------------
+
+15. 美国限制与中国基因组公司的贸易
+【摘要】此举将阻止来自BGI的货物运输，BGI是美国官员指控与强迫劳动和少数群体虐待有关的大型中国公司。
+【原标题】U.S. Restricts Trade With Chinese Genomics Company
+【发布时间】2026-10-28T17:38:31.000Z
+【链接】https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html
+
+------------------------------
+
+16. RFK Jr.允许广泛使用未经批准的肽类注射剂
+【摘要】在卫生部长单方面声明后，多家网络意见领袖推广的注射剂将广泛可用。FDA曾建议对此保持谨慎。
+【原标题】RFK Jr. to Allow Broad Use of Unapproved Peptide Injections
+【发布时间】2026-10-28T17:05:05.000Z
+【链接】https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html
+
+------------------------------
+
+17. 一份英国预算包含‘喘息空间’，在能源成本上升之际
+【摘要】新政府由Andy Burnham领导，旨在在利率较高和动荡的全球经济背景下降低家庭和企业的账单。
+【原标题】A U.K. Budget With ‘Breathing Space’ in a Time of Rising Energy Costs
+【发布时间】2026-10-28T16:40:52.000Z
+【链接】https://www.nytimes.com/2026/10/28/business/uk-budget-chancellor-healey.html
+
+------------------------------
+
+18. 美联储今日将公布利率决策，以下是值得关注的要点
+【摘要】市场普遍预计联邦储备体系将在周三维持利率不变，仅在中期选举前几天。
+【原标题】The Federal Reserve Will Release Its Interest Rate Decision Today. Here’s What to Watch.
+【发布时间】2026-10-28T16:36:07.000Z
+【链接】https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html
+
+------------------------------
+
+19. 美国养老金乘着A.I.浪潮，好坏参半
+【摘要】随着围绕这项技术的热情助长了泡沫的担忧，全国的公共养老金正开始权衡其角色——以及其中的风险。
+【原标题】U.S. Pensions Are Riding the A.I. Wave. For Better or Worse.
+【发布时间】2026-10-28T16:26:08.000Z
+【链接】https://www.nytimes.com/2026/10/27/business/pensions-ai.html
