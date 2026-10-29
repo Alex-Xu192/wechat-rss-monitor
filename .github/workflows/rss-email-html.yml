@@ -27,5 +27,5 @@ jobs:
           MAIL_PORT: "465"
           MAIL_USER: ${{ secrets.MAIL_USER }}
           MAIL_PASS: ${{ secrets.MAIL_PASS }}
-          RECEIVER: ${{ secrets.RECEIVER }}
+          RECEIVER: "alex@emalex666.dpdns.org"
         run: python notify_rss.py
