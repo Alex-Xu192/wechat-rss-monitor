@@ -1,11 +1,19 @@
 name: RSS Email
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "rss/**/*.txt"
   schedule:
-    # Run every 20 minutes during 08:00-10:00, 14:00-16:00, 20:00-22:00 Beijing Time (UTC+8)
-    # notify_rss.py picks 1 random time inside each 2-hour window and sends at most 1 combined email per window.
-    - cron: "*/20 0-1,6-7,12-13 * * *"
+    # Backup cron in case no push happens during the window
+    - cron: "*/30 0-2,6-8,12-14 * * *"
   workflow_dispatch:
+
+concurrency:
+  group: rss-email-notify
+  cancel-in-progress: false
 
 jobs:
   send-email:
