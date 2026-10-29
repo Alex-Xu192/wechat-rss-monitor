@@ -3,7 +3,7 @@ from email import message_from_string
 from unittest.mock import patch
 
 import notify_rss
-from notify_rss import build_email_messages, chunk_articles, parse_digest
+from notify_rss import build_combined_email_message, build_email_messages, chunk_articles, parse_digest
 
 
 def make_article(number):
@@ -103,7 +103,7 @@ class NotifyRssTests(unittest.TestCase):
                 patch.object(notify_rss, "RECEIVER", receiver):
             notify_rss.send_emails(messages)
 
-        smtp_ssl.assert_called_once_with("smtp.qq.com", 465)
+        smtp_ssl.assert_called_once_with("smtp.163.com", 465)
         server.login.assert_called_once_with(sender, "test-password")
         self.assertEqual(server.sendmail.call_count, 2)
         for call, expected_body in zip(server.sendmail.call_args_list, ("body 1", "body 2")):
@@ -112,6 +112,17 @@ class NotifyRssTests(unittest.TestCase):
             message = message_from_string(call.args[2])
             self.assertEqual(message.get_content_type(), "text/plain")
             self.assertIn(expected_body, message.get_payload(decode=True).decode("utf-8"))
+
+    def test_combined_email_merges_multiple_digests_into_one(self):
+        d1 = parse_digest(make_digest_text(3))
+        d2 = parse_digest(make_digest_text(2).replace("【来源】示例RSS", "【来源】BBC World"))
+        msgs = build_combined_email_message([d1, d2], "2026-10-29 15:23")
+        self.assertEqual(len(msgs), 1)
+        subject, body = msgs[0]
+        self.assertEqual(subject, "【RSS汇总】2026-10-29 15:23｜共2个来源 5条新闻")
+        self.assertIn("▌示例RSS（共 3 条）", body)
+        self.assertIn("▌BBC World（共 2 条）", body)
+        self.assertIn("【新闻正文】新闻正文第1段第一句。", body)
 
 
 if __name__ == "__main__":
