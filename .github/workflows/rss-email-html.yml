@@ -1,31 +1,42 @@
-﻿name: RSS Email
+name: RSS Email
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - "rss/**/*.txt"
+  schedule:
+    # Run every 20 minutes during 08:00-10:00, 14:00-16:00, 20:00-22:00 Beijing Time (UTC+8)
+    # notify_rss.py picks 1 random time inside each 2-hour window and sends at most 1 combined email per window.
+    - cron: "*/20 0-1,6-7,12-13 * * *"
+  workflow_dispatch:
 
 jobs:
   send-email:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          ref: main
+          fetch-depth: 0
 
-      - name: Send RSS plain text email
+      - name: Send combined RSS plain text email
         env:
-          BASE_SHA: ${{ github.event.before }}
-          HEAD_SHA: ${{ github.sha }}
-          MAIL_HOST: smtp.qq.com
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+          MAIL_HOST: smtp.163.com
           MAIL_PORT: "465"
-          MAIL_USER: ${{ secrets.MAIL_USER }}
+          MAIL_USER: "alex653@163.com"
           MAIL_PASS: ${{ secrets.MAIL_PASS }}
           RECEIVER: "alex@emalex666.dpdns.org"
         run: python notify_rss.py
+
+      - name: Save notification state
+        run: |
+          if [ -f .rss-notify-state.json ] && [ -n "$(git status --porcelain -- .rss-notify-state.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .rss-notify-state.json
+            git commit -m "chore: update rss notification state [skip ci]"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
