@@ -303,16 +303,19 @@ def check_schedule_window(state):
     Returns (should_run, window_key, bjt_now).
     """
     bjt_now = datetime.now(BJT)
+
     event_name = os.environ.get("GITHUB_EVENT_NAME", "")
-    if event_name != "schedule":
+    if event_name == "workflow_dispatch":
         return True, f"{bjt_now.strftime('%Y-%m-%d-%H%M')}-manual", bjt_now
 
     hour = bjt_now.hour
-    if 8 <= hour < 10:
+    # Target random time is picked within 08:00-09:55, 14:00-15:55, 20:00-21:55 BJT.
+    # Allow a 1-hour grace tail (until 10:59, 16:59, 22:59 BJT) so delayed cron/push never misses the window.
+    if 8 <= hour < 11:
         window_name, start_hour = "morning", 8
-    elif 14 <= hour < 16:
+    elif 14 <= hour < 17:
         window_name, start_hour = "afternoon", 14
-    elif 20 <= hour < 22:
+    elif 20 <= hour < 23:
         window_name, start_hour = "evening", 20
     else:
         print(f"Current BJT {bjt_now.strftime('%Y-%m-%d %H:%M')} is outside 8-10/14-16/20-22 windows.")
