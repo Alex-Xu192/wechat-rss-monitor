@@ -1,0 +1,52 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-29T16:25:36.742Z - 2026-10-29T22:25:36.742Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 大科技的数据中心狂热烧钱并吓怕Wall Street
+2. 美国第三季度GDP增长3.4%
+3. 在稳步推进时，美联储面临被迫赶超以遏制通胀的风险
+4. DoorDash 计划以170亿美元收购Instacart，整合两大配送巨头
+5. Christine Lagarde 将卸任欧洲中央银行行长
+
+==============================
+
+1. 大科技的数据中心狂热烧钱并吓怕Wall Street
+【摘要】Amazon 周四成为最新一家宣布增扩人工智能投资的科技公司，在股价波动中。
+【原标题】Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall Street
+【发布时间】2026-10-29T22:11:24.000Z
+【链接】https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html
+
+------------------------------
+
+2. 美国第三季度GDP增长3.4%
+【摘要】经济在第三季度增长了3.4%，创下过去一年的最高增速。强劲的消费和增长与许多选民对经济的负面评价形成鲜明对比。
+【原标题】U.S. GDP Increased 3.4% in Third Quarter
+【发布时间】2026-10-29T21:10:37.000Z
+【链接】https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html
+
+------------------------------
+
+3. 在稳步推进时，美联储面临被迫赶超以遏制通胀的风险
+【摘要】美联储官员预计将在十二月重新加息，但后续加息的节奏将取决于数据。
+【原标题】In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation
+【发布时间】2026-10-29T18:55:42.000Z
+【链接】https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html
+
+------------------------------
+
+4. DoorDash 计划以170亿美元收购Instacart，整合两大配送巨头
+【摘要】该交易将美国最大的餐厅配送服务与其最大的在线食品平台合并。
+【原标题】DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants
+【发布时间】2026-10-29T18:52:07.000Z
+【链接】https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html
+
+------------------------------
+
+5. Christine Lagarde 将卸任欧洲中央银行行长
+【摘要】她计划在二月退任，距离八年任期结束数月之遥，这将启动欧洲领导人为新任央行行长的选拔过程。
+【原标题】Christine Lagarde to Step Down as President of European Central Bank
+【发布时间】2026-10-29T17:19:02.000Z
+【链接】https://www.nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html
