@@ -1,0 +1,52 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-29T04:25:38.566Z - 2026-10-29T10:25:38.566Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 克里斯蒂娜·拉加德将辞任欧洲央行行长
+2. 美联储渐进式行动恐被迫补课以遏制通胀
+3. 本季出行，试试这些实用的新地图功能
+4. 环球“无尽”邮轮之旅暂停，乘客被困
+5. 美国限制与中国基因组公司的贸易
+
+==============================
+
+1. 克里斯蒂娜·拉加德将辞任欧洲央行行长
+【摘要】她计划于2月离职，距离八年任期结束还有几个月，这将在欧洲领导人中启动选举新任中央银行行长的进程。
+【原标题】Christine Lagarde to Step Down as President of European Central Bank
+【发布时间】2026-10-29T10:19:56.000Z
+【链接】https://www.nytimes.com/2026/10/29/business/christine-lagarde-resigns-ecb.html
+
+------------------------------
+
+2. 美联储渐进式行动恐被迫补课以遏制通胀
+【摘要】美联储官员预计将在12月重启加息，但进一步行动的节奏将取决于数据。
+【原标题】In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation
+【发布时间】2026-10-29T09:03:21.000Z
+【链接】https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html
+
+------------------------------
+
+3. 本季出行，试试这些实用的新地图功能
+【摘要】Google地图和Apple地图的最新更新采用人工智能与人类智能，来改进导航、规划和旅游指南。
+【原标题】Hit the Road This Season With These Useful New Map Features
+【发布时间】2026-10-29T09:02:47.000Z
+【链接】https://www.nytimes.com/2026/10/29/technology/personaltech/apple-google-maps-features.html
+
+------------------------------
+
+4. 环球“无尽”邮轮之旅暂停，乘客被困
+【摘要】该邮轮承诺以低于陆地生活成本的价格提供终身航行，但资金不足，无法承担不断上涨的燃油成本。
+【原标题】An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded
+【发布时间】2026-10-29T08:22:48.000Z
+【链接】https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html
+
+------------------------------
+
+5. 美国限制与中国基因组公司的贸易
+【摘要】这项举措将封锁来自BGI的货物运输，BGI是一家主要的中国公司，美国官员称其与强迫劳动和对少数群体的虐待有关。
+【原标题】U.S. Restricts Trade With Chinese Genomics Company
+【发布时间】2026-10-29T05:42:37.000Z
+【链接】https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html
