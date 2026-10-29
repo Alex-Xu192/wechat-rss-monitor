@@ -9,7 +9,7 @@ MAIL_HOST = os.environ.get("MAIL_HOST", "smtp.qq.com")
 MAIL_PORT = int(os.environ.get("MAIL_PORT", "465"))
 MAIL_USER = os.environ.get("MAIL_USER")
 MAIL_PASS = os.environ.get("MAIL_PASS")
-RECEIVER = os.environ.get("RECEIVER")
+RECEIVER = os.environ.get("RECEIVER", "alex@emalex666.dpdns.org")
 ARTICLES_PER_EMAIL = 8
 
 SECTION_SEPARATOR = re.compile(r"(?m)^[ \t]*={20,}[ \t]*\r?$")
