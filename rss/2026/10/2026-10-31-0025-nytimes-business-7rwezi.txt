@@ -1,0 +1,88 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-30T10:25:37.840Z - 2026-10-30T16:25:37.840Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. 币安黑客事件导致加密货币股票暴跌
+2. Meta 和解社交媒体成瘾案，避免了审判
+3. 科技界的动荡震动了华尔街
+4. 科技股暴跌，但更广泛的市场仍在坚守
+5. 币安在加密货币黑客事件中损失超过60亿美元。以下是需要了解的情况。
+6. 在加密货币黑客窃取63亿美元后，币安暂停了提款
+7. 强大的捕蚊激光利用人工智能消灭有翼害虫
+8. 大型科技公司的数据中心建设热潮正在烧钱并吓坏华尔街
+9. 伊朗战争期间，美国石油行业赚取了超过1300亿美元的利润
+
+==============================
+
+1. 币安黑客事件导致加密货币股票暴跌
+【摘要】这次暴跌波及了上市的加密货币交易所和金融科技公司，以及比特币等加密货币。
+【原标题】Binance Hack Sends Crypto Stocks Tumbling
+【发布时间】2026-10-30T16:20:35.000Z
+【链接】https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-stocks-bitcoin.html
+
+------------------------------
+
+2. Meta 和解社交媒体成瘾案，避免了审判
+【摘要】该案由一名来自密西西比州的18岁女性提起，定于下周审判，是九起标志性人身伤害诉讼中的第四起。
+【原标题】Meta Settles Social Media Addiction Case, Avoiding Trial
+【发布时间】2026-10-30T16:11:21.000Z
+【链接】https://www.nytimes.com/2026/10/30/business/meta-settlement-child-addiction-suit.html
+
+------------------------------
+
+3. 科技界的动荡震动了华尔街
+【摘要】投资者正对科技巨头为押注人工智能而积累的巨额支出账单感到日益紧张。
+【原标题】The Tech Tumult Rocks Wall Street
+【发布时间】2026-10-30T16:06:40.000Z
+【链接】https://www.nytimes.com/2026/10/30/business/dealbook/tech-tumult-ai-wall-street.html
+
+------------------------------
+
+4. 科技股暴跌，但更广泛的市场仍在坚守
+【摘要】尽管一些对指数有重大影响的人工智能股出现更大幅度的下跌，但标准普尔500指数本月仍将录得小幅下跌。
+【原标题】Tech Stocks Tumble, but Broader Market Is Holding On
+【发布时间】2026-10-30T15:53:05.000Z
+【链接】https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html
+
+------------------------------
+
+5. 币安在加密货币黑客事件中损失超过60亿美元。以下是需要了解的情况。
+【摘要】黑客卷走了约60亿美元的数字货币，这可能是历史上最大的加密货币盗窃案。币安表示将承担损失。
+【原标题】Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know.
+【发布时间】2026-10-30T15:19:57.000Z
+【链接】https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html
+
+------------------------------
+
+6. 在加密货币黑客窃取63亿美元后，币安暂停了提款
+【摘要】该加密货币交易所表示，其系统在可能是有史以来最大的加密货币盗窃案中遭到入侵。一个研究实验室将此归咎于“朝鲜精英黑客部队”。
+【原标题】Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion
+【发布时间】2026-10-30T15:16:55.000Z
+【链接】https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html
+
+------------------------------
+
+7. 强大的捕蚊激光利用人工智能消灭有翼害虫
+【摘要】一家中国初创公司声称，利用为自动驾驶汽车开发的传感器，它可以追踪并摧毁微小的飞行目标，同时避开人类、宠物和反射表面。
+【原标题】A Powerful Mosquito-Hunting Laser Uses A.I. to Zap Winged Pests
+【发布时间】2026-10-30T14:14:36.000Z
+【链接】https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html
+
+------------------------------
+
+8. 大型科技公司的数据中心建设热潮正在烧钱并吓坏华尔街
+【摘要】在股价受挫之际，亚马逊成为最新宣布加大人工智能投资的科技公司。
+【原标题】Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.
+【发布时间】2026-10-30T14:02:24.000Z
+【链接】https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html
+
+------------------------------
+
+9. 伊朗战争期间，美国石油行业赚取了超过1300亿美元的利润
+【摘要】这几乎是2025年同期美国石油生产和提炼企业收入的三倍。
+【原标题】U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War
+【发布时间】2026-10-30T10:35:33.000Z
+【链接】https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html
