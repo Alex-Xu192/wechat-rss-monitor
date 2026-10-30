@@ -1,0 +1,70 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-30T04:25:38.354Z - 2026-10-30T10:25:38.354Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 币安面临可能导致6.3亿美元损失的安全事件
+2. 人工智能股摇摆不定，但更广泛的市场仍在坚持
+3. 高价令特朗普和共和党在中期选举前受挫
+4. 为什么市场不在乎中期选举
+5. 纽约购买了电动渡轮。该城市无法收费。
+6. 博物馆新鲜事项？星空观测、逃脱房和单身派对等等
+7. 一个国家如何成为全球人工智能繁荣的意外十字路口
+
+==============================
+
+1. 币安面临可能导致6.3亿美元损失的安全事件
+【摘要】世界最大的加密货币交易所在一次可能是历史上最大加密货币盗窃案中被攻陷。一家研究实验室将这起盗窃行为归因于“朝鲜的精英黑客小组”。
+【原标题】Binance Grapples With ‘Security Incident’ That May Cause $6.3 Billion in Losses
+【发布时间】2026-10-30T10:16:43.000Z
+【链接】https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html
+
+------------------------------
+
+2. 人工智能股摇摆不定，但更广泛的市场仍在坚持
+【摘要】标普500指数本月预计小涨，尽管一些领头技术股下跌，导致指数创出多次新高。
+【原标题】A.I. Stocks Wobble, but Broader Market Is Holding On
+【发布时间】2026-10-30T09:04:36.000Z
+【链接】https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html
+
+------------------------------
+
+3. 高价令特朗普和共和党在中期选举前受挫
+【摘要】对高价的反弹帮助共和党在2024年夺取了多数席位。现在，这可能是党自身覆灭的根源。
+【原标题】High Prices Haunt Trump and the GOP on Eve of the Midterms
+【发布时间】2026-10-30T09:03:21.000Z
+【链接】https://www.nytimes.com/2026/10/30/business/trump-inflation-election.html
+
+------------------------------
+
+4. 为什么市场不在乎中期选举
+【摘要】通胀、利率、人工智能和与伊朗的战争等因素比市场关心中期选举更为重要，我们的专栏作家表示。
+【原标题】Why the Markets Don’t Care About the Midterms
+【发布时间】2026-10-30T09:02:44.000Z
+【链接】https://www.nytimes.com/2026/10/30/business/midterms-stock-bond-markets.html
+
+------------------------------
+
+5. 纽约购买了电动渡轮。该城市无法收费。
+【摘要】全国各地都希望推出电动渡轮以减少碳排放，但在推广过程中面临挑战。
+【原标题】New York Bought an Electric Ferry. The City Can’t Charge It.
+【发布时间】2026-10-30T09:01:49.000Z
+【链接】https://www.nytimes.com/2026/10/30/business/electric-ferries-chargers.html
+
+------------------------------
+
+6. 博物馆新鲜事项？星空观测、逃脱房和单身派对等等
+【摘要】博物馆将自己定位为约会夜目的地，并吸引了一代人。
+【原标题】What’s New at the Museum? Stargazing, Escape Rooms, Bachelorette Parties and More
+【发布时间】2026-10-30T09:00:43.000Z
+【链接】https://www.nytimes.com/2026/10/30/arts/design/late-night-museums-young-people.html
+
+------------------------------
+
+7. 一个国家如何成为全球人工智能繁荣的意外十字路口
+【摘要】在马来西亚，美国和中国的科技巨头投入数十亿美元建设庞大的数据中心，挤压了当地资源，并测试了华盛顿对先进芯片限制的边界。
+【原标题】How One Country Became the Unlikely Crossroads of the Global A.I. Boom
+【发布时间】2026-10-30T05:28:39.000Z
+【链接】https://www.nytimes.com/2026/10/30/business/malaysia-data-center-china.html
