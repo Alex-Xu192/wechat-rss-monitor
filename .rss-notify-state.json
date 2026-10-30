@@ -1,6 +1,6 @@
 {
-  "last_sent_sha": "b3d3b4060124eb8435bf0c6065ed4aac97f88d55",
-  "last_window_key": "2026-10-30-morning",
+  "last_sent_sha": "3afb6fad0de37d2cbd69bd1104d4f11dae2c5b1d",
+  "last_window_key": "2026-10-30-afternoon",
   "sent_files": [
     "rss/2026/10/2026-10-29-1605-ltn-pns00t.txt",
     "rss/2026/10/2026-10-29-1615-asahi-headlines-4pqit4.txt",
@@ -73,6 +73,32 @@
     "rss/2026/10/2026-10-30-0816-asahi-headlines-s4p33a.txt",
     "rss/2026/10/2026-10-30-0816-ft-world-cxpq7n.txt",
     "rss/2026/10/2026-10-30-0817-newtalk-ol56ea.txt",
-    "rss/2026/10/2026-10-30-0905-ltn-29egla.txt"
+    "rss/2026/10/2026-10-30-0905-ltn-29egla.txt",
+    "rss/2026/10/2026-10-30-1005-ltn-2hiel2.txt",
+    "rss/2026/10/2026-10-30-1015-asahi-headlines-hyow85.txt",
+    "rss/2026/10/2026-10-30-1015-google-news-l4pvnm.txt",
+    "rss/2026/10/2026-10-30-1015-yahoo-japan-a474kx.txt",
+    "rss/2026/10/2026-10-30-1019-ft-world-gcfskh.txt",
+    "rss/2026/10/2026-10-30-1019-newtalk-o4anag.txt",
+    "rss/2026/10/2026-10-30-1105-ltn-fb8re0.txt",
+    "rss/2026/10/2026-10-30-1205-ltn-kliwk.txt",
+    "rss/2026/10/2026-10-30-1215-google-news-nkmb8h.txt",
+    "rss/2026/10/2026-10-30-1215-yahoo-japan-gu90o4.txt",
+    "rss/2026/10/2026-10-30-1216-asahi-headlines-h07j12.txt",
+    "rss/2026/10/2026-10-30-1216-newtalk-zhv7ys.txt",
+    "rss/2026/10/2026-10-30-1225-nytimes-business-y78rp6.txt",
+    "rss/2026/10/2026-10-30-1225-zaobao-china-bdz9nt.txt",
+    "rss/2026/10/2026-10-30-1225-zaobao-world-aqnoyp.txt",
+    "rss/2026/10/2026-10-30-1226-bbc-world-o8zasx.txt",
+    "rss/2026/10/2026-10-30-1235-reuters-pkycsp.txt",
+    "rss/2026/10/2026-10-30-1236-news-on-japan-lvwr2v.txt",
+    "rss/2026/10/2026-10-30-1305-ltn-trm400.txt",
+    "rss/2026/10/2026-10-30-1405-ltn-ygu5d0.txt",
+    "rss/2026/10/2026-10-30-1415-asahi-headlines-ojaza3.txt",
+    "rss/2026/10/2026-10-30-1415-ft-world-yjkkcf.txt",
+    "rss/2026/10/2026-10-30-1415-google-news-ffvw3t.txt",
+    "rss/2026/10/2026-10-30-1415-yahoo-japan-22tfq7.txt",
+    "rss/2026/10/2026-10-30-1416-newtalk-vcsg12.txt",
+    "rss/2026/10/2026-10-30-1505-ltn-9m6qc8.txt"
   ]
 }
