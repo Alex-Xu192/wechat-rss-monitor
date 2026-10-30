@@ -1,0 +1,34 @@
+Financial Times World - 中文新闻汇总
+
+【来源】Financial Times World
+【时间】2026-10-30T18:15:42.283Z - 2026-10-30T20:15:42.283Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 美国科技股暴跌，对AI支出的担忧加剧
+2. 随着艰难决策临近，希利通过“祈祷与拖延”式预算争取时间
+3. 黑石集团表示，Anthropic在IPO后可能无法获得投资级评级
+
+==============================
+
+1. 美国科技股暴跌，对AI支出的担忧加剧
+【摘要】Anthropic在IPO后可能获得垃圾级评级的消息，加剧了人们对大型科技公司借贷狂潮的担忧。
+【原标题】US tech stocks tumble as concerns over AI spending intensify
+【发布时间】2026-10-30T20:02:30.000Z
+【链接】https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1
+
+------------------------------
+
+2. 随着艰难决策临近，希利通过“祈祷与拖延”式预算争取时间
+【摘要】财政大臣在准备关键的支出审查时，将不得不在福利和国防方面做出艰难选择。
+【原标题】Healey buys time with ‘pray and delay’ Budget as tough decisions lie ahead
+【发布时间】2026-10-30T18:20:41.000Z
+【链接】https://www.ft.com/content/31a3c465-54ab-409c-a59d-873117f143e7?syn-25a6b1a6=1
+
+------------------------------
+
+3. 黑石集团表示，Anthropic在IPO后可能无法获得投资级评级
+【摘要】私募资本巨头表示，该AI集团预计将获得“高”垃圾级评级，这与之前的指引相比有所转变。
+【原标题】Anthropic may not secure investment-grade rating after IPO, Blackstone says
+【发布时间】2026-10-30T18:19:08.000Z
+【链接】https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1
