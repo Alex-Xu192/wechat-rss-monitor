@@ -1,6 +1,6 @@
 {
-  "last_sent_sha": "3afb6fad0de37d2cbd69bd1104d4f11dae2c5b1d",
-  "last_window_key": "2026-10-30-afternoon",
+  "last_sent_sha": "b9fc17cd7387ab9779216f300b1be94cadbdb038",
+  "last_window_key": "2026-10-30-evening",
   "sent_files": [
     "rss/2026/10/2026-10-29-1605-ltn-pns00t.txt",
     "rss/2026/10/2026-10-29-1615-asahi-headlines-4pqit4.txt",
@@ -99,6 +99,32 @@
     "rss/2026/10/2026-10-30-1415-google-news-ffvw3t.txt",
     "rss/2026/10/2026-10-30-1415-yahoo-japan-22tfq7.txt",
     "rss/2026/10/2026-10-30-1416-newtalk-vcsg12.txt",
-    "rss/2026/10/2026-10-30-1505-ltn-9m6qc8.txt"
+    "rss/2026/10/2026-10-30-1505-ltn-9m6qc8.txt",
+    "rss/2026/10/2026-10-30-1605-ltn-5uw8ly.txt",
+    "rss/2026/10/2026-10-30-1615-google-news-gasnz3.txt",
+    "rss/2026/10/2026-10-30-1615-yahoo-japan-nl2a8j.txt",
+    "rss/2026/10/2026-10-30-1619-asahi-headlines-8g93ds.txt",
+    "rss/2026/10/2026-10-30-1619-ft-world-b0z5lx.txt",
+    "rss/2026/10/2026-10-30-1620-newtalk-8amut0.txt",
+    "rss/2026/10/2026-10-30-1705-ltn-mrb5ux.txt",
+    "rss/2026/10/2026-10-30-1805-ltn-qsdhvt.txt",
+    "rss/2026/10/2026-10-30-1815-asahi-headlines-8hte9x.txt",
+    "rss/2026/10/2026-10-30-1815-ft-world-i5oyrb.txt",
+    "rss/2026/10/2026-10-30-1815-google-news-mjtf42.txt",
+    "rss/2026/10/2026-10-30-1815-yahoo-japan-ulaumn.txt",
+    "rss/2026/10/2026-10-30-1818-newtalk-tm9x98.txt",
+    "rss/2026/10/2026-10-30-1825-bbc-world-n9k3lv.txt",
+    "rss/2026/10/2026-10-30-1825-nytimes-business-1yt481.txt",
+    "rss/2026/10/2026-10-30-1825-zaobao-china-vmzd9w.txt",
+    "rss/2026/10/2026-10-30-1825-zaobao-world-d68y6b.txt",
+    "rss/2026/10/2026-10-30-1905-ltn-1uplum.txt",
+    "rss/2026/10/2026-10-30-2005-ltn-4u94dh.txt",
+    "rss/2026/10/2026-10-30-2015-google-news-k2yet4.txt",
+    "rss/2026/10/2026-10-30-2015-yahoo-japan-aiv67t.txt",
+    "rss/2026/10/2026-10-30-2016-asahi-headlines-il73xy.txt",
+    "rss/2026/10/2026-10-30-2016-ft-world-bp915p.txt",
+    "rss/2026/10/2026-10-30-2017-newtalk-89kt2o.txt",
+    "rss/2026/10/2026-10-30-2105-ltn-vfnxah.txt",
+    "rss/2026/10/2026-10-30-2205-ltn-3hb77.txt"
   ]
 }
