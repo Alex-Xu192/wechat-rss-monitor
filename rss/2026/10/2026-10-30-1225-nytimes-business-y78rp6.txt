@@ -1,0 +1,52 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-10-29T22:25:37.993Z - 2026-10-30T04:25:37.993Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 一个国家如何成为全球AI热潮的意外交叉路口
+2. 在中国，与蚊子的战争已迈入AI时代
+3. Binance正面临可能造成63亿美元损失的“安全事件”
+4. 科技巨头的数据中心冲刺正在烧钱，令华尔街恐惧
+5. Polymarket正在调查有关以色列大选的异常投注
+
+==============================
+
+1. 一个国家如何成为全球AI热潮的意外交叉路口
+【摘要】在马来西亚，美国和中国的科技巨头正涌入数十亿美元，建设庞大的数据中心，给当地资源带来压力，同时也挑战了华盛顿对先进芯片的限制极限。
+【原标题】How One Country Became the Unlikely Crossroads of the Global A.I. Boom
+【发布时间】2026-10-30T04:01:14.000Z
+【链接】https://www.nytimes.com/2026/10/30/business/malaysia-data-center-china.html
+
+------------------------------
+
+2. 在中国，与蚊子的战争已迈入AI时代
+【摘要】借助为自动驾驶汽车开发传感器的中国初创企业声称，它可以在避开人类、宠物和反射面的同时，追踪并消灭微小的飞行目标。
+【原标题】In China, the War on Mosquitoes Has Entered the A.I. Era
+【发布时间】2026-10-30T04:01:12.000Z
+【链接】https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html
+
+------------------------------
+
+3. Binance正面临可能造成63亿美元损失的“安全事件”
+【摘要】该全球最大的加密货币交易所在遭遇疑似黑客攻击后暂停了提款和取款。
+【原标题】Binance Grapples With ‘Security Incident’ That May Cause $6.3 Billion in Losses
+【发布时间】2026-10-30T03:07:37.000Z
+【链接】https://www.nytimes.com/2026/10/29/technology/binance-grapples-with-security-incident-that-may-cause-6-3-billion-in-losses.html
+
+------------------------------
+
+4. 科技巨头的数据中心冲刺正在烧钱，令华尔街恐惧
+【摘要】周四，亚马逊成为最新一家宣布大幅增加AI投资的公司，尽管股价持续下跌。
+【原标题】Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.
+【发布时间】2026-10-30T01:30:27.000Z
+【链接】https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html
+
+------------------------------
+
+5. Polymarket正在调查有关以色列大选的异常投注
+【摘要】该公司表示，正在调查周二与选举相关的两个市场中新增的一百多个账户的下注行为。
+【原标题】Polymarket Is Investigating Suspicious Bets on Israeli Election
+【发布时间】2026-10-29T23:37:35.000Z
+【链接】https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html
