@@ -1,6 +1,6 @@
 {
-  "last_sent_sha": "a2c0a566a845e1687cb332a8c6eb9f5fc1eac4be",
-  "last_window_key": "2026-10-31-afternoon",
+  "last_sent_sha": "5f1d72fc0614159007f83157b1ec1a3607be439f",
+  "last_window_key": "2026-10-31-evening",
   "sent_files": [
     "rss/2026/10/2026-10-29-1605-ltn-pns00t.txt",
     "rss/2026/10/2026-10-29-1615-asahi-headlines-4pqit4.txt",
@@ -194,6 +194,25 @@
     "rss/2026/10/2026-10-31-1416-newtalk-4bo552.txt",
     "rss/2026/10/2026-10-31-1416-yahoo-japan-ujssn.txt",
     "rss/2026/10/2026-10-31-1505-ltn-1uoh7v.txt",
-    "rss/2026/10/2026-10-31-1605-ltn-rmphni.txt"
+    "rss/2026/10/2026-10-31-1605-ltn-rmphni.txt",
+    "rss/2026/10/2026-10-31-1615-google-news-8xo751.txt",
+    "rss/2026/10/2026-10-31-1618-asahi-headlines-it52l8.txt",
+    "rss/2026/10/2026-10-31-1618-ft-world-rp1ngh.txt",
+    "rss/2026/10/2026-10-31-1618-newtalk-9yinhj.txt",
+    "rss/2026/10/2026-10-31-1618-yahoo-japan-yadtuz.txt",
+    "rss/2026/10/2026-10-31-1705-ltn-ipcwwo.txt",
+    "rss/2026/10/2026-10-31-1805-ltn-8y2im0.txt",
+    "rss/2026/10/2026-10-31-1815-asahi-headlines-ognyy4.txt",
+    "rss/2026/10/2026-10-31-1815-google-news-ea9rv2.txt",
+    "rss/2026/10/2026-10-31-1815-yahoo-japan-3l44az.txt",
+    "rss/2026/10/2026-10-31-1823-ft-world-d9xwqo.txt",
+    "rss/2026/10/2026-10-31-1823-newtalk-ykhann.txt",
+    "rss/2026/10/2026-10-31-1825-nytimes-business-unu5l.txt",
+    "rss/2026/10/2026-10-31-1825-zaobao-china-91azt9.txt",
+    "rss/2026/10/2026-10-31-1825-zaobao-world-4i23j5.txt",
+    "rss/2026/10/2026-10-31-1826-bbc-world-bpkzjq.txt",
+    "rss/2026/10/2026-10-31-1905-ltn-a9k441.txt",
+    "rss/2026/10/2026-10-31-2005-ltn-8w1fuj.txt",
+    "rss/2026/10/2026-10-31-2015-google-news-hri8bq.txt"
   ]
 }
