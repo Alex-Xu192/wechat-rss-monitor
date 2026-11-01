@@ -1,6 +1,6 @@
 {
-  "last_sent_sha": "c8d4b4979eaf506c0ed03b68da84386fd0eb6989",
-  "last_window_key": "2026-11-01-morning",
+  "last_sent_sha": "14b5cb1660a82f8646e3e003a994d130ce23e029",
+  "last_window_key": "2026-11-01-afternoon",
   "sent_files": [
     "rss/2026/10/2026-10-29-1605-ltn-pns00t.txt",
     "rss/2026/10/2026-10-29-1615-asahi-headlines-4pqit4.txt",
@@ -257,6 +257,31 @@
     "rss/2026/11/2026-11-01-0818-asahi-headlines-20yokx.txt",
     "rss/2026/11/2026-11-01-0819-ft-world-9pacw5.txt",
     "rss/2026/11/2026-11-01-0820-newtalk-ft0625.txt",
-    "rss/2026/11/2026-11-01-0905-ltn-60exq3.txt"
+    "rss/2026/11/2026-11-01-0905-ltn-60exq3.txt",
+    "rss/2026/11/2026-11-01-1005-ltn-rewteg.txt",
+    "rss/2026/11/2026-11-01-1015-google-news-ynttqw.txt",
+    "rss/2026/11/2026-11-01-1016-yahoo-japan-a0e40s.txt",
+    "rss/2026/11/2026-11-01-1017-asahi-headlines-sqjjpy.txt",
+    "rss/2026/11/2026-11-01-1017-ft-world-wyyb5r.txt",
+    "rss/2026/11/2026-11-01-1017-newtalk-b4brj7.txt",
+    "rss/2026/11/2026-11-01-1105-ltn-nalrxe.txt",
+    "rss/2026/11/2026-11-01-1205-ltn-wp1vic.txt",
+    "rss/2026/11/2026-11-01-1215-google-news-8umint.txt",
+    "rss/2026/11/2026-11-01-1215-yahoo-japan-ushywa.txt",
+    "rss/2026/11/2026-11-01-1216-asahi-headlines-ld91p0.txt",
+    "rss/2026/11/2026-11-01-1217-newtalk-emwnv8.txt",
+    "rss/2026/11/2026-11-01-1225-bbc-world-g78vb0.txt",
+    "rss/2026/11/2026-11-01-1225-nytimes-business-5vzm9g.txt",
+    "rss/2026/11/2026-11-01-1225-zaobao-china-41v0y4.txt",
+    "rss/2026/11/2026-11-01-1225-zaobao-world-p668gf.txt",
+    "rss/2026/11/2026-11-01-1235-reuters-rvw1kq.txt",
+    "rss/2026/11/2026-11-01-1305-ltn-444gc0.txt",
+    "rss/2026/11/2026-11-01-1405-ltn-yws2ea.txt",
+    "rss/2026/11/2026-11-01-1415-google-news-attgik.txt",
+    "rss/2026/11/2026-11-01-1415-yahoo-japan-j04s3g.txt",
+    "rss/2026/11/2026-11-01-1416-asahi-headlines-qugh94.txt",
+    "rss/2026/11/2026-11-01-1416-ft-world-hjtlez.txt",
+    "rss/2026/11/2026-11-01-1417-newtalk-j4h2dy.txt",
+    "rss/2026/11/2026-11-01-1505-ltn-o0l649.txt"
   ]
 }
