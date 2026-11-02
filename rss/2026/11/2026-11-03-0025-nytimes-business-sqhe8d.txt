@@ -1,0 +1,88 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-02T10:25:38.381Z - 2026-11-02T16:25:38.381Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. 奥巴马医保政策再次遭遇2027年保费大幅上涨
+2. 人工智能公司Anthropic披露第三季度收入激增，IPO临近
+3. 科技股抛售后，投资者警惕市场更多波动
+4. 玛莎·斯图尔特为无家可归者的万圣节服装道歉
+5. 人工智能如何让精准营销选民变得比以往更轻松
+6. 国际足联悄然支付了吉安尼·因凡蒂诺的部分税款
+7. 人工智能借贷狂潮现裂痕
+8. 迪士尼Autopia游乐设施将改用电动汽车
+9. 与教皇一起云端旅行，商业性依旧
+
+==============================
+
+1. 奥巴马医保政策再次遭遇2027年保费大幅上涨
+【摘要】明年，数百万美国人的保费将再平均上涨13%，这是在此前的保费大幅上涨之后发生的情况。这加剧了该计划面临的困难，而特朗普政府则削弱了该计划。
+【原标题】Obamacare Policies Hit Again With Steep Premium Increases for 2027
+【发布时间】2026-11-02T16:06:24.000Z
+【链接】https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html
+
+------------------------------
+
+2. 人工智能公司Anthropic披露第三季度收入激增，IPO临近
+【摘要】这家人工智能公司的季度收入总额达170亿美元，比去年同期增长12倍，而净亏损则达230亿美元。
+【原标题】Anthropic Reveals Surging Revenue in Third Quarter as I.P.O. Approaches
+【发布时间】2026-11-02T15:48:38.000Z
+【链接】https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html
+
+------------------------------
+
+3. 科技股抛售后，投资者警惕市场更多波动
+【摘要】美国股市周一反弹，摆脱了周五的动荡，但投资者本周面临更多不确定性。
+【原标题】After Tech Sell-Off, Investors Brace for More Market Volatility
+【发布时间】2026-11-02T15:16:03.000Z
+【链接】https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html
+
+------------------------------
+
+4. 玛莎·斯图尔特为无家可归者的万圣节服装道歉
+【摘要】这位媒体大亨和企业家曾发布了一张身着破烂衣服、打着“需要帮助”牌子的照片。
+【原标题】Martha Stewart Apologizes for Homeless Halloween Costume
+【发布时间】2026-11-02T15:11:33.000Z
+【链接】https://www.nytimes.com/2026/11/02/style/martha-stewart-homeless-halloween-costume-apology.html
+
+------------------------------
+
+5. 人工智能如何让精准营销选民变得比以往更轻松
+【摘要】通过人工智能技术实现精准投放的超个性化信息，预示着选民接触（及潜在虚假信息传播）的新领域。
+【原标题】How A.I. Is Making It Easier Than Ever to Microtarget Voters
+【发布时间】2026-11-02T14:55:57.000Z
+【链接】https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html
+
+------------------------------
+
+6. 国际足联悄然支付了吉安尼·因凡蒂诺的部分税款
+【摘要】国际足联承诺披露高管薪酬，但据文件和采访显示，其陷入困境的主席获得了未公开的税务优惠。
+【原标题】FIFA Quietly Paid Millions in Gianni Infantino’s Taxes
+【发布时间】2026-11-02T12:39:41.000Z
+【链接】https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html
+
+------------------------------
+
+7. 人工智能借贷狂潮现裂痕
+【摘要】投资者日益担忧债务驱动的支出狂潮是人工智能建设的核心问题。
+【原标题】Cracks in the A.I. Borrowing Binge
+【发布时间】2026-11-02T12:36:44.000Z
+【链接】https://www.nytimes.com/2026/11/02/business/dealbook/ai-borrowing-binge.html
+
+------------------------------
+
+8. 迪士尼Autopia游乐设施将改用电动汽车
+【摘要】迪士尼Autopia游乐设施的汽油发动机未经过适当认证，将用电动汽车取代这些小车。
+【原标题】Disneyland’s Autopia Ride Will Switch to Electric Vehicles
+【发布时间】2026-11-02T12:08:47.000Z
+【链接】https://www.nytimes.com/2026/11/02/climate/after-71-years-and-a-lot-of-exhaust-disneylands-autopia-goes-electric.html
+
+------------------------------
+
+9. 与教皇一起云端旅行，商业性依旧
+【摘要】与美国总统不同，利奥十四世教皇没有私人飞机，因此他像我们其他人一样乘坐商业航班旅行——或者，几乎是这样。
+【原标题】Up in the Clouds With the Pope, It’s Still Commercial
+【发布时间】2026-11-02T11:49:16.000Z
+【链接】https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html
