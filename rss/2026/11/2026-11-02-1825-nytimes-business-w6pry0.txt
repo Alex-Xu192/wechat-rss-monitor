@@ -1,0 +1,79 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-02T04:25:38.655Z - 2026-11-02T10:25:38.655Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. 科技股抛售后，投资者为更多市场波动做好准备
+2. 《纽约时报》如何报道中期选举
+3. 迪士尼乐园“汽车opia”游乐项目将改用电动车
+4. 伊朗战火波及海湾经济体，迫切需要恢复常态
+5. 教皇乘客机出行，照样是“商业航班”
+6. 全美最古老公路赛道启动大规模昂贵翻修
+7. 币安报告 36.4 亿美元资金外流，恢复正常交易
+8. 国际足联秘密为因凡蒂诺支付数百万税款
+
+==============================
+
+1. 科技股抛售后，投资者为更多市场波动做好准备
+【摘要】美国股市期货（允许投资者在正式开市前押注股价）周一上涨。
+【原标题】After Tech Sell-Off, Investors Brace for More Market Volatility
+【发布时间】2026-11-02T10:14:22.000Z
+【链接】https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html
+
+------------------------------
+
+2. 《纽约时报》如何报道中期选举
+【摘要】超过 400 名记者分布在至少 30 个州，将采访选民、解读结果并识别趋势。
+【原标题】How The New York Times Is Covering the Midterm Elections
+【发布时间】2026-11-02T10:02:41.000Z
+【链接】https://www.nytimes.com/2026/11/02/insider/new-york-times-midterm-elections.html
+
+------------------------------
+
+3. 迪士尼乐园“汽车opia”游乐项目将改用电动车
+【摘要】迪士尼乐园“汽车opia”项目的燃油发动机未获妥善认证。这些小汽车将被电动车取代。
+【原标题】Disneyland’s Autopia Ride Will Switch to Electric Vehicles
+【发布时间】2026-11-02T10:02:30.000Z
+【链接】https://www.nytimes.com/2026/11/02/climate/after-71-years-and-a-lot-of-exhaust-disneylands-autopia-goes-electric.html
+
+------------------------------
+
+4. 伊朗战火波及海湾经济体，迫切需要恢复常态
+【摘要】沙特阿拉伯、阿联酋等致力于摆脱能源依赖的国家，在动荡一年间经济增长大幅下滑。
+【原标题】Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal
+【发布时间】2026-11-02T10:02:16.000Z
+【链接】https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html
+
+------------------------------
+
+5. 教皇乘客机出行，照样是“商业航班”
+【摘要】与美国总统不同，教皇利奥十四世没有专机，因此乘坐商业航班出行，与常人无异。嗯，几乎如此。
+【原标题】Up in the Clouds With the Pope, It’s Still Commercial
+【发布时间】2026-11-02T10:00:50.000Z
+【链接】https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html
+
+------------------------------
+
+6. 全美最古老公路赛道启动大规模昂贵翻修
+【摘要】加利福尼亚州威洛斯普林斯赛道的新东家有宏大计划，欲将曾经简陋的赛道打造为吸引昂贵超跑及富有车手的场所。
+【原标题】The Nation’s Oldest Road Racetrack Starts a Big, Costly Face-Lift
+【发布时间】2026-11-02T10:00:15.000Z
+【链接】https://www.nytimes.com/2026/11/02/business/willow-springs-racetrack-country-club.html
+
+------------------------------
+
+7. 币安报告 36.4 亿美元资金外流，恢复正常交易
+【摘要】该加密货币交易所在恢复正常交易后，客户提款即刻激增，此前有价值 63 亿美元的代币被盗，关联朝鲜。
+【原标题】Binance Reports $3.64 Billion in Outflows as It Resumes Normal Transactions
+【发布时间】2026-11-02T09:52:23.000Z
+【链接】https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html
+
+------------------------------
+
+8. 国际足联秘密为因凡蒂诺支付数百万税款
+【摘要】国际足联承诺公开高管薪酬。但据文件和采访显示，其备受争议的主席因凡蒂诺获得的税务优惠从未公开。
+【原标题】FIFA Quietly Paid Millions in Gianni Infantino’s Taxes
+【发布时间】2026-11-02T05:01:09.000Z
+【链接】https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html
