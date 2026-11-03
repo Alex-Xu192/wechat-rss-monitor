@@ -1,0 +1,61 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-03T16:25:36.778Z - 2026-11-03T22:25:36.778Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 柴油价格的飙升正在使小型卡车公司破产
+2. 沙特阿美利润飙升 尽管对管道和炼油厂的破坏性袭击
+3. 藐视消费者保护法，保险公司拒绝支付急诊医疗费用
+4. OpenAI 和 Anthropic 设立‘战场室’以对抗 Midterm Elections 的虚假信息
+5. Binance 被黑客攻击。加密客户有哪些保护措施？
+6. 广播、有线电视和深夜节目计划如何覆盖 Midterm Elections
+
+==============================
+
+1. 柴油价格的飙升正在使小型卡车公司破产
+【摘要】对于运营空间极小的小型卡车公司来说，高昂的燃料成本可能决定生存与破产的分界线。
+【原标题】The Soaring Cost of Diesel Is Bankrupting Small Trucking Companies
+【发布时间】2026-11-03T20:28:37.000Z
+【链接】https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html
+
+------------------------------
+
+2. 沙特阿美利润飙升 尽管对管道和炼油厂的破坏性袭击
+【摘要】沙特阿拉伯国有石油公司周二公布第三季度利润环比上升9%。
+【原标题】Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries
+【发布时间】2026-11-03T20:23:22.000Z
+【链接】https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html
+
+------------------------------
+
+3. 藐视消费者保护法，保险公司拒绝支付急诊医疗费用
+【摘要】一项旨在结束惊喜医疗账单的法律已导致医生获得数百万美元的高额赔付。健康保险计划现在通过经常拖延支付来进行反击。
+【原标题】Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care
+【发布时间】2026-11-03T19:02:36.000Z
+【链接】https://www.nytimes.com/2026/11/03/us/insurers-nonpayment-arbitration.html
+
+------------------------------
+
+4. OpenAI 和 Anthropic 设立‘战场室’以对抗 Midterm Elections 的虚假信息
+【摘要】OpenAI、Anthropic 及其他科技公司承诺保护周二的选举免受破坏民主的努力。
+【原标题】OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections
+【发布时间】2026-11-03T18:25:13.000Z
+【链接】https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html
+
+------------------------------
+
+5. Binance 被黑客攻击。加密客户有哪些保护措施？
+【摘要】在 63 亿美元的黑客攻击后，公司表示将向遭受损失的客户进行赔偿。
+【原标题】Binance Was Hacked. What Protections Exist for Crypto Customers?
+【发布时间】2026-11-03T17:20:38.000Z
+【链接】https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html
+
+------------------------------
+
+6. 广播、有线电视和深夜节目计划如何覆盖 Midterm Elections
+【摘要】观众将面临众多选择，包括 NBC 连续 13 小时的画面以及对 Steve Kornacki 及其大板的持续直播。
+【原标题】How Broadcast, Cable and Late-Night Shows Plan to Cover the Midterm Elections
+【发布时间】2026-11-03T17:02:14.000Z
+【链接】https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html
