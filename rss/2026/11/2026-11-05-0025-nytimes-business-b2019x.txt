@@ -1,0 +1,88 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-04T10:25:38.300Z - 2026-11-04T16:25:38.300Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. 无人船制造商 Saildrone 胜诉海军合同投诉
+2. 股票上涨，民主党夺取国会控制权
+3. 德克萨斯州埃隆·马斯克支持的候选人落选后，SpaceX 和 Tesla 股价暴跌
+4. 《纽约时报》新增 42 万名数字订阅用户
+5. 威廉·诺德豪斯逝世；诺贝尔奖得主曾影响气候政策
+6. MS NOW 上充满糖果与笑容，Fox News 上却有些遗憾
+7. 美国贸易逆差在 9 月仍居高位
+8. CVS 拆分药店业务，医疗综合体时代终结
+9. 蓝色浪潮后的商业影响
+
+==============================
+
+1. 无人船制造商 Saildrone 胜诉海军合同投诉
+【摘要】联邦法官支持这家小型国防承包商的裁决属罕见，因为大多数公司针对政府招标决定的抗议都不会胜诉。
+【原标题】Drone Boat Maker Saildrone Wins Protest Over Navy Contract
+【发布时间】2026-11-04T16:20:38.000Z
+【链接】https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html
+
+------------------------------
+
+2. 股票上涨，民主党夺取国会控制权
+【摘要】随着初步结果公布，全球市场一度下跌，但随后投资者评估华盛顿权力格局剧变后的政策前景，市场转而上涨。
+【原标题】Stocks Rise as Democrats Flip Control of Congress
+【发布时间】2026-11-04T15:37:47.000Z
+【链接】https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html
+
+------------------------------
+
+3. 德克萨斯州埃隆·马斯克支持的候选人落选后，SpaceX 和 Tesla 股价暴跌
+【摘要】世界首富已惹恼了民主党人，其中一些人表明，在掌控国会后打算调查他。
+【原标题】SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas
+【发布时间】2026-11-04T15:26:36.000Z
+【链接】https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html
+
+------------------------------
+
+4. 《纽约时报》新增 42 万名数字订阅用户
+【摘要】第三季度的新增用户使该公司大致保持在实现明年年底前达到 1500 万订阅用户目标的轨道上，此前第二季度增长放缓。
+【原标题】The New York Times Adds 420,000 Digital Subscribers
+【发布时间】2026-11-04T15:26:35.000Z
+【链接】https://www.nytimes.com/2026/11/04/business/media/new-york-times-earnings.html
+
+------------------------------
+
+5. 威廉·诺德豪斯逝世；诺贝尔奖得主曾影响气候政策
+【摘要】这位耶鲁大学教授将气候变化带入主流经济分析。
+【原标题】William Nordhaus Dies; Nobel Winner Influenced Climate Policy
+【发布时间】2026-11-04T15:04:11.000Z
+【链接】https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html
+
+------------------------------
+
+6. MS NOW 上充满糖果与笑容，Fox News 上却有些遗憾
+【摘要】电视上，中期选举结果早早就明朗了。评论员们时而庆祝，时而哀恸。
+【原标题】Candy and Smiles on MS NOW, and Some Regrets on Fox News
+【发布时间】2026-11-04T14:55:35.000Z
+【链接】https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html
+
+------------------------------
+
+7. 美国贸易逆差在 9 月仍居高位
+【摘要】9 月，美国出口与进口之间的差距仍处于相对较高水平，特朗普总统试图通过关税缩小这一差距的努力未能奏效。
+【原标题】America’s Trade Deficit Remained Elevated in September
+【发布时间】2026-11-04T14:42:20.000Z
+【链接】https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html
+
+------------------------------
+
+8. CVS 拆分药店业务，医疗综合体时代终结
+【摘要】CVS Health 计划在 2028 年进行拆分，将其药店拆分为一家新公司，同时将其保险和药品福利业务保持在一起。
+【原标题】CVS to Split Off Pharmacy Business, Ending the Healthcare Conglomerate Era
+【发布时间】2026-11-04T14:09:00.000Z
+【链接】https://www.nytimes.com/2026/11/04/business/cvs-health-split.html
+
+------------------------------
+
+9. 蓝色浪潮后的商业影响
+【摘要】民主党在中期选举中大获全胜后，投资者已经开始挑选赢家和输家。
+【原标题】The Business Fallout From a Blue Wave
+【发布时间】2026-11-04T13:18:36.000Z
+【链接】https://www.nytimes.com/2026/11/04/business/dealbook/business-fallout-blue-wave.html
