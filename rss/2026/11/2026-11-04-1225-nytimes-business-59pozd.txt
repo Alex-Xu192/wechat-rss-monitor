@@ -1,0 +1,43 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-03T22:25:38.247Z - 2026-11-04T04:25:38.247Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 特朗普正在观看福克斯新闻，但他并不高兴
+2. 保险公司违反消费者法，拒绝支付紧急医疗护理的账单
+3. 无人艇制造商 Saildrone 赢得了针对海军合同的诉讼
+4. OpenAI 和 Anthropic 设立“战争室”，打击针对中期选举的虚假信息
+
+==============================
+
+1. 特朗普正在观看福克斯新闻，但他并不高兴
+【摘要】在重要的中期选举之夜，总统在社交媒体上对这家有线新闻频道进行了严厉批评。
+【原标题】Trump Is Watching Fox News, and He Is Not Thrilled
+【发布时间】2026-11-04T01:59:57.000Z
+【链接】https://www.nytimes.com/2026/11/03/business/media/trump-fox-news-gutfeld-tarlov.html
+
+------------------------------
+
+2. 保险公司违反消费者法，拒绝支付紧急医疗护理的账单
+【摘要】一项旨在结束意外医疗账单的法律已为医生带来了数以百万计的高额赔偿，但保险公司如今却开始反击，频繁扣留资金。
+【原标题】Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care
+【发布时间】2026-11-04T01:54:03.000Z
+【链接】https://www.nytimes.com/2026/11/03/us/insurers-nonpayment-arbitration.html
+
+------------------------------
+
+3. 无人艇制造商 Saildrone 赢得了针对海军合同的诉讼
+【摘要】联邦法官作出有利于小型国防承包商的裁决，这是一件罕见的事情，因为大多数公司对政府招标决定的投诉通常都无法成功。
+【原标题】Drone Boat Maker Saildrone Wins Protest Over Navy Contract
+【发布时间】2026-11-04T01:44:13.000Z
+【链接】https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html
+
+------------------------------
+
+4. OpenAI 和 Anthropic 设立“战争室”，打击针对中期选举的虚假信息
+【摘要】OpenAI、Anthropic 等科技公司誓言将保护周二的选举，抵制任何破坏民主的行为。
+【原标题】OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections
+【发布时间】2026-11-03T23:39:55.000Z
+【链接】https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html
