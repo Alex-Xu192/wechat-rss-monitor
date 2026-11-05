@@ -1,0 +1,133 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-05T16:25:36.700Z - 2026-11-05T22:25:36.700Z
+【数量】14
+
+【本邮件新闻标题汇总】
+1. 仿照 P.C. Vey 风格：我们收到的最有趣读者漫画
+2. 股市抹去中期选举后反弹，科技股拖累
+3. 华盛顿州禽流感死亡病例重新引发对病毒的担忧
+4. Salon，数字新闻先锋，停止运营
+5. Klaus-Michael Kühne 去世。其公司在纳粹德国曾扮演黑暗角色
+6. 以色列选举未产生明确胜者。这些政党正试图组建联合政府
+7. 特朗普政府采取行动解雇仲裁员，医生赔付飙升
+8. 炸弹威胁干扰欧洲航班，令乘客惊慌
+9. 家长因学校 Chromebook 上的人工智能安全风险起诉 Google
+10. 与教宗同飞云端，依然是商业航班
+11. 高油价推动丰田混动车销量，其股价飙升
+12. 英国央行时隔三年首次加息
+13. 什么塑造了 Anthropic CEO 达里奥·阿莫迪对人工智能的看法
+14. 孟加拉国同意在抗议后提高服装工人最低工资
+
+==============================
+
+1. 仿照 P.C. Vey 风格：我们收到的最有趣读者漫画
+【摘要】超过 200 人回应了我们征集 P.C. Vey 风格漫画的号召。以下是其中一些最佳作品。
+【原标题】In the Style of P.C. Vey: The Funniest Reader Cartoons We Received
+【发布时间】2026-11-05T22:21:47.000Z
+【链接】https://www.nytimes.com/2026/11/05/business/media/pc-vey-new-yorker-cartoons.html
+
+------------------------------
+
+2. 股市抹去中期选举后反弹，科技股拖累
+【摘要】标普 500 指数下跌，创下自 2025 年 4 月以来的最大单日跌幅，科技股为主的纳斯达克进入修正区间，投资者担忧人工智能建设的可持续性。
+【原标题】Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech
+【发布时间】2026-11-05T22:18:24.000Z
+【链接】https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html
+
+------------------------------
+
+3. 华盛顿州禽流感死亡病例重新引发对病毒的担忧
+【摘要】此死亡事件发生在美国全国数十家农场牛群感染报告以及貂中出现令人担忧疫情之后。
+【原标题】Bird Flu Death in Washington State Renews Concern Over the Virus
+【发布时间】2026-11-05T22:16:51.000Z
+【链接】https://www.nytimes.com/2026/11/05/health/bird-flu-death-us.html
+
+------------------------------
+
+4. Salon，数字新闻先锋，停止运营
+【摘要】这家成立于 1995 年的进步派网站表示，其业务“已不再可持续”。
+【原标题】Salon, a Pioneer of Digital Journalism, Shuts Down
+【发布时间】2026-11-05T21:49:22.000Z
+【链接】https://www.nytimes.com/2026/11/05/business/media/salon-online-magazine-shutters.html
+
+------------------------------
+
+5. Klaus-Michael Kühne 去世。其公司在纳粹德国曾扮演黑暗角色
+【摘要】随着 Klaus-Michael Kühne 的企业成为全球集装箱航运巨头，他拒绝回应记录其战时活动的要求。他享年 89 岁。
+【原标题】Klaus-Michael Kühne Has Died. His Company Played a Dark Role in Nazi Germany.
+【发布时间】2026-11-05T21:16:14.000Z
+【链接】https://www.nytimes.com/2026/11/05/world/europe/klaus-michael-kuhne-dead.html
+
+------------------------------
+
+6. 以色列选举未产生明确胜者。这些政党正试图组建联合政府
+【摘要】以色列政党领袖周四与总统艾萨克·赫佐格举行会谈，讨论谁应首先有机会组建执政联盟。
+【原标题】Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.
+【发布时间】2026-11-05T20:55:34.000Z
+【链接】https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html
+
+------------------------------
+
+7. 特朗普政府采取行动解雇仲裁员，医生赔付飙升
+【摘要】两家公司解决了医生与保险公司之间的账单纠纷，使患者置身事外。其中一家公司在 96% 的时间里让医生胜诉。
+【原标题】Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar
+【发布时间】2026-11-05T20:34:25.000Z
+【链接】https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html
+
+------------------------------
+
+8. 炸弹威胁干扰欧洲航班，令乘客惊慌
+【摘要】乘客回忆称，在意大利、波兰和西班牙的飞机受到后来被证实是恶作剧的威胁影响后，他们曾降落在军用基地，并接受安检并遭遇行程延误。
+【原标题】Bomb Threats Disrupt European Flights and Rattle Passengers
+【发布时间】2026-11-05T19:39:19.000Z
+【链接】https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html
+
+------------------------------
+
+9. 家长因学校 Chromebook 上的人工智能安全风险起诉 Google
+【摘要】一项新诉讼声称，一名学生在与 Google 的人工智能聊天后计划结束自己的生命，此事发生在人们对网络对儿童伤害日益担忧的背景下。
+【原标题】Parents Sue Google Over A.I. Safety Risks on School Chromebooks
+【发布时间】2026-11-05T19:27:58.000Z
+【链接】https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html
+
+------------------------------
+
+10. 与教宗同飞云端，依然是商业航班
+【摘要】与美国总统不同，教宗利奥十四世没有私人飞机，所以他和我们一样乘坐商业航班旅行。好吧，几乎一样。
+【原标题】Up in the Clouds With the Pope, It’s Still Commercial
+【发布时间】2026-11-05T17:19:41.000Z
+【链接】https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html
+
+------------------------------
+
+11. 高油价推动丰田混动车销量，其股价飙升
+【摘要】丰田正抓住美国混动车热潮的机遇，因为电动汽车需求放缓，但华盛顿政治风向的转变可能会威胁其优势。
+【原标题】High Gas Prices Boost Sales of Hybrids for Toyota, Sending Its Stock Soaring
+【发布时间】2026-11-05T16:57:33.000Z
+【链接】https://www.nytimes.com/2026/11/05/business/toyota-profits-hybrids.html
+
+------------------------------
+
+12. 英国央行时隔三年首次加息
+【摘要】该央行时隔三年多首次加息，并警告称明年通胀将升至约 5%，远高于其目标。
+【原标题】Bank of England Raises Rates for First Time in Three Years
+【发布时间】2026-11-05T16:53:44.000Z
+【链接】https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html
+
+------------------------------
+
+13. 什么塑造了 Anthropic CEO 达里奥·阿莫迪对人工智能的看法
+【摘要】有人称他为“末日论者”。其他人则视他为一位负责任的技术人员。以下是 Anthropic 首席执行官对人工智能的看法是如何形成的。
+【原标题】What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.
+【发布时间】2026-11-05T16:51:48.000Z
+【链接】https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html
+
+------------------------------
+
+14. 孟加拉国同意在抗议后提高服装工人最低工资
+【摘要】本周，数百家服装工厂关闭，该国工人举行示威要求提高工资，该国是世界第二大服装出口国。
+【原标题】Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests
+【发布时间】2026-11-05T16:35:52.000Z
+【链接】https://www.nytimes.com/2026/11/05/world/asia/bangladesh-garment-workers-protest-wage.html
