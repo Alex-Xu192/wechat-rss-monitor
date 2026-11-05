@@ -1,0 +1,97 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-05T10:25:39.022Z - 2026-11-05T16:25:39.022Z
+【数量】10
+
+【本邮件新闻标题汇总】
+1. 以色列选举最终没有出现明确赢家。这些政党正在尝试组建联合政府。
+2. 股市在中期选举后反弹后回吐，遭受科技股拖累。
+3. 玛莎·斯图尔特现在将无家可归的万圣节服装归咎于克雷德·米尔伦。
+4. 孟加拉国同意在抗议后提高服装工人最低工资。
+5. 英国央行三年来首次加息。
+6. 特朗普政府试图撤换仲裁人，同时医生赔付飙升。
+7. 重达“德州”级别的政治震动震惊大企业。
+8. 是什么塑造了Anthropic CEO达奥迪·阿莫迪关于人工智能的思考？
+9. 高油价推动丰田混合动力销售增长，股价飙升。
+10. 中国阻止了软银5.4亿美元的机器人收购，阻碍外国交易。
+
+==============================
+
+1. 以色列选举最终没有出现明确赢家。这些政党正在尝试组建联合政府。
+【摘要】以色列政党领导人周四与总统约书亚·赫佐格就谁将获得组建执政联盟的第一机会而进行了讨论。
+【原标题】Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.
+【发布时间】2026-11-05T16:21:17.000Z
+【链接】https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html
+
+------------------------------
+
+2. 股市在中期选举后反弹后回吐，遭受科技股拖累。
+【摘要】标普500指数录得超过一年来最大单日跌幅，科技板块拖累其下滑，投资者担忧人工智能建设能否持续。
+【原标题】Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech
+【发布时间】2026-11-05T16:17:46.000Z
+【链接】https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html
+
+------------------------------
+
+3. 玛莎·斯图尔特现在将无家可归的万圣节服装归咎于克雷德·米尔伦。
+【摘要】这位媒体大亨和企业家表示，今日秀主持人之一的失误影响了她的服装。
+【原标题】Martha Stewart Now Blames Craig Melvin for Homeless Halloween Costume
+【发布时间】2026-11-05T15:54:55.000Z
+【链接】https://www.nytimes.com/2026/11/02/style/martha-stewart-homeless-halloween-costume-apology.html
+
+------------------------------
+
+4. 孟加拉国同意在抗议后提高服装工人最低工资。
+【摘要】这周数百家服装工厂关闭，因为该国作为世界第二大服装出口国，工人抗议要求加薪。
+【原标题】Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests
+【发布时间】2026-11-05T15:12:01.000Z
+【链接】https://www.nytimes.com/2026/11/05/world/asia/bangladesh-garment-workers-protest-wage.html
+
+------------------------------
+
+5. 英国央行三年来首次加息。
+【摘要】该央行在三年多时间里首次提高利率，并警告称明年通胀将升至约5%，远高于其目标。
+【原标题】Bank of England Raises Rates for First Time in Three Years
+【发布时间】2026-11-05T14:04:31.000Z
+【链接】https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html
+
+------------------------------
+
+6. 特朗普政府试图撤换仲裁人，同时医生赔付飙升。
+【摘要】两家公司就医生与保险之间的账单争议达成和解，让患者不参与其中。一家公司让医生赢了96%的案件。
+【原标题】Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar
+【发布时间】2026-11-05T13:44:53.000Z
+【链接】https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html
+
+------------------------------
+
+7. 重达“德州”级别的政治震动震惊大企业。
+【摘要】得克萨斯州友好商业的做法可能被民主党在该州赢得选举的胜利所改写。
+【原标题】The Texas-size Political Tremor Rattling Big Business
+【发布时间】2026-11-05T12:41:27.000Z
+【链接】https://www.nytimes.com/2026/11/05/business/dealbook/texas-blue-wave-business-fallout.html
+
+------------------------------
+
+8. 是什么塑造了Anthropic CEO达奥迪·阿莫迪关于人工智能的思考？
+【摘要】有人称他是末日派。还有人认为他是负责任的技术专家。这是如何影响Anthropic首席执行官对人工智能的思考。
+【原标题】What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.
+【发布时间】2026-11-05T12:14:40.000Z
+【链接】https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html
+
+------------------------------
+
+9. 高油价推动丰田混合动力销售增长，股价飙升。
+【摘要】丰田趁电动汽车需求放缓，从中获益，但华盛顿政治风向可能削弱其优势。
+【原标题】High Gas Prices Boost Sales of Hybrids for Toyota, Sending Its Stock Soaring
+【发布时间】2026-11-05T12:02:35.000Z
+【链接】https://www.nytimes.com/2026/11/05/business/toyota-profits-hybrids.html
+
+------------------------------
+
+10. 中国阻止了软银5.4亿美元的机器人收购，阻碍外国交易。
+【摘要】中国当局在全球交易受到北京科技雄心更大审查之际，叫停了ABB机器人公司对日本软银的收购。
+【原标题】China Blocks SoftBank’s $5.4 Billion Robotics Takeover, Impeding Foreign Deals
+【发布时间】2026-11-05T11:23:03.000Z
+【链接】https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html
