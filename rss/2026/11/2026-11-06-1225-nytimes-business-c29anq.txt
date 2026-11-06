@@ -1,0 +1,70 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-05T22:25:38.356Z - 2026-11-06T04:25:38.356Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 股市消除了中期选举后的反弹，遭受科技股拖累
+2. 华盛顿州禽流感死亡病例加剧病毒担忧
+3. 是什么塑造了 Anthropic CEO 达奥迪·阿莫迪对人工智能的思考
+4. 数字新闻先驱 Salon 关闭
+5. 以色列选举没有明确赢家。这些政党正在努力组建联合政府。
+6. 纽约时报公司正在进行收购 Letterboxd 的高级谈判
+7. Steve Kornacki 和 NBC 在中期选举收视率提升期间吸引了观众
+
+==============================
+
+1. 股市消除了中期选举后的反弹，遭受科技股拖累
+【摘要】标普500指数录得自2025年4月以来最差单日跌幅，而科技股为主的纳斯达克进入修正区间，投资者担忧人工智能建设的可持续性。
+【原标题】Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech
+【发布时间】2026-11-06T00:48:29.000Z
+【链接】https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html
+
+------------------------------
+
+2. 华盛顿州禽流感死亡病例加剧病毒担忧
+【摘要】这一死亡病例跟进过去一个月美国多家农场报告禽流感感染以及一个令人担忧的貉疫情。
+【原标题】Bird Flu Death in Washington State Renews Concern Over the Virus
+【发布时间】2026-11-06T00:26:37.000Z
+【链接】https://www.nytimes.com/2026/11/05/health/bird-flu-death-us.html
+
+------------------------------
+
+3. 是什么塑造了 Anthropic CEO 达奥迪·阿莫迪对人工智能的思考
+【摘要】有人称他为末日论者。还有人认为他是负责任的技术专家。看 Anthropic 首席执行官对人工智能的思考是如何被塑造的。
+【原标题】What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.
+【发布时间】2026-11-05T23:51:09.000Z
+【链接】https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html
+
+------------------------------
+
+4. 数字新闻先驱 Salon 关闭
+【摘要】这家成立于1995年的进步网站表示，其商业模式“不再可持续”。
+【原标题】Salon, a Pioneer of Digital Journalism, Shuts Down
+【发布时间】2026-11-05T23:29:23.000Z
+【链接】https://www.nytimes.com/2026/11/05/business/media/salon-online-magazine-shutters.html
+
+------------------------------
+
+5. 以色列选举没有明确赢家。这些政党正在努力组建联合政府。
+【摘要】以色列总统 Isaac Herzog 完成与各党领导人为期两天的会谈，表示将于周日邀请其中一个党派领导人组建执政联盟。
+【原标题】Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.
+【发布时间】2026-11-05T23:18:21.000Z
+【链接】https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html
+
+------------------------------
+
+6. 纽约时报公司正在进行收购 Letterboxd 的高级谈判
+【摘要】这笔约3.3亿美元的交易收购电影爱好者社区网站，是公司增加新产品和服务组合努力的一部分。
+【原标题】New York Times Company in Advanced Talks to Acquire Letterboxd
+【发布时间】2026-11-05T23:09:27.000Z
+【链接】https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html
+
+------------------------------
+
+7. Steve Kornacki 和 NBC 在中期选举收视率提升期间吸引了观众
+【摘要】超过3.1亿名观众跟随民主党在电视上的重大之夜，较2022年中期选举增长23%。
+【原标题】Steve Kornacki and NBC Drew Crowds as Midterms Got a Ratings Bump
+【发布时间】2026-11-05T22:47:35.000Z
+【链接】https://www.nytimes.com/2026/11/05/business/media/tv-ratings-midterms-steve-kornacki.html
