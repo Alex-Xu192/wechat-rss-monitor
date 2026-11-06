@@ -1,0 +1,88 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-06T16:25:37.782Z - 2026-11-06T22:25:37.782Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. Susie Wiles, Trump’s 首席幕僚长，被指控阻挠健康政策以吸引捐款
+2. Trump 上诉对《华尔街日报》100亿美元诽谤诉讼的驳回
+3. 全球股票随U.S.抛售潮，A.I.支出恐惧蔓延
+4. 强劲的招聘巩固了稳固的就业市场
+5. 农民对Trump政策的挫败感如何帮助了民主党
+6. 他们花费数百万维持梦想游轮漂浮。无论如何，它还是死了。
+7. Tesla 终止 Cybertruck 生产并转向 Cybercab
+8. 什么塑造了Anthropic CEO Dario Amodei对A.I.的思考
+9. 这是最新的
+
+==============================
+
+1. Susie Wiles, Trump’s 首席幕僚长，被指控阻挠健康政策以吸引捐款
+【摘要】在一次毫无保留的访谈中，前任顶级健康顾问Calley Means指控Susie Wiles多次向游说压力低头，并专注于竞选捐款。
+【原标题】Susie Wiles, Trump’s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations
+【发布时间】2026-11-06T22:03:52.000Z
+【链接】https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html
+
+------------------------------
+
+2. Trump 上诉对《华尔街日报》100亿美元诽谤诉讼的驳回
+【摘要】法官两次驳回了特朗普的诽谤投诉，该投诉聚焦于一篇关于向性犯罪者Jeffrey Epstein的生日祝贺的文章。
+【原标题】Trump Appeals Dismissal of $10 Billion Libel Suit Against Wall Street Journal
+【发布时间】2026-11-06T21:28:04.000Z
+【链接】https://www.nytimes.com/2026/11/06/business/media/trump-wall-street-journal.html
+
+------------------------------
+
+3. 全球股票随U.S.抛售潮，A.I.支出恐惧蔓延
+【摘要】鉴于短时间内需要处理大量信息，众多市场观察者表示，双向的举动都极端。
+【原标题】Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread
+【发布时间】2026-11-06T21:11:05.000Z
+【链接】https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html
+
+------------------------------
+
+4. 强劲的招聘巩固了稳固的就业市场
+【摘要】10月失业率下降，延长了多年的稳定，原本受通胀和人工智能威胁的U.S.劳动力。
+【原标题】Strong Hiring Reinforces a Sturdy Job Market
+【发布时间】2026-11-06T20:06:29.000Z
+【链接】https://www.nytimes.com/2026/11/06/business/economy/economy-jobs-unemployment.html
+
+------------------------------
+
+5. 农民对Trump政策的挫败感如何帮助了民主党
+【摘要】对关税和因伊朗战争导致的更高成本的愤怒促使许多共和党农民和牧场主投票支持民主党——或是选择不投票。
+【原标题】How Farmers’ Frustration With Trump’s Policies Helped Democrats
+【发布时间】2026-11-06T20:03:40.000Z
+【链接】https://www.nytimes.com/2026/11/06/business/farmers-election-trump-democrats.html
+
+------------------------------
+
+6. 他们花费数百万维持梦想游轮漂浮。无论如何，它还是死了。
+【摘要】保密、债务和燃油费飙升共同导致了Odyssey的没落。以下是关于“无尽游轮”是如何解开的内部视角。
+【原标题】They Spent Millions to Keep Their Dream Cruise Afloat. It Died Anyway.
+【发布时间】2026-11-06T18:58:23.000Z
+【链接】https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html
+
+------------------------------
+
+7. Tesla 终止 Cybertruck 生产并转向 Cybercab
+【摘要】Tesla 表示，电动卡车将在2027年中停产，以腾出空间增加其自动驾驶乘客车的产量，埃隆·马斯克说。
+【原标题】Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab
+【发布时间】2026-11-06T17:38:29.000Z
+【链接】https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html
+
+------------------------------
+
+8. 什么塑造了Anthropic CEO Dario Amodei对A.I.的思考
+【摘要】有人把他称为末日论者。另一些人把他视为负责任的技术人士。以下是Dario Amodei对人工智能思考是如何形成的。
+【原标题】What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.
+【发布时间】2026-11-06T17:09:36.000Z
+【链接】https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html
+
+------------------------------
+
+9. 这是最新的
+【摘要】无
+【原标题】Here’s the latest.
+【发布时间】2026-11-06T16:42:38.000Z
+【链接】https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/heres-the-latest
