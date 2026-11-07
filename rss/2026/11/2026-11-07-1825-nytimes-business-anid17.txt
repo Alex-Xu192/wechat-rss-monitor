@@ -1,0 +1,16 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-07T04:25:37.894Z - 2026-11-07T10:25:37.894Z
+【数量】1
+
+【本邮件新闻标题汇总】
+1. 美国批准向中国企业出售Nvidia芯片，这些企业办公室空置且与制裁相关的公司存在问题
+
+==============================
+
+1. 美国批准向中国企业出售Nvidia芯片，这些企业办公室空置且与制裁相关的公司存在问题
+【摘要】商务部批准数十家中国公司负责处理Nvidia H200芯片，其中一些与针对国家安全的制裁对象有关联。
+【原标题】U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties
+【发布时间】2026-11-07T10:00:40.000Z
+【链接】https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html
