@@ -1,0 +1,25 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-07T10:25:40.297Z - 2026-11-07T16:25:40.297Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 心脏病专家对两种药物的高期望落空
+2. 律所都有执业责任险，那它们的 AI 代理人也该投保吗？
+
+==============================
+
+1. 心脏病专家对两种药物的高期望落空
+【摘要】周六公布的完整数据显示，按各项指标衡量，这两种药物均不比安慰剂更好。是研究设计的问题，还是我们关于心脏病的基本假设出了问题？
+【原标题】How Cardiologists’ High Hopes for Two Drugs Were Dashed
+【发布时间】2026-11-07T14:50:04.000Z
+【链接】https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html
+
+------------------------------
+
+2. 律所都有执业责任险，那它们的 AI 代理人也该投保吗？
+【摘要】Crosby 是一家 AI 律所，它为它们购买了该保险。这一举动凸显出一个新兴的保险覆盖缺口，因为主要保险公司正努力应对与人工智能相关的风险。
+【原标题】Law Firms Have Malpractice Insurance. Should Their A.I. Agents?
+【发布时间】2026-11-07T13:00:06.000Z
+【链接】https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html
