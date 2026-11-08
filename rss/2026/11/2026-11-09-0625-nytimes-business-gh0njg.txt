@@ -1,0 +1,43 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-08T16:25:37.985Z - 2026-11-08T22:25:37.985Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 美国批准中国企业购买英伟达芯片，部分企业有令人担忧的关系。
+2. 鲁比奥警告官员关于英伟达CEO与中国特工的牵连
+3. 医保优势计划 vs. 传统医疗保险，详解
+4. 一只名叫奥利维亚的鸭子如何帮助华盛顿特区的鹅肝禁令通过
+
+==============================
+
+1. 美国批准中国企业购买英伟达芯片，部分企业有令人担忧的关系。
+【摘要】商务部门批准数十家中国企业处理英伟达的H200芯片，其中部分企业与因国家安全受到制裁的公司有关联。
+【原标题】U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties
+【发布时间】2026-11-08T21:48:22.000Z
+【链接】https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html
+
+------------------------------
+
+2. 鲁比奥警告官员关于英伟达CEO与中国特工的牵连
+【摘要】国务卿参与起草机密备忘录凸显了今年春天高层官员对黄仁勋与一名与中国情报机构有关联的女性之间存在关系的担忧。
+【原标题】Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy
+【发布时间】2026-11-08T21:11:51.000Z
+【链接】https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html
+
+------------------------------
+
+3. 医保优势计划 vs. 传统医疗保险，详解
+【摘要】当你加入退休健康计划时，这两种选项可能会造成财务难题。但成本只是其中一个因素。
+【原标题】Medicare Advantage vs. Traditional Medicare, Explained
+【发布时间】2026-11-08T20:35:27.000Z
+【链接】https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html
+
+------------------------------
+
+4. 一只名叫奥利维亚的鸭子如何帮助华盛顿特区的鹅肝禁令通过
+【摘要】第86号倡议禁止强制喂养鸟类和鹅肝销售，轻松通过，但餐饮业者和知名厨师们正在为一场战斗做准备。
+【原标题】How a Duck Named Olivia Helped Pass D.C.’s Foie Gras Ban
+【发布时间】2026-11-08T17:03:40.000Z
+【链接】https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html
