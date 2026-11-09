@@ -1,0 +1,79 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-09T16:25:36.456Z - 2026-11-09T22:25:36.456Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. 该国总统导致一家银行惊人崛起，并最终导致其衰落
+2. 油价在美伊和平希望支撑下下跌
+3. 在对 CEO Jensen Huang 进行调查后，Nvidia 股价下跌
+4. 中国驳斥涉及 Nvidia CEO Jensen Huang 的间谍指控
+5. 波音将裁减 5% 的商用飞机员工
+6. 反对人工智能的选民反弹真的能帮助经济吗？
+7. 在 Nvidia 干预后，美国商业部对 Megaspeed 的调查被暂停
+8. 20亿美元还不够挽救 Weil Gotshal
+
+==============================
+
+1. 该国总统导致一家银行惊人崛起，并最终导致其衰落
+【摘要】总检察官指控巴拉圭总统桑德罗·佩尼亚将近10亿美元的政府资金汇入 Ueno 银行，同时该银行高管做出鲁莽的内幕贷款。
+【原标题】A Country’s President Led to a Bank’s Stunning Rise, and Its Fall
+【发布时间】2026-11-09T21:26:15.000Z
+【链接】https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html
+
+------------------------------
+
+2. 油价在美伊和平希望支撑下下跌
+【摘要】全球基准价格自十月底以来下跌约每桶20美元，当时其交易价格约为113美元。
+【原标题】Oil Prices Fall on Hopes for Peace Between U.S. and Iran
+【发布时间】2026-11-09T21:24:16.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html
+
+------------------------------
+
+3. 在对 CEO Jensen Huang 进行调查后，Nvidia 股价下跌
+【摘要】Nvidia 的芯片制造商股价在 CEO Jensen Huang 承认与一名被怀疑为中国间谍的女性有关系后大幅下跌。
+【原标题】Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang
+【发布时间】2026-11-09T21:23:34.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html
+
+------------------------------
+
+4. 中国驳斥涉及 Nvidia CEO Jensen Huang 的间谍指控
+【摘要】这起争端加剧了人们对黄仁勋与北京之间关系的关注，并引发了亚洲各地不同反应，而在那里他广受欢迎。
+【原标题】China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang
+【发布时间】2026-11-09T20:18:47.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html
+
+------------------------------
+
+5. 波音将裁减 5% 的商用飞机员工
+【摘要】该公司表示，由于生产增长比预期更慢，它需要更少的工人。
+【原标题】Boeing Will Cut 5% of Commercial Plane Employees
+【发布时间】2026-11-09T20:00:31.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html
+
+------------------------------
+
+6. 反对人工智能的选民反弹真的能帮助经济吗？
+【摘要】选民的反弹可能威胁数据中心繁荣。一些经济学家认为这可能是一件好事。
+【原标题】Could the Voter Backlash Against A.I. Actually Help the Economy?
+【发布时间】2026-11-09T19:28:16.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html
+
+------------------------------
+
+7. 在 Nvidia 干预后，美国商业部对 Megaspeed 的调查被暂停
+【摘要】在一位 Nvidia 高管联系商业部官员后，对在新加坡的 Megaspeed 公司进行的调查被移交给司法部。
+【原标题】U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention
+【发布时间】2026-11-09T18:38:40.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html
+
+------------------------------
+
+8. 20亿美元还不够挽救 Weil Gotshal
+【摘要】这家成立 95 年的律师事务所最终解体，其中一个原因是未能适应“大法”行业吃掉或被吃掉的文化。
+【原标题】$2 Billion Wasn’t Enough to Save Weil Gotshal
+【发布时间】2026-11-09T17:35:50.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html
