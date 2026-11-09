@@ -1,0 +1,61 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-09T04:25:38.473Z - 2026-11-09T10:25:38.473Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 英伟达股价因首席执行官黄仁勋的调查可能下跌
+2. 参议员要求谷歌允许学校禁用搜索中的AI功能
+3. 巴拉圭银行倒闭事件牵涉到一名总统
+4. AI生成的名人广告获得泰瑞·克里斯的协助
+5. 购物者计划利用黑色星期五促销活动囤积必需品
+6. 威尔·歌萨尔律师事务所盈利，但盈利不足
+
+==============================
+
+1. 英伟达股价因首席执行官黄仁勋的调查可能下跌
+【摘要】这家芯片制造商在人工智能贸易中的规模和重要性意味着，黄仁勋承认与一名疑似中国间谍有关系可能在华尔街引起连锁反应。
+【原标题】Nvidia’s Stock Price Set to Drop After Investigation Into CEO Jensen Huang
+【发布时间】2026-11-09T10:23:53.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html
+
+------------------------------
+
+2. 参议员要求谷歌允许学校禁用搜索中的AI功能
+【摘要】马萨诸塞州参议员爱德华·J·马尔基在谷歌表示不会为学生使用搜索引擎关闭人工智能工具后，提出了这一要求。
+【原标题】Senator Tells Google to Let Schools Disable A.I. Features in Search
+【发布时间】2026-11-09T10:04:01.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/google-ai-school-features.html
+
+------------------------------
+
+3. 巴拉圭银行倒闭事件牵涉到一名总统
+【摘要】检察官指控总统圣地亚哥·佩尼亚将近10亿美元的政府资金转移到Ueno银行，因为该银行的执行官们发放了鲁莽的内幕贷款。
+【原标题】How a Bank Implosion in Paraguay Ensnared a President
+【发布时间】2026-11-09T10:02:40.000Z
+【链接】https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html
+
+------------------------------
+
+4. AI生成的名人广告获得泰瑞·克里斯的协助
+【摘要】奥美广告公司和CAA人才机构合作，创作了以数字版名人为特色的宣传片。
+【原标题】A.I.-Generated Celebrity Ads Get an Assist From Terry Crews
+【发布时间】2026-11-09T10:02:38.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/media/ogilvy-caa-ai-ads.html
+
+------------------------------
+
+5. 购物者计划利用黑色星期五促销活动囤积必需品
+【摘要】由于生活成本高昂，购物者预计会优先考虑性价比，无论是购买礼物还是为自己购买日常用品。
+【原标题】Shoppers to Use Black Friday Sales to Stock Up on Essentials
+【发布时间】2026-11-09T10:02:30.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html
+
+------------------------------
+
+6. 威尔·歌萨尔律师事务所盈利，但盈利不足
+【摘要】这家拥有95年历史的老牌律所最终解体，原因之一是未能适应大律所的“吞噬或被吞噬”的法则。
+【原标题】Weil Gotshal Was Profitable. But Not Profitable Enough.
+【发布时间】2026-11-09T10:02:24.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html
