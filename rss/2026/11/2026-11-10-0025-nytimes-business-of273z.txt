@@ -1,0 +1,88 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-09T10:25:38.301Z - 2026-11-09T16:25:38.301Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. 商务部芯片调查因英伟达干预而终止
+2. 英伟达股价因对首席执行官黄仁勋的调查而下跌
+3. 因希望美国和伊朗实现和平，油价下跌
+4. 因电费上涨引发的愤怒，NextEra和Dominion的巨额合并可能失败
+5. 医疗优势与传统医疗的区别
+6. 一个国家的总统推动了一家银行的惊人崛起，也导致了其衰落
+7. 黄仁勋有多不可或缺？
+8. 我的公司能否强迫我透露我的个人电子邮件地址？
+9. 中国否认与英伟达首席执行官黄仁勋相关的间谍指控
+
+==============================
+
+1. 商务部芯片调查因英伟达干预而终止
+【摘要】一名前英伟达高管与商务部官员联系后，一项针对购买英伟达先进AI芯片的新加坡公司Megaspeed的调查被移交给司法部。
+【原标题】Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention
+【发布时间】2026-11-09T16:02:52.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html
+
+------------------------------
+
+2. 英伟达股价因对首席执行官黄仁勋的调查而下跌
+【摘要】这家芯片制造商的规模及其对AI贸易的重要性意味着，黄仁勋承认与一名涉嫌为中国间谍的商人的关系可能会在华尔街引起共鸣。
+【原标题】Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang
+【发布时间】2026-11-09T15:57:46.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html
+
+------------------------------
+
+3. 因希望美国和伊朗实现和平，油价下跌
+【摘要】自10月下旬油价约为113美元以来，全球基准价格已下跌约每桶20美元。
+【原标题】Oil Prices Fall on Hopes for Peace Between U.S. and Iran
+【发布时间】2026-11-09T15:43:36.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html
+
+------------------------------
+
+4. 因电费上涨引发的愤怒，NextEra和Dominion的巨额合并可能失败
+【摘要】弗吉尼亚州的州领导人和居民反对NextEra收购多米尼翁能源公司，担心这将加速电费上涨。
+【原标题】Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills
+【发布时间】2026-11-09T15:18:30.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html
+
+------------------------------
+
+5. 医疗优势与传统医疗的区别
+【摘要】当您注册退休人员健康计划时，这两种选择会带来财务上的困惑。但成本只是其中一个因素。
+【原标题】Medicare Advantage vs. Traditional Medicare, Explained
+【发布时间】2026-11-09T15:01:25.000Z
+【链接】https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html
+
+------------------------------
+
+6. 一个国家的总统推动了一家银行的惊人崛起，也导致了其衰落
+【摘要】检察官指控巴拉圭总统桑地哥·佩尼亚将近10亿美元的政府资金转移到Ueno银行，因为该银行的高管做出了鲁莽的内幕交易。
+【原标题】A Country’s President Led to a Bank’s Stunning Rise, and Its Fall
+【发布时间】2026-11-09T14:43:11.000Z
+【链接】https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html
+
+------------------------------
+
+7. 黄仁勋有多不可或缺？
+【摘要】这位因与一名涉嫌中国间谍的罗曼关系而陷入困境的英伟达首席执行官的命运，对硅谷、华盛顿及其他地区都具有深远的影响。
+【原标题】How Indispensable Is Jensen Huang?
+【发布时间】2026-11-09T13:33:07.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html
+
+------------------------------
+
+8. 我的公司能否强迫我透露我的个人电子邮件地址？
+【摘要】此外：如何摆脱导师和新父母的冲突。
+【原标题】Can My Company Force Me to Reveal My Personal Email Address?
+【发布时间】2026-11-09T13:10:54.000Z
+【链接】https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html
+
+------------------------------
+
+9. 中国否认与英伟达首席执行官黄仁勋相关的间谍指控
+【摘要】这场争议加剧了对黄仁勋与北京关系的审查，并在他在亚洲广泛受欢迎的情况下引发了各界的不同反应。
+【原标题】China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang
+【发布时间】2026-11-09T12:33:37.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html
