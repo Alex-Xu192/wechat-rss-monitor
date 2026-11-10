@@ -1,0 +1,43 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-09T22:25:38.093Z - 2026-11-10T04:25:38.093Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 中国贸易顺差以创纪录速度突破1万亿美元
+2. 诉讼称共和党策略师 Alex Bruesewitz 从卡塔尔利益集团收取了资金
+3. Exxon 达成重返委内瑞拉的初步协议
+4. 在 Nvidia 干预后，美国商务部对 Megaspeed 的调查被叫停
+
+==============================
+
+1. 中国贸易顺差以创纪录速度突破1万亿美元
+【摘要】中国工厂正在全球寻找 eager buyers，但出口繁荣引发了人们对它对贸易伙伴国影响的担忧。
+【原标题】China’s Trade Surplus Passes $1 Trillion at Record Pace
+【发布时间】2026-11-10T04:00:06.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html
+
+------------------------------
+
+2. 诉讼称共和党策略师 Alex Bruesewitz 从卡塔尔利益集团收取了资金
+【摘要】该诉讼声称，向共和党策略师 Alex Bruesewitz 支付的任何款项都可能违反了联邦法律。他否认曾接受过此类资金。
+【原标题】Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests
+【发布时间】2026-11-10T02:32:06.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html
+
+------------------------------
+
+3. Exxon 达成重返委内瑞拉的初步协议
+【摘要】该协议使这家美国最大的石油公司距离再次在委内瑞拉开采石油更近了一步，这距离其离开该国已过去近二十年。
+【原标题】Exxon Strikes Preliminary Deal to Return to Venezuela
+【发布时间】2026-11-10T00:51:53.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html
+
+------------------------------
+
+4. 在 Nvidia 干预后，美国商务部对 Megaspeed 的调查被叫停
+【摘要】对一家正在购买先进 Nvidia A.I. 芯片的新加坡公司 Megaspeed 的调查，在一位 Nvidia 高管联系商务部官员后，被移交给了司法部。
+【原标题】U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention
+【发布时间】2026-11-09T23:27:05.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html
