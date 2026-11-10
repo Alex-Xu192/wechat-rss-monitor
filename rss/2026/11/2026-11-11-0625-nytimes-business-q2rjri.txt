@@ -1,0 +1,106 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-10T16:25:36.756Z - 2026-11-10T22:25:36.756Z
+【数量】11
+
+【本邮件新闻标题汇总】
+1. Anthropic 的巨额 IPO 将使其更接近英伟达
+2. 谁是英伟达间谍丑闻中的中间人艾丽丝·黄？
+3. 丰田计划在美国销售一款 Kei 皮卡
+4. 人气很高的水族馆屏保将离开 Roku
+5. Nvidia 聘请 Wachtell Lipton 调查首席执行官黄劲光与中国高管的不当关系
+6. Weil Gotshal 合伙人投票决定在近一个世纪后关闭
+7. 诉讼称共和策略师 Alex Bruesewitz 从卡塔尔利益中获得资金
+8. Anthropic 目标估值最高达 1.4 万亿美元的 IPO
+9. 数据显示家庭仍设法满足每月的债务偿还
+10. 通胀压力上升继续施压美联储提高利率
+11. 这家法律公司刚刚为其人工智能代理购买了医疗事故保险
+
+==============================
+
+1. Anthropic 的巨额 IPO 将使其更接近英伟达
+【摘要】英伟达计划在 IPO 的同时投资 100 亿美元，这是几家巨头对人工智能公司新出的财务承诺中最大的一笔。
+【原标题】Anthropic’s Giant IPO Will Tie It Closer to Nvidia
+【发布时间】2026-11-10T22:03:38.000Z
+【链接】https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html
+
+------------------------------
+
+2. 谁是英伟达间谍丑闻中的中间人艾丽丝·黄？
+【摘要】美国情报部门确定，她是中国资产，曾从上海金融的高飞世界转向与科技巨头合作，并获取关键的人工智能芯片。
+【原标题】Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?
+【发布时间】2026-11-10T21:12:38.000Z
+【链接】https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html
+
+------------------------------
+
+3. 丰田计划在美国销售一款 Kei 皮卡
+【摘要】该汽车制造商计划向美国消费者出售“Kei”皮卡，这种皮卡在日本和美国汽车爱好者中都很受欢迎。甚至唐纳德·特朗普也是粉丝。
+【原标题】Toyota Plans to Sell a Kei Pickup Truck in the U.S.
+【发布时间】2026-11-10T21:11:36.000Z
+【链接】https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html
+
+------------------------------
+
+4. 人气很高的水族馆屏保将离开 Roku
+【摘要】《Aquatic Life》展示，即电视流媒体疯狂世界中令人欢迎的宁静时刻，将于 12 月 1 日关闭，因为其设计师撤回了许可。
+【原标题】A Fan-Favorite Aquarium Screen Saver Is Leaving Roku
+【发布时间】2026-11-10T21:04:43.000Z
+【链接】https://www.nytimes.com/2026/11/10/business/roku-aquatic-life-screensaver-fox.html
+
+------------------------------
+
+5. Nvidia 聘请 Wachtell Lipton 调查首席执行官黄劲光与中国高管的不当关系
+【摘要】Wachtell 的合伙人 Joon H. Kim（前美国代理检察官）正在领导对这家芯片制造公司首席执行官的调查。
+【原标题】Nvidia Hires Wachtell Lipton to Investigate CEO Jensen Huang’s Affair With Chinese Executive
+【发布时间】2026-11-10T19:33:36.000Z
+【链接】https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html
+
+------------------------------
+
+6. Weil Gotshal 合伙人投票决定在近一个世纪后关闭
+【摘要】这家大型法律公司以强大破产业务而闻名，但随着知名合伙人转向其他公司，它开始分崩离析。
+【原标题】Weil Gotshal Partners Vote to Shut Down After Nearly a Century
+【发布时间】2026-11-10T18:02:58.000Z
+【链接】https://www.nytimes.com/2026/11/10/business/weil-gotshal-shut-down.html
+
+------------------------------
+
+7. 诉讼称共和策略师 Alex Bruesewitz 从卡塔尔利益中获得资金
+【摘要】该诉讼声称，向共和策略师 Alex Bruesewitz 支付的任何款项都可能违反联邦法律。他否认曾接受此类资金。
+【原标题】Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests
+【发布时间】2026-11-10T17:57:38.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html
+
+------------------------------
+
+8. Anthropic 目标估值最高达 1.4 万亿美元的 IPO
+【摘要】这家人工智能公司的定价将使其成为史上最大规模的上市之一。这发生在市场动荡之际，投资者对人工智能繁荣的可持续性提出质疑。
+【原标题】Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.
+【发布时间】2026-11-10T17:32:10.000Z
+【链接】https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html
+
+------------------------------
+
+9. 数据显示家庭仍设法满足每月的债务偿还
+【摘要】纽约联邦储备银行详细说明了汽车、学生贷款和抵押贷款的债务偿还总体上保持稳定。
+【原标题】Data Show Households Still Managing to Meet Their Monthly Debts
+【发布时间】2026-11-10T17:25:51.000Z
+【链接】https://www.nytimes.com/2026/11/10/business/economy/household-debt-real-estate-home-equity.html
+
+------------------------------
+
+10. 通胀压力上升继续施压美联储提高利率
+【摘要】10 月消费者价格指数报告显示，价格压力范围扩大，这增加了对美联储控制通胀能力的担忧。
+【原标题】Elevated Inflation Keeps Pressure on Fed to Raise Rates
+【发布时间】2026-11-10T17:18:01.000Z
+【链接】https://www.nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html
+
+------------------------------
+
+11. 这家法律公司刚刚为其人工智能代理购买了医疗事故保险
+【摘要】这家名为 Crosby 的人工智能法律公司的做法，反映了在主要保险公司努力应对与人工智能相关的风险时，保障范围中尚存在空白。
+【原标题】This Law Firm Just Bought Malpractice Insurance for its A.I. Agents
+【发布时间】2026-11-10T16:28:16.000Z
+【链接】https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html
