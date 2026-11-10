@@ -1,0 +1,88 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-10T10:25:39.457Z - 2026-11-10T16:25:39.457Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. 高通胀持续给美联储施加加息压力
+2. 以下是最新进展。
+3. 11月油价大幅下跌。原因如下。
+4. 受粉丝喜爱的水族馆屏幕保护程序将退出 Roku
+5. Anthropic 计划通过重磅 IPO 实现高达 1.4 万亿美元的估值
+6. 加州亿万富翁税的失败给进步派议程带来沉重打击
+7. 英伟达的“权力游戏”
+8. 为什么美国的商业交易不太可能让普京做出任何让步
+9. 为什么去年的政府停摆会困扰10月的通胀数据
+
+==============================
+
+1. 高通胀持续给美联储施加加息压力
+【摘要】10月份的消费者价格指数（CPI）报告显示，价格压力正在扩大，这加剧了人们对美联储控制通胀能力的担忧。
+【原标题】Elevated Inflation Keeps Pressure on Fed to Raise Rates
+【发布时间】2026-11-10T16:14:53.000Z
+【链接】https://www.nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html
+
+------------------------------
+
+2. 以下是最新进展。
+【摘要】暂无详细摘要。
+【原标题】Here’s the latest.
+【发布时间】2026-11-10T16:14:17.000Z
+【链接】https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-the-latest
+
+------------------------------
+
+3. 11月油价大幅下跌。原因如下。
+【摘要】自10月下旬（当时交易价格约为每桶113美元）以来，全球基准油价已下跌超过每桶20美元。
+【原标题】Oil Prices Have Tumbled in November. Here’s Why.
+【发布时间】2026-11-10T15:59:29.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html
+
+------------------------------
+
+4. 受粉丝喜爱的水族馆屏幕保护程序将退出 Roku
+【摘要】“水生生物”（Aquatic Life）展示界面在电视流媒体疯狂的世界中带来了一段令人愉悦的禅意时刻。但在其设计者撤销许可后，该界面将于12月1日停止显示。
+【原标题】A Fan-Favorite Aquarium Screen Saver Is Leaving Roku
+【发布时间】2026-11-10T15:41:01.000Z
+【链接】https://www.nytimes.com/2026/11/10/business/roku-aquatic-life-screensaver-fox.html
+
+------------------------------
+
+5. Anthropic 计划通过重磅 IPO 实现高达 1.4 万亿美元的估值
+【摘要】这家人工智能公司的定价将使其成为有史以来最大的公开上市之一。当前市场波动剧烈，投资者对人工智能繁荣的可持续性提出质疑，此时进行上市恰逢其时。
+【原标题】Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.
+【发布时间】2026-11-10T15:39:57.000Z
+【链接】https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html
+
+------------------------------
+
+6. 加州亿万富翁税的失败给进步派议程带来沉重打击
+【摘要】对亿万富翁征收财富税似乎是一项政治上的轻松得分之举。但加州一项投票倡议的结果表明，事实并非如此。
+【原标题】Failure of California Billionaire Tax Strikes Blow to Progressive Agenda
+【发布时间】2026-11-10T15:10:43.000Z
+【链接】https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html
+
+------------------------------
+
+7. 英伟达的“权力游戏”
+【摘要】分析师和投资者们正在质疑，这家芯片制造商是否需要考虑为其首席执行官黄仁勋（Jensen Huang）寻找接班人，因为该公司正陷入一场间谍丑闻之中。
+【原标题】Nvidia’s Game of Thrones
+【发布时间】2026-11-10T13:21:38.000Z
+【链接】https://www.nytimes.com/2026/11/10/business/dealbook/nvidia-huang-succession.html
+
+------------------------------
+
+8. 为什么美国的商业交易不太可能让普京做出任何让步
+【摘要】分析师称，俄罗斯总统弗拉基米尔·V·普京已表现出愿意承受高昂代价以在乌克兰实现其目标的意愿，且他认为现在没有理由停止战斗。
+【原标题】Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground
+【发布时间】2026-11-10T12:51:02.000Z
+【链接】https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html
+
+------------------------------
+
+9. 为什么去年的政府停摆会困扰10月的通胀数据
+【摘要】暂无详细摘要。
+【原标题】Here’s why last year’s government shutdown will haunt October’s inflation data.
+【发布时间】2026-11-10T10:48:00.000Z
+【链接】https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-why-last-years-government-shutdown-will-haunt-octobers-inflation-data
