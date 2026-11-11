@@ -1,0 +1,34 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-10T22:25:38.395Z - 2026-11-11T04:25:38.395Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 诉讼称共和党战略家 Alex Bruesewitz 从卡塔尔利益收取金钱
+2. 疑似中国间谍获取 Nvidia 芯片
+3. 丰田计划在美国销售 Kei 小型皮卡车
+
+==============================
+
+1. 诉讼称共和党战略家 Alex Bruesewitz 从卡塔尔利益收取金钱
+【摘要】诉讼指控任何向 Alex Bruesewitz（共和党战略家）的付款可能违反联邦法律。他否认曾收取此类资金。
+【原标题】Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests
+【发布时间】2026-11-11T02:17:11.000Z
+【链接】https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html
+
+------------------------------
+
+2. 疑似中国间谍获取 Nvidia 芯片
+【摘要】美国情报机构将一名女子认定为中国间谍，她与 Nvidia 首席执行官 Jensen Huang 的关系可追溯至至少 2023 年。Ana Swanson，我们的贸易与经济记者，解释了新照片显示的内容。
+【原标题】How a Suspected Chinese Spy Gained Access to Nvidia Chips
+【发布时间】2026-11-11T02:10:37.000Z
+【链接】https://www.nytimes.com/video/business/100000011273241/alice-huang-nvidia-china-spy.html
+
+------------------------------
+
+3. 丰田计划在美国销售 Kei 小型皮卡车
+【摘要】该车企计划向美国消费者销售“Kei”轻型皮卡车，这些车在日本以及美国汽车爱好者中极受欢迎。即便是特朗普总统也是其粉丝。
+【原标题】Toyota Plans to Sell a Kei Pickup Truck in the U.S.
+【发布时间】2026-11-10T22:58:31.000Z
+【链接】https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html
