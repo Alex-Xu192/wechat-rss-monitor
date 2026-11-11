@@ -1,0 +1,61 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-11T04:25:38.399Z - 2026-11-11T10:25:38.399Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 今年冬季供暖费用平均将上涨7%
+2. 这位交易员早在数月前就警告了Nvidia在中国的纠纷
+3. $150的感恩节派？朴素甜点主食变贵了。
+4. Entertainment 360 收购了 Brigade，一家充斥 Substackers 的管理公司
+5. 医院为 Medicaid 工作规则和深度资金削减做好准备
+6. 美国将缺席土耳其的 COP31
+
+==============================
+
+1. 今年冬季供暖费用平均将上涨7%
+【摘要】使用取暖油的人将看到约70%的增长，因为伊朗战争极大降低了该燃料的供应。
+【原标题】Heating Costs Will Rise 7% on Average This Winter
+【发布时间】2026-11-11T10:04:21.000Z
+【链接】https://www.nytimes.com/2026/11/11/business/energy-environment/winter-heating-oil-costs.html
+
+------------------------------
+
+2. 这位交易员早在数月前就警告了Nvidia在中国的纠纷
+【摘要】31岁的空头卖家兼交易员Christian Lamarco在五月警告了Nvidia的财务和个人问题。
+【原标题】This Trader Raised Alarm About Nvidia’s China Entanglements Months Ago
+【发布时间】2026-11-11T10:03:56.000Z
+【链接】https://www.nytimes.com/2026/11/11/business/nvidia-megaspeed-christian-lamarco.html
+
+------------------------------
+
+3. $150的感恩节派？朴素甜点主食变贵了。
+【摘要】本季，烘焙师为结合精致制作和高端原料的豪华版本收取三位数价格，并非人人都接受。
+【原标题】$150 for a Thanksgiving Pie? A Humble Dessert Staple Gets Pricey.
+【发布时间】2026-11-11T10:02:46.000Z
+【链接】https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html
+
+------------------------------
+
+4. Entertainment 360 收购了 Brigade，一家充斥 Substackers 的管理公司
+【摘要】随着收购 Brigade，这家小型人才公司，Substack 作家和播客主持人现在由与电影明星同属一公司的公司管理。
+【原标题】Entertainment 360 Acquires Brigade, a Management Firm Rich in Substackers
+【发布时间】2026-11-11T10:01:58.000Z
+【链接】https://www.nytimes.com/2026/11/11/style/brigade-entertainment-360-acquisition-max-stein.html
+
+------------------------------
+
+5. 医院为 Medicaid 工作规则和深度资金削减做好准备
+【摘要】医疗体系正竭力引导数百万患者通过新设的资格门槛，计划于1月1日生效。
+【原标题】Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts
+【发布时间】2026-11-11T10:01:41.000Z
+【链接】https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html
+
+------------------------------
+
+6. 美国将缺席土耳其的 COP31
+【摘要】特朗普拒绝派美国代表团参加土耳其的联合国气候峰会。
+【原标题】The United States Is Skipping COP31 in Turkey
+【发布时间】2026-11-11T08:21:07.000Z
+【链接】https://www.nytimes.com/2026/11/11/climate/trump-cop31-climate-turkey.html
