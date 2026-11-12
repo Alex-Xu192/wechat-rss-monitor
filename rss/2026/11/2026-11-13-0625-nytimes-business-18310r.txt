@@ -1,0 +1,151 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-12T16:25:36.633Z - 2026-11-12T22:25:36.633Z
+【数量】16
+
+【本邮件新闻标题汇总】
+1. 以下是最新消息。
+2. 服务中断导致Outlook、Teams和更多Microsoft程序出现故障
+3. Jensen Huang辞任CEO后Nvidia股价暴跌
+4. Jensen Huang，Nvidia被解职的CEO，曾是推动美国经济的AI热潮的“门面”
+5. SpaceX计划在得克萨斯州和亚利桑那州投资740亿美元建设数据中心
+6. 可负担性挑战持续，抵押贷款利率仍处高位
+7. 这名交易员数月前就Nvidia的中国牵连发出警告
+8. 新加坡称美国在对Alice Huang和Megaspeed的调查中并未提供帮助
+9. 一个感恩节派要150美元？一款平凡的甜点必备品变得昂贵
+10. 接替Jensen Huang出任Nvidia临时CEO的Colette Kress是谁？
+11. 美联储在2027年10月会议中将不进行政策投票
+12. 您想了解《纽约时报》新闻业与人工智能的哪些方面？
+13. 颠覆Nvidia的Jensen Huang桃色事件：事件时间线
+14. Jensen Huang加入不断壮大的“因桃色事件倒下的CEO”俱乐部
+15. Jensen Huang辞去Nvidia职务可能使数十亿美元慈善捐赠复杂化
+16. 医院为Medicaid工作要求和大幅资金削减做准备
+
+==============================
+
+1. 以下是最新消息。
+【摘要】原 RSS 未提供摘要
+【原标题】Here’s the latest.
+【发布时间】2026-11-12T22:16:10.000Z
+【链接】https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns/heres-the-latest
+
+------------------------------
+
+2. 服务中断导致Outlook、Teams和更多Microsoft程序出现故障
+【摘要】该公司表示，部分服务器意外不可用，导致剩余基础设施承压，并正在努力让用户恢复上线。
+【原标题】Outlook, Teams and More Microsoft Programs Disrupted by Outage
+【发布时间】2026-11-12T21:49:53.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html
+
+------------------------------
+
+3. Jensen Huang辞任CEO后Nvidia股价暴跌
+【摘要】芯片制造商首席执行官Jensen Huang辞职的消息令Nvidia股价下跌，不过大盘小幅上涨。
+【原标题】Nvidia Stock Tumbles After Jensen Huang Resigns as CEO
+【发布时间】2026-11-12T21:15:17.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html
+
+------------------------------
+
+4. Jensen Huang，Nvidia被解职的CEO，曾是推动美国经济的AI热潮的“门面”
+【摘要】这位被解职的Nvidia掌门人是推动经济增长的投资活动独特的言论和资金推手。
+【原标题】Jensen Huang, Nvidia’s Ousted CEO, Was the Face of the A.I. Boom Powering the U.S. Economy
+【发布时间】2026-11-12T21:05:50.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html
+
+------------------------------
+
+5. SpaceX计划在得克萨斯州和亚利桑那州投资740亿美元建设数据中心
+【摘要】Elon Musk的火箭和人工智能公司已投入数十亿美元开发为这些技术提供算力的大型服务器仓库。
+【原标题】SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona
+【发布时间】2026-11-12T19:45:26.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/spacex-data-center.html
+
+------------------------------
+
+6. 可负担性挑战持续，抵押贷款利率仍处高位
+【摘要】30年期固定利率住房贷款平均利率小幅下降至7.11%，但在情况改善前，买家和卖家仍在观望。
+【原标题】Mortgage Rates Remain High as Affordability Challenges Persist
+【发布时间】2026-11-12T19:42:30.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html
+
+------------------------------
+
+7. 这名交易员数月前就Nvidia的中国牵连发出警告
+【摘要】31岁的做空者和交易员Christian Lamarco于5月对Nvidia的财务和个人问题发出警告。
+【原标题】This Trader Raised Alarm About Nvidia’s China Entanglements Months Ago
+【发布时间】2026-11-12T19:29:52.000Z
+【链接】https://www.nytimes.com/2026/11/11/business/nvidia-megaspeed-christian-lamarco.html
+
+------------------------------
+
+8. 新加坡称美国在对Alice Huang和Megaspeed的调查中并未提供帮助
+【摘要】新加坡在一份声明中表示，在特朗普总统获悉Alice Huang是间谍数月后，新加坡仍扣留了她的护照。
+【原标题】Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed
+【发布时间】2026-11-12T19:19:40.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html
+
+------------------------------
+
+9. 一个感恩节派要150美元？一款平凡的甜点必备品变得昂贵
+【摘要】今年这个季节，面包师们正在对奢华版本收取三位数价格，这些版本结合精细制作和高档原料。并非所有人都买账。
+【原标题】$150 for a Thanksgiving Pie? A Humble Dessert Staple Gets Pricey.
+【发布时间】2026-11-12T19:02:30.000Z
+【链接】https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html
+
+------------------------------
+
+10. 接替Jensen Huang出任Nvidia临时CEO的Colette Kress是谁？
+【摘要】克雷斯女士是该公司首席财务官，2013年加入Nvidia。
+【原标题】Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?
+【发布时间】2026-11-12T18:54:11.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html
+
+------------------------------
+
+11. 美联储在2027年10月会议中将不进行政策投票
+【摘要】美联储主席Kevin M. Warsh计划改变央行的运作方式，将明年10月改为战略会议只是其更广泛计划的第一步。
+【原标题】Fed Will Not Hold Policy Vote at October 2027 Meeting
+【发布时间】2026-11-12T18:51:05.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html
+
+------------------------------
+
+12. 您想了解《纽约时报》新闻业与人工智能的哪些方面？
+【摘要】《纽约时报》记者希望回答您关于我们如何在报道中使用人工智能的问题。
+【原标题】What Do You Want to Know About New York Times Journalism and A.I.?
+【发布时间】2026-11-12T18:05:44.000Z
+【链接】https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html
+
+------------------------------
+
+13. 颠覆Nvidia的Jensen Huang桃色事件：事件时间线
+【摘要】Nvidia联合创始人Jensen Huang被怀疑与中国间谍有关系的消息，以及他与一名向他汇报的高管的婚外情，促使他离开这家市值数万亿美元的公司。
+【原标题】Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events
+【发布时间】2026-11-12T18:04:05.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html
+
+------------------------------
+
+14. Jensen Huang加入不断壮大的“因桃色事件倒下的CEO”俱乐部
+【摘要】这位Nvidia创始人兼首席执行官周四辞职；他是一群因私人关系和性关系而陷入麻烦的顶级老板之一。
+【原标题】Jensen Huang Joins a Growing Club: C.E.O.s Brought Down by Affairs
+【发布时间】2026-11-12T17:33:35.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html
+
+------------------------------
+
+15. Jensen Huang辞去Nvidia职务可能使数十亿美元慈善捐赠复杂化
+【摘要】该公司联合创始人Jensen Huang及其妻子管理着一个拥有约90亿美元资产的慈善基金会。
+【原标题】Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving
+【发布时间】2026-11-12T17:26:06.000Z
+【链接】https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html
+
+------------------------------
+
+16. 医院为Medicaid工作要求和大幅资金削减做准备
+【摘要】各医疗系统正在竞相引导数百万患者跨越新的资格审核障碍，这些规定定于1月1日生效。
+【原标题】Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts
+【发布时间】2026-11-12T17:07:15.000Z
+【链接】https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html
