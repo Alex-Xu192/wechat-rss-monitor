@@ -1,0 +1,34 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-11T22:25:38.355Z - 2026-11-12T04:25:38.355Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. Nvidia 股价暴跌，董事会据称考虑了 CEO Jensen Huang 的未来
+2. 据称 Jensen Huang 与向他汇报的 Nvidia 高管有过关系
+3. United Airlines 阻止 A.I. 代理预订航班
+
+==============================
+
+1. Nvidia 股价暴跌，董事会据称考虑了 CEO Jensen Huang 的未来
+【摘要】关于 Jensen Huang 职位的董事会审议消息导致 Nvidia 在盘后交易中股价下跌超过 8%。
+【原标题】Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang, CEO’s, Future
+【发布时间】2026-11-12T02:40:15.000Z
+【链接】https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html
+
+------------------------------
+
+2. 据称 Jensen Huang 与向他汇报的 Nvidia 高管有过关系
+【摘要】Jensen Huang 先生，即 Nvidia 首席执行官，已因与一位中国商业女士的婚外情而面临审查，美国情报部门据称认定她是中国间谍。
+【原标题】Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him
+【发布时间】2026-11-12T01:57:34.000Z
+【链接】https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html
+
+------------------------------
+
+3. United Airlines 阻止 A.I. 代理预订航班
+【摘要】该航空公司表示，为保护客户信息并遵守法规，它不允许数字助手登录账户或管理预订。
+【原标题】United Airlines Blocks A.I. Agents From Booking Flights
+【发布时间】2026-11-11T23:15:31.000Z
+【链接】https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html
