@@ -1,0 +1,43 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-12T04:25:38.332Z - 2026-11-12T10:25:38.332Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 尽管中期选举，数据中心仍将继续建设。
+2. 帮助！我的飞机因破损的厕所被吊销，航空公司不愿为酒店支付费用。
+3. 想做空股票？Kalshi 和 C.T.F.C. 允许它作为永续交易吗？
+4. 科技巨头投资德国机器人初创公司 Agile Robots，估值8.5亿美元，计划在美国扩张并在欧洲增加产量。
+
+==============================
+
+1. 尽管中期选举，数据中心仍将继续建设。
+【摘要】大型科技公司发现对其巨大的AI项目趋势逆风，但它们有能力应对延误。
+【原标题】Data Centers Will Continue to Be Built, Despite Midterm Elections
+【发布时间】2026-11-12T10:03:40.000Z
+【链接】https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html
+
+------------------------------
+
+2. 帮助！我的飞机因破损的厕所被吊销，航空公司不愿为酒店支付费用。
+【摘要】土耳其航空公司试图逃避为乘客支付512美元过夜住宿费用，因为胃痛导致的故障迫使其取消了丹佛航班。
+【原标题】Help! A Broken Toilet Grounded My Plane, and the Airline Won’t Cover a Hotel.
+【发布时间】2026-11-12T10:02:35.000Z
+【链接】https://www.nytimes.com/2026/11/12/travel/turkish-airlines-flight-delay-hotel-refund.html
+
+------------------------------
+
+3. 想做空股票？Kalshi 和 C.T.F.C. 允许它作为永续交易吗？
+【摘要】在联邦监管机构批准投机股票和加密货币后，两家强大的交易清算公司起诉称交易者未能得到足够的保护。
+【原标题】Want to Short a Stock? Kalshi and C.T.F.C. Allow It as ‘Perpetual Trades.’
+【发布时间】2026-11-12T10:02:29.000Z
+【链接】https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html
+
+------------------------------
+
+4. 科技巨头投资德国机器人初创公司 Agile Robots，估值8.5亿美元，计划在美国扩张并在欧洲增加产量。
+【摘要】Agile Robots计划在美国扩大运营并在欧洲提高生产量，此前通过由SoftBank领导的融资轮筹集资金。
+【原标题】Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation
+【发布时间】2026-11-12T05:45:05.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html
