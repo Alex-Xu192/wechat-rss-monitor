@@ -1,0 +1,34 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-13T04:25:38.935Z - 2026-11-13T10:25:38.935Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 民主党考虑对白宫预算权限实施严格新限制
+2. 一人致力于打造完美威士忌杯的探索
+3. Outlook, Teams 以及更多 Microsoft 程序受故障影响
+
+==============================
+
+1. 民主党考虑对白宫预算权限实施严格新限制
+【摘要】即将上任的多数派还计划对白宫预算局局长进行激进监督，似乎正试图任命一位盟友来监督联邦支出的处理。
+【原标题】Democrats Eye Strict New Limits on White House Budget Powers
+【发布时间】2026-11-13T10:03:55.000Z
+【链接】https://www.nytimes.com/2026/11/13/business/democrats-eye-strict-new-limits-on-white-house-budget-powers.html
+
+------------------------------
+
+2. 一人致力于打造完美威士忌杯的探索
+【摘要】一位奥地利设计师正推出一款旨在解决鉴赏家们陈旧问题的版本：如何防止酒精掩盖香气。
+【原标题】One Man’s Quest to Create the Perfect Whiskey Glass
+【发布时间】2026-11-13T10:03:25.000Z
+【链接】https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html
+
+------------------------------
+
+3. Outlook, Teams 以及更多 Microsoft 程序受故障影响
+【摘要】影响数亿用户的软件在全球范围内引起了广泛困扰。该公司表示，其修复问题的努力进展不如预期。
+【原标题】Outlook, Teams and More Microsoft Programs Disrupted by Outage
+【发布时间】2026-11-13T09:13:27.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html
