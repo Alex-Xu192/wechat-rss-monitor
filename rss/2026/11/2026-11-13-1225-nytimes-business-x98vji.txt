@@ -1,0 +1,52 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-12T22:25:38.504Z - 2026-11-13T04:25:38.504Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 微软 Outlook、Teams 及其他程序因服务中断受阻
+2. 黄仁勋加入不断壮大的行列：因婚外情而垮台的 CEO
+3. 随着要求加强管控的呼声日涨，卢特尼克对英伟达采取更温和立场
+4. 黄仁勋与卢特尼克被传唤在国会作证
+5. 英伟达丑闻引发海量 AI 生成表情包
+
+==============================
+
+1. 微软 Outlook、Teams 及其他程序因服务中断受阻
+【摘要】本次中断始于周四下午早些时候，给全球各地的办公室、机构和個人带来了问题。
+【原标题】Outlook, Teams and More Microsoft Programs Disrupted by Outage
+【发布时间】2026-11-13T03:03:35.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html
+
+------------------------------
+
+2. 黄仁勋加入不断壮大的行列：因婚外情而垮台的 CEO
+【摘要】这位于周四辞职的英伟达创始人兼首席执行官，是那些因个人关系和性接触而陷入麻烦的顶级高管之一。
+【原标题】Jensen Huang Joins a Growing Club: C.E.O.s Brought Down by Affairs
+【发布时间】2026-11-13T01:56:22.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html
+
+------------------------------
+
+3. 随着要求加强管控的呼声日涨，卢特尼克对英伟达采取更温和立场
+【摘要】批评人士称，商务部长霍华德·卢特尼克及其部门庇护了英伟达，因为人们越来越担心向 Megaspeed 等公司的 AI 芯片销售。
+【原标题】Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew
+【发布时间】2026-11-13T01:28:40.000Z
+【链接】https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html
+
+------------------------------
+
+4. 黄仁勋与卢特尼克被传唤在国会作证
+【摘要】参议员蒂姆·斯科特表示，他曾要求英伟达联合创始人和商务部长出席参议院银行委员会作证。
+【原标题】Huang and Lutnick Summoned to Testify Before Congress
+【发布时间】2026-11-13T01:10:19.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/jensen-huang-howard-lutnick-testify-capitol-hill.html
+
+------------------------------
+
+5. 英伟达丑闻引发海量 AI 生成表情包
+【摘要】围绕因婚外情从英伟达辞职的黄仁勋的披露，激发了社交媒体帖子，动用的正是其公司协助开发的技术。
+【原标题】Nvidia Scandal Unleashes a Flood of AI-Generated Memes
+【发布时间】2026-11-12T22:54:19.000Z
+【链接】https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html
