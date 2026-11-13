@@ -1,0 +1,52 @@
+BBC World - 中文新闻汇总
+
+【来源】BBC World
+【时间】2026-11-13T10:26:00.800Z - 2026-11-13T16:26:00.800Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 为什么微软的中断持续时间这么长？
+2. 联合国监督机构日益担忧伊朗未检查的核设施
+3. 英伟达的性丑事给白宫施加压力
+4. 观看：服务器中断如何导致微软 Teams 和 Outlook 下线
+5. 四名学生在期末考试派对身亡，尼日利亚大学哀悼
+
+==============================
+
+1. 为什么微软的中断持续时间这么长？
+【摘要】微软表示，在全球中断之后，它正看到“改进”，但完全恢复服务的工作仍在进行中
+【原标题】Why is the Microsoft outage lasting so long?
+【发布时间】2026-11-13T14:21:26.000Z
+【链接】https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 联合国监督机构日益担忧伊朗未检查的核设施
+【摘要】它称，迄今从未能够访问伊朗一年多前宣布的伊朗伊斯法罕铀浓缩厂
+【原标题】UN watchdog 'increasingly concerned' over uninspected Iran nuclear site
+【发布时间】2026-11-13T12:28:28.000Z
+【链接】https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. 英伟达的性丑事给白宫施加压力
+【摘要】英伟达CEO黄仁勋的个人生活可能引发了危机，但问题现在已经触及白宫本身
+【原标题】How a sex scandal at Nvidia is putting pressure on the White House
+【发布时间】2026-11-13T12:22:30.000Z
+【链接】https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+4. 观看：服务器中断如何导致微软 Teams 和 Outlook 下线
+【摘要】微软的中断影响了包括 Teams、Outlook 和 AI 软件 Copilot 在内的服务
+【原标题】Watch: How a server outage took down Microsoft Teams and Outlook
+【发布时间】2026-11-13T11:43:27.000Z
+【链接】https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+5. 四名学生在期末考试派对身亡，尼日利亚大学哀悼
+【摘要】大学已取消所有派对，目前正进行调查以查明学生死亡原因
+【原标题】Nigerian university in mourning after four students die at post-exam party
+【发布时间】2026-11-13T11:37:08.000Z
+【链接】https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss
