@@ -1,0 +1,106 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-13T16:25:35.496Z - 2026-11-13T22:25:35.496Z
+【数量】11
+
+【本邮件新闻标题汇总】
+1. 微软全球宕机及修复：已知情况
+2. 深入微软全球宕机后抢修上线的内幕
+3. 尽管英伟达股价下跌，股市仍推进上涨
+4. 英伟达丑闻引发AI生成表情包洪流
+5. 为什么黄仁勋对英伟达的崛起至关重要
+6. 英伟达CEO被罢免后，华尔街失去一位强力交易达人
+7. 微软称扰乱Outlook的宕机正在好转
+8. 民主党瞄准对白宫预算权力的严格新限制
+9. 亚裔美国人分享黄仁勋丑闻后的失望与恐惧
+10. 贝森特指责商务部未将Megaspeed列入黑名单
+11. 黄仁勋辞去英伟达职务令AI初创企业界担忧
+
+==============================
+
+1. 微软全球宕机及修复：已知情况
+【摘要】该公司描述称，在克服第二天电子邮件、消息传递和其他服务中断的努力中取得了“令人鼓舞”的进展。
+【原标题】Microsoft’s Global Outage and Fixes: What We Know
+【发布时间】2026-11-13T22:19:13.000Z
+【链接】https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html
+
+------------------------------
+
+2. 深入微软全球宕机后抢修上线的内幕
+【摘要】长时间的宕机导致许多人无法使用电子邮件和其他服务，这再次提醒我们，世界的技术基础设施依赖于寥寥几家公司。
+【原标题】Inside Microsoft’s Rush to Get Back Online After a Global Outage
+【发布时间】2026-11-13T21:28:58.000Z
+【链接】https://www.nytimes.com/2026/11/13/business/microsoft-outage.html
+
+------------------------------
+
+3. 尽管英伟达股价下跌，股市仍推进上涨
+【摘要】在公司首席执行官被罢免后英伟达股价下跌，但这种跌势并未蔓延至市场其他板块，股票总体守住了阵地。
+【原标题】Despite Nvidia’s Drop, Stocks Push Ahead
+【发布时间】2026-11-13T21:16:55.000Z
+【链接】https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html
+
+------------------------------
+
+4. 英伟达丑闻引发AI生成表情包洪流
+【摘要】围绕黄仁勋因婚外情辞去英伟达职务的披露，激发了社交媒体帖子使用其公司帮助开发的技术制作表情包。
+【原标题】Nvidia Scandal Unleashes a Flood of AI-Generated Memes
+【发布时间】2026-11-13T21:04:57.000Z
+【链接】https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html
+
+------------------------------
+
+5. 为什么黄仁勋对英伟达的崛起至关重要
+【摘要】黄仁勋是英伟达的核心驱动力，拥有60名直接下属且没有明确的继任计划。我们的科技记者Tripp Mickle探讨了黄先生在公司和人工智能行业中的核心作用。
+【原标题】Why Jensen Huang Was Essential to Nvidia’s Rise
+【发布时间】2026-11-13T20:14:05.000Z
+【链接】https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html
+
+------------------------------
+
+6. 英伟达CEO被罢免后，华尔街失去一位强力交易达人
+【摘要】被罢免的英伟达首席执行官是引领万亿美元人工智能建设的完美交易达人。
+【原标题】Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted
+【发布时间】2026-11-13T19:52:01.000Z
+【链接】https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html
+
+------------------------------
+
+7. 微软称扰乱Outlook的宕机正在好转
+【摘要】全球医疗服务、学校、警察部门和公司报告工作中断。原因尚不清楚，但微软似乎排除了网络攻击。
+【原标题】Microsoft Says Outage Disrupting Outlook Is Improving
+【发布时间】2026-11-13T18:05:44.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html
+
+------------------------------
+
+8. 民主党瞄准对白宫预算权力的严格新限制
+【摘要】即将成为多数党的民主党还计划对白宫预算主任进行激进监督，后者似乎正在努力安插一名盟友监督预算办公室对联邦支出的处理。
+【原标题】Democrats Eye Strict New Limits on White House Budget Powers
+【发布时间】2026-11-13T17:09:55.000Z
+【链接】https://www.nytimes.com/2026/11/13/business/democrats-eye-strict-new-limits-on-white-house-budget-powers.html
+
+------------------------------
+
+9. 亚裔美国人分享黄仁勋丑闻后的失望与恐惧
+【摘要】许多东亚人表示他有魄力，看起来像超级英雄。现在担心间谍丑闻会演变成针对他们的过度审视。
+【原标题】Asian Americans Share Disappointment and Fear After Jensen Huang Scandal
+【发布时间】2026-11-13T17:05:47.000Z
+【链接】https://www.nytimes.com/2026/11/13/us/jensen-huang-nvidia-asian-americans.html
+
+------------------------------
+
+10. 贝森特指责商务部未将Megaspeed列入黑名单
+【摘要】财长指责该部门未制裁这家新加坡公司，并表示如果英伟达员工规避法律，应追究其责任。
+【原标题】Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed
+【发布时间】2026-11-13T17:05:12.000Z
+【链接】https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html
+
+------------------------------
+
+11. 黄仁勋辞去英伟达职务令AI初创企业界担忧
+【摘要】黄先生是初创企业的捍卫者，截至7月底，英伟达在229家私营公司（包括OpenAI和Anthropic）持有价值480亿美元的股份。
+【原标题】Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World
+【发布时间】2026-11-13T16:36:28.000Z
+【链接】https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html
