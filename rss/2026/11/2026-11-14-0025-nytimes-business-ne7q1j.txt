@@ -1,0 +1,97 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-13T10:25:38.440Z - 2026-11-13T16:25:38.440Z
+【数量】10
+
+【本邮件新闻标题汇总】
+1. 贝森特指责商务部未能将 Megaspeed 列入黑名单
+2. 硅谷初创企业面临失去黄仁勋资金支持的未来
+3. 美联储会议减少，沃什的沟通更加关键
+4. 尽管英伟达动荡，股市有望迎来数月来最佳一周
+5. 微软表示影响 Outlook 的中断正在好转
+6. 黄仁勋下台令亚洲失去一位面向美国的人工智能大使
+7. 抵押贷款利率依然居高，购房可负担性挑战持续存在
+8. 随着对更严格管制的呼声增长，霍华德·卢特尼克对英伟达采取了更温和立场
+9. 房产契约盗窃案随房产价值上涨而增加
+10. 黄仁勋退出英伟达的评估
+
+==============================
+
+1. 贝森特指责商务部未能将 Megaspeed 列入黑名单
+【摘要】财政部长指责该部门未对 Megaspeed 实施制裁，并表示如果英伟达员工规避了法律，应追究其责任。
+【原标题】Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed
+【发布时间】2026-11-13T16:19:50.000Z
+【链接】https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html
+
+------------------------------
+
+2. 硅谷初创企业面临失去黄仁勋资金支持的未来
+【摘要】黄先生大力支持初创企业，英伟达截至 7 月底在 229 家私营公司（包括 OpenAI 和 Anthropic）中持有价值 480 亿美元的股权。
+【原标题】Silicon Valley Start-Ups Face a Future Without Jensen Huang’s Money
+【发布时间】2026-11-13T16:06:55.000Z
+【链接】https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html
+
+------------------------------
+
+3. 美联储会议减少，沃什的沟通更加关键
+【摘要】美联储明年起将降低利率投票频率，这是央行主席凯文·M·沃什改革其运作方式计划的一部分。
+【原标题】Fewer Fed Meetings Raise Stakes of Warsh’s Communications
+【发布时间】2026-11-13T15:45:40.000Z
+【链接】https://www.nytimes.com/2026/11/13/business/federal-reserve-meetings-warsh.html
+
+------------------------------
+
+4. 尽管英伟达动荡，股市有望迎来数月来最佳一周
+【摘要】英伟达首席执行官被免职后公司股价下跌，但未波及更广泛的市场，人工智能股票普遍上涨。
+【原标题】Looking Past Nvidia Turmoil, Stocks Set for Best Week in Months
+【发布时间】2026-11-13T15:45:36.000Z
+【链接】https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html
+
+------------------------------
+
+5. 微软表示影响 Outlook 的中断正在好转
+【摘要】全球医疗服务、学校、警察部门和企业报告称工作受到干扰。原因尚不清楚，但微软似乎已排除网络攻击的可能性。
+【原标题】Microsoft Says Outage Disrupting Outlook Is Improving
+【发布时间】2026-11-13T15:30:08.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html
+
+------------------------------
+
+6. 黄仁勋下台令亚洲失去一位面向美国的人工智能大使
+【摘要】前英伟达首席执行官曾是企业与政府之间的桥梁。他的离去将产生深远影响，尤其是在中国，或将加速其自主可控推进。
+【原标题】Jensen Huang’s Fall Costs Asia an A.I. Ambassador to the U.S.
+【发布时间】2026-11-13T15:29:56.000Z
+【链接】https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-china-asia.html
+
+------------------------------
+
+7. 抵押贷款利率依然居高，购房可负担性挑战持续存在
+【摘要】平均 30 年期固定利率房贷略微下降，至 7.11%，迫使买卖双方暂时观望，直至条件改善。
+【原标题】Mortgage Rates Remain High as Affordability Challenges Persist
+【发布时间】2026-11-13T14:28:29.000Z
+【链接】https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html
+
+------------------------------
+
+8. 随着对更严格管制的呼声增长，霍华德·卢特尼克对英伟达采取了更温和立场
+【摘要】批评人士表示，商务部长霍华德·卢特尼克及其部门一直在庇护英伟达，而人们对向 Megaspeed 等公司出售 AI 芯片的担忧日益增加。
+【原标题】Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew
+【发布时间】2026-11-13T14:02:13.000Z
+【链接】https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html
+
+------------------------------
+
+9. 房产契约盗窃案随房产价值上涨而增加
+【摘要】受害者通常是老年人或移民，窃贼瞄准空地或无人居住的房屋。但有方法可以保护自己。
+【原标题】Deed Theft Is Rising, Along With Property Values
+【发布时间】2026-11-13T14:00:05.000Z
+【链接】https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html
+
+------------------------------
+
+10. 黄仁勋退出英伟达的评估
+【摘要】黄仁勋从他帮助创立的芯片公司被免职，这一事件在硅谷、华盛顿乃至更广泛地区产生了深远影响。
+【原标题】A Scorecard for Huang’s Exit From Nvidia
+【发布时间】2026-11-13T13:19:40.000Z
+【链接】https://www.nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html
