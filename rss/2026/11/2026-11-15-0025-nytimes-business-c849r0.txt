@@ -1,0 +1,43 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-14T10:25:38.154Z - 2026-11-14T16:25:38.154Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 警方称，这名男子在上西区盗走价值900万美元的金条
+2. 地缘政治笼罩欧洲歌唱大赛，但未波及其亚洲版
+3. 微软全球性故障及修复进展：我们目前了解的情况
+4. 首席执行官们聚首中国，五大悬而未决的问题
+
+==============================
+
+1. 警方称，这名男子在上西区盗走价值900万美元的金条
+【摘要】当局表示，受害者认为自己的金融资产遭到入侵，成为一起网络诈骗计划的目标，并相信必须购买这种贵金属。
+【原标题】This Man Stole $9 Million in Gold Bars on the Upper West Side, Police Say
+【发布时间】2026-11-14T15:58:21.000Z
+【链接】https://www.nytimes.com/2026/11/14/nyregion/gold-bars-scam-new-york-city.html
+
+------------------------------
+
+2. 地缘政治笼罩欧洲歌唱大赛，但未波及其亚洲版
+【摘要】到目前为止，比赛组织方一直将政治因素挡在舞台之外。欧洲版赛事显示了做到这一点有多么困难。
+【原标题】Geopolitics Looms Over Eurovision, but Not Its Asian Edition
+【发布时间】2026-11-14T13:17:58.000Z
+【链接】https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html
+
+------------------------------
+
+3. 微软全球性故障及修复进展：我们目前了解的情况
+【摘要】该公司电子邮件、即时通讯及其他产品的中断持续约36小时，影响了全球各地的企业和服务。
+【原标题】Microsoft’s Global Outage and Fixes: What We Know
+【发布时间】2026-11-14T13:15:55.000Z
+【链接】https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html
+
+------------------------------
+
+4. 首席执行官们聚首中国，五大悬而未决的问题
+【摘要】预计特朗普总统与美国科技企业高管下周将在深圳举行一次大型峰会。议程包括：陷入停滞的贸易战、不断扩大的出口管制，以及疑云重重的间谍活动。
+【原标题】5 Big Questions as C.E.O.s Meet in China
+【发布时间】2026-11-14T13:00:06.000Z
+【链接】https://www.nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html
