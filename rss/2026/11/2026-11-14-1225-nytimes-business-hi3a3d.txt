@@ -1,0 +1,52 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-13T22:25:38.091Z - 2026-11-14T04:25:38.091Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 特朗普政府推迟执行医疗补助工作要求
+2. 尽管英伟达下跌，股市继续前行
+3. 随着房产升值，契约盗窃案不断上升
+4. 华尔街为Anthropic的IPO展开推介
+5. 微软全球性故障及修复进展：我们所知的一切
+
+==============================
+
+1. 特朗普政府推迟执行医疗补助工作要求
+【摘要】联邦政府原计划从1月1日起要求贫困成年人证明自己正在工作，否则将失去保险覆盖。如今，政府将允许各州推迟至7月再执行。
+【原标题】Trump Administration Delays Enforcement of Medicaid Work Requirement
+【发布时间】2026-11-14T02:22:25.000Z
+【链接】https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html
+
+------------------------------
+
+2. 尽管英伟达下跌，股市继续前行
+【摘要】英伟达首席执行官被罢免后该公司股价下跌，但这一跌势并未蔓延至市场其他领域，股市整体保持坚挺。
+【原标题】Despite Nvidia’s Drop, Stocks Push Ahead
+【发布时间】2026-11-14T00:40:29.000Z
+【链接】https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html
+
+------------------------------
+
+3. 随着房产升值，契约盗窃案不断上升
+【摘要】受害者往往是老年人或移民，窃贼盯上的是空地或无人居住的房屋。但有一些方法可以保护自己。
+【原标题】Deed Theft Is Rising, Along With Property Values
+【发布时间】2026-11-14T00:27:27.000Z
+【链接】https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html
+
+------------------------------
+
+4. 华尔街为Anthropic的IPO展开推介
+【摘要】随着市场不确定性加深，各大投行正展开路演，向投资者推销这场可能是有史以来规模最大的公开募股。
+【原标题】Wall Street Makes Its Pitch for Anthropic’s I.P.O.
+【发布时间】2026-11-13T22:46:15.000Z
+【链接】https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html
+
+------------------------------
+
+5. 微软全球性故障及修复进展：我们所知的一切
+【摘要】该公司称，在克服电子邮件、消息服务及其他服务中断的第二天，相关工作取得了“令人鼓舞”的进展。
+【原标题】Microsoft’s Global Outage and Fixes: What We Know
+【发布时间】2026-11-13T22:30:40.000Z
+【链接】https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html
