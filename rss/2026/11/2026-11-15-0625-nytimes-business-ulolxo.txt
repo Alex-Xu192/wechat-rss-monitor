@@ -1,0 +1,52 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-14T16:25:37.636Z - 2026-11-14T22:25:37.636Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 地面停飞凸显空中交通系统的长期脆弱性
+2. 部分航班如何获得地面停飞豁免
+3. 在女性寥寥无几的时代，她成为了CBS新闻制片人
+4. “代际冲突”加剧欧洲抗议活动
+5. 华尔街为Anthropic的IPO造势
+
+==============================
+
+1. 地面停飞凸显空中交通系统的长期脆弱性
+【摘要】美国联邦航空管理局老化的空中交通管制基础设施近几个月发生了数起破坏性故障，官员们正试图进行升级。
+【原标题】Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System
+【发布时间】2026-11-14T21:59:45.000Z
+【链接】https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html
+
+------------------------------
+
+2. 部分航班如何获得地面停飞豁免
+【摘要】在周五全国范围的地面停飞期间，数十架国际航班从美国起飞。一些飞机也从西海岸飞往夏威夷。
+【原标题】How Some Flights Were Exempt From the Ground Stop
+【发布时间】2026-11-14T20:21:13.000Z
+【链接】https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html
+
+------------------------------
+
+3. 在女性寥寥无几的时代，她成为了CBS新闻制片人
+【摘要】琳达·梅森于1966年在CBS电台的入门级岗位起步，并在新闻部门晋升为高级副总裁。她享年84岁。
+【原标题】She Was a CBS News Producer When Few Women Were
+【发布时间】2026-11-14T20:21:11.000Z
+【链接】https://www.nytimes.com/2026/11/14/business/media/linda-mason-dead-cbs-news.html
+
+------------------------------
+
+4. “代际冲突”加剧欧洲抗议活动
+【摘要】随着退休人员寿命延长，政府需要在养老金上增加支出。这使得资助其他服务变得更加困难，从而引发了法国那样的抗议活动。
+【原标题】A ‘Generational Clash’ Is Fueling Europe’s Protests
+【发布时间】2026-11-14T18:39:59.000Z
+【链接】https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html
+
+------------------------------
+
+5. 华尔街为Anthropic的IPO造势
+【摘要】随着市场不确定性加深，投资银行正在巡回推介，试图向投资者推销可能成为史上最大规模的公开募股。
+【原标题】Wall Street Makes Its Pitch for Anthropic’s I.P.O.
+【发布时间】2026-11-14T17:25:50.000Z
+【链接】https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html
