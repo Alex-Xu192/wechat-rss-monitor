@@ -1,0 +1,34 @@
+BBC World - 中文新闻汇总
+
+【来源】BBC World
+【时间】2026-11-14T04:25:50.168Z - 2026-11-14T10:25:50.168Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 关于地面停飞的已知信息以及如果受影响该怎么办
+2. 微软称服务在一天内全球故障后已完全恢复
+3. 特朗普、普京和习近平计划下周在中国举行历史性联合会晤，白宫称
+
+==============================
+
+1. 关于地面停飞的已知信息以及如果受影响该怎么办
+【摘要】美国官员称，中断是由旧设备过载导致的，而非网络攻击。
+【原标题】What we know about the ground stop and what to do if you're affected
+【发布时间】2026-11-14T07:42:11.000Z
+【链接】https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 微软称服务在一天内全球故障后已完全恢复
+【摘要】针对Outlook、Teams和Copilot的根本问题的处理措施已完成，该科技公司表示。
+【原标题】Microsoft says services fully restored after day-long global outage
+【发布时间】2026-11-14T06:42:27.000Z
+【链接】https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. 特朗普、普京和习近平计划下周在中国举行历史性联合会晤，白宫称
+【摘要】特朗普将在“缩减核武器”的谈话中发言，发言人称。
+【原标题】Trump, Putin and Xi plan historic joint meeting in China next week, White House says
+【发布时间】2026-11-14T05:52:31.000Z
+【链接】https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss
