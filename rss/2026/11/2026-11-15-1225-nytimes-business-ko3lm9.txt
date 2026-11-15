@@ -1,0 +1,52 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-14T22:25:39.162Z - 2026-11-15T04:25:39.162Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 地缘政治笼罩欧洲歌唱大赛，但其亚洲版却未受影响
+2. 部分航班如何得以豁免于停飞令
+3. SpaceX在德克萨斯州成功接住火箭，创造历史
+4. Family Dollar将就向顾客多收费一事支付6300万美元和解金
+5. 停飞令凸显空中交通系统的长期脆弱性
+
+==============================
+
+1. 地缘政治笼罩欧洲歌唱大赛，但其亚洲版却未受影响
+【摘要】到目前为止，比赛组织者一直让政治远离舞台。欧洲版则表明了做到这一点有多困难。
+【原标题】Geopolitics Looms Over Eurovision, but Not Its Asian Edition
+【发布时间】2026-11-15T03:49:51.000Z
+【链接】https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html
+
+------------------------------
+
+2. 部分航班如何得以豁免于停飞令
+【摘要】在周五的全国停飞期间，数十架国际航班仍从美国起飞。一些飞机也从西海岸飞往夏威夷。
+【原标题】How Some Flights Were Exempt From the Ground Stop
+【发布时间】2026-11-15T02:52:12.000Z
+【链接】https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html
+
+------------------------------
+
+3. SpaceX在德克萨斯州成功接住火箭，创造历史
+【摘要】“星舰”飞船从轨道返回至其发射的同一地点，这标志着SpaceX打造完全可重复使用火箭的愿景迈出了关键一步。
+【原标题】SpaceX Makes History With Successful Rocket Catch in Texas
+【发布时间】2026-11-15T00:36:32.000Z
+【链接】https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html
+
+------------------------------
+
+4. Family Dollar将就向顾客多收费一事支付6300万美元和解金
+【摘要】根据联邦监管机构和17个州提起的投诉，自2023年以来，这家折扣零售商一直在结账时向顾客“多收数百万美元”。
+【原标题】Family Dollar to Pay $63 Million Settlement for Overcharging Customers
+【发布时间】2026-11-14T23:20:04.000Z
+【链接】https://www.nytimes.com/2026/11/14/business/family-dollar-overcharging-settlement.html
+
+------------------------------
+
+5. 停飞令凸显空中交通系统的长期脆弱性
+【摘要】美国联邦航空管理局老化的空中交通管制基础设施近几个月来发生了数次造成干扰的故障，与此同时官员们一直在寻求进行升级。
+【原标题】Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System
+【发布时间】2026-11-14T23:14:32.000Z
+【链接】https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html
