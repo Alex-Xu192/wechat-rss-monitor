@@ -1,0 +1,70 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-15T04:25:38.515Z - 2026-11-15T10:25:38.515Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 当科技“升级”出错时
+2. 黄仁勋的倒台在台湾引发难以置信
+3. 一个人类阅读Anthropic的IPO申请文件
+4. 他们想当医生，学生贷款上限却让梦想变得复杂
+5. 全美风格的Ralph Lauren品牌背后，是一位法国CEO
+6. 在一个AI粗制滥造的世界里，只有人类能打造“生态系统”
+7. 为何部分航班未受全国停飞令影响
+
+==============================
+
+1. 当科技“升级”出错时
+【摘要】上周涉及微软Outlook和美国联邦航空管理局的事件表明，我们对脆弱技术的依赖有多深。
+【原标题】When Tech ‘Upgrades’ Go Awry
+【发布时间】2026-11-15T10:02:05.000Z
+【链接】https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html
+
+------------------------------
+
+2. 黄仁勋的倒台在台湾引发难以置信
+【摘要】这位英伟达（Nvidia）首席执行官的辞职震惊了他的出生地当地民众，他在那里被称为“人民的爸爸”。
+【原标题】Jensen Huang’s Downfall Brings Disbelief in Taiwan
+【发布时间】2026-11-15T10:01:57.000Z
+【链接】https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html
+
+------------------------------
+
+3. 一个人类阅读Anthropic的IPO申请文件
+【摘要】这份招股说明书在讨论生存风险方面坦率程度前所未有。但诚实能带来安慰吗？
+【原标题】A Human Reads the Anthropic I.P.O. Filing
+【发布时间】2026-11-15T10:01:56.000Z
+【链接】https://www.nytimes.com/2026/11/15/business/a-human-reads-the-anthropic-ipo-filing.html
+
+------------------------------
+
+4. 他们想当医生，学生贷款上限却让梦想变得复杂
+【摘要】今年，第一批医学生将在限制其学费借款金额的新规下，开始迈向医生之路的旅程。
+【原标题】They Want to Be Doctors. Student Loan Caps Are Complicating Their Dreams.
+【发布时间】2026-11-15T10:01:41.000Z
+【链接】https://www.nytimes.com/2026/11/15/business/medical-school-student-loan-caps.html
+
+------------------------------
+
+5. 全美风格的Ralph Lauren品牌背后，是一位法国CEO
+【摘要】Patrice Louvet谈与Ralph Lauren本人合作、赢得Z世代青睐，以及在魔力与逻辑之间取得平衡。
+【原标题】Behind the All-American Ralph Lauren Brand Is a French C.E.O.
+【发布时间】2026-11-15T10:00:50.000Z
+【链接】https://www.nytimes.com/2026/11/15/business/ralph-lauren-patrice-louvet.html
+
+------------------------------
+
+6. 在一个AI粗制滥造的世界里，只有人类能打造“生态系统”
+【摘要】推动人工智能革命的人们，也在自己的行业里加倍投入面对面的人际关系。
+【原标题】In a Sloppified A.I. World, Only Humans Can Build ‘Ecosystems’
+【发布时间】2026-11-15T10:00:14.000Z
+【链接】https://www.nytimes.com/2026/11/15/business/tech-jobs-ai-ecosystem.html
+
+------------------------------
+
+7. 为何部分航班未受全国停飞令影响
+【摘要】周五全国停飞期间，仍有数十架国际航班从美国起飞，也有一些飞机从西海岸飞往夏威夷。
+【原标题】Why Some Flights Were Exempt From the Ground Stop
+【发布时间】2026-11-15T08:35:03.000Z
+【链接】https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html
