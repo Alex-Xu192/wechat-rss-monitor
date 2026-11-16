@@ -1,0 +1,61 @@
+Financial Times World - 中文新闻汇总
+
+【来源】Financial Times World
+【时间】2026-11-16T10:17:28.622Z - 2026-11-16T12:17:28.622Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. 受英伟达拖累，美国科技股开盘走低
+2. 冬季暴雨侵袭加沙，以色列面临压力
+3. AI热潮消退，今年最大IPO令投资者亏损
+4. FirstFT：黄仁勋与盟友谈论英伟达的卷土重来
+5. 中期选举削弱特朗普后，欧盟再度推动全球AI规则
+6. 乌克兰在创纪录的无人机袭击中打击克里米亚大桥
+
+==============================
+
+1. 受英伟达拖累，美国科技股开盘走低
+【摘要】人工智能焦虑持续，芯片制造商盘前下跌3.6%，CoreWeave下跌7.5%
+【原标题】US tech stocks set to open lower amid Nvidia fallout
+【发布时间】2026-11-16T12:07:09.000Z
+【链接】https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1
+
+------------------------------
+
+2. 冬季暴雨侵袭加沙，以色列面临压力
+【摘要】外交官和援助工作者表示，以色列限制关键物资进入，加剧了严峻的人道主义状况
+【原标题】Israel under pressure as winter rains lash Gaza
+【发布时间】2026-11-16T11:58:17.000Z
+【链接】https://www.ft.com/content/463238ee-2d5f-4ae8-b48b-8a39444c08bd?syn-25a6b1a6=1
+
+------------------------------
+
+3. AI热潮消退，今年最大IPO令投资者亏损
+【摘要】经历四年上涨后，2026年十大IPO平均跌幅超过20%
+【原标题】Biggest IPOs this year lose investors money as AI frenzy fades
+【发布时间】2026-11-16T11:47:31.000Z
+【链接】https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32?syn-25a6b1a6=1
+
+------------------------------
+
+4. FirstFT：黄仁勋与盟友谈论英伟达的卷土重来
+【摘要】今日通讯还包括：IPO遇阻以及特朗普与习近平、普京的峰会
+【原标题】FirstFT: Jensen Huang talks about Nvidia comeback with allies
+【发布时间】2026-11-16T11:01:07.000Z
+【链接】https://www.ft.com/content/0f30a230-4d66-481b-a4fd-3a4ed0c45855?syn-25a6b1a6=1
+
+------------------------------
+
+5. 中期选举削弱特朗普后，欧盟再度推动全球AI规则
+【摘要】布鲁塞尔希望在选民对美国总统的惩罚之后，国际协议更易达成
+【原标题】EU renews push for global AI rules after midterms weaken Trump
+【发布时间】2026-11-16T10:37:38.000Z
+【链接】https://www.ft.com/content/f2ea4f22-32ba-4795-971d-2a4bbb0143fb?syn-25a6b1a6=1
+
+------------------------------
+
+6. 乌克兰在创纪录的无人机袭击中打击克里米亚大桥
+【摘要】俄罗斯国防部表示，在过去24小时内拦截或击毁了自战争开始以来数量最多的无人机
+【原标题】Ukraine strikes Crimean Bridge in record drone attack
+【发布时间】2026-11-16T10:29:11.000Z
+【链接】https://www.ft.com/content/cf57a196-bcbc-4605-a977-73fa0498aeed?syn-25a6b1a6=1
