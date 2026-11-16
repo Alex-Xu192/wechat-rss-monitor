@@ -1,0 +1,106 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-16T04:25:38.612Z - 2026-11-16T10:25:38.612Z
+【数量】11
+
+【本邮件新闻标题汇总】
+1. 随着 Phillips 缩减规模，“最大两家”拍卖行似乎孤军奋战。
+2. 随着拍卖行瞄准 28 亿美元交易周，人们对梵高画作表示怀疑。
+3. 如何让萨姆·布坎南-弗里德错过 Anthropic 350 亿美元巨奖?
+4. 来自巴黎的经典车展旨在令曼哈顿吸引眼球
+5. Apple 在视频播客领域落后了。现在它正试图赶上。
+6. 由皮卡丘、火恐龙和怀旧推动的牛市
+7. 数十亿保险资金正被押注在 AI 债务上，分析师们感到不安。
+8. 特朗普计划争夺 AI 霸权，激起菲律宾反对
+9. 华尔街进入保险业。监管机构能跟上吗？
+10. 度假购物者迎来大量 Thanksgiving 旅行优惠
+11. Megaspeed 称 Alice Huang 于 2025 年 8 月离开公司
+
+==============================
+
+1. 随着 Phillips 缩减规模，“最大两家”拍卖行似乎孤军奋战。
+【摘要】Phillips 一直是拍卖界的黑马，但它有雄心，想与 Christie’s 和 Sotheby’s 竞争。随后经济形势改变了。
+【原标题】As Phillips Scales Back, the ‘Big Two’ Auction Houses Seem to Stand Alone
+【发布时间】2026-11-16T10:03:44.000Z
+【链接】https://www.nytimes.com/2026/11/16/arts/design/phillips-sothebys-christies-art-auction-competition.html
+
+------------------------------
+
+2. 随着拍卖行瞄准 28 亿美元交易周，人们对梵高画作表示怀疑。
+【摘要】由 Cézanne、Picasso 和 Klimt 创作的主要画作被用来吸引超级富豪收藏家，而 Sotheby’s 则寻求解决本次拍卖最令人垂涎——也最具争议——的画作。
+【原标题】Doubts Loom Over a van Gogh as Auctions Aim for a $2.8 Billion Week
+【发布时间】2026-11-16T10:02:29.000Z
+【链接】https://www.nytimes.com/2026/11/16/arts/design/auctions-new-york-fall-christies-sothebys-van-gogh.html
+
+------------------------------
+
+3. 如何让萨姆·布坎南-弗里德错过 Anthropic 350 亿美元巨奖?
+【摘要】倒闭的 FTX 加密货币交易所创始人、因欺诈而正在服刑，本将因对 Anthropic 的 5 亿美元投资而获利。
+【原标题】How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic
+【发布时间】2026-11-16T10:02:09.000Z
+【链接】https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html
+
+------------------------------
+
+4. 来自巴黎的经典车展旨在令曼哈顿吸引眼球
+【摘要】Retromobile 将展出 Jerry Seinfeld 和 Billy Joel 的车辆，以及来自过去年代的著名车型巡游——还有一些更新的经典车。
+【原标题】A Classic Car Show From Paris Aims to Turn Heads in Manhattan
+【发布时间】2026-11-16T10:02:01.000Z
+【链接】https://www.nytimes.com/2026/11/16/business/retromobile-classic-car-show-nyc.html
+
+------------------------------
+
+5. Apple 在视频播客领域落后了。现在它正试图赶上。
+【摘要】它们很快将对所有 Apple TV 用户免费开放，并将在拥有该应用的 10 亿多台设备上出现，包括 Rokus 和智能电视。
+【原标题】Apple Was Late to Video Podcasts. Now It’s Trying to Catch Up.
+【发布时间】2026-11-16T10:01:52.000Z
+【链接】https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html
+
+------------------------------
+
+6. 由皮卡丘、火恐龙和怀旧推动的牛市
+【摘要】在宝可梦系列成立 30 周年之际，宝可梦卡片价值飙升——以至于收集它们不仅是大生意，也是一种可行的谋生方式。
+【原标题】A Bull Market, Fueled by Pikachu, Charizard and Nostalgia
+【发布时间】2026-11-16T10:00:56.000Z
+【链接】https://www.nytimes.com/2026/11/16/us/pokemon-cards-value-investors.html
+
+------------------------------
+
+7. 数十亿保险资金正被押注在 AI 债务上，分析师们感到不安。
+【摘要】保险公司正在将客户资金投入 AI 交易，而分析师警告风险正在累积。
+【原标题】Billions in Insurance Money Is Being Bet on AI Debt, and Analyst Are Nervous
+【发布时间】2026-11-16T10:00:47.000Z
+【链接】https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html
+
+------------------------------
+
+8. 特朗普计划争夺 AI 霸权，激起菲律宾反对
+【摘要】菲律宾计划建立由美国主导的人工智能中心，因对失业、资源和国家主权威胁等担忧，引发强烈反对。
+【原标题】Trump’s Plan for A.I. Supremacy Fuels Resistance in the Philippines
+【发布时间】2026-11-16T10:00:46.000Z
+【链接】https://www.nytimes.com/2026/11/16/business/trump-paxsilica-philippines-ai.html
+
+------------------------------
+
+9. 华尔街进入保险业。监管机构能跟上吗？
+【摘要】分析师们质疑，监管机构如何在对马克·沃尔特的公司进行的调查中，漏报了数十亿不当报告的投资。
+【原标题】Wall Street Moved Into Insurance. Can State Regulators Keep Up?
+【发布时间】2026-11-16T10:00:31.000Z
+【链接】https://www.nytimes.com/2026/11/16/business/insurance-regulators-wall-street.html
+
+------------------------------
+
+10. 度假购物者迎来大量 Thanksgiving 旅行优惠
+【摘要】感恩节季节带来了从国际旅行到奢华度假村的旅行行业销售活动。这里仅举一例。
+【原标题】A Flurry of Thanksgiving Travel Deals for Vacation Shoppers
+【发布时间】2026-11-16T10:00:21.000Z
+【链接】https://www.nytimes.com/2026/11/16/travel/thanksgiving-season-travel-deals.html
+
+------------------------------
+
+11. Megaspeed 称 Alice Huang 于 2025 年 8 月离开公司
+【摘要】这家新加坡公司发表了声明，这是其首次回应 Ms. Huang 的状态。她曾是 NVIDIA 黄仁勋的前高管，并与黄仁勋有过关系。美国官员称她是为中国间谍。
+【原标题】Megaspeed Says Alice Huang Left Company in August 2025
+【发布时间】2026-11-16T06:02:06.000Z
+【链接】https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html
