@@ -1,0 +1,142 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-17T16:25:37.469Z - 2026-11-17T22:25:37.469Z
+【数量】15
+
+【本邮件新闻标题汇总】
+1. 最新消息如下。
+2. 黄仁勋的女儿、其亲密盟友，仍在英伟达担任高管职位。
+3. 黄仁勋保守秘密长达一年多。这个秘密导致了他的下台。
+4. 苹果回应影响 Apple Pay、iCloud 及各类 App 的服务中断
+5. 特朗普新的 AI 芯片规定在东南亚引发震动
+6. 关于英伟达动荡，你需要了解什么。
+7. 面对批评，特朗普政府称正在调查 Megaspeed
+8. 电视和广播里的那则警报是什么？那只是一次测试。
+9. 英伟达财报发布前夕股价小幅下跌
+10. 美联储理事库克称若无改动将不出席白宫听证会
+11. 黄仁勋表示若获邀请将重返英伟达担任 CEO
+12. 美国国税局对左翼团体展开刑事调查，作为特朗普打压行动的一部分
+13. 民主党在得克萨斯州获胜如何影响马斯克
+14. 最富裕国家的债务问题正逐渐波及最贫穷国家
+15. 在行业剧变中，迪士尼加码投资新剧集和电影
+
+==============================
+
+1. 最新消息如下。
+【摘要】摘要:
+【原标题】Here’s the latest.
+【发布时间】2026-11-17T22:22:03.000Z
+【链接】https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/heres-the-latest
+
+------------------------------
+
+2. 黄仁勋的女儿、其亲密盟友，仍在英伟达担任高管职位。
+【摘要】摘要:
+【原标题】Jensen Huang’s daughter, a close ally, remains in a senior role at Nvidia.
+【发布时间】2026-11-17T22:20:01.000Z
+【链接】https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huangs-daughter-a-close-ally-remains-in-a-senior-role-at-nvidia
+
+------------------------------
+
+3. 黄仁勋保守秘密长达一年多。这个秘密导致了他的下台。
+【摘要】摘要:
+【原标题】Jensen Huang carried a secret for more than a year. It led to his downfall.
+【发布时间】2026-11-17T21:53:20.000Z
+【链接】https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall
+
+------------------------------
+
+4. 苹果回应影响 Apple Pay、iCloud 及各类 App 的服务中断
+【摘要】此次中断发生前的一周内，已发生多起互不相关的故障，导致航空出行以及办公室、学校和政府机构的工作受到干扰。
+【原标题】Apple Addresses Outages Affecting Apple Pay, iCloud and Apps
+【发布时间】2026-11-17T21:39:25.000Z
+【链接】https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html
+
+------------------------------
+
+5. 特朗普新的 AI 芯片规定在东南亚引发震动
+【摘要】美国的新限制措施可能危及数十亿美元的投资，并迫使该地区各国在华盛顿时与北京之间维持日益艰难的平衡。
+【原标题】Trump’s New A.I. Chip Rules Rattle Southeast Asia
+【发布时间】2026-11-17T21:04:16.000Z
+【链接】https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html
+
+------------------------------
+
+6. 关于英伟达动荡，你需要了解什么。
+【摘要】摘要:
+【原标题】What to know about the Nvidia turmoil.
+【发布时间】2026-11-17T21:01:05.000Z
+【链接】https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/what-to-know-about-the-nvidia-turmoil
+
+------------------------------
+
+7. 面对批评，特朗普政府称正在调查 Megaspeed
+【摘要】这一宣布似乎是对近期批评的回应，批评者认为商务部在涉嫌芯片走私案上行动过于迟缓。
+【原标题】Facing Criticism, Trump Administration Says It’s Investigating Megaspeed
+【发布时间】2026-11-17T20:56:01.000Z
+【链接】https://www.nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html
+
+------------------------------
+
+8. 电视和广播里的那则警报是什么？那只是一次测试。
+【摘要】一项每三年举行一次的全国测试于周二东部时间下午 2 点 20 分通过电视和广播播出。
+【原标题】What Was That Alert on TV and the Radio? It Was Only a Test.
+【发布时间】2026-11-17T20:38:29.000Z
+【链接】https://www.nytimes.com/2026/11/17/business/media/nationwide-emergency-alert-test-fema.html
+
+------------------------------
+
+9. 英伟达财报发布前夕股价小幅下跌
+【摘要】这家芯片制造商将在市场对 AI 交易普遍感到不安之际公布季度业绩。
+【原标题】Stocks Down Just Ahead of Nvidia’s Earnings Report
+【发布时间】2026-11-17T20:38:02.000Z
+【链接】https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html
+
+------------------------------
+
+10. 美联储理事库克称若无改动将不出席白宫听证会
+【摘要】美联储理事丽莎·库克的律师称，特朗普总统正试图解除她的职务，并称听证程序是"一场幌子"。
+【原标题】Fed Governor Cook Won’t Attend White House Hearing Without Changes
+【发布时间】2026-11-17T20:14:54.000Z
+【链接】https://www.nytimes.com/2026/11/17/business/economy/fed-governor-lisa-cook-trump-white-house-hearing.html
+
+------------------------------
+
+11. 黄仁勋表示若获邀请将重返英伟达担任 CEO
+【摘要】在被曝与一名员工以及一名与中国情报部门有关联的女性存在婚外情后，黄仁勋上周辞去了该公司首席执行官一职。
+【原标题】Jensen Huang Says He Would Return as Nvidia CEO if Asked
+【发布时间】2026-11-17T19:55:48.000Z
+【链接】https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html
+
+------------------------------
+
+12. 美国国税局对左翼团体展开刑事调查，作为特朗普打压行动的一部分
+【摘要】《纽约时报》看到的一份国税局内部备忘录显示，该机构正如何执行特朗普总统调查"国内恐怖主义"的命令。
+【原标题】I.R.S. Opens Criminal Probes as Part of Trump’s Pursuit of Left-Wing Groups
+【发布时间】2026-11-17T19:50:00.000Z
+【链接】https://www.nytimes.com/2026/11/17/us/politics/irs-criminal-investigations.html
+
+------------------------------
+
+13. 民主党在得克萨斯州获胜如何影响马斯克
+【摘要】埃隆·马斯克旗下的公司在得克萨斯州建立了重要业务，部分得益于共和党议员提供的激励措施和优惠政策。如今，民主党掌权可能给这些政策带来新的审查。《纽约时报》调查记者柯尔斯滕·格兰德对此进行了解读。
+【原标题】How Democrats Winning in Texas Affects Musk
+【发布时间】2026-11-17T17:42:07.000Z
+【链接】https://www.nytimes.com/video/business/100000011281784/how-democrats-winning-in-texas-affects-musk.html
+
+------------------------------
+
+14. 最富裕国家的债务问题正逐渐波及最贫穷国家
+【摘要】在高利率和其他全球冲击的打击下，发展中国家的债务负担跃升至 9.4 万亿美元。
+【原标题】Debt Problems of the Richest Countries Are Trickling Down to the Poorest
+【发布时间】2026-11-17T17:28:57.000Z
+【链接】https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html
+
+------------------------------
+
+15. 在行业剧变中，迪士尼加码投资新剧集和电影
+【摘要】该公司计划用 30 亿美元的成本节约来为增长提供资金，并出人意料地表示将停止披露其流媒体业务的收入情况。
+【原标题】Disney Doubles Down on New Shows and Movies Amid Industry Upheaval
+【发布时间】2026-11-17T17:03:49.000Z
+【链接】https://www.nytimes.com/2026/11/17/business/disney-earnings-3billion-savings.html
