@@ -1,0 +1,34 @@
+Financial Times World - 中文新闻汇总
+
+【来源】Financial Times World
+【时间】2026-11-18T02:17:46.393Z - 2026-11-18T04:17:46.393Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 普京将在中国向全球首席执行官发表讲话
+2. 英伟达有机会用戏剧性换取持久性
+3. 美国网络安全机构就甲骨文Java的漏洞发出警告
+
+==============================
+
+1. 普京将在中国向全球首席执行官发表讲话
+【摘要】首席执行官会议在备受期待的习近平与唐纳德·特朗普三边峰会之前召开。
+【原标题】Russia’s Putin to address global CEOs in China
+【发布时间】2026-11-18T03:23:17.000Z
+【链接】https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1
+
+------------------------------
+
+2. 英伟达有机会用戏剧性换取持久性
+【摘要】芯片集团在没有风格浮夸的联合创始人黄仁勋掌舵的情况下发布了首份业绩报告。
+【原标题】Nvidia has a chance to trade drama for durability
+【发布时间】2026-11-18T02:56:15.000Z
+【链接】https://www.ft.com/content/2d3e1b32-4b45-418b-8b06-90874057eac0?syn-25a6b1a6=1
+
+------------------------------
+
+3. 美国网络安全机构就甲骨文Java的漏洞发出警告
+【摘要】各公司被告知更新运行该编程语言的系统，该语言被企业、银行和政府机构广泛使用。
+【原标题】US cyber security agency warns over vulnerability in Oracle’s Java
+【发布时间】2026-11-18T02:19:18.000Z
+【链接】https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1
