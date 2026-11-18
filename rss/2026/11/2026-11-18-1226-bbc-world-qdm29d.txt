@@ -1,0 +1,43 @@
+BBC World - 中文新闻汇总
+
+【来源】BBC World
+【时间】2026-11-17T22:26:20.967Z - 2026-11-18T04:26:20.967Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 英伟达表示不会重新任用黄仁勋，因公司报告亮眼业绩
+2. 特朗普与习近平会晤之际，中国的人工智能梦想面临意外障碍：英伟达间谍丑闻
+3. 英国警方逮捕涉嫌间谍的美军士兵后，其被移交美国军方监管
+4. 菲律宾警方要求检察官以涉及儿童性虐待材料为由起诉托马斯·马克尔
+
+==============================
+
+1. 英伟达表示不会重新任用黄仁勋，因公司报告亮眼业绩
+【摘要】这家人工智能芯片巨头周二报告了强劲的季度财报，此前黄仁勋戏剧性地离开了公司。
+【原标题】Nvidia says it won't reinstate Huang as firm reports bumper results
+【发布时间】2026-11-18T01:18:18.000Z
+【链接】https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+2. 特朗普与习近平会晤之际，中国的人工智能梦想面临意外障碍：英伟达间谍丑闻
+【摘要】中国担心该丑闻可能会加大美国进一步限制先进芯片销售的压力。
+【原标题】As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal
+【发布时间】2026-11-17T23:02:12.000Z
+【链接】https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+3. 英国警方逮捕涉嫌间谍的美军士兵后，其被移交美国军方监管
+【摘要】大都会警察局表示，该人员因涉及国家安全和间谍指控已被美国军方拘留。
+【原标题】American soldier arrested by UK police on suspicion of spying taken into US military custody
+【发布时间】2026-11-17T22:46:30.000Z
+【链接】https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss
+
+------------------------------
+
+4. 菲律宾警方要求检察官以涉及儿童性虐待材料为由起诉托马斯·马克尔
+【摘要】马克尔在美国因一项指控被拘留，此前他一直否认所有指控。
+【原标题】Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material
+【发布时间】2026-11-17T22:44:15.000Z
+【链接】https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss
