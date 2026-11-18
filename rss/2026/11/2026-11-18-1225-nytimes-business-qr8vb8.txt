@@ -1,0 +1,70 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-17T22:25:38.251Z - 2026-11-18T04:25:38.251Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. Nvidia 无计划重聘 Jensen Huang
+2. 白宫撤回 Heidi Overton 担任 F.D.A. 专员的提名
+3. Jensen Huang 表示如果被要求，他将重回 Nvidia 首席执行官一职
+4. 以下是最新消息。
+5. 商务部长 Howard Lutnick 对 Nvidia 采取了更温和的立场，因为对更严格管制的呼声日益高涨。
+6. Apple 回应影响 Apple Pay、iCloud 和应用程序的中断
+7. 特朗普曾敦促 Jensen Huang 为自己的工作而战。
+
+==============================
+
+1. Nvidia 无计划重聘 Jensen Huang
+【摘要】随着前首席执行官及其盟友游说其回归，该公司董事长表示，董事会“无意重聘 Jensen 出任首席执行官。”
+【原标题】Nvidia Has No Plans to Bring Back Jensen Huang
+【发布时间】2026-11-18T03:57:08.000Z
+【链接】https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html
+
+------------------------------
+
+2. 白宫撤回 Heidi Overton 担任 F.D.A. 专员的提名
+【摘要】参议院卫生委员会原定周三早上对她的提名进行表决，此前该委员会一直在就她在堕胎和疫苗问题上的立场而苦恼。
+【原标题】White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner
+【发布时间】2026-11-18T03:26:28.000Z
+【链接】https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html
+
+------------------------------
+
+3. Jensen Huang 表示如果被要求，他将重回 Nvidia 首席执行官一职
+【摘要】上周，Huang 先生辞去该公司首席执行官一职，此前有披露称他与一名员工及一名与中国情报机构有关的女人存在婚外情。
+【原标题】Jensen Huang Says He Would Return as Nvidia CEO if Asked
+【发布时间】2026-11-17T23:48:31.000Z
+【链接】https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html
+
+------------------------------
+
+4. 以下是最新消息。
+【摘要】摘要:
+【原标题】Here’s the latest.
+【发布时间】2026-11-17T23:24:43.000Z
+【链接】https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/heres-the-latest
+
+------------------------------
+
+5. 商务部长 Howard Lutnick 对 Nvidia 采取了更温和的立场，因为对更严格管制的呼声日益高涨。
+【摘要】摘要:
+【原标题】Commerce Secretary Howard Lutnick took a softer line on Nvidia as calls for tougher controls grew.
+【发布时间】2026-11-17T23:19:54.000Z
+【链接】https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/commerce-secretary-howard-lutnick-took-a-softer-line-on-nvidia-as-calls-for-tougher-controls-grew
+
+------------------------------
+
+6. Apple 回应影响 Apple Pay、iCloud 和应用程序的中断
+【摘要】此次中断发生在过去一周中断航空旅行以及办公室、学校和政府工作的一系列无关问题之后。
+【原标题】Apple Addresses Outages Affecting Apple Pay, iCloud and Apps
+【发布时间】2026-11-17T23:17:38.000Z
+【链接】https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html
+
+------------------------------
+
+7. 特朗普曾敦促 Jensen Huang 为自己的工作而战。
+【摘要】摘要:
+【原标题】Trump had urged Jensen Huang to fight for his job.
+【发布时间】2026-11-17T22:53:13.000Z
+【链接】https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/trump-had-urged-jensen-huang-to-fight-for-his-job
