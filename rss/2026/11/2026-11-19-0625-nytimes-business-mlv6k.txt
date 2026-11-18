@@ -1,0 +1,187 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-18T16:25:36.461Z - 2026-11-18T22:25:36.461Z
+【数量】20
+
+【本邮件新闻标题汇总】
+1. 帕尔默·卢克尼警告美国面临人工智能“不匹配”
+2. 以下是关于2026年 DealBook 峰会的最新消息。
+3. 马克·卡尼表示，加拿大不会在与美国的贸易谈判中退让。
+4. 埃隆·马斯克投资于 Skydance，首席执行官戴维·埃利森确认。
+5. Anthropic 的公开首次亮相为企业权力带来“实验”。
+6. 马萨诸塞州一个小镇反抗亚马逊的配送无人机。
+7. 在 Jensen Huang 辞职后，Nvidia 临时首席执行官 Colette Kress 对员工说了什么。
+8. Jensen Huang 是 DealBook 峰会科技领袖心中首要考虑的问题。
+9. 纽约、洛杉矶和芝加哥学区就如何在人工智能问题上与谷歌搜索分道扬镳展开讨论。
+10. 美联储认为，即使在10月维持利率不变，也需要继续加息。
+11. 观看：戴维·埃利森谈埃隆·马斯克对 Skydance 的投资
+12. 尼泊尔带着严峻的困难来到 COP31。这是一场对世界的考验。
+13. 观看：加拿大总理谈与总统特朗普谈判
+14. 海莉·比伯表示，社交媒体助长了她的品牌 Rhode，但对她的心理健康造成了影响。
+15. 杰夫·贝索斯表示，他帮助挑选了罗伯特·帕丁森出演新版《007》。
+16. 观看：OpenAI 高管谈“失控代理”和人工智能安全
+17. OpenAI 高管表示，他们必须在这两者之间取得平衡：人工智能安全和进步。
+18. 医院加紧修补 Java 漏洞。
+19. 欧洲中央银行行长克里斯蒂娜·拉加德解释为何提前辞职。
+20. 谷歌在新市场上从 Spirit Airlines 购买员工数据，以供人工智能使用。
+
+==============================
+
+1. 帕尔默·卢克尼警告美国面临人工智能“不匹配”
+【摘要】安杜里尔工业的创始人、一家国防科技公司，将美国范围内广泛的科技停运归咎于利用人工智能工具攻击过时基础设施的攻击者。
+【原标题】Palmer Luckey Warns the U.S. Faces an A.I. ‘Mismatch’
+【发布时间】2026-11-18T22:18:01.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/palmer-luckey-anduril-ai.html
+
+------------------------------
+
+2. 以下是关于2026年 DealBook 峰会的最新消息。
+【摘要】无。
+【原标题】Here’s the latest on the 2026 DealBook Summit.
+【发布时间】2026-11-18T21:59:42.000Z
+【链接】https://www.nytimes.com/live/2026/11/18/business/dealbook-summit-news/heres-the-latest-on-the-2026-dealbook-summit
+
+------------------------------
+
+3. 马克·卡尼表示，加拿大不会在与美国的贸易谈判中退让。
+【摘要】另一方面，加拿大总理表示，与中国的谈判“进展非常顺利”。
+【原标题】Mark Carney Says Canada Will Not Back Down in Trade Talks With U.S.
+【发布时间】2026-11-18T21:56:45.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/mark-carney-canada-us-trade.html
+
+------------------------------
+
+4. 埃隆·马斯克投资于 Skydance，首席执行官戴维·埃利森确认。
+【摘要】在 DealBook 峰会上，埃利森先生表示，让马斯克先生成为该公司股东是“荣幸也是特权”。
+【原标题】Elon Musk Invested in Skydance, CEO David Ellison Confirms
+【发布时间】2026-11-18T21:55:17.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-skydance-elon-musk.html
+
+------------------------------
+
+5. Anthropic 的公开首次亮相为企业权力带来“实验”。
+【摘要】这家人工智能巨头将成为迄今为止最大的上市“公共利益公司”，这种结构要求其平衡安全与利润。
+【原标题】Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power
+【发布时间】2026-11-18T21:41:58.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html
+
+------------------------------
+
+6. 马萨诸塞州一个小镇反抗亚马逊的配送无人机。
+【摘要】亚马逊希望提供更快的配送。居民想要宁静的天空。马萨诸塞州的一个郊区为控制其空域而展开史诗般的斗争。
+【原标题】A Massachusetts Town Revolts Against Amazon’s Delivery Drones
+【发布时间】2026-11-18T21:41:37.000Z
+【链接】https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html
+
+------------------------------
+
+7. 在 Jensen Huang 辞职后，Nvidia 临时首席执行官 Colette Kress 对员工说了什么。
+【摘要】在一次向员工进行的所有会议上，Colette Kress 试图让 Nvidia 联合创始人 Jensen Huang 的不当言行被搁置。
+【原标题】What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation
+【发布时间】2026-11-18T21:11:29.000Z
+【链接】https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html
+
+------------------------------
+
+8. Jensen Huang 是 DealBook 峰会科技领袖心中首要考虑的问题。
+【摘要】OpenAI 的 Sam Altman 和 Anduril 的 Palmer Luckey 对 Huang 先生表示支持，Huang 上周辞去芯片制造商 Nvidia 的首席执行官职务。
+【原标题】Jensen Huang Is Top of Mind for Tech Leaders at DealBook Summit
+【发布时间】2026-11-18T21:04:35.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/jensen-huang-nvidia-tech-leaders-reaction.html
+
+------------------------------
+
+9. 纽约、洛杉矶和芝加哥学区就如何在人工智能问题上与谷歌搜索分道扬镳展开讨论。
+【摘要】Google 拒绝将人工智能功能从学生的搜索中拆分，引发了反弹。现在学校正在寻找替代方案。
+【原标题】NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.
+【发布时间】2026-11-18T20:49:53.000Z
+【链接】https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html
+
+------------------------------
+
+10. 美联储认为，即使在10月维持利率不变，也需要继续加息。
+【摘要】联邦储备委员会最近一次会议的会议纪要强调，控制通胀仍然是官员们的首要任务。
+【原标题】Fed Saw Need to Keep Raising Interest Rates Despite Holding Steady in October
+【发布时间】2026-11-18T20:35:00.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/federal-reserve-rate-increase-october-meeting.html
+
+------------------------------
+
+11. 观看：戴维·埃利森谈埃隆·马斯克对 Skydance 的投资
+【摘要】媒体巨头的首席执行官确认，SpaceX 创始人已投资成立由 110 亿美元与 Warner Bros. Discovery 合并而成的公司。
+【原标题】Watch: David Ellison on Elon Musk’s Investment in Skydance
+【发布时间】2026-11-18T20:11:09.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-elon-musk-skydance-investment.html
+
+------------------------------
+
+12. 尼泊尔带着严峻的困难来到 COP31。这是一场对世界的考验。
+【摘要】一次致命的冰川崩塌给该国造成了 50 亿美元的恢复成本。迄今为止，很少有人提供援助。
+【原标题】Nepal Came to COP31 in Dire Need. It’s a Test for the World.
+【发布时间】2026-11-18T20:08:35.000Z
+【链接】https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html
+
+------------------------------
+
+13. 观看：加拿大总理谈与总统特朗普谈判
+【摘要】马克·卡尼在 DealBook 峰会的一次采访中表示：“他在私下里听取意见的次数明显多得多。”但归根结底，“这关乎一笔交易与否”。
+【原标题】Watch: Canada’s Prime Minister on Negotiating With President Trump
+【发布时间】2026-11-18T20:04:53.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/carney-canada-trade-deal-trump.html
+
+------------------------------
+
+14. 海莉·比伯表示，社交媒体助长了她的品牌 Rhode，但对她的心理健康造成了影响。
+【摘要】海莉·比伯去年出售了她的美妆品牌 Rhode，她表示自己曾因在线评论感到不安全和抑郁。
+【原标题】Hailey Bieber Says Social Media Fueled Rhode but Took a Toll on Her Mental Health
+【发布时间】2026-11-18T19:13:30.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/hailey-bieber-rhode-social-media.html
+
+------------------------------
+
+15. 杰夫·贝索斯表示，他帮助挑选了罗伯特·帕丁森出演新版《007》。
+【摘要】亚马逊创始人表示，他在“选角”过程中“深度参与”，而这场选角刚刚在几天前结束。
+【原标题】Jeff Bezos Says He Helped Pick Robert Pattinson as the New James Bond
+【发布时间】2026-11-18T18:41:11.000Z
+【链接】https://www.nytimes.com/2026/11/18/movies/jeff-bezos-pick-robert-pattinson-james-bond.html
+
+------------------------------
+
+16. 观看：OpenAI 高管谈“失控代理”和人工智能安全
+【摘要】在 DealBook 峰会的一次采访中，OpenAI 的联合创始人 Sam Altman 和 Greg Brockman 讨论了如何在安全与风险之间取得平衡。
+【原标题】Watch: OpenAI’s Top Executives Talk Rogue Agents and A.I. Security
+【发布时间】2026-11-18T18:19:07.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/watch-openais-top-executives-talk-rogue-agents-and-ai-security.html
+
+------------------------------
+
+17. OpenAI 高管表示，他们必须在这两者之间取得平衡：人工智能安全和进步。
+【摘要】这家公司的首席执行官 Sam Altman 和总裁 Greg Brockman 表示，他们无法“让所有人都满意”。
+【原标题】OpenAI Executives Say They Have to Strike a Balance Between A.I. Safety and Progress
+【发布时间】2026-11-18T18:10:04.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/openai-sam-altman-greg-brockman.html
+
+------------------------------
+
+18. 医院加紧修补 Java 漏洞。
+【摘要】人工智能正在加速健康系统面临的威胁，这些系统多年来一直受到黑客攻击。
+【原标题】Hospitals Rush to Patch Java Vulnerabilities
+【发布时间】2026-11-18T17:48:19.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html
+
+------------------------------
+
+19. 欧洲中央银行行长克里斯蒂娜·拉加德解释为何提前辞职。
+【摘要】欧洲中央银行行长表示，她想利用自己的声音和数十年的经验，来反对她所说的欧洲选举中的“假新闻”和“误导”。
+【原标题】ECB President Christine Lagarde on Why She’s Stepping Down Early
+【发布时间】2026-11-18T17:43:21.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/christine-lagarde-european-central-bank.html
+
+------------------------------
+
+20. 谷歌在新市场上从 Spirit Airlines 购买员工数据，以供人工智能使用。
+【摘要】一名空乘工会对谷歌在法院保护该数据中个人信息的计划提出质疑，称该公司采取的措施不足以保护 Spirit 员工。
+【原标题】Google Buys Worker Data From Spirit Airlines in a New Market to Feed A.I.
+【发布时间】2026-11-18T17:02:13.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html
