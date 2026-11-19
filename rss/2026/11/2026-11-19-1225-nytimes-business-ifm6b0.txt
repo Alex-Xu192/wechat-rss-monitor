@@ -1,0 +1,178 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-18T22:25:37.993Z - 2026-11-19T04:25:37.993Z
+【数量】19
+
+【本邮件新闻标题汇总】
+1. Nvidia芯片如何落入中国军队手中
+2. 2026年DealBook峰会的要点
+3. Anthropic公开上市为公司权力“实验”铺平道路
+4. 观看：Robinhood首席执行官称他不应决定你可以交易什么
+5. 中期选举失利后，Elon Musk淡化对共和党的支持
+6. 观看：Christine Lagarde希望打击假新闻
+7. 观看DealBook峰会上的重大采访
+8. 观看：Elon Musk称自己是政治温和派，“并非MAGA”
+9. 观看：Hailey Bieber称社交媒体已影响她的心理健康
+10. 观看：Palmer Luckey警告在AI竞赛中落后
+11. 观看：Satya Nadella谈AI对全球基础设施的威胁
+12. Mamdani在DealBook峰会上谈论Trump、税收和10月7日
+13. 微软首席执行官警告：AI使更多技术故障更可能发生
+14. 纽约、洛杉矶和芝加哥学区考虑因AI问题与谷歌搜索“分手”
+15. 观看：Zohran Mamdani谈与特朗普寻找共同点
+16. Jensen Huang辞职后，Nvidia临时首席执行官Colette Kress对员工说了什么
+17. 观看：OpenAI高管谈论流氓代理和AI安全
+18. Polymarket首席执行官称Donald Trump Jr.的参与被“夸大”
+19. Jensen Huang是DealBook峰会科技领袖关注的焦点
+
+==============================
+
+1. Nvidia芯片如何落入中国军队手中
+【摘要】阿里巴巴，这家处于Nvidia间谍事件核心公司背后的中国互联网巨头，已利用其AI计算技术协助一家与中国军队有联系的实验室。
+【原标题】How Nvidia Chips Ended Up Within Reach of China’s Military
+【发布时间】2026-11-19T04:13:05.000Z
+【链接】https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html
+
+------------------------------
+
+2. 2026年DealBook峰会的要点
+【摘要】人工智能和政府领域的领导人周三讨论了美国政治的转变、Jensen Huang在Nvidia被罢免的影响等问题。
+【原标题】Takeaways From the 2026 DealBook Summit
+【发布时间】2026-11-19T03:12:43.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html
+
+------------------------------
+
+3. Anthropic公开上市为公司权力“实验”铺平道路
+【摘要】这家人工智能巨头将成为迄今为止最大的公开交易的“公众利益公司”，这种结构要求它平衡安全与利润。
+【原标题】Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power
+【发布时间】2026-11-19T02:55:52.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html
+
+------------------------------
+
+4. 观看：Robinhood首席执行官称他不应决定你可以交易什么
+【摘要】与纳斯达克首席执行官Adena Friedman和Polymarket创始人Shayne Coplan并肩发言时，Vlad Tenev表示普通投资者应能获得更多机会。
+【原标题】Watch: Robinhood’s C.E.O. Says He Shouldn’t Decide What You Can Trade
+【发布时间】2026-11-19T01:37:24.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/adena-friedman-vlad-tenev-shayne-copland-dealbook-summit.html
+
+------------------------------
+
+5. 中期选举失利后，Elon Musk淡化对共和党的支持
+【摘要】SpaceX首席执行官耗资数百万美元支持共和党候选人，他试图将自己塑造为一位政治温和派。
+【原标题】Elon Musk Plays Down G.O.P. Support After Midterm Loss
+【发布时间】2026-11-19T00:58:47.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html
+
+------------------------------
+
+6. 观看：Christine Lagarde希望打击假新闻
+【摘要】在DealBook峰会的一次采访中，欧洲央行行长解释了她提前辞职的决定，并表示全球范围内信任“供不应求”。
+【原标题】Watch: Christine Lagarde Wants to Fight Fake News
+【发布时间】2026-11-19T00:54:27.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/watch-christine-lagarde-wants-to-fight-fake-news.html
+
+------------------------------
+
+7. 观看DealBook峰会上的重大采访
+【摘要】查看与加拿大总理Mark Carney、OpenAI的Sam Altman和Greg Brockman、纽约市长Zohran Mamdani、SpaceX的Elon Musk等人的完整对话。
+【原标题】Watch the Biggest Interviews at the DealBook Summit
+【发布时间】2026-11-19T00:47:24.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/watch-the-biggest-interviews-at-the-dealbook-summit.html
+
+------------------------------
+
+8. 观看：Elon Musk称自己是政治温和派，“并非MAGA”
+【摘要】尽管大力支持共和党，SpaceX和Tesla首席执行官在DealBook峰会的一次采访中表示，“两个政党都有优点和缺点。”
+【原标题】Watch: Elon Musk Says He’s a Political Moderate, ‘Not MAGA’
+【发布时间】2026-11-19T00:42:19.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/watch-elon-musk-dealbook-summit-not-maga.html
+
+------------------------------
+
+9. 观看：Hailey Bieber称社交媒体已影响她的心理健康
+【摘要】这位模特兼企业家去年以约8亿美元出售了她的Rhode美妆品牌，她在DealBook峰会的一次采访中表示，网络评论可能会“扭曲心智”。
+【原标题】Watch: Hailey Bieber Says Social Media Has Affected Her Mental Health
+【发布时间】2026-11-19T00:41:13.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/watch-hailey-bieber-social-media-mental-health.html
+
+------------------------------
+
+10. 观看：Palmer Luckey警告在AI竞赛中落后
+【摘要】国防科技公司Anduril Industries的创始人正就如何规划未来战争向五角大楼提供建议。
+【原标题】Watch: Palmer Luckey Warns of Falling Behind in A.I. Race
+【发布时间】2026-11-19T00:21:01.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/watch-palmer-luckey-ai-dealbook-summit.html
+
+------------------------------
+
+11. 观看：Satya Nadella谈AI对全球基础设施的威胁
+【摘要】在DealBook峰会的一次采访中，微软首席执行官表示，AI工具正以惊人的速度发现漏洞。
+【原标题】Watch: Satya Nadella on A.I.’s Threat to Global Infrastructure
+【发布时间】2026-11-19T00:20:49.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/watch-satya-nadella-dealbook-summit.html
+
+------------------------------
+
+12. Mamdani在DealBook峰会上谈论Trump、税收和10月7日
+【摘要】在一次广泛的谈话中，纽约市长Zohran Mamdani讨论了中期选举、特朗普总统以及那则“给富人征税”的视频。
+【原标题】Mamdani Talks Trump, Taxes and Oct. 7 at DealBook Summit
+【发布时间】2026-11-19T00:09:44.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/zohran-mamdani-dealbook-summit.html
+
+------------------------------
+
+13. 微软首席执行官警告：AI使更多技术故障更可能发生
+【摘要】Satya Nadella表示，AI工具正以惊人的速度发现网络安全漏洞，公司不得不创建修复程序并“即时”部署。
+【原标题】A.I. Makes More Tech Outages Likely, Microsoft’s Chief Warns
+【发布时间】2026-11-18T23:58:15.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/microsoft-satya-nadella-outages-ai.html
+
+------------------------------
+
+14. 纽约、洛杉矶和芝加哥学区考虑因AI问题与谷歌搜索“分手”
+【摘要】Google拒绝为学生将AI功能与搜索分开，这引发了反对。现在学校正在寻找替代方案。
+【原标题】NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.
+【发布时间】2026-11-18T23:23:06.000Z
+【链接】https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html
+
+------------------------------
+
+15. 观看：Zohran Mamdani谈与特朗普寻找共同点
+【摘要】纽约市长也坚持自己在以色列和加沙问题上的立场。“我拥有普世政治，”他在DealBook峰会的一次广泛采访中表示。
+【原标题】Watch: Zohran Mamdani on Finding Common Ground With Trump
+【发布时间】2026-11-18T23:13:33.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/watch-zohran-mamdani-on-finding-common-ground-with-trump.html
+
+------------------------------
+
+16. Jensen Huang辞职后，Nvidia临时首席执行官Colette Kress对员工说了什么
+【摘要】在全体员工会议上，Colette Kress试图将Nvidia联合创始人Jensen Huang的不当行为置于幕后。
+【原标题】What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation
+【发布时间】2026-11-18T23:10:00.000Z
+【链接】https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html
+
+------------------------------
+
+17. 观看：OpenAI高管谈论流氓代理和AI安全
+【摘要】在DealBook峰会的一次采访中，联合创始人Sam Altman和Greg Brockman讨论了如何在安全与风险之间取得平衡。
+【原标题】Watch: OpenAI’s Top Executives Talk Rogue Agents and A.I. Security
+【发布时间】2026-11-18T23:03:45.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/watch-openais-top-executives-talk-rogue-agents-and-ai-security.html
+
+------------------------------
+
+18. Polymarket首席执行官称Donald Trump Jr.的参与被“夸大”
+【摘要】在DealBook峰会上，Polymarket创始人Shayne Coplan为一家与特朗普总统长子有关联的公司的投资进行了辩护。
+【原标题】Polymarket CEO Says Donald Trump Jr.’s Involvement Is ‘Overblown’
+【发布时间】2026-11-18T22:37:37.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/polymarket-donald-trump-jr-shayne-coplan.html
+
+------------------------------
+
+19. Jensen Huang是DealBook峰会科技领袖关注的焦点
+【摘要】OpenAI的Sam Altman和Anduril的Palmer Luckey表示支持Huang先生，他于上周辞去了芯片制造商Nvidia的首席执行官一职。
+【原标题】Jensen Huang Is Top of Mind for Tech Leaders at DealBook Summit
+【发布时间】2026-11-18T22:30:34.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/jensen-huang-nvidia-tech-leaders-reaction.html
