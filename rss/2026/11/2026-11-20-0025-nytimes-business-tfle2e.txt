@@ -1,0 +1,133 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-19T10:25:38.445Z - 2026-11-19T16:25:38.445Z
+【数量】14
+
+【本邮件新闻标题汇总】
+1. Anthropic 公开上市引发一场关于企业权力的“实验”
+2. 中国企业被挡在 Anthropic 火爆的 IPO 之外
+3. 认识 Anthropic 的七位创始人，他们如今每人身价约 200 亿美元。
+4. 以下是最新消息。
+5. 伊朗持续在霍尔木兹海峡对船只发动猛烈袭击
+6. Anthropic 的 Dario Amodei 如何看待人工智能
+7. Anthropic 的股票何时开始交易？
+8. 2026 年 DealBook 峰会要点
+9. Anthropic 早期投资者 Dustin Moskovitz 对此次 IPO 感到有些不安
+10. Anthropic 估值破万亿的上市首秀是人工智能风险与回报的分水岭
+11. 伊朗战争将如何重塑全球能源格局
+12. Mamdani、Musk、Altman、人工智能及其他 DealBook 峰会亮点
+13. 俄罗斯接管日本烟草旗下公司，使其遭受 86 亿美元打击
+14. “人工智能搞垮了互联网吗？”以及本周我们担忧的其他问题
+
+==============================
+
+1. Anthropic 公开上市引发一场关于企业权力的“实验”
+【摘要】这家人工智能巨头将成为迄今为止规模最大的上市“公益公司”（public benefit corporation），这种公司结构要求其在安全与利润之间取得平衡。
+【原标题】Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power
+【发布时间】2026-11-19T16:12:00.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html
+
+------------------------------
+
+2. 中国企业被挡在 Anthropic 火爆的 IPO 之外
+【摘要】在首次公开募股之前，Anthropic 将来自中国大陆和香港的投资公司排除在购股名单之外。
+【原标题】China Is Shut Out of Anthropic’s Blockbuster I.P.O.
+【发布时间】2026-11-19T16:10:29.000Z
+【链接】https://www.nytimes.com/2026/11/19/business/anthropic-ipo-china-hong-kong.html
+
+------------------------------
+
+3. 认识 Anthropic 的七位创始人，他们如今每人身价约 200 亿美元。
+【摘要】原 RSS 未提供摘要
+【原标题】Meet Anthropic’s seven founders. Each is now worth about $20 billion.
+【发布时间】2026-11-19T16:05:01.000Z
+【链接】https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/meet-anthropics-seven-founders-each-is-now-worth-about-20-billion
+
+------------------------------
+
+4. 以下是最新消息。
+【摘要】原 RSS 未提供摘要
+【原标题】Here’s the latest.
+【发布时间】2026-11-19T15:49:43.000Z
+【链接】https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/heres-the-latest
+
+------------------------------
+
+5. 伊朗持续在霍尔木兹海峡对船只发动猛烈袭击
+【摘要】最近对一艘已失去行动能力的船只发动的袭击，或许预示着在波斯湾及周边海域航行的油轮将迎来危险的新阶段。
+【原标题】Iran Keeps Up Unrelenting Attacks on Ships in the Strait of Hormuz
+【发布时间】2026-11-19T15:32:51.000Z
+【链接】https://www.nytimes.com/2026/11/19/business/iran-tanker-attack-strait-of-hormuz.html
+
+------------------------------
+
+6. Anthropic 的 Dario Amodei 如何看待人工智能
+【摘要】原 RSS 未提供摘要
+【原标题】How Anthropic’s Dario Amodei thinks about A.I.
+【发布时间】2026-11-19T14:48:31.000Z
+【链接】https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/how-anthropics-dario-amodei-thinks-about-ai
+
+------------------------------
+
+7. Anthropic 的股票何时开始交易？
+【摘要】原 RSS 未提供摘要
+【原标题】When will Anthropic shares start trading?
+【发布时间】2026-11-19T14:43:56.000Z
+【链接】https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/when-will-anthropic-shares-start-trading
+
+------------------------------
+
+8. 2026 年 DealBook 峰会要点
+【摘要】周三，人工智能领域的领导者和政府官员讨论了美国政治格局的转变、黄仁勋被逐出 Nvidia 所引发的余波等话题。
+【原标题】Takeaways From the 2026 DealBook Summit
+【发布时间】2026-11-19T14:08:33.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-musk-altman-ellison.html
+
+------------------------------
+
+9. Anthropic 早期投资者 Dustin Moskovitz 对此次 IPO 感到有些不安
+【摘要】Facebook 联合创始人 Dustin Moskovitz 对 Anthropic 的早期投资正在获得丰厚回报，但他却高兴不起来。
+【原标题】Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO
+【发布时间】2026-11-19T13:28:13.000Z
+【链接】https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html
+
+------------------------------
+
+10. Anthropic 估值破万亿的上市首秀是人工智能风险与回报的分水岭
+【摘要】随着这项技术迅猛发展，华盛顿的决策者一直难以应对它可能对劳动者、企业以及经济其他领域带来的潜在冲击。
+【原标题】Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards
+【发布时间】2026-11-19T13:20:40.000Z
+【链接】https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html
+
+------------------------------
+
+11. 伊朗战争将如何重塑全球能源格局
+【摘要】国际能源署在其对该战争影响最全面的分析中发现，石油冲击可能加速替代能源的采用。
+【原标题】How the War in Iran Will Remake the Global Energy Order
+【发布时间】2026-11-19T12:51:17.000Z
+【链接】https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html
+
+------------------------------
+
+12. Mamdani、Musk、Altman、人工智能及其他 DealBook 峰会亮点
+【摘要】人工智能、泡沫担忧、Nvidia 风波、预测市场、政治及其他今年登上头条的重大话题。
+【原标题】Mamdani, Musk, Altman, A.I. and Other DealBook Summit Highlights
+【发布时间】2026-11-19T12:20:02.000Z
+【链接】https://www.nytimes.com/2026/11/19/business/dealbook/mamdani-musk-altman-summit-highlights.html
+
+------------------------------
+
+13. 俄罗斯接管日本烟草旗下公司，使其遭受 86 亿美元打击
+【摘要】针对这家日本政府支持的卷烟制造商的举措凸显了两国关系的日益紧张，尽管双方领导人仍试图保持外交沟通渠道畅通。
+【原标题】Russia’s Takeover of Japan Tobacco Units Deals $8.6 Billion Blow
+【发布时间】2026-11-19T11:24:23.000Z
+【链接】https://www.nytimes.com/2026/11/19/business/russia-japan-tobacco-loss.html
+
+------------------------------
+
+14. “人工智能搞垮了互联网吗？”以及本周我们担忧的其他问题
+【摘要】一连串技术故障让许多人感到不安。本报记者为您解释究竟发生了什么。
+【原标题】‘Did A.I. Break the Internet?’ and Other Things We’ve Worried About This Week
+【发布时间】2026-11-19T11:00:14.000Z
+【链接】https://www.nytimes.com/2026/11/19/podcasts/the-daily/tech-outages-internet.html
