@@ -1,0 +1,61 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-19T04:25:38.107Z - 2026-11-19T10:25:38.107Z
+【数量】6
+
+【本邮件新闻标题汇总】
+1. Anthropic I.P.O. 凸显华盛顿已落后
+2. Dustin Moskovitz, an Early Anthropic Investor, 对IPO有点不安
+3. 伊朗战争将如何重塑全球能源秩序
+4. 观看: OpenAI高管 谈论鲁莽代理和A.I.安全
+5. Nvidia临时CEO Colette Kress在Jensen Huang辞职后对员工说了什么
+6. 高汽油价让你改变驾驶方式了吗？请告诉我们。
+
+==============================
+
+1. Anthropic I.P.O. 凸显华盛顿已落后
+【摘要】随着A.I.发展急速推进，政策制定者一直在努力保护工人、企业和经济免受潜在干扰。
+【原标题】Anthropic I.P.O. Highlights How Washington Has Fallen Behind
+【发布时间】2026-11-19T10:03:26.000Z
+【链接】https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html
+
+------------------------------
+
+2. Dustin Moskovitz, an Early Anthropic Investor, 对IPO有点不安
+【摘要】Dustin Moskovitz作为Facebook联合创始人的早期投资于Anthropic已获回报。但这并未让他感到愉快。
+【原标题】Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO
+【发布时间】2026-11-19T10:03:03.000Z
+【链接】https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html
+
+------------------------------
+
+3. 伊朗战争将如何重塑全球能源秩序
+【摘要】就在国际能源机构最全面的战争后果分析中，发现石油冲击可能加速替代能源的采用。
+【原标题】How the War in Iran Will Remake the Global Energy Order
+【发布时间】2026-11-19T09:25:56.000Z
+【链接】https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html
+
+------------------------------
+
+4. 观看: OpenAI高管 谈论鲁莽代理和A.I.安全
+【摘要】在DealBook峰会上的采访中，联合创始人Sam Altman和Greg Brockman讨论了如何在安全与风险之间找到平衡。
+【原标题】Watch: OpenAI’s Top Executives Talk Rogue Agents and A.I. Security
+【发布时间】2026-11-19T09:16:48.000Z
+【链接】https://www.nytimes.com/2026/11/18/business/dealbook/watch-openais-top-executives-talk-rogue-agents-and-ai-security.html
+
+------------------------------
+
+5. Nvidia临时CEO Colette Kress在Jensen Huang辞职后对员工说了什么
+【摘要】在全员会议上，Colette Kress试图把Nvidia联合创始人Jensen Huang的不当行为抛在身后。
+【原标题】What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation
+【发布时间】2026-11-19T05:11:13.000Z
+【链接】https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html
+
+------------------------------
+
+6. 高汽油价让你改变驾驶方式了吗？请告诉我们。
+【摘要】你开得少了吗？拼车吗？换车了吗？告诉我们2026年能源冲击如何影响了你。
+【原标题】Have High Gas Prices Made You Change How You Drive? Tell Us About It.
+【发布时间】2026-11-19T05:00:13.000Z
+【链接】https://www.nytimes.com/2026/11/19/business/energy-environment/gas-prices-iran-war-driving-callout.html
