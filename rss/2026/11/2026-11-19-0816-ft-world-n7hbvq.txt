@@ -1,0 +1,43 @@
+Financial Times World - 中文新闻汇总
+
+【来源】Financial Times World
+【时间】2026-11-18T22:16:37.856Z - 2026-11-19T00:16:37.856Z
+【数量】4
+
+【本邮件新闻标题汇总】
+1. 美国科技系统故障归咎于匆忙修复由AI发现的Bug
+2. 城市企业被要求加强网络防御，AI暴露漏洞
+3. Meta暂停计划赋予扎克伯格新类别的股份
+4. 美洲扩军合作以打击走私毒品
+
+==============================
+
+1. 美国科技系统故障归咎于匆忙修复由AI发现的Bug
+【摘要】专家表示，匆忙打补丁软件漏洞可能在Microsoft、JPMorgan及其他公司的计算机系统中造成了不稳定
+【原标题】US tech outages blamed on rush to fix bugs found by AI
+【发布时间】2026-11-19T00:07:46.000Z
+【链接】https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1
+
+------------------------------
+
+2. 城市企业被要求加强网络防御，AI暴露漏洞
+【摘要】监管机构在黑客攻击激增和加密货币交易所Binance遭遇60亿美元盗窃事件后发布了新指引
+【原标题】City firms told to tighten cyber defences as AI exposes vulnerabilities
+【发布时间】2026-11-19T00:01:06.000Z
+【链接】https://www.ft.com/content/7cd81085-95d0-4511-b640-300a2c8791ff?syn-25a6b1a6=1
+
+------------------------------
+
+3. Meta暂停计划赋予扎克伯格新类别的股份
+【摘要】该科技集团暂停了原本将允许创始人在不丧失控制权的情况下减持股份的计划
+【原标题】Meta halts plan to give Zuckerberg new class of shares
+【发布时间】2026-11-18T23:57:06.000Z
+【链接】https://www.ft.com/content/3c97ea69-1a32-4280-b067-f37f2874f987?syn-25a6b1a6=1
+
+------------------------------
+
+4. 美洲扩军合作以打击走私毒品
+【摘要】国防部长皮特·赫格塞斯称，两国将在前往加拉加斯的行程中‘搜捕’、‘寻找’并‘杀害’‘纳科恐怖分子’
+【原标题】US and Venezuela to expand military co-operation to target drug trafficking
+【发布时间】2026-11-18T23:22:04.000Z
+【链接】https://www.ft.com/content/5144ce59-b928-46ba-b6b6-d7e77eb79d5b?syn-25a6b1a6=1
