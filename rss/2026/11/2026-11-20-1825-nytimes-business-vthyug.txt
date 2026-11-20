@@ -1,0 +1,52 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-20T04:25:38.533Z - 2026-11-20T10:25:38.533Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 股票在首席执行官突然离职后往往表现良好。英伟达会例外吗？
+2. “人工智能代理”会来抢我们的酸面种种吗？
+3. 土耳其凡猫应对气温升高
+4. 中国的人工智能雄心遭遇资金问题
+5. 从零工劳动者到大亨，中国正伸向每个口袋
+
+==============================
+
+1. 股票在首席执行官突然离职后往往表现良好。英伟达会例外吗？
+【摘要】高管的股票价值通常不如最初看起来那么重要。但英伟达卷入中美关系，面临特殊问题。
+【原标题】Stocks Often Prosper After an Abrupt C.E.O. Exit. Is Nvidia Different?
+【发布时间】2026-11-20T10:02:23.000Z
+【链接】https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html
+
+------------------------------
+
+2. “人工智能代理”会来抢我们的酸面种种吗？
+【摘要】一种名为Leaven的实验室培育捷径正在吸引许多高端面包师和披萨制作者，他们曾引以为傲的是对活性菌种的精心使用。
+【原标题】Is an ‘A.I. Agent’ Coming for Our Sourdough Starter?
+【发布时间】2026-11-20T10:02:12.000Z
+【链接】https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html
+
+------------------------------
+
+3. 土耳其凡猫应对气温升高
+【摘要】一个猫科研究中心利用空调和泳池，让猫咪感到舒适，随着数量恢复。是的，它们喜欢游泳。
+【原标题】Turkey’s Van Cats Contend With Rising Temperatures
+【发布时间】2026-11-20T10:02:10.000Z
+【链接】https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html
+
+------------------------------
+
+4. 中国的人工智能雄心遭遇资金问题
+【摘要】而Anthropic及其他硅谷人工智能巨头正在筹集数十亿美元资金，中国竞争对手在财务上难以跟上步伐。
+【原标题】China’s A.I. Ambitions Are Running Into a Money Problem
+【发布时间】2026-11-20T10:01:07.000Z
+【链接】https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html
+
+------------------------------
+
+5. 从零工劳动者到大亨，中国正伸向每个口袋
+【摘要】中国经济疲软，人口老龄化。民众正感受到新税带来的刺痛。
+【原标题】From Gig Workers to Tycoons, China Is Reaching Into Every Pocket
+【发布时间】2026-11-20T10:00:32.000Z
+【链接】https://www.nytimes.com/2026/11/20/business/from-gig-workers-to-tycoons-china-is-reaching-into-every-pocket.html
