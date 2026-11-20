@@ -1,0 +1,88 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-20T10:25:37.934Z - 2026-11-20T16:25:37.934Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. 你的雇主在让你使用 AI 吗？我们想听听你的声音。
+2. Anthropic 股票下滑，AI 和科技股抛售继续。
+3. 法官准许特朗普对 The Times 的案件继续。
+4. C.F.T.C. 官员考虑调查特朗普的 memecoin，随后搁置。
+5. 你应该投资 Anthropic 吗？这里有几点考虑。
+6. 土耳其的 Van 猫面临气温上升。
+7. 储蓄债券提供诱人的利率。首先你需要证明你的身份。
+8. Anthropic 能复兴 AI 交易吗？
+9. 美国经济如何与 AI 相关联。
+
+==============================
+
+1. 你的雇主在让你使用 AI 吗？我们想听听你的声音。
+【摘要】请告诉我们，你的雇主关于 AI 的指令是怎样的。我们可能会在文章中包括你的经历。
+【原标题】Is Your Employer Telling You to Use A.I.? We Want to Hear From You.
+【发布时间】2026-11-20T16:00:05.000Z
+【链接】https://www.nytimes.com/2026/11/20/business/is-your-employer-telling-you-to-use-ai-we-want-to-hear-from-you.html
+
+------------------------------
+
+2. Anthropic 股票下滑，AI 和科技股抛售继续。
+【摘要】S&P 500 和纳斯达克正朝着一年多来最差的周表现方向发展。Anthropic 的股票周五美国市场开盘时暴跌了多达 8%。
+【原标题】Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues
+【发布时间】2026-11-20T15:35:43.000Z
+【链接】https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html
+
+------------------------------
+
+3. 法官准许特朗普对 The Times 的案件继续。
+【摘要】特朗普指责这家新闻机构和书籍出版商 Penguin Random House 恶意抹黑他作为成功企业家的声誉。
+【原标题】Judge Allows Trump’s Case Against The Times to Proceed
+【发布时间】2026-11-20T15:14:00.000Z
+【链接】https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html
+
+------------------------------
+
+4. C.F.T.C. 官员考虑调查特朗普的 memecoin，随后搁置。
+【摘要】C.F.T.C. 的律师在数字代币发行后不久调查了可能的欺诈行为，随后决定不获得委员会的支持。
+【原标题】C.F.T.C. Officials Considered Investigating Trump’s Memecoin, Then Punted
+【发布时间】2026-11-20T15:03:34.000Z
+【链接】https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html
+
+------------------------------
+
+5. 你应该投资 Anthropic 吗？这里有几点考虑。
+【摘要】将你的财富集中投资于单一股票从来都不是个好主意，但如果你感到有投资诱惑，不妨先问自己几个问题。
+【原标题】Should You Invest in Anthropic? Here’s What to Consider.
+【发布时间】2026-11-20T14:39:17.000Z
+【链接】https://www.nytimes.com/2026/11/19/your-money/anthropic-ipo-investing.html
+
+------------------------------
+
+6. 土耳其的 Van 猫面临气温上升。
+【摘要】一个猫类研究中心使用空调和泳池，让居住的猫保持舒适，因为它们的数量正在恢复。而且，它们喜欢游泳。
+【原标题】Turkey’s Van Cats Contend With Rising Temperatures
+【发布时间】2026-11-20T14:01:44.000Z
+【链接】https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html
+
+------------------------------
+
+7. 储蓄债券提供诱人的利率。首先你需要证明你的身份。
+【摘要】财政部正与私人服务 ID.me 合作，以授权访问 TreasuryDirect 网站。一些用户反映进不去。
+【原标题】Savings Bonds Offer Enticing Rates. You Need to Prove Your Identity First.
+【发布时间】2026-11-20T14:00:05.000Z
+【链接】https://www.nytimes.com/2026/11/20/your-money/us-savings-bonds.html
+
+------------------------------
+
+8. Anthropic 能复兴 AI 交易吗？
+【摘要】人工智能巨头的股票首次交易就大幅上涨。但这并未提振科技股，因为投资者担心 AI 的未来。
+【原标题】Can Anthropic Revive the A.I. Trade?
+【发布时间】2026-11-20T13:07:07.000Z
+【链接】https://www.nytimes.com/2026/11/20/business/dealbook/anthropic-ipo-ai-rally.html
+
+------------------------------
+
+9. 美国经济如何与 AI 相关联。
+【摘要】人工智能已成为美国经济的巨大组成部分。Ben Casselman，The New York Times 的首席经济记者，解释了其中的原因及其中可能的风险。
+【原标题】How the U.S. Economy Is Tied to A.I.
+【发布时间】2026-11-20T11:01:37.000Z
+【链接】https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html
