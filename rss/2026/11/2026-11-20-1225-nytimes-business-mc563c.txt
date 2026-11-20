@@ -1,0 +1,70 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-19T22:25:38.181Z - 2026-11-20T04:25:38.181Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 法官准许特朗普150亿美元对《纽约时报》的案件继续进行
+2. 这位亿万富翁通过AI获利丰厚，但本可以更多。
+3. 特拉华州监管机构称关于Mark Walter的保险资产被误导了
+4. Nvidia被要求向与中国军方和Megaspeed相关的公司出售芯片。
+5. Anthropic的IPO将科技研究人员变成了一夜暴富。
+6. 随着GTA 6发布，DoorDash等外卖应用正在暴利。
+7. 你即将拥有多少Anthropic？
+
+==============================
+
+1. 法官准许特朗普150亿美元对《纽约时报》的案件继续进行
+【摘要】特朗普指控该新闻机构和书籍出版商 Penguin Random House 中伤了他作为成功企业家的声誉。
+【原标题】Judge Allows Trump’s $15 Billion Case Against The Times to Proceed
+【发布时间】2026-11-20T02:48:52.000Z
+【链接】https://www.nytimes.com/2026/11/19/business/media/new-york-times-trump-defamation-case.html
+
+------------------------------
+
+2. 这位亿万富翁通过AI获利丰厚，但本可以更多。
+【摘要】Gregory Jensen，对冲基金亿万富翁，早些年投资于Anthropic和OpenAI。但为资助公司的接班计划，他告诉同事他已出售其OpenAI股份。
+【原标题】This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.
+【发布时间】2026-11-20T02:44:43.000Z
+【链接】https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html
+
+------------------------------
+
+3. 特拉华州监管机构称关于Mark Walter的保险资产被误导了
+【摘要】该州保险机构驳回了部分行业分析师对Mark Walter保险公司监管的批评。
+【原标题】Delaware Regulator Says It Was ‘Misled’ About Mark Walter’s Insurance Assets
+【发布时间】2026-11-20T02:13:05.000Z
+【链接】https://www.nytimes.com/2026/11/19/business/delaware-regulator-mark-walters-insurance.html
+
+------------------------------
+
+4. Nvidia被要求向与中国军方和Megaspeed相关的公司出售芯片。
+【摘要】议员泄露了机密信息，显示商务部已批准向中国公司销售80万多枚AI芯片，其中一些与军方有关。
+【原标题】Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed
+【发布时间】2026-11-20T01:13:37.000Z
+【链接】https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html
+
+------------------------------
+
+5. Anthropic的IPO将科技研究人员变成了一夜暴富。
+【摘要】许多几年前加入这家AI公司的人可能很少想过Anthropic会变得这么大。如今他们价值数千万美元，至少也不止。
+【原标题】Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires
+【发布时间】2026-11-20T00:25:47.000Z
+【链接】https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html
+
+------------------------------
+
+6. 随着GTA 6发布，DoorDash等外卖应用正在暴利。
+【摘要】大量留在家中的玩家必须被喂养，餐饮业已准备好为他们提供餐食。
+【原标题】With GTA 6 Release, DoorDash and Other Food Delivery Apps Are Making a Killing
+【发布时间】2026-11-19T23:19:31.000Z
+【链接】https://www.nytimes.com/2026/11/19/dining/grand-theft-auto-food-delivery.html
+
+------------------------------
+
+7. 你即将拥有多少Anthropic？
+【摘要】看看通过常见的指数基金（如退休账户中找到的那些），你可能拥有多少股份。
+【原标题】How Much Anthropic Are You About to Own?
+【发布时间】2026-11-19T22:46:06.000Z
+【链接】https://www.nytimes.com/2026/11/19/upshot/anthropic-ipo-stock.html
