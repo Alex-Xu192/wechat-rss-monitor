@@ -1,0 +1,97 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-20T16:25:36.352Z - 2026-11-20T22:25:36.352Z
+【数量】10
+
+【本邮件新闻标题汇总】
+1. 首席执行官突然离职后股价往往上涨。Nvidia 会不同吗？
+2. 人工智能与科技股抛售持续，Anthropic 股价下滑
+3. 许多 Etsy 卖家因网站新的人工智能政策而停业
+4. 《侠盗猎车手 VI》单日营收 37.9 亿美元
+5. 遭遇黑客攻击企图后，Nissan 关闭维修系统
+6. 美国原住民部落与 Kalshi 争端的内幕
+7. 特朗普威胁禁止美国科技公司在海外建设数据中心
+8. 被控对 Nvidia 首席执行官进行间谍活动的 Alice Huang 与有中国军方背景的公司有关联
+9. 土耳其凡猫应对不断上升的气温
+10. Anthropic 的首次公开募股让科技研究人员一夜成为百万富翁
+
+==============================
+
+1. 首席执行官突然离职后股价往往上涨。Nvidia 会不同吗？
+【摘要】高管的股票价值往往没有乍看之下那么重要。但 Nvidia 卷入美中关系，带来了特殊问题。
+【原标题】Stocks Often Prosper After an Abrupt C.E.O. Exit. Is Nvidia Different?
+【发布时间】2026-11-20T22:11:56.000Z
+【链接】https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html
+
+------------------------------
+
+2. 人工智能与科技股抛售持续，Anthropic 股价下滑
+【摘要】标普 500 指数当日收盘较近期高点下跌逾 10%，这标志着投资者情绪转恶。
+【原标题】Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues
+【发布时间】2026-11-20T21:52:45.000Z
+【链接】https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html
+
+------------------------------
+
+3. 许多 Etsy 卖家因网站新的人工智能政策而停业
+【摘要】该在线市场的众多长期用户已离开平台，因为他们不希望自己的作品被用于训练人工智能。Etsy 表示将修订其政策。
+【原标题】Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy
+【发布时间】2026-11-20T21:50:44.000Z
+【链接】https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html
+
+------------------------------
+
+4. 《侠盗猎车手 VI》单日营收 37.9 亿美元
+【摘要】该游戏系列时隔 13 年推出新作，令玩家期待已久。没有哪部电影的票房曾超过 30 亿美元。
+【原标题】Grand Theft Auto VI Made $3.79 Billion in a Single Day
+【发布时间】2026-11-20T21:21:39.000Z
+【链接】https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html
+
+------------------------------
+
+5. 遭遇黑客攻击企图后，Nissan 关闭维修系统
+【摘要】此次系统中断始于一周前，可能推迟涉及车辆电子设备和智能钥匙的维修。
+【原标题】Nissan Shuts Down System Used for Repairs After Hack Attempt
+【发布时间】2026-11-20T19:39:27.000Z
+【链接】https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html
+
+------------------------------
+
+6. 美国原住民部落与 Kalshi 争端的内幕
+【摘要】几十年来，许多美国部落依靠赌场和其他博彩收入维持生存。他们已在法庭上辩称，预测市场威胁了他们的主权。
+【原标题】Inside the Fight Between Native American Tribes and Kalshi
+【发布时间】2026-11-20T19:25:32.000Z
+【链接】https://www.nytimes.com/2026/11/20/business/tribal-gaming-kalshi.html
+
+------------------------------
+
+7. 特朗普威胁禁止美国科技公司在海外建设数据中心
+【摘要】这位总统暗示将对同一批公司征税，但尚不清楚他将如何实施这一在新闻发布会上公布的计划。
+【原标题】Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad
+【发布时间】2026-11-20T18:51:22.000Z
+【链接】https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html
+
+------------------------------
+
+8. 被控对 Nvidia 首席执行官进行间谍活动的 Alice Huang 与有中国军方背景的公司有关联
+【摘要】Alice Huang 是 Nvidia 丑闻的核心人物；与她有关联的公司属于一个由需要先进计算能力的中国科技企业和防务承包商组成的网络。
+【原标题】Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military
+【发布时间】2026-11-20T18:05:36.000Z
+【链接】https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html
+
+------------------------------
+
+9. 土耳其凡猫应对不断上升的气温
+【摘要】土耳其一家猫科研究中心使用空调和泳池，在种群数量恢复期间让园中猫咪保持舒适。没错，它们喜欢游泳。
+【原标题】Turkey’s Van Cats Contend With Rising Temperatures
+【发布时间】2026-11-20T17:13:20.000Z
+【链接】https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html
+
+------------------------------
+
+10. Anthropic 的首次公开募股让科技研究人员一夜成为百万富翁
+【摘要】许多几年前加入这家人工智能公司的人，可能几乎没理由想到 Anthropic 会变得如此庞大。他们现在身价数千万美元，甚至更多。
+【原标题】Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires
+【发布时间】2026-11-20T17:11:42.000Z
+【链接】https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html
