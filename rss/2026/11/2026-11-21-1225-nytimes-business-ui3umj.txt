@@ -1,0 +1,34 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-20T22:25:37.946Z - 2026-11-21T04:25:37.946Z
+【数量】3
+
+【本邮件新闻标题汇总】
+1. 法官批准 70 亿美元与指控鲁比特致癌相关的和解
+2. Nvidia 据报道面临证券交易委员会对会计做法的调查
+3. 随着人工智能担忧加剧，股市滑入回调
+
+==============================
+
+1. 法官批准 70 亿美元与指控鲁比特致癌相关的和解
+【摘要】该裁决来自全国集体诉讼，预计将结束数万起指控鲁比特导致非霍奇金淋巴瘤的诉讼。
+【原标题】Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer
+【发布时间】2026-11-21T03:23:04.000Z
+【链接】https://www.nytimes.com/2026/11/20/business/judge-approves-7-billion-settlement-over-claims-that-roundup-caused-cancer.html
+
+------------------------------
+
+2. Nvidia 据报道面临证券交易委员会对会计做法的调查
+【摘要】在亚洲有关其可疑芯片销售的揭露浮出水面后，关于该公司会计问题的疑问也开始出现。
+【原标题】Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices
+【发布时间】2026-11-21T01:06:52.000Z
+【链接】https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html
+
+------------------------------
+
+3. 随着人工智能担忧加剧，股市滑入回调
+【摘要】标普 500 指数当天收盘价较近期高点下跌超过 10%，这是投资者情绪降温的象征性指标。
+【原标题】Stocks Skid Into a Correction, as A.I. Worries Intensify
+【发布时间】2026-11-20T22:47:32.000Z
+【链接】https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html
