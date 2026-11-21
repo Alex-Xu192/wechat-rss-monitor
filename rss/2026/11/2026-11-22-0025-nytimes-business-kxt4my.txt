@@ -1,0 +1,79 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-21T10:25:38.346Z - 2026-11-21T16:25:38.346Z
+【数量】8
+
+【本邮件新闻标题汇总】
+1. 英伟达 据称将面临 S.E.C. 对其会计惯例的调查
+2. 二手车行业蓬勃发展。这个新泽西校园正在定价
+3. 美国经济如何与人工智能相联系
+4. 许多Etsy卖家因该网站新的人工智能政策而关店
+5. Maldon Salt 的真实性受到质疑，美食爱好者深感震惊
+6. 为何人们对虚拟宠物Tamagotchis的怀旧之情难以消散
+7. 埃隆·马斯克谈及其政治立场、潜在合并与乌克兰问题
+8. 土耳其范猫应对气温升高
+
+==============================
+
+1. 英伟达 据称将面临 S.E.C. 对其会计惯例的调查
+【摘要】围绕该公司会计惯例的质疑此前已浮出水面，背景是有关其在亚洲存疑的芯片销售的情况被曝光。
+【原标题】Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices
+【发布时间】2026-11-21T16:06:21.000Z
+【链接】https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html
+
+------------------------------
+
+2. 二手车行业蓬勃发展。这个新泽西校园正在定价
+【摘要】随着新车价格超出大多数买家的承受能力，二手车市场对消费者和汽车行业变得愈发重要。
+【原标题】The Used Car Industry Is Booming. This N.J. Campus Is Setting the Price.
+【发布时间】2026-11-21T15:22:36.000Z
+【链接】https://www.nytimes.com/2026/11/21/business/used-car-auctions-manheim-prices.html
+
+------------------------------
+
+3. 美国经济如何与人工智能相联系
+【摘要】人工智能已成为美国经济的重要组成部分。《纽约时报》首席经济记者本·卡塞尔曼解释了原因及其可能带来的风险。
+【原标题】How the U.S. Economy Is Tied to A.I.
+【发布时间】2026-11-21T15:06:22.000Z
+【链接】https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html
+
+------------------------------
+
+4. 许多Etsy卖家因该网站新的人工智能政策而关店
+【摘要】众多在线市场的老用户因不希望自己的作品用于训练人工智能而离开该平台。Etsy表示将修订其政策。
+【原标题】Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy
+【发布时间】2026-11-21T14:04:25.000Z
+【链接】https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html
+
+------------------------------
+
+5. Maldon Salt 的真实性受到质疑，美食爱好者深感震惊
+【摘要】这种薄片状盐是美食博主和名厨们的最爱。本周的一则披露引发了关于“什么才算手工制作”的质疑。
+【原标题】Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken
+【发布时间】2026-11-21T14:01:15.000Z
+【链接】https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html
+
+------------------------------
+
+6. 为何人们对虚拟宠物Tamagotchis的怀旧之情难以消散
+【摘要】千禧一代正在响应这款30年前引发轰动的掌上游戏发出的召唤。渴望模拟体验的Z世代亦是如此。
+【原标题】Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die
+【发布时间】2026-11-21T13:57:13.000Z
+【链接】https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html
+
+------------------------------
+
+7. 埃隆·马斯克谈及其政治立场、潜在合并与乌克兰问题
+【摘要】特斯拉和SpaceX首席执行官在DealBook峰会上与安德鲁·罗斯·索尔金进行了对话。
+【原标题】Elon Musk on His Politics, a Potential Merger and Ukraine
+【发布时间】2026-11-21T13:00:06.000Z
+【链接】https://www.nytimes.com/2026/11/21/business/dealbook/elon-musk-dealbook-summit.html
+
+------------------------------
+
+8. 土耳其范猫应对气温升高
+【摘要】土耳其一家猫科研究中心利用空调和泳池，让其中的猫咪感到舒适，因为它们的数量正在恢复。是的，它们喜欢游泳。
+【原标题】Turkey’s Van Cats Contend With Rising Temperatures
+【发布时间】2026-11-21T12:31:35.000Z
+【链接】https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html
