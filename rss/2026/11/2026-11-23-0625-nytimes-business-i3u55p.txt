@@ -1,0 +1,52 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-22T16:25:36.628Z - 2026-11-22T22:25:36.628Z
+【数量】5
+
+【本邮件新闻标题汇总】
+1. 美国经济与人工智能的依赖
+2. 为什么对虚拟宠物塔马戈奇的怀旧不会消失
+3. 他们不卖房，而是成了房东
+4. 斯科特·贝森呼吁Nvidia提供关于芯片销售至中国的答案
+5. 《饥荒游戏：黎明复苏》在国内开场票房接近前作的三倍，延续了Lionsgate的热门连胜
+
+==============================
+
+1. 美国经济与人工智能的依赖
+【摘要】人工智能已成为美国经济中的一大部分。Ben Casselman，《纽约时报》经济记者首席记者，解释了原因及其可能带来的风险。
+【原标题】How the U.S. Economy Is Tied to A.I.
+【发布时间】2026-11-22T19:58:06.000Z
+【链接】https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html
+
+------------------------------
+
+2. 为什么对虚拟宠物塔马戈奇的怀旧不会消失
+【摘要】千禧一代正在回应30年前引起轰动的小型手持游戏的铃声呼叫，但同样，渴望实体产品的Z世代也在追上来。
+【原标题】Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die
+【发布时间】2026-11-22T19:57:43.000Z
+【链接】https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html
+
+------------------------------
+
+3. 他们不卖房，而是成了房东
+【摘要】房主表示租金收入有助于支付抵押贷款，但他们必须学习处理必要的维修并面对不良租客。
+【原标题】Rather Than Sell Their House, They Became Landlords Instead
+【发布时间】2026-11-22T18:05:48.000Z
+【链接】https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html
+
+------------------------------
+
+4. 斯科特·贝森呼吁Nvidia提供关于芯片销售至中国的答案
+【摘要】财政部长在CBS称，关于Jensen Huang是否重新担任该公司的首席执行官，已经太早了。
+【原标题】Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China
+【发布时间】2026-11-22T17:55:31.000Z
+【链接】https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html
+
+------------------------------
+
+5. 《饥荒游戏：黎明复苏》在国内开场票房接近前作的三倍，延续了Lionsgate的热门连胜
+【摘要】这部电影的国内开场票房几乎是前作的三倍，延续了Lionsgate的热门连胜。
+【原标题】‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office
+【发布时间】2026-11-22T17:53:44.000Z
+【链接】https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html
