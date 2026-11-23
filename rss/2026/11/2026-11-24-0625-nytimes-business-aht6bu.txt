@@ -1,0 +1,88 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-23T16:25:36.714Z - 2026-11-23T22:25:36.714Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. Jensen Huang 回归 Nvidia，展示 Trump 将为 AI 做什么
+2. Trump 行政部门对 Megaspeed 实施制裁，这家新加坡公司位于 Nvidia 丑闻的中心
+3. Audra Fordin 修理汽车，并缓解女性的顾虑
+4. 在 Jensen Huang 回归为 CEO 之际，Trump 实际上绕过了 Nvidia 的董事会
+5. 股价在 Jensen Huang 被重新任命为 Nvidia CEO 后飙升
+6. 这是最新消息。
+7. 一个‘A.I. Agent’将取代我们的酸面包培养吗？
+8. 如何为 A.I. 紧急情况或任何灾难制定计划
+9. Jensen Huang 能否回归 Nvidia？
+
+==============================
+
+1. Jensen Huang 回归 Nvidia，展示 Trump 将为 AI 做什么
+【摘要】President Trump 代表回归的 Nvidia 首席介入，旨在提振这家推动股市的关键公司。该公司股价飙升。
+【原标题】Jensen Huang Returns to Nvidia, Showing What Trump Will Do for AI
+【发布时间】2026-11-23T22:19:47.000Z
+【链接】https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html
+
+------------------------------
+
+2. Trump 行政部门对 Megaspeed 实施制裁，这家新加坡公司位于 Nvidia 丑闻的中心
+【摘要】行政部门将 Megaspeed 列入实体名单，即贸易黑名单，在多位高层官员在该决定上争论数周后。
+【原标题】Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal
+【发布时间】2026-11-23T22:18:30.000Z
+【链接】https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html
+
+------------------------------
+
+3. Audra Fordin 修理汽车，并缓解女性的顾虑
+【摘要】Audra Fordin 认识到让汽车教育更易获得的不可否认的需求，并采取了行动。
+【原标题】Audra Fordin Fixes Cars, and Eases Women’s Fears
+【发布时间】2026-11-23T21:31:04.000Z
+【链接】https://www.nytimes.com/2026/11/23/business/small-business/women-cars.html
+
+------------------------------
+
+4. 在 Jensen Huang 回归为 CEO 之际，Trump 实际上绕过了 Nvidia 的董事会
+【摘要】Nvidia 的董事会表示胡安不会回来。但推动胡安复职的 President Trump 实际上绕过了董事会，治理专家表示。
+【原标题】With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board
+【发布时间】2026-11-23T21:26:51.000Z
+【链接】https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html
+
+------------------------------
+
+5. 股价在 Jensen Huang 被重新任命为 Nvidia CEO 后飙升
+【摘要】市场上周已开始从一周前的抛售中回升。随后，Nvidia 重新任命其前首席执行官的消息使股价急剧上涨。
+【原标题】Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO
+【发布时间】2026-11-23T21:23:31.000Z
+【链接】https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html
+
+------------------------------
+
+6. 这是最新消息。
+【摘要】胡安于 11 月 12 日因多段婚外关系的披露而辞职。
+【原标题】Here’s the latest.
+【发布时间】2026-11-23T21:07:48.000Z
+【链接】https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang
+
+------------------------------
+
+7. 一个‘A.I. Agent’将取代我们的酸面包培养吗？
+【摘要】一款实验室培育的捷径 Leaven 正吸引着许多高端面包师和披萨制作者，他们自豪于对活的培养物的精心使用。
+【原标题】Is an ‘A.I. Agent’ Coming for Our Sourdough Starter?
+【发布时间】2026-11-23T19:56:40.000Z
+【链接】https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html
+
+------------------------------
+
+8. 如何为 A.I. 紧急情况或任何灾难制定计划
+【摘要】一位个人试图为难以想像的情形做准备。
+【原标题】How to Plan for an A.I. Emergency, or Any Calamity
+【发布时间】2026-11-23T19:39:10.000Z
+【链接】https://www.nytimes.com/2026/11/21/business/ai-emergency-plan.html
+
+------------------------------
+
+9. Jensen Huang 能否回归 Nvidia？
+【摘要】Jensen Huang 正是这样做的。Nvidia 的联合创始人被重新任命为首席执行官，这一举措震惊了 Wall Street 和 Washington。
+【原标题】Can Jensen Huang Return to Nvidia?
+【发布时间】2026-11-23T18:38:32.000Z
+【链接】https://www.nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html
