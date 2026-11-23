@@ -1,0 +1,88 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-23T10:25:39.378Z - 2026-11-23T16:25:39.378Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. 埃隆·马斯克在 SpaceX 面临人工智能困境
+2. 最新消息
+3. 黄仁勋重任 Nvidia 首席执行官后股市飙升
+4. 为何对 Tamagotchi 虚拟宠物的怀旧之情难以消亡
+5. 意大利珠宝世家继承人 Paolo Bulgari 逝世，享年 89 岁
+6. Essence 和 Ms. 杂志前总编辑 Marcia Ann Gillespie 逝世
+7. 黄仁勋能否回归 Nvidia？
+8. 越南：无汽车的电动车革命
+9. 两大网络安全公司拟斥资440亿美元合并
+
+==============================
+
+1. 埃隆·马斯克在 SpaceX 面临人工智能困境
+【摘要】马斯克的 SpaceX 正将其数据中心的算力出租给竞争对手，包括 Anthropic。这使得他自身的人工智能项目更加困难。
+【原标题】Elon Musk Faces an A.I. Dilemma at SpaceX
+【发布时间】2026-11-23T16:13:32.000Z
+【链接】https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html
+
+------------------------------
+
+2. 最新消息
+【摘要】黄仁勋于 11 月 12 日因多段婚外情关系被曝光后辞去了 Nvidia 的职务。
+【原标题】Here’s the latest.
+【发布时间】2026-11-23T16:10:24.000Z
+【链接】https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang
+
+------------------------------
+
+3. 黄仁勋重任 Nvidia 首席执行官后股市飙升
+【摘要】标普 500 指数原本预计周一上涨，从上周急跌中反弹，但在 Nvidia 董事会重新任命黄仁勋的消息传出后，股价飙升。
+【原标题】Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO
+【发布时间】2026-11-23T16:02:24.000Z
+【链接】https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html
+
+------------------------------
+
+4. 为何对 Tamagotchi 虚拟宠物的怀旧之情难以消亡
+【摘要】千禧一代正在回应这款30年前引起轰动的掌上游戏的“召唤”。渴望模拟体验的 Z 世代也是如此。
+【原标题】Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die
+【发布时间】2026-11-23T15:43:28.000Z
+【链接】https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html
+
+------------------------------
+
+5. 意大利珠宝世家继承人 Paolo Bulgari 逝世，享年 89 岁
+【摘要】作为家族公司的主席，Bulgari 先生拥抱了唤起古罗马记忆的极繁主义美学。2008 年金融危机后，他主导将家族企业出售给了 LVMH。
+【原标题】Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89
+【发布时间】2026-11-23T15:39:33.000Z
+【链接】https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html
+
+------------------------------
+
+6. Essence 和 Ms. 杂志前总编辑 Marcia Ann Gillespie 逝世
+【摘要】她26岁时成为 Essence 的总编辑，后来主持女权主义杂志 Ms.，享年82岁。
+【原标题】Marcia Ann Gillespie, Editor in Chief of Essence and Ms., Has Died
+【发布时间】2026-11-23T14:55:36.000Z
+【链接】https://www.nytimes.com/2026/11/23/business/media/marcia-ann-gillespie-dead.html
+
+------------------------------
+
+7. 黄仁勋能否回归 Nvidia？
+【摘要】在特朗普总统和财政部长 Scott Bessent 发表新言论后，这位 Nvidia 联合创始人重任首席执行官的可能性似乎有所增加。
+【原标题】Can Jensen Huang Return to Nvidia?
+【发布时间】2026-11-23T13:22:23.000Z
+【链接】https://www.nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html
+
+------------------------------
+
+8. 越南：无汽车的电动车革命
+【摘要】油价冲击正在加速越南街道的转型，挑战全球摩托车巨头，并扶持新一代国内制造商。
+【原标题】In Vietnam, an Electric Vehicle Revolution Without Cars
+【发布时间】2026-11-23T13:18:42.000Z
+【链接】https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html
+
+------------------------------
+
+9. 两大网络安全公司拟斥资440亿美元合并
+【摘要】CrowdStrike 同意收购 Zscaler，在人工智能进步引发的黑客攻击担忧困扰企业和政府之际，增强自身实力。
+【原标题】Two Major Cybersecurity Firms to Combine in $44 Billion Deal
+【发布时间】2026-11-23T13:08:05.000Z
+【链接】https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html
