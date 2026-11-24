@@ -1,0 +1,88 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-24T04:25:38.289Z - 2026-11-24T10:25:38.289Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. 年轻纽约人在 Kalshi 上亏钱，市议会称
+2. 航班全国停飞时，顶级航空官员正在出行
+3. 餐厅电话预订卷土重来。但未必有人工接听
+4. 越来越多的黑色星期五旅游优惠
+5. 从中国工厂小镇到英伟达丑闻：Alice Huang 的崛起
+6. 医疗保险临终关怀上限使患者无法获得护理
+7. 6 处手工艺度假胜地，提供针织、陶艺等，适合各种水平
+8. 特朗普政府对新加坡公司 Megaspeed 实施制裁，该公司是英伟达丑闻的核心
+9. 黄仁勋重任英伟达 CEO 后股市飙升
+
+==============================
+
+1. 年轻纽约人在 Kalshi 上亏钱，市议会称
+【摘要】对预测市场公司的调查发现，纽约市 18 至 20 岁的年轻人亏钱比例很高。
+【原标题】Young New Yorkers Are Losing on Kalshi, City Council Says
+【发布时间】2026-11-24T10:04:07.000Z
+【链接】https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html
+
+------------------------------
+
+2. 航班全国停飞时，顶级航空官员正在出行
+【摘要】11 月 13 日，交通管理人员以及负责设备升级的承包商的一些高管正在途中，这凸显出星期五可能是出问题的糟糕日子。
+【原标题】Top Aviation Officials Were Traveling When Flights Were Halted Nationwide
+【发布时间】2026-11-24T10:03:49.000Z
+【链接】https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html
+
+------------------------------
+
+3. 餐厅电话预订卷土重来。但未必有人工接听
+【摘要】出人意料的是，餐厅仍在接听电话。多家新服务——部分基于 AI 运行，部分由人工值守——正竞相接听这些电话。
+【原标题】Phone Reservations Are Back at Restaurants. Humans May Not Be Included.
+【发布时间】2026-11-24T10:03:27.000Z
+【链接】https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html
+
+------------------------------
+
+4. 越来越多的黑色星期五旅游优惠
+【摘要】今年优惠众多，包括度假村、邮轮、野生动物园等的大幅折扣。
+【原标题】More (and More) Black Friday Travel Deals
+【发布时间】2026-11-24T10:03:26.000Z
+【链接】https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html
+
+------------------------------
+
+5. 从中国工厂小镇到英伟达丑闻：Alice Huang 的崛起
+【摘要】这位在英伟达间谍风波中角色备受关注的女性，成长于一个以武器工厂为中心的小城镇。她跨入金融和科技领域的历程，与中国自身的发展轨迹相似。
+【原标题】From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang
+【发布时间】2026-11-24T10:03:11.000Z
+【链接】https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html
+
+------------------------------
+
+6. 医疗保险临终关怀上限使患者无法获得护理
+【摘要】批评者称，对公司的付款限制惩罚了那些未按照政府时间表去世的患者。
+【原标题】Medicare Hospice Caps Leave Patients Without Care
+【发布时间】2026-11-24T10:02:48.000Z
+【链接】https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html
+
+------------------------------
+
+7. 6 处手工艺度假胜地，提供针织、陶艺等，适合各种水平
+【摘要】对编织或陶艺等手工艺爱好的兴趣并非新鲜事，但疫情后的几个因素也让这些爱好变得颇具吸引力。以下是一些动手体验度假胜地的建议。
+【原标题】6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels
+【发布时间】2026-11-24T10:00:20.000Z
+【链接】https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html
+
+------------------------------
+
+8. 特朗普政府对新加坡公司 Megaspeed 实施制裁，该公司是英伟达丑闻的核心
+【摘要】在高层官员就该决定争持数周后，政府将 Megaspeed 列入实体清单，即贸易黑名单。
+【原标题】Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal
+【发布时间】2026-11-24T05:39:23.000Z
+【链接】https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html
+
+------------------------------
+
+9. 黄仁勋重任英伟达 CEO 后股市飙升
+【摘要】市场本周早些时候已开始从抛售中反弹。随后，英伟达重聘其前首席执行官的消息推动股价飙升。
+【原标题】Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO
+【发布时间】2026-11-24T04:58:02.000Z
+【链接】https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html
