@@ -1,0 +1,88 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-25T16:25:36.943Z - 2026-11-25T22:25:36.943Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. 卢克石油将出售海外资产，但不出售给库什纳和维特科夫的关联方
+2. 一名丹佛男子向 Waymo 车辆投掷鸡蛋
+3. 传闻英伟达股价飙升带来 3 亿美元巨额收益，交易记录不予支持
+4. 股市再度下挫，投资者担忧人工智能、关税和通胀
+5. Anthropic 股票首秀可能损害科技初创企业
+6. 医疗保险临终关怀支付上限导致患者无法获得护理
+7. 2026 年不丹之行：薪烤披萨与使用手机的僧侣
+8. 又一热门通胀读数使美联储继续按计划下月再次加息
+9. 随着华盛顿再次转蓝，企业监管升级
+
+==============================
+
+1. 卢克石油将出售海外资产，但不出售给库什纳和维特科夫的关联方
+【摘要】这家俄罗斯能源巨头的宝贵资产将出售给一个由美国牵头的财团。但由于政治风向，这两位特朗普特使的中东商业联系人退出了。
+【原标题】Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates
+【发布时间】2026-11-25T22:16:49.000Z
+【链接】https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html
+
+------------------------------
+
+2. 一名丹佛男子向 Waymo 车辆投掷鸡蛋
+【摘要】警方称，这名驾驶丰田卡罗拉（属于租赁给 Lyft 司机的车队）的男子，用橙色路锥困住自动驾驶车辆，然后向它们投掷鸡蛋。目前未提出指控。
+【原标题】A Man in Denver Has Been Throwing Eggs at Waymo Vehicles
+【发布时间】2026-11-25T21:36:34.000Z
+【链接】https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html
+
+------------------------------
+
+3. 传闻英伟达股价飙升带来 3 亿美元巨额收益，交易记录不予支持
+【摘要】三家数据提供商表示，没有证据支持网络上关于内幕交易产生 9000% 回报率的说法。
+【原标题】A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records
+【发布时间】2026-11-25T21:36:24.000Z
+【链接】https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html
+
+------------------------------
+
+4. 股市再度下挫，投资者担忧人工智能、关税和通胀
+【摘要】随着投资者权衡全球贸易发展和利率路径，英伟达和其他科技公司股价下跌。
+【原标题】Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation
+【发布时间】2026-11-25T21:32:42.000Z
+【链接】https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html
+
+------------------------------
+
+5. Anthropic 股票首秀可能损害科技初创企业
+【摘要】随着股价下跌，这可能成为硅谷狂热投资年轻公司的一个刹车。
+【原标题】Anthropic’s Stock Debut Could Hurt Tech Start-Ups
+【发布时间】2026-11-25T21:30:58.000Z
+【链接】https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html
+
+------------------------------
+
+6. 医疗保险临终关怀支付上限导致患者无法获得护理
+【摘要】批评者称，对公司的支付限制惩罚了那些没有按照政府时间表去世的患者。
+【原标题】Medicare Hospice Caps Leave Patients Without Care
+【发布时间】2026-11-25T19:35:44.000Z
+【链接】https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html
+
+------------------------------
+
+7. 2026 年不丹之行：薪烤披萨与使用手机的僧侣
+【摘要】年轻不丹人开设餐厅和商店，超越“国民幸福总值”，挑战了人们对这个喜马拉雅国家古老且不可改变的固有印象。一位旅行者进行了探索。
+【原标题】Traveling to Bhutan in 2026: Wood-Fired Pizzas and Monks With Cellphones
+【发布时间】2026-11-25T19:34:40.000Z
+【链接】https://www.nytimes.com/2026/11/25/travel/bhutan-travel.html
+
+------------------------------
+
+8. 又一热门通胀读数使美联储继续按计划下月再次加息
+【摘要】美联储普遍预计将在下个月再次加息。
+【原标题】Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again
+【发布时间】2026-11-25T19:13:30.000Z
+【链接】https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html
+
+------------------------------
+
+9. 随着华盛顿再次转蓝，企业监管升级
+【摘要】经过两年的放松监管，由民主党人领导的国会委员会将再次聚焦美国企业。
+【原标题】Corporate Oversight Revs Up as Washington Turns Blue Again
+【发布时间】2026-11-25T19:01:47.000Z
+【链接】https://www.nytimes.com/2026/11/25/business/corporate-america-democrats.html
