@@ -1,0 +1,88 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-25T10:25:38.412Z - 2026-11-25T16:25:38.412Z
+【数量】9
+
+【本邮件新闻标题汇总】
+1. 底特律雄狮队老板玛莎·费尔斯通·福特去世，享年101岁
+2. 特朗普政府以不公平做法为由公布针对中国、欧盟等的新关税
+3. Anthropic 股票上市可能拖累科技初创企业
+4. 投资者担忧人工智能、关税和通胀，股市抛售持续
+5. 6 个手工艺静修营提供编织、陶艺等，适合所有技能水平
+6. 又一份高通胀数据使美联储有望再次加息
+7. 奢华水正吸引已不再想饮酒的人群
+8. Nvidia 涨势为何熄火
+9. 观看 DealBook 峰会的 Task Force 小组讨论
+
+==============================
+
+1. 底特律雄狮队老板玛莎·费尔斯通·福特去世，享年101岁
+【摘要】福特夫人在其丈夫小威廉·克莱·福特于2014年去世后接管球队，她是NFL为数不多的女性所有者之一。
+【原标题】Martha Firestone Ford, Owner of Detroit Lions, Dies at 101
+【发布时间】2026-11-25T16:18:53.000Z
+【链接】https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html
+
+------------------------------
+
+2. 特朗普政府以不公平做法为由公布针对中国、欧盟等的新关税
+【摘要】最新升级之际，政府面临持续的法律障碍，以及新一届民主党主导国会的新审查。
+【原标题】Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices
+【发布时间】2026-11-25T15:58:36.000Z
+【链接】https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html
+
+------------------------------
+
+3. Anthropic 股票上市可能拖累科技初创企业
+【摘要】随着股价下跌，这可能对硅谷对年轻公司的疯狂投资起到刹车作用。
+【原标题】Anthropic’s Stock Debut Could Hurt Tech Start-Ups
+【发布时间】2026-11-25T15:43:55.000Z
+【链接】https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html
+
+------------------------------
+
+4. 投资者担忧人工智能、关税和通胀，股市抛售持续
+【摘要】Nvidia、Anthropic 等科技公司大幅下跌，投资者还在评估全球贸易动态和利率走向。
+【原标题】Stock Sell-Off Continues as Investors Fret About A.I., Tariffs and Inflation
+【发布时间】2026-11-25T14:47:47.000Z
+【链接】https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html
+
+------------------------------
+
+5. 6 个手工艺静修营提供编织、陶艺等，适合所有技能水平
+【摘要】对编织或陶艺等手工爱好的兴趣并不新鲜，但疫情后的若干因素也让它们更具吸引力。以下是一些亲身体验的静修营建议。
+【原标题】6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels
+【发布时间】2026-11-25T14:45:10.000Z
+【链接】https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html
+
+------------------------------
+
+6. 又一份高通胀数据使美联储有望再次加息
+【摘要】市场普遍预计美联储将在下个月加息。
+【原标题】Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again
+【发布时间】2026-11-25T14:21:56.000Z
+【链接】https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html
+
+------------------------------
+
+7. 奢华水正吸引已不再想饮酒的人群
+【摘要】多家新入局者正进入高端水市场，这一市场长期以来由 Fiji、Evian 和 Voss 等品牌占据。
+【原标题】Luxury Water Is Luring Drinkers Who Have Lost Their Thirst for Alcohol
+【发布时间】2026-11-25T14:01:00.000Z
+【链接】https://www.nytimes.com/2026/11/24/business/luxury-water-fiji-evian-voss.html
+
+------------------------------
+
+8. Nvidia 涨势为何熄火
+【摘要】黄仁勋或许再次执掌 Nvidia，但投资者正逐渐失去对这家芯片制造商所支撑的人工智能热潮的信心。
+【原标题】Why the Nvidia Rally Fizzled
+【发布时间】2026-11-25T12:53:55.000Z
+【链接】https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html
+
+------------------------------
+
+9. 观看 DealBook 峰会的 Task Force 小组讨论
+【摘要】查看由《纽约时报》记者主持的完整对话，内容涵盖中期选举的影响、人工智能革命下一步将带来什么、如何让美国更健康，以及工作与人生意义的未来。
+【原标题】Watch the Task Force Panel Discussions From the DealBook Summit
+【发布时间】2026-11-25T11:01:04.000Z
+【链接】https://www.nytimes.com/2026/11/25/business/dealbook/watch-task-force-dealbook-summit.html
