@@ -1,0 +1,70 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-26T10:25:38.337Z - 2026-11-26T16:25:38.337Z
+【数量】7
+
+【本邮件新闻标题汇总】
+1. 迈阿密机场的航班因 FedEx 喷射超跑道而中断
+2. 谁选了这份礼物？我的 AI 节日购物狂客。
+3. 数据中心开发者想建造而不是拆除？堪萨斯城说不。
+4. 民主党面临一个熟悉的问题：你打算怎么付款？
+5. 特朗普最新关税重振对中国施压的关注
+6. 照片：麦西感恩节游行历史和搞笑瞬间
+7. Nvidia 暂停东南亚销售，随着美国对中国的限制收紧
+
+==============================
+
+1. 迈阿密机场的航班因 FedEx 喷射超跑道而中断
+【摘要】在周三迈阿密国际机场着陆后，飞机超跑道并停靠在围栏附近。FedEx 表示没有受伤者。
+【原标题】Flights at Miami Airport Are Disrupted After FedEx Jet Overshoots Runway
+【发布时间】2026-11-26T15:20:30.000Z
+【链接】https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html
+
+------------------------------
+
+2. 谁选了这份礼物？我的 AI 节日购物狂客。
+【摘要】从虚拟代理到 AI 平台上的储物助手如沃尔玛的 Sparky，消费者正在使用技术省钱和节省时间。
+【原标题】Who Picked This Gift? My A.I. Holiday Shopper.
+【发布时间】2026-11-26T15:13:32.000Z
+【链接】https://www.nytimes.com/2026/11/26/business/holiday-shopping-ai-agents.html
+
+------------------------------
+
+3. 数据中心开发者想建造而不是拆除？堪萨斯城说不。
+【摘要】用于人工智能和其他大数据需求的设施需求高，但被广泛鄙视。一些开发者正试图建设它们而不是拆除。
+【原标题】Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.
+【发布时间】2026-11-26T15:12:12.000Z
+【链接】https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html
+
+------------------------------
+
+4. 民主党面临一个熟悉的问题：你打算怎么付款？
+【摘要】许多民主党的计划在特朗普总统任期内不太可能成为法律，但该党仍在处理其议程复杂的预算计算。
+【原标题】Democrats Confront a Familiar Question: How Are You Going to Pay for That?
+【发布时间】2026-11-26T14:50:27.000Z
+【链接】https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html
+
+------------------------------
+
+5. 特朗普最新关税重振对中国施压的关注
+【摘要】总统特朗普向亚洲各国贸易伙伴发出信息，许多依赖美国和中国双边贸易与投资，他表示愿意升级关税。
+【原标题】Trump’s Latest Tariffs Revive Focus on Pressuring China
+【发布时间】2026-11-26T14:00:33.000Z
+【链接】https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html
+
+------------------------------
+
+6. 照片：麦西感恩节游行历史和搞笑瞬间
+【摘要】保持纽约市感恩节游行难以维持，这里回顾了值得注意的时刻和失误。
+【原标题】Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments
+【发布时间】2026-11-26T13:45:53.000Z
+【链接】https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html
+
+------------------------------
+
+7. Nvidia 暂停东南亚销售，随着美国对中国的限制收紧
+【摘要】运输中断影响四个国家，这是由新的美国法规引起的，该法规要求在这些国家购买先进人工智能芯片需获得许可。
+【原标题】Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions
+【发布时间】2026-11-26T12:04:01.000Z
+【链接】https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html
