@@ -1,0 +1,25 @@
+NYTimes Business - 中文新闻汇总
+
+【来源】NYTimes Business
+【时间】2026-11-26T22:25:38.389Z - 2026-11-27T04:25:38.389Z
+【数量】2
+
+【本邮件新闻标题汇总】
+1. 照片：麦当娜感恩节游行历史与疯狂时刻
+2. 英伟达在美加大收紧对华限制下暂停向东南亚销售
+
+==============================
+
+1. 照片：麦当娜感恩节游行历史与疯狂时刻
+【摘要】让纽约城的感恩节游行始终如计划般进行并不总是很容易。这里回顾一些值得注意的时刻与意外。
+【原标题】Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments
+【发布时间】2026-11-27T03:39:46.000Z
+【链接】https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html
+
+------------------------------
+
+2. 英伟达在美加大收紧对华限制下暂停向东南亚销售
+【摘要】这暂停发货的举措影响了四个国家，并遵循了一项新的美国规定，该规定要求这些国家内的公司购买先进的A.I.芯片需要获得许可。
+【原标题】Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions
+【发布时间】2026-11-27T02:45:41.000Z
+【链接】https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html
